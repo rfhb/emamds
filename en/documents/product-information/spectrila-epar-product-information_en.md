@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-24 15:31:49
-document_pages: 33
+document_datetime: 2026-10-19 16:47:21
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/spectrila-epar-product-information_en.pdf
 document_name: spectrila-epar-product-information_en.pdf
 version: success
-processing_time: 6.3365397
-conversion_datetime: 2025-12-19 04:15:18.918509
+processing_time: 23.018734
+conversion_datetime: 2026-10-22 23:02:59.635106
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,11 +68,13 @@ Treatment may be monitored based on the trough serum asparaginase activity measu
 
 Based on limited data, the recommended dose in infants is as follows:
 
-- age less than 6 months:
+-
 
-6,700 U/m² BSA,
+-
 
-- age 6 - 12 months:
+age less than 6 months: 6,700 U/m² BSA,
+
+age 6 - 12 months:
 
 7,500 U/m² BSA.
 
@@ -162,11 +164,13 @@ Approximately half of the thrombotic events is localised in cerebral vessels. Si
 
 Acquired or genetically decreased physiologic coagulation inhibitors (protein C, protein S, antithrombin) are also described in relation to vascular complications.
 
-Frequent evaluation of coagulation parameters is important before and during asparaginase treatment. Expert advice should be sought in cases where AT III is decreased.
+Frequent evaluation of coagulation parameters is important before and during asparaginase treatment.
+
+Expert advice should be sought in cases where AT III is decreased.
 
 ## Hyperglycaemic conditions
 
-Asparaginase may induce hyperglycaemia as a consequence of decreased insulin production. Additionally it may decrease insulin secretion from pancreatic β -cells and impair insulin receptor function. The syndrome is generally self-limiting. However, in rare cases it can result in diabetic ketoacidosis. Concomitant treatment with corticosteroids contributes to this effect. Serum and urine glucose levels should be regularly monitored and managed as clinically indicated.
+Asparaginase may induce hyperglycaemia as a consequence of decreased insulin production. Additionally it may decrease insulin secretion from pancreatic β-cells and impair insulin receptor function. The syndrome is generally self-limiting. However, in rare cases it can result in diabetic ketoacidosis. Concomitant treatment with corticosteroids contributes to this effect. Serum and urine glucose levels should be regularly monitored and managed as clinically indicated.
 
 ## Antineoplastic agents
 
@@ -284,9 +288,9 @@ Since Spectrila is usually used in combination therapy with other antineoplastic
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions, listed in table 1, have been accumulated from clinical trials with Spectrila in 125 children with newly diagnosed acute lymphoblastic leukaemia as well as post-marketing experience with other E. coli -derived asparaginase preparations in children and adults. Adverse reactions are ranked under headings of frequency, the most frequent first. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+The following adverse reactions, listed in table 1, have been accumulated from clinical trials with Spectrila in 125 children with newly diagnosed acute lymphoblastic leukaemia as well as post-marketing experience with other E. coli-derived asparaginase preparations in children and adults. Adverse reactions are ranked under headings of frequency, the most frequent first. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Frequencies in this table are defined using the following convention: Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Frequencies in this table are defined using the following convention: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 Table 1
 
@@ -302,17 +306,17 @@ Table 1
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Endocrine disorders                                  | Very rare Secondary hypothyroidism, hypoparathyroidism                                                                                                                                                                                            |
 | Metabolism and nutrition disorders                   | Very common Hyperglycaemia, hypoalbuminaemia Common Hypoglycaemia, decreased appetite, weight loss Uncommon Hyperuricaemia, hyperammonaemia Rare                                                                                                  |
-| Psychiatric disorders                                | Common Depression, hallucination, confusion                                                                                                                                                                                                       |
+| Psychiatric disorders                                | Diabetic ketoacidosis Common Depression, hallucination, confusion                                                                                                                                                                                 |
 | Nervous system disorders                             | Common Neurological signs and symptoms including agitation, dizziness and somnolence Uncommon Headaches Rare Ischaemic stroke, reversible posterior leukoencephalopathy syndrome (RPLS), convulsion, disturbances in consciousness including coma |
-| Vascular disorders                                   | Common Thrombosis especially cavernous sinus thrombosis or deep vein thrombosis, haemorrhage                                                                                                                                                      |
-| Gastrointestinal disorders                           | Very common Diarrhoea, nausea, vomiting, abdominal pain Common Acute pancreatitis Rare Haemorrhagic pancreatitis, necrotising pancreatitis, parotitis Very rare                                                                                   |
-| Hepatobiliary disorders                              | Pancreatitis with fatal outcome, pancreatic pseudocyst Rare Hepatic failure with potentially fatal outcome, hepatic necrosis, cholestasis, jaundice Not known Hepatic steatosis                                                                   |
+| Vascular disorders                                   | Very rare Tremor Common Thrombosis especially cavernous sinus thrombosis or deep vein thrombosis, haemorrhage                                                                                                                                     |
+| Gastrointestinal disorders                           | Very common Diarrhoea, nausea, vomiting, abdominal pain Common Acute pancreatitis Rare Haemorrhagic pancreatitis, necrotising pancreatitis, parotitis Very rare Pancreatitis with fatal outcome, pancreatic pseudocyst                            |
+| Hepatobiliary disorders                              | Rare Hepatic failure with potentially fatal outcome, hepatic necrosis, cholestasis, jaundice Not known Hepatic steatosis                                                                                                                          |
 | General disorders and administration site conditions | Very common Oedema, fatigue Common Pain (back pain, joint pain)                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Investigations   | Very common Increase in transaminases, blood bilirubin, blood alkaline phosphatase, blood cholesterol, blood triglyceride, very low density lipoprotein (VLDL), lipoprotein lipase activity, blood urea, ammonia, blood lactate dehydrogenase (LDH), Decrease in antithrombin III, blood fibrinogen, blood cholesterol, low density lipoprotein (LDL), total protein Common Increase in amylase, lipase, abnormal electroencephalogram (EEG) (reduced alpha wave activity, increased theta and delta wave activity)   |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations Very common - Increase in transaminases, blood bilirubin, blood alkaline phosphatase, blood cholesterol, blood triglyceride, very low density lipoprotein (VLDL), lipoprotein lipase activity, blood urea, ammonia, blood lactate dehydrogenase (LDH), Decrease in antithrombin III, blood fibrinogen, blood cholesterol, low density lipoprotein (LDL), total protein Common Increase in amylase, lipase, abnormal electroencephalogram (EEG) (reduced alpha wave activity, increased theta and delta - wave activity)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Description of selected adverse reactions
 
@@ -343,7 +347,7 @@ In the study in children/adolescents aged 1-18 years with de novo ALL (study MC-
 
 <div style=\"page-break-after: always\"></div>
 
-A comparable proportion of patients in both groups developed anti-asparaginase antibodies before the start of the post-induction treatment phase (Spectrila 54.6% vs. reference E. coli -asparaginase 52.5%). The majority of anti-asparaginase antibodies developed in the time gap between the last asparaginase infusion on day 33 and start of post-induction treatment at day 79.
+A comparable proportion of patients in both groups developed anti-asparaginase antibodies before the start of the post-induction treatment phase (Spectrila 54.6% vs. reference E. coli-asparaginase 52.5%). The majority of anti-asparaginase antibodies developed in the time gap between the last asparaginase infusion on day 33 and start of post-induction treatment at day 79.
 
 No anti-asparaginase antibodies were detected in any of the 12 infants &lt; 1 year of age during treatment with Spectrila (study MC-ASP.6/INF).
 
@@ -425,17 +429,16 @@ Study in children/adolescents aged 1-18 years with de novo ALL
 
 <div style=\"page-break-after: always\"></div>
 
-Efficacy and safety of Spectrila was compared to a native E. coli -asparaginase (reference medicinal product) in a randomised double-blinded clinical trial (study MC-ASP.5/ALL; based on ALL treatment protocol DCOG ALL10) in 199 children/adolescents aged 1-18 years with de novo ALL. Patients received 5,000 U/m² asparaginase (Spectrila versus a reference E.coli - asparaginase) at days 12, 15, 18, 21, 24, 27, 30, and 33 of induction treatment. After induction treatment, patients continued treatment with chemotherapy regimens which included further treatment with asparaginases.
+Efficacy and safety of Spectrila was compared to a native E. coli-asparaginase (reference medicinal product) in a randomised double-blinded clinical trial (study MC-ASP.5/ALL; based on ALL treatment protocol DCOG ALL10) in 199 children/adolescents aged 1-18 years with de novo ALL. Patients received 5,000 U/m² asparaginase (Spectrila versus a reference E.coli- asparaginase) at days 12, 15, 18, 21, 24, 27, 30, and 33 of induction treatment. After induction treatment, patients continued treatment with chemotherapy regimens which included further treatment with asparaginases.
 
-The primary endpoint was the rate of patients with complete asparagine depletion in serum (defined as asparagine serum levels below the lower limit of quantification (&lt; 0.5 µM) at all time points measured from day 12 up to day 33) during induction treatment. The objective of the study was to demonstrate the non-inferiority of Spectrila to the reference E. coli -asparaginase with regard to the primary endpoint.
+The primary endpoint was the rate of patients with complete asparagine depletion in serum (defined as asparagine serum levels below the lower limit of quantification (&lt; 0.5 µM) at all time points measured from day 12 up to day 33) during induction treatment. The objective of the study was to demonstrate the non-inferiority of Spectrila to the reference E. coli-asparaginase with regard to the primary endpoint.
 
 Results of this study are summarised in table 3:
 
 Table 3: Efficacy results (MC-ASP.5/ALL; Full analysis set)
 
-| Treatment group                                       | Spectrila                                             | Reference asparaginase                                |
+| Treatment group - Number of patients                  | Spectrila - 98                                        | Reference asparaginase - 101                          |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| Number of patients                                    | 98                                                    | 101                                                   |
 | Complete asparagine depletion in serum                | Complete asparagine depletion in serum                | Complete asparagine depletion in serum                |
 | Yes                                                   | 93 (94.9%)                                            | 95 (94.1%)                                            |
 | No                                                    | 2 (2.0%)                                              | 2 (2.0%)                                              |
@@ -451,21 +454,13 @@ Table 3: Efficacy results (MC-ASP.5/ALL; Full analysis set)
 | No                                                    | 2 (2.0%)                                              | 2 (2.0%)                                              |
 | Not evaluable / not known                             | 6 (6.1%)                                              | 2 (2.0%)                                              |
 | Difference (95% CI a )                                | -4.2% (-11.90%; 2.81%)                                | -4.2% (-11.90%; 2.81%)                                |
-| MRDstatus at end of induction treatment               | MRDstatus at end of induction treatment               | MRDstatus at end of induction treatment               |
+| MRD status at end of induction treatment              | MRD status at end of induction treatment              | MRD status at end of induction treatment              |
 | MRD negative                                          | 29 (29.6%)                                            | 32 (31.7%)                                            |
 | MRD positive                                          | 63 (64.3%)                                            | 60 (59.4%)                                            |
 | Not evaluable / not known                             | 6 (6.1%)                                              | 9 (8.9%)                                              |
 | Difference (95% CI a )                                | -2.1% (-14.97%; 10.84%)                               | -2.1% (-14.97%; 10.84%)                               |
 
-CI = confidence interval; CSF = cerebrospinal fluid; MRD = minimal residual disease
-
-a Unconditional exact confidence interval based on Chan and Zhang
-
-b Unconditional exact test of non-inferiority for binomial differences based on restricted maximum likelihood estimates
-
-c Patients were considered as responders if asparagine values in CSF on protocol day 33 were below the lower limit of quantification.
-
-During induction treatment, asparaginase-typical adverse drug reactions like elevated liver enzymes/bilirubin (≥ CTCAE Grade III: 44.3% vs. 39.6%), haemorrhage or thromboembolism (≥ CTCAE Grade II: 2.1% vs . 4.0%), and neurotoxicity (≥ CTCAE Grade III: 4.1% vs. 5.9%) were observed in comparable frequencies in both groups (Spectrila versus reference).
+During induction treatment, asparaginase-typical adverse drug reactions like elevated liver enzymes/bilirubin (≥ CTCAE Grade III: 44.3% vs. 39.6%), haemorrhage or thromboembolism (≥ CTCAE Grade II: 2.1% vs. 4.0%), and neurotoxicity (≥ CTCAE Grade III: 4.1% vs. 5.9%) were observed in comparable frequencies in both groups (Spectrila versus reference).
 
 Study in infants with de novo ALL
 
@@ -509,14 +504,14 @@ Pharmacokinetic parameters after administration of 5,000 U/m² of Spectrila were
 
 Table 4: Pharmacokinetic parameters of Spectrila in 14 children/adolescents
 
-| Parameter                            | Median (range)               |
-|--------------------------------------|------------------------------|
-| Area under the curve (AUC 0-72h )    | 60,165 (38,627-80,764) U*h/l |
-| Maximum serum concentration (C max ) | 3,527 (2,231-4,526) U/l      |
-| Time to C max                        | 0 (0-2) h                    |
-| Half-life                            | 17.33 (12.54-22.91) h        |
-| Total clearance                      | 0.053 (0.043-0.178) l/h      |
-| Volume of distribution               | 0.948 (0.691-2.770) l        |
+| Parameter                          | Median (range)               |
+|------------------------------------|------------------------------|
+| Area under the curve (AUC0-72h)    | 60,165 (38,627-80,764) U*h/l |
+| Maximum serum concentration (Cmax) | 3,527 (2,231-4,526) U/l      |
+| Time to Cmax                       | 0 (0-2) h                    |
+| Half-life                          | 17.33 (12.54-22.91) h        |
+| Total clearance                    | 0.053 (0.043-0.178) l/h      |
+| Volume of distribution             | 0.948 (0.691-2.770) l        |
 
 Median trough serum asparaginase activities were measured in 81 children/adolescents with de novo ALL three days after infusion of asparaginase (just before the next dose had to be given) during induction treatment and ranged from 168 to 184 U/l (study MC-ASP.5/ALL).
 
@@ -542,21 +537,17 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-Unopened vial
-
-4 years
+Unopened vial 4 years Reconstituted and diluted solution Chemical and physical in-use stability has been demonstrated for 2 days at 2 °C-8 °C.
 
 <div style=\"page-break-after: always\"></div>
-
-## Reconstituted and diluted solution
-
-Chemical and physical in-use stability has been demonstrated for 2 days at 2 °C-8 °C.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C-8 °C unless reconstitution/dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C-8 °C). Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C-8 °C).
+
+Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -608,20 +599,22 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance
+Name and address of the manufacturer(s) of the biological active substance Wacker Biotech GmbH Hans-Knoell-Str. 3 07745 Jena Germany
 
-Wacker Biotech GmbH Hans-Knoell-Str. 3 07745 Jena Germany
+Nordmark Pharma GmbH Pinnauallee 4 25436 Uetersen Germany
 
-Name and address of the manufacturer responsible for batch release medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
+Name and address of the manufacturer responsible for batch release medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel
+
+Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -654,7 +647,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -664,7 +657,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Spectrila 10,000 U powder for concentrate for solution for infusion asparaginase
+Spectrila 10,000 U powder for concentrate for solution for infusion
+
+asparaginase
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -688,7 +683,7 @@ Powder for concentrate for solution for infusion
 
 Read the package leaflet before use.
 
-Intravenous use after further dilution .
+Intravenous use after further dilution.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -704,24 +699,22 @@ In-use stability has been demonstrated for 2 days at 2 °C-8 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-Store in a refrigerator.
+Store in a refrigerator. Keep the vial in the outer carton in order to protect from light.
 
-Keep the vial in the outer carton in order to protect from light.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 medac GmbH Theaterstr. 6 22880 Wedel Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/15/1072/001 (1 vial)
-
-EU/1/15/1072/002 (5 vials)
+EU/1/15/1072/001 (1 vial) EU/1/15/1072/002 (5 vials)
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -731,19 +724,21 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -757,9 +752,7 @@ NN
 
 Spectrila 10,000 U powder for concentrate for solution for infusion asparaginase
 
-For intravenous use
-
-ONLY .
+For intravenous use ONLY.
 
 Intravenous use after further dilution.
 
@@ -791,13 +784,13 @@ Store in a refrigerator.
 
 ## Spectrila 10,000 U powder for concentrate for solution for infusion
 
-## asparaginase
+asparaginase
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -861,8 +854,8 @@ In addition, it is especially important to tell your doctor if you are also usin
 - Medicines that reduce the ability of blood to clot, such as anticoagulants (e.g. warfarin and heparin), dipyridamole, acetylsalicylic acid or medicines to treat pain and inflammation, since using these medicines with asparaginase may increase the risk of bleeding.
 - Medicines which are metabolised in the liver (e.g. paracetamol, acetylsalicylic acid, tetracycline) because the risk of side effects may increase.
 - Asparaginase may influence the efficacy of methotrexate or cytarabine (used to treat certain types of cancer):
-- -if asparaginase is given after these medicines their effect may be increased.
-- -if asparaginase is given before these medicines their effect may be weakened.
+- if asparaginase is given after these medicines their effect may be increased.
+- if asparaginase is given before these medicines their effect may be weakened.
 - Medicines which may have a negative effect on liver function (e.g. paracetamol, acetylsalicylic acid, tetracycline) since these negative effects may be worsened by parallel treatment with asparaginase.
 - Medicines which may suppress bone marrow function (e.g. cyclophosphamide, doxorubicin, methotrexate) as these effects may be enhanced by parallel use of asparaginase. You may be more prone to infections.
 - Other anti-cancer medicines as they may contribute to the release of too much uric acid when tumour cells are destroyed by asparaginase.
@@ -904,11 +897,7 @@ The recommended dose in children and adolescents aged 1-18 years is 5,000 U per 
 The recommended dose in infants aged 0-12 months is as follows:
 
 - -
-
 - age less than 6 months: 6,700 U/m² BSA,
-
-- -
-
 - age 6-12 months: 7,500 U/m² BSA.
 
 ## If you were given more Spectrila than you should
@@ -978,7 +967,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - mild tremor (shaking) of the fingers
 - pseudocysts of the pancreas (collections of fluid after acute inflammation of the pancreas)
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
 - infections
 - fatty liver
@@ -1020,15 +1009,13 @@ Spectrila is available in packs containing 1 or 5 vials. Not all pack sizes may 
 
 ## Marketing Authorisation Holder and Manufacturer
 
-medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
+medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel
 
-Tel.:
+Germany
 
-+49-4103-8006-0
+Tel.: +49-4103-8006-0
 
-Fax:
-
-+49-4103-8006-100
+Fax: +49-4103-8006-100
 
 E-mail: contact@medac.de
 
@@ -1038,11 +1025,9 @@ E-mail: contact@medac.de
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------- The following information is intended for healthcare professionals only:
 
 <div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only:
 
 ## Traceability
 
@@ -1078,7 +1063,7 @@ Due to the inhibition of protein synthesis (decreased synthesis of factors II, V
 
 <div style=\"page-break-after: always\"></div>
 
-Asparaginase may induce hyperglycaemia as a consequence of decreased insulin production. Additionally it may decrease insulin secretion from pancreatic β -cells and impair insulin receptor function. The syndrome is generally self-limiting. However, in rare cases it can result in diabetic ketoacidosis. Concomitant treatment with corticosteroids contributes to this effect. Serum and urine glucose levels should be regularly monitored and managed as clinically indicated.
+Asparaginase may induce hyperglycaemia as a consequence of decreased insulin production. Additionally it may decrease insulin secretion from pancreatic β-cells and impair insulin receptor function. The syndrome is generally self-limiting. However, in rare cases it can result in diabetic ketoacidosis. Concomitant treatment with corticosteroids contributes to this effect. Serum and urine glucose levels should be regularly monitored and managed as clinically indicated.
 
 ## Antineoplastic agents
 

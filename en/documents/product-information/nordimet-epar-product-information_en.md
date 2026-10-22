@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-07 09:49:35
-document_pages: 168
+document_datetime: 2026-10-20 13:26:42
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nordimet-epar-product-information_en.pdf
 document_name: nordimet-epar-product-information_en.pdf
 version: success
-processing_time: 34.7415205
-conversion_datetime: 2026-09-11 17:29:18.404319
+processing_time: 45.4010642
+conversion_datetime: 2026-10-22 22:55:38.518875
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,31 +24,11 @@ docling_version:
 
 ## 1 NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 7.5 mg solution for injection in pre-filled pen
-
-Nordimet 10 mg solution for injection in pre-filled pen
-
-Nordimet 12.5 mg solution for injection in pre-filled pen
-
-Nordimet 15 mg solution for injection in pre-filled pen
-
-Nordimet 17.5 mg solution for injection in pre-filled pen
-
-Nordimet 20 mg solution for injection in pre-filled pen
-
-Nordimet 22.5 mg solution for injection in pre-filled pen
+Nordimet 7.5 mg solution for injection in pre-filled pen Nordimet 10 mg solution for injection in pre-filled pen Nordimet 12.5 mg solution for injection in pre-filled pen Nordimet 15 mg solution for injection in pre-filled pen Nordimet 17.5 mg solution for injection in pre-filled pen Nordimet 20 mg solution for injection in pre-filled pen Nordimet 22.5 mg solution for injection in pre-filled pen
 
 Nordimet 25 mg solution for injection in pre-filled pen
 
-Nordimet 7.5 mg solution for injection in pre-filled syringe
-
-Nordimet 10 mg solution for injection in pre-filled syringe
-
-Nordimet 12.5 mg solution for injection in pre-filled syringe
-
-Nordimet 15 mg solution for injection in pre-filled syringe
-
-Nordimet 17.5 mg solution for injection in pre-filled syringe
+Nordimet 7.5 mg solution for injection in pre-filled syringe Nordimet 10 mg solution for injection in pre-filled syringe Nordimet 12.5 mg solution for injection in pre-filled syringe Nordimet 15 mg solution for injection in pre-filled syringe Nordimet 17.5 mg solution for injection in pre-filled syringe
 
 Nordimet 20 mg solution for injection in pre-filled syringe
 
@@ -135,7 +115,7 @@ The overall duration of treatment is decided by the doctor.
 
 ## Dosage in adult patients with rheumatoid arthritis
 
-The recommended initial dose is 7.5 mg of methotrexate once weekly, administered subcutaneously. Depending on the individual activity of the disease and patient tolerability, the initial dose may be increased. A weekly dose of 25 mg should in general not be exceeded. However, doses exceeding 20 mg per week can be associated with significant increase in toxicity, especially bone marrow suppression . Response to treatment can be expected after approximately 4-8 weeks. Once the desired therapeutic result has been achieved, the dose should be reduced gradually to the lowest possible effective maintenance dose. Symptoms may return after treatment discontinuation.
+The recommended initial dose is 7.5 mg of methotrexate once weekly, administered subcutaneously. Depending on the individual activity of the disease and patient tolerability, the initial dose may be increased. A weekly dose of 25 mg should in general not be exceeded. However, doses exceeding 20 mg per week can be associated with significant increase in toxicity, especially bone marrow suppression. Response to treatment can be expected after approximately 4-8 weeks. Once the desired therapeutic result has been achieved, the dose should be reduced gradually to the lowest possible effective maintenance dose. Symptoms may return after treatment discontinuation.
 
 Methotrexate treatment of rheumatoid arthritis represents long-term treatment.
 
@@ -189,13 +169,15 @@ As the half-life of methotrexate can be prolonged to 4 times the normal length i
 
 ## Dosage in children and adolescents below 16 years with polyarthritic forms of juvenile idiopathic arthritis
 
-The recommended dose is 10-15 mg/m² body surface area (BSA) per week. In therapy-refractory cases the weekly dose may be increased up to 20 mg/m² BSA per week. However, an increased monitoring frequency is indicated if the dose is increased. Parenteral administration is limited to subcutaneous injection. Patients with JIA should always be referred to a rheumatology unit specializing in the treatment of children/adolescents.
+The recommended dose is 10-15 mg/m² body surface area (BSA) per week.
+
+In therapy-refractory cases the weekly dose may be increased up to 20 mg/m² BSA per week. However, an increased monitoring frequency is indicated if the dose is increased. Parenteral administration is limited to subcutaneous injection. Patients with JIA should always be referred to a rheumatology unit specializing in the treatment of children/adolescents.
 
 The safety and efficacy of Nordimet in children &lt; 3 years of age have not been established (see section 4.4). No data available.
 
 ## Method of administration
 
-It must be explicitly pointed out to the patient that Nordimet is applied only once a week. It is recommended to specify a certain day of the week as 'day for injection'.
+It must be explicitly pointed out to the patient that Nordimet is applied only once a week. It is recommended to specify a certain day of the week as \"day for injection\".
 
 Nordimet is for subcutaneous use (see section 6.6.).
 
@@ -307,7 +289,7 @@ Particular caution should be exercised in the presence of inactive, chronic infe
 
 Malignant lymphomas may occur in patients receiving low-dose methotrexate; in which case, methotrexate must be discontinued. If lymphomas should fail to regress spontaneously, initiation of cytotoxic therapy is required.
 
-In patients with pathological accumulation of liquid in body cavities ('third space'), such as ascites or pleural effusions, the plasma elimination half-life of methotrexate is prolonged. Pleural effusions and ascites should be drained prior to initiation of methotrexate treatment.
+In patients with pathological accumulation of liquid in body cavities (\"third space\"), such as ascites or pleural effusions, the plasma elimination half-life of methotrexate is prolonged. Pleural effusions and ascites should be drained prior to initiation of methotrexate treatment.
 
 Conditions leading to dehydration such as emesis, diarrhoea or stomatitis, can increase the toxicity of methotrexate due to elevated levels of the active substance. In these cases use of methotrexate should be interrupted until the symptoms cease.
 
@@ -337,7 +319,7 @@ Epidermal necrosis, mostly accompanied by leukopenia, thrombocytopenia and mucos
 
 ## Sodium contents
 
-This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially ' sodium-free ' .
+This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -483,7 +465,7 @@ Rare: Infection (incl. reactivation of inactive chronic infection), sepsis, conj
 
 ## Neoplasms benign, malignant and unspecified (including cysts and polyps)
 
-Very rare: lymphoma (see 'description' below)
+Very rare: lymphoma (see \"description\" below)
 
 ## Blood and lymphatic system disorders
 
@@ -491,7 +473,7 @@ Common: Leukopenia, anaemia, thrombopenia.
 
 Uncommon: Pancytopenia.
 
-Very rare: Agranulocytosis, severe courses of bone marrow depression, lymphoproliferative disorders (see 'description below') .
+Very rare: Agranulocytosis, severe courses of bone marrow depression, lymphoproliferative disorders (see \"description below\").
 
 Not known: Eosinophilia
 
@@ -515,7 +497,9 @@ Common: Headache, tiredness, drowsiness.
 
 Uncommon: Dizziness.
 
-Very rare: Pain, muscular asthenia, paraesthesia/hypoaesthesia, changes in sense of taste (metallic taste), convulsions, meningism, acute aseptic meningitis, paralysis. Not known: Encephalopathy/ Leukoencephalopathy.
+Very rare: Pain, muscular asthenia, paraesthesia/hypoaesthesia, changes in sense of taste (metallic taste), convulsions, meningism, acute aseptic meningitis, paralysis.
+
+Not known: Encephalopathy/ Leukoencephalopathy.
 
 ## Eye disorders
 
@@ -557,7 +541,9 @@ Very rare: Haematemesis, haematorrhea, toxic megacolon.
 
 Very common: Abnormal liver function tests (increased ALAT, ASAT, alkaline phosphatase and bilirubin).
 
-Uncommon: Cirrhosis, fibrosis and fatty degeneration of the liver, decrease in serum albumin. Rare: Acute hepatitis.
+Uncommon: Cirrhosis, fibrosis and fatty degeneration of the liver, decrease in serum albumin.
+
+Rare: Acute hepatitis.
 
 Very rare: Hepatic failure.
 
@@ -569,7 +555,7 @@ Uncommon: Photosensitivity reactions , loss of hair, increase in rheumatic nodul
 
 Rare: Increased pigmentation, acne, petechiae, ecchymosis, allergic vasculitis.
 
-Very rare: StevensJohnson syndrome, toxic epidermal necrolysis (Lyell's syndrome), increased pigmentary changes of the nails, acute paronychia, furunculosis, telangiectasia.
+Very rare: Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell's syndrome), increased pigmentary changes of the nails, acute paronychia, furunculosis, telangiectasia.
 
 Not known: Skin exfoliation / dermatitis exfoliative, epidermal necrosis
 
@@ -639,11 +625,11 @@ Methotrexate is a folic acid antagonist which belongs to the class of cytotoxic 
 
 ## Clinical efficacy and safety
 
-A study of weekly injections of methotrexate in a group of patients with chronically active Crohn's disease (despite at least three months of prednisone therapy), showed that methotrexate was more effective than placebo in improving symptoms and reducing requirements for prednisone. A total of 141 patients were randomly assigned in a 2:1 ratio to methotrexate (25 mg weekly) or placebo. After 16 weeks, 37 patients (39.4%) were in clinical remission in the methotrexate group, as compared with 9 patients (19.4%, P=0.025;) in the placebo group. The patients in the methotrexate group received less prednisone overall and their mean sco re on the Crohn's Disease Activity Index was significantly lower than those in the placebo group (P=0.026 and P=0.002, respectively). [ Feagan et al (1995)]
+A study of weekly injections of methotrexate in a group of patients with chronically active Crohn's disease (despite at least three months of prednisone therapy), showed that methotrexate was more effective than placebo in improving symptoms and reducing requirements for prednisone. A total of 141 patients were randomly assigned in a 2:1 ratio to methotrexate (25 mg weekly) or placebo. After 16 weeks, 37 patients (39.4%) were in clinical remission in the methotrexate group, as compared with 9 patients (19.4%, P=0.025;) in the placebo group. The patients in the methotrexate group received less prednisone overall and their mean score on the Crohn's Disease Activity Index was significantly lower than those in the placebo group (P=0.026 and P=0.002, respectively). [Feagan et al (1995)]
 
 <div style=\"page-break-after: always\"></div>
 
-A study of patients, who had entered remission after 16 to 24 weeks of treatment with 25 mg of methotrexate, showed that a low dose of methotrexate maintains remission. Patients were randomly assigned to receive either methotrexate at a dose of 15 mg I.M. once weekly or placebo for 40 weeks. At week 40, 26 patients (65%) were in remission in the methotrexate group and fewer needed prednisone for relapse (28%), as compared with the placebo group (39%; P=0.04 and 58%, P=0.01, respectively). [ Feagan et al (2000)]
+A study of patients, who had entered remission after 16 to 24 weeks of treatment with 25 mg of methotrexate, showed that a low dose of methotrexate maintains remission. Patients were randomly assigned to receive either methotrexate at a dose of 15 mg I.M. once weekly or placebo for 40 weeks. At week 40, 26 patients (65%) were in remission in the methotrexate group and fewer needed prednisone for relapse (28%), as compared with the placebo group (39%; P=0.04 and 58%, P=0.01, respectively). [Feagan et al (2000)]
 
 The adverse events observed in the studies performed with methotrexate for Crohn's disease at cumulative doses have not shown a different safety profile of methotrexate than the profile that is already known. Therefore, similar cautions must be taken with the use of methotrexate for the treatment of Crohn's disease as in other rheumatic and non-rheumatic indications of methotrexate (see sections 4.4 and 4.6).
 
@@ -677,7 +663,7 @@ Chronic toxicity studies in mice, rats and dogs showed toxic effects in the form
 
 ## Mutagenic and carcinogenic potential
 
-Long-term studies in rats, mice and hamsters did not show any evidence of a tumorigenic potential of methotrexate. Methotrexate induces gene and chromosome mutations both in vitro and in vivo . A mutagenic effect is suspected in humans.
+Long-term studies in rats, mice and hamsters did not show any evidence of a tumorigenic potential of methotrexate. Methotrexate induces gene and chromosome mutations both in vitro and in vivo. A mutagenic effect is suspected in humans.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -735,11 +721,25 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-## Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands 8. MARKETING AUTHORISATION NUMBER(S) Nordimet 7.5 mg solution for injection in pre-filled pen EU/1/16/1124/001 - 1 pre-filled pen EU/1/16/1124/009 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/057 - 4 pre-filled pens EU/1/16/1124/058 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 10 mg solution for injection in pre-filled pen EU/1/16/1124/002 - 1 pre-filled pen EU/1/16/1124/011 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/059 - 4 pre-filled pens EU/1/16/1124/060 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 12.5 mg solution for injection in pre-filled pen EU/1/16/1124/003 - 1 pre-filled pen EU/1/16/1124/013 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/061 - 4 pre-filled pens EU/1/16/1124/062 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 15 mg solution for injection in pre-filled pen EU/1/16/1124/004 - 1 pre-filled pen EU/1/16/1124/015 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/063 - 4 pre-filled pens EU/1/16/1124/064 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 17.5 mg solution for injection in pre-filled pen EU/1/16/1124/005 - 1 pre-filled pen EU/1/16/1124/017 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/065 - 4 pre-filled pens EU/1/16/1124/066 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 20 mg solution for injection in pre-filled pen EU/1/16/1124/006 - 1 pre-filled pen EU/1/16/1124/019 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/067 - 4 pre-filled pens EU/1/16/1124/068 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 22.5 mg solution for injection in pre-filled pen EU/1/16/1124/007 - 1 pre-filled pen EU/1/16/1124/021 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/069 - 4 pre-filled pens EU/1/16/1124/070 - multipack:12 (3 packs of 4) pre-filled pens
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+```
+Nordimet 7.5 mg solution for injection in pre-filled pen EU/1/16/1124/001 - 1 pre-filled pen EU/1/16/1124/009 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/057 - 4 pre-filled pens EU/1/16/1124/058 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 10 mg solution for injection in pre-filled pen EU/1/16/1124/002 - 1 pre-filled pen EU/1/16/1124/011 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/059 - 4 pre-filled pens EU/1/16/1124/060 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 12.5 mg solution for injection in pre-filled pen EU/1/16/1124/003 - 1 pre-filled pen EU/1/16/1124/013 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/061 - 4 pre-filled pens EU/1/16/1124/062 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 15 mg solution for injection in pre-filled pen EU/1/16/1124/004 - 1 pre-filled pen EU/1/16/1124/015 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/063 - 4 pre-filled pens EU/1/16/1124/064 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 17.5 mg solution for injection in pre-filled pen EU/1/16/1124/005 - 1 pre-filled pen EU/1/16/1124/017 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/065 - 4 pre-filled pens EU/1/16/1124/066 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 20 mg solution for injection in pre-filled pen EU/1/16/1124/006 - 1 pre-filled pen EU/1/16/1124/019 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/067 - 4 pre-filled pens EU/1/16/1124/068 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 22.5 mg solution for injection in pre-filled pen EU/1/16/1124/007 - 1 pre-filled pen EU/1/16/1124/021 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/069 - 4 pre-filled pens EU/1/16/1124/070 - multipack:12 (3 packs of 4) pre-filled pens
+```
 
 ## Nordimet 25 mg solution for injection in pre-filled pen
 
-## EU/1/16/1124/008 - 1 pre-filled pen EU/1/16/1124/023 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/071 - 4 pre-filled pens EU/1/16/1124/072 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 7.5 mg solution for injection in pre-filled syringe EU/1/16/1124/025 - 1 pre-filled syringe EU/1/16/1124/026 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/049 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 10 mg solution for injection in pre-filled syringe EU/1/16/1124/028 - 1 pre-filled syringe EU/1/16/1124/029 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/050 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 12.5 mg solution for injection in pre-filled syringe EU/1/16/1124/031 - 1 pre-filled syringe EU/1/16/1124/032 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/051 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 15 mg solution for injection in pre-filled syringe EU/1/16/1124/034 - 1 pre-filled syringe EU/1/16/1124/035 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/052 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 17.5 mg solution for injection in pre-filled syringe EU/1/16/1124/037 - 1 pre-filled syringe EU/1/16/1124/038 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/053 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 20 mg solution for injection in pre-filled syringe EU/1/16/1124/040 - 1 pre-filled syringe EU/1/16/1124/041 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/054 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 22.5 mg solution for injection in pre-filled syringe EU/1/16/1124/043 - 1 pre-filled syringe EU/1/16/1124/044 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/055 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 25 mg solution for injection in pre-filled syringe EU/1/16/1124/046 - 1 pre-filled syringe EU/1/16/1124/047 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/056 - multipack: 12 (12 packs of 1) pre-filled syringes
+```
+EU/1/16/1124/008 - 1 pre-filled pen EU/1/16/1124/023 - multipack: 4 (4 packs of 1) pre-filled pens EU/1/16/1124/071 - 4 pre-filled pens EU/1/16/1124/072 - multipack:12 (3 packs of 4) pre-filled pens Nordimet 7.5 mg solution for injection in pre-filled syringe EU/1/16/1124/025 - 1 pre-filled syringe EU/1/16/1124/026 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/049 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 10 mg solution for injection in pre-filled syringe EU/1/16/1124/028 - 1 pre-filled syringe EU/1/16/1124/029 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/050 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 12.5 mg solution for injection in pre-filled syringe EU/1/16/1124/031 - 1 pre-filled syringe EU/1/16/1124/032 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/051 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 15 mg solution for injection in pre-filled syringe EU/1/16/1124/034 - 1 pre-filled syringe EU/1/16/1124/035 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/052 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 17.5 mg solution for injection in pre-filled syringe EU/1/16/1124/037 - 1 pre-filled syringe EU/1/16/1124/038 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/053 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 20 mg solution for injection in pre-filled syringe EU/1/16/1124/040 - 1 pre-filled syringe EU/1/16/1124/041 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/054 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 22.5 mg solution for injection in pre-filled syringe EU/1/16/1124/043 - 1 pre-filled syringe EU/1/16/1124/044 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/055 - multipack: 12 (12 packs of 1) pre-filled syringes Nordimet 25 mg solution for injection in pre-filled syringe EU/1/16/1124/046 - 1 pre-filled syringe EU/1/16/1124/047 - multipack: 4 (4 packs of 1) pre-filled syringes EU/1/16/1124/056 - multipack: 12 (12 packs of 1) pre-filled syringes
+```
 
 <div style=\"page-break-after: always\"></div>
 
@@ -757,10 +757,10 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A.        MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-- B.        CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C.        OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D.        CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -768,9 +768,19 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Cenexi - Laboratoires Thissen S.A. Rue de la Papyrée 2-6 B-1420 Braine-L'Alleud Belgium
+Cenexi - Laboratoires Thissen S.A.
 
-FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 3400 Hillerød Denmark
+Rue de la Papyrée 2-6
+
+B-1420 Braine-L'Alleud, Belgium QPharma AB
+
+Agneslundsvagen 27, P.O. Box 590
+
+SE-201 25 Malmo, Sweden
+
+FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1
+
+3400 Hillerød, Denmark
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -788,21 +798,20 @@ The requirements for submission of periodic safety update reports for this medic
 
 ## · Risk Management Plan (RMP)
 
-The MAH shall perform the required pharmacovigilance activities and interventions detailed in the  agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- Obligation to conduct post-authorisation measures
+
+## · Obligation to conduct post-authorisation measures
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
 | Description                                                                                                            | Due date                                                  |
 |------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | The MAH should implement the agreed targeted follow-up questionnaires for all medication errors resulting in overdose. | From the date of notification of the Commission Decision* |
-
-Sever Pharma Solutions AB Agneslundsvagen 27 P.O. Box 590 SE-201 25 Malmo Sweden
 
 <div style=\"page-break-after: always\"></div>
 
@@ -818,7 +827,7 @@ Sever Pharma Solutions AB Agneslundsvagen 27 P.O. Box 590 SE-201 25 Malmo Sweden
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -860,7 +869,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -970,7 +979,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1004,7 +1013,13 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1030,9 +1045,7 @@ Nordimet 7.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1060,13 +1073,13 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 7.5 mg/0.3 ml
 
-1 pre-filled pen (0.3 ml) and 1 alcohol swab . Component of a multipack, can't be sold separately .
+1 pre-filled pen (0.3 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately.
 
-4 pre-filled pens (0.3 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately .
+4 pre-filled pens (0.3 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1140,7 +1153,8 @@ Nordimet 7.5 mg
 |--------------------------------------------------------------------|
 | PRE-FILLED PEN                                                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Nordimet 7.5 mg injection methotrexate SC
 
@@ -1169,7 +1183,7 @@ Batch:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1211,7 +1225,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1249,7 +1263,9 @@ Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1124/002 1 pre-filled pen EU/1/16/1124/059 4 pre-filled pens
+EU/1/16/1124/002 1 pre-filled pen
+
+EU/1/16/1124/059 4 pre-filled pens
 
 ## 13. BATCH NUMBER
 
@@ -1319,7 +1335,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1353,7 +1369,13 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1379,9 +1401,7 @@ Nordimet 10 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1389,7 +1409,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
+INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1411,11 +1431,11 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 10 mg/0.4 ml
 
-1 prefilled pen (0.4 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately 4 prefilled pens (0.4 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled pen (0.4 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately 4 pre-filled pens (0.4 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1445,9 +1465,11 @@ EXP:
 
 <div style=\"page-break-after: always\"></div>
 
+Store below 25°C.
+
 Keep the pen in the outer carton in order to protect from light.
 
-Store below 25°C. Do not freeze.
+Do not freeze.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1455,7 +1477,9 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1511,11 +1535,13 @@ Batch:
 | 6.   | OTHER   |
 |------|---------|
 
+37
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1557,7 +1583,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1617,9 +1643,7 @@ Nordimet 12.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1669,7 +1693,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1703,7 +1727,13 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1729,9 +1759,7 @@ Nordimet 12.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1769,9 +1797,7 @@ Water for injections
 
 4 pre-filled pens (0.5 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
 
-## 5.
-
-## METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Subcutaneous use.
 
@@ -1915,7 +1941,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1975,9 +2001,7 @@ Nordimet 15 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -2027,7 +2051,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2061,7 +2085,13 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2123,13 +2153,11 @@ Water for injections
 
 15 mg/0.6 ml
 
-1 prefilled pen (0.6 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately
+1 pre-filled pen (0.6 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately
 
 4 pre-filled pens (0.6 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
 
-## 5.
-
-## METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Subcutaneous use.
 
@@ -2253,7 +2281,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 17.5 mg/0.7 ml
 
@@ -2273,7 +2301,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2307,7 +2335,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2365,7 +2397,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 17.5 mg/0.7 ml
 
@@ -2385,7 +2417,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2419,7 +2451,13 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2477,11 +2515,11 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 17.5 mg/0.7 ml
 
-1 prefilled pen (0.7 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately 4 pre-filled pens (0.7 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled pen (0.7 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately 4 pre-filled pens (0.7 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2511,9 +2549,11 @@ EXP:
 
 <div style=\"page-break-after: always\"></div>
 
+Store below 25°C.
+
 Keep the pen in the outer carton in order to protect from light.
 
-Store below 25°C. Do not freeze.
+Do not freeze.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2521,7 +2561,9 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2551,7 +2593,8 @@ Nordimet 17.5 mg
 |--------------------------------------------------------------------|
 | PRE-FILLED PEN                                                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Nordimet 17.5 mg injection methotrexate SC
 
@@ -2622,7 +2665,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2656,7 +2699,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2714,7 +2761,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 20 mg/0.8 ml
 
@@ -2734,7 +2781,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2768,7 +2815,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2830,7 +2881,7 @@ Water for injections
 
 20 mg/0.8 ml
 
-1 prefilled pen (0.8 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately
+1 pre-filled pen (0.8 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately
 
 4 pre-filled pens (0.8 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
 
@@ -2936,7 +2987,7 @@ Batch:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2978,7 +3029,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3038,9 +3089,7 @@ Nordimet 22.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -3090,7 +3139,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3124,7 +3173,13 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3182,11 +3237,11 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection.
+## Solution for injection.
 
 22.5 mg/0.9 ml
 
-1 prefilled pen (0.9 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately
+1 pre-filled pen (0.9 ml) and 1 alcohol swab. Component of a multipack, can't be sold separately
 
 4 pre-filled pens (0.9 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
 
@@ -3220,7 +3275,9 @@ Store below 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pen in the outer carton in order to protect from light. Do not freeze.
+Keep the pen in the outer carton in order to protect from light.
+
+Do not freeze.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -3228,7 +3285,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3330,7 +3391,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3420,7 +3481,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 25 mg/1.0 ml
 
@@ -3440,7 +3501,7 @@ Find the instructions for use here:
 
 QR-code to be included
 
-[https://nordimetvideo.com](https://nordimetvideo.com/)
+https://nordimetvideo.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3474,7 +3535,13 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3540,9 +3607,7 @@ Water for injections
 
 4 pre-filled pens (1.0 ml) and 4 alcohol swabs. Component of a multipack, can't be sold separately
 
-## 5.
-
-## METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Subcutaneous use
 
@@ -3926,7 +3991,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
 
 The Netherlands
 
@@ -3942,7 +4011,7 @@ Batch:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3960,7 +4029,9 @@ Nordimet 7.5 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 7.5 mg injection methotrexate
+Nordimet 7.5 mg injection
+
+methotrexate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3970,11 +4041,13 @@ Nordic Group B.V.
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 SC
 
@@ -4016,7 +4089,7 @@ Batch:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -4038,7 +4111,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 10 mg/0.4 ml
 
@@ -4140,7 +4213,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 10 mg/0.4 ml
 
@@ -4220,9 +4293,7 @@ Nordimet 10 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -4256,7 +4327,7 @@ Water for injections
 
 10 mg/0.4 ml
 
-1 prefilled syringe (0.4 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled syringe (0.4 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -4324,13 +4395,17 @@ Nordimet 10 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## Blister - PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 10 mg injection methotrexate
+Nordimet 10 mg injection
+
+methotrexate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4340,19 +4415,17 @@ Nordic Group B.V.
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
-SC
+SC 10 mg / 0.4 ml
 
-10 mg / 0.4 ml
-
-Use only once a week
-
-<div style=\"page-break-after: always\"></div>
+Use only once a week Nordimet 10 mg injection methotrexate SC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4362,8 +4435,6 @@ Use only once a week
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
-
-Nordimet 10 mg injection methotrexate SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -4594,9 +4665,7 @@ Nordimet 12.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -4630,7 +4699,7 @@ Water for injections
 
 12.5 mg/0.5 ml
 
-1 prefilled syringe (0.5 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled syringe (0.5 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -4698,13 +4767,17 @@ Nordimet 12.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## Blister - PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 12.5 mg injection methotrexate
+Nordimet 12.5 mg injection
+
+methotrexate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4714,29 +4787,28 @@ Nordic Group B.V.
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 SC
 
 12.5 mg / 0.5 ml
 
-Use only once a week
+Use only once a week Nordimet 12.5 mg injection methotrexate SC
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## PRE-FILLED SYRINGE
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Nordimet 12.5 mg injection methotrexate SC
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -4935,7 +5007,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4997,7 +5073,7 @@ Solution for injection.
 
 15 mg/0.6 ml
 
-1 prefilled syringe (0.6 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled syringe (0.6 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -5037,7 +5113,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -5051,7 +5131,7 @@ Batch:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -5061,13 +5141,17 @@ Nordimet 15 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## Blister - PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 15 mg injection methotrexate
+Nordimet 15 mg injection
+
+methotrexate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -5081,15 +5165,14 @@ EXP:
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 SC
 
 15 mg / 0.6 ml
 
-Use only once a week
-
-<div style=\"page-break-after: always\"></div>
+Use only once a week Nordimet 15 mg injection methotrexate SC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5099,8 +5182,6 @@ Use only once a week
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
-
-Nordimet 15 mg injection methotrexate SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -5127,7 +5208,7 @@ Batch:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -5149,7 +5230,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 17.5 mg/0.7 ml
 
@@ -5195,7 +5276,9 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -5251,7 +5334,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 17.5 mg/0.7 ml
 
@@ -5363,11 +5446,11 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection.
+## Solution for injection.
 
 17.5 mg/0.7 ml
 
-1 prefilled syringe (0.7 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled syringe (0.7 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -5407,7 +5490,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -5439,7 +5526,9 @@ Nordimet 17.5 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 17.5 mg injection methotrexate
+Nordimet 17.5 mg injection
+
+methotrexate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -5453,13 +5542,14 @@ EXP:
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 SC
 
 17.5 mg / 0.7 ml
 
-Use only once a week
+Use only once a week Nordimet 17.5 mg injection methotrexate SC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5467,9 +5557,8 @@ Use only once a week
 |--------------------------------------------------------------------|
 | PRE-FILLED SYRINGE                                                 |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Nordimet 17.5 mg injection methotrexate SC
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -5620,7 +5709,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 20 mg/0.8 ml
 
@@ -5736,7 +5825,7 @@ Water for injections
 
 20 mg/0.8 ml
 
-1 prefilled syringe (0.8 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled syringe (0.8 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -5794,7 +5883,7 @@ Batch:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -5802,7 +5891,9 @@ Nordimet 20 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -5810,7 +5901,9 @@ Nordimet 20 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 20 mg injection methotrexate
+Nordimet 20 mg injection
+
+methotrexate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -5820,19 +5913,19 @@ Nordic Group B.V.
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 SC
 
 20 mg / 0.8 ml
 
-Use only once a week
-
-<div style=\"page-break-after: always\"></div>
+Use only once a week Nordimet 20 mg injection methotrexate SC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5842,8 +5935,6 @@ Use only once a week
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
-
-Nordimet 20 mg injection methotrexate SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -5892,7 +5983,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 22.5 mg/0.9 ml
 
@@ -5964,9 +6055,7 @@ Nordimet 22.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -5996,7 +6085,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 22.5 mg/0.9 ml
 
@@ -6112,7 +6201,7 @@ Solution for injection
 
 22.5 mg/0.9 ml
 
-1 prefilled syringe (0.9 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
+1 pre-filled syringe (0.9 ml) and 2 alcohol swabs. Component of a multipack, can't be sold separately
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -6152,7 +6241,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -6176,35 +6269,40 @@ Nordimet 22.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## Blister - PRE-FILLED SYRINGE
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Nordimet 22.5 mg injection methotrexate
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Nordic Group B.V.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 SC
 
 22.5 mg / 0.9 ml
 
-Use only once a week
-
-<div style=\"page-break-after: always\"></div>
+Use only once a week Nordimet 22.5 mg injection methotrexate SC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6212,9 +6310,8 @@ Use only once a week
 |--------------------------------------------------------------------|
 | PRE-FILLED SYRINGE                                                 |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Nordimet 22.5 mg injection methotrexate SC
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -6263,7 +6360,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 25 mg/1.0 ml
 
@@ -6309,7 +6406,9 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -6333,9 +6432,7 @@ Nordimet 25 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -6365,7 +6462,7 @@ Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 25 mg/1.0 ml
 
@@ -6413,7 +6510,11 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp
+Nordic Group B.V.
+
+Siriusdreef 41
+
+2132 WT Hoofddorp
 
 The Netherlands
 
@@ -6545,13 +6646,17 @@ Nordimet 25 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## Blister - PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nordimet 25 mg injection methotrexate
+Nordimet 25 mg injection
+
+methotrexate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -6561,19 +6666,19 @@ Nordic Group B.V.
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 SC
 
 25 mg / 1.0 ml
 
-Use only once a week
-
-<div style=\"page-break-after: always\"></div>
+Use only once a week Nordimet 25 mg injection methotrexate SC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6583,8 +6688,6 @@ Use only once a week
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
-
-Nordimet 25 mg injection methotrexate SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -6611,15 +6714,11 @@ Batch:
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-Nordimet 7.5 mg solution for injection in pre-filled pen
+## Package leaflet: Information for the user
 
-Nordimet 10 mg solution for injection in pre-filled pen
-
-Nordimet 12.5 mg solution for injection in pre-filled pen
+Nordimet 7.5 mg solution for injection in pre-filled pen Nordimet 10 mg solution for injection in pre-filled pen Nordimet 12.5 mg solution for injection in pre-filled pen
 
 Nordimet 15 mg solution for injection in pre-filled pen
 
@@ -6638,7 +6737,7 @@ Nordimet 25 mg solution for injection in pre-filled pen
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor or pharmacist.
 - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If  you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6653,7 +6752,7 @@ Nordimet 25 mg solution for injection in pre-filled pen
 
 Nordimet contains the active substance methotrexate which works by:
 
-- reducing  inflammation or swelling, and
+- reducing inflammation or swelling, and
 - reducing the activity of the immune system (the body's own defense mechanism). An overactive immune system has been linked to inflammatory diseases.
 
 Nordimet is a medicine used to treat a range of inflammatory diseases:
@@ -6661,7 +6760,7 @@ Nordimet is a medicine used to treat a range of inflammatory diseases:
 - active rheumatoid arthritis in adults. Active rheumatoid arthritis is an inflammatory condition that affects the joints;
 - severe, active juvenile idiopathic arthritis in five or more joints (the condition is therefore called polyarthritic), in patients who have had an inadequate response to nonsteroidal anti-inflammatory drugs (NSAIDs);
 - moderate to severe plaque psoriasis in adults who are candidates for systemic therapy, as well as in severe psoriasis that also affects the joints (psoriatic arthritis) in adult patients;
-- induction of remission in adults with moderate steroiddependent Crohn's disease, in combination with corticosteroids;
+- induction of remission in adults with moderate steroid-dependent Crohn's disease, in combination with corticosteroids;
 - maintenance of remission of Crohn´s disease in adults who have responded to methotrexate, as monotherapy.
 
 ## 2. What you need to know before you use Nordimet
@@ -6679,7 +6778,7 @@ Nordimet is a medicine used to treat a range of inflammatory diseases:
 - you have an impaired immune system
 - you have a severe or existing infection, e.g. tuberculosis or HIV
 - you have gastrointestinal ulcers
-- you are pregnant or breastfeeding (see section 'Pregnancy, breast - feeding and fertility')
+- you are pregnant or breast-feeding (see section \"Pregnancy, breast-feeding and fertility\")
 - you receive vaccinations with live vaccines at the same time.
 
 ## Warnings and precautions
@@ -6698,7 +6797,7 @@ Methotrexate may make your skin more sensitive to sunlight. Avoid intense sun an
 
 ## Important warning about the dosing of Nordimet
 
-Methotrexate for the therapy of rheumatic diseases, diseases of the skin and Crohn's disease must only be used once weekly . Incorrect dosing of methotrexate may lead to serious adverse effects which may be fatal. Please read section 3 of this package leaflet very carefully.
+Methotrexate for the therapy of rheumatic diseases, diseases of the skin and Crohn's disease must only be used once weekly. Incorrect dosing of methotrexate may lead to serious adverse effects which may be fatal. Please read section 3 of this package leaflet very carefully.
 
 Talk to your doctor before using Nordimet if:
 
@@ -6728,7 +6827,9 @@ The dose for elderly patients should be lowered due to age-related reduced liver
 
 ## Special precautionary measures for treatment with Nordimet
 
-Methotrexate temporarily affects sperm and egg production. Methotrexate can cause miscarriage and severe birth defects. You should avoid having a baby if you are being given methotrexate at the time and for at least 6 months after the end of your treatment with methotrexate if you are a woman. If you are a man you should avoid fathering a child if you are being given methotrexate at the time and for at least 3 months after the end of your treatment. See also section 'Pregnancy, breastfeeding and fertility' .
+Methotrexate temporarily affects sperm and egg production. Methotrexate can cause miscarriage and severe birth defects. You should avoid having a baby if you are being given methotrexate at the time and for at least 6 months after the end of your treatment with methotrexate if you are a woman. If you are a man you should avoid fathering a child if you are being given methotrexate at the time and for at least 3 months after the end of your treatment. See also section \"Pregnancy,
+
+breast-feeding and fertility\".
 
 Skin changes caused by psoriasis can worsen during treatment with Nordimet if exposed to ultraviolet irradiation.
 
@@ -6752,7 +6853,9 @@ Your doctor may perform the following examinations:
 - blood test to monitor kidney function
 - respiratory tract monitoring and, if necessary, lung function test
 
-It is very important that you appear for these scheduled examinations. If the results of any of these tests are conspicuous, your doctor will adjust your treatment accordingly.
+## It is very important that you appear for these scheduled examinations.
+
+If the results of any of these tests are conspicuous, your doctor will adjust your treatment accordingly.
 
 ## Other medicines and Nordimet
 
@@ -6773,15 +6876,13 @@ It is especially important to tell your doctor if you are taking:
 - oral contraceptives
 - probenecid (used to treat gout)
 - antibiotics (e.g. penicillin, glycopeptides, trimethoprim-sulphamethoxazole, sulfonamides,
-
-ciprofloxacin, cefalotin, tetracyclines, chloramphenicol)
-
+- ciprofloxacin, cefalotin, tetracyclines, chloramphenicol)
 - pyrimethamine (used to prevent and treat malaria)
 - vitamin preparations containing folic acid
 - proton-pump inhibitors (medicines that reduce the production of gastric acid and that are used to treat severe heartburn or ulcers), such as omeprazole or pantoprazole
 - theophylline (used to treat asthma)
 - colestyramine (used to treat high cholesterol, pruritus or diarrhoea)
-- NSAID's, non -steroidal anti-inflammatory drugs (used to treat pain or inflammation)
+- NSAID's, non-steroidal anti-inflammatory drugs (used to treat pain or inflammation)
 - p-aminobenzoic acid (used to treat skin disorders)
 - any vaccination with a live vaccine (must be avoided), such as measles, mumps or yellow fever vaccines
 - metamizole (synonyms novaminsulfon and dipyrone) (medicine against severe pain and /or fever)
@@ -6797,7 +6898,7 @@ If you are pregnant or breast feeding, think you may be pregnant or are planning
 
 ## Pregnancy
 
-Do not use Nordimet during pregnancy or if you are trying to become pregnant. Methotrexate can cause birth defects, harm unborn babies or cause miscarriages. It is associated with malformations of the skull, face, heart and blood vessels, brain and limbs. Therefore, it is very important that methotrexate is not given to pregnant patients or patients planning to become pregnant. In women of child-bearing age any possibility of pregnancy must be excluded with appropriate measures, e.g. a pregnancy test before starting treatment. You must avoid becoming pregnant whilst taking methotrexate and for at least 6 months after treatment is stopped by using reliable contraception throughout this time (see also section 'Warnings and precautions').
+Do not use Nordimet during pregnancy or if you are trying to become pregnant. Methotrexate can cause birth defects, harm unborn babies or cause miscarriages. It is associated with malformations of the skull, face, heart and blood vessels, brain and limbs. Therefore, it is very important that methotrexate is not given to pregnant patients or patients planning to become pregnant. In women of child-bearing age any possibility of pregnancy must be excluded with appropriate measures, e.g. a pregnancy test before starting treatment. You must avoid becoming pregnant whilst taking methotrexate and for at least 6 months after treatment is stopped by using reliable contraception throughout this time (see also section \"Warnings and precautions\").
 
 If you do become pregnant during treatment or suspect you might be pregnant, speak to your doctor as soon as possible. You should be offered advice regarding the risk of harmful effects on the child through treatment.
 
@@ -6819,7 +6920,7 @@ Side effects affecting the central nervous system, such as tiredness and dizzine
 
 ## Nordimet contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium-free\".
 
 ## 3. How to use Nordimet
 
@@ -6829,7 +6930,7 @@ Use Nordimet only once a week for the treatment of rheumatoid arthritis, active 
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
-Nordimet is administered once a week only . You and your doctor can decide on a suitable day each week to receive your injection.
+Nordimet is administered once a week only. You and your doctor can decide on a suitable day each week to receive your injection.
 
 Incorrect administration of Nordimet can lead to severe side effects that may be fatal.
 
@@ -6837,7 +6938,7 @@ Incorrect administration of Nordimet can lead to severe side effects that may be
 
 ## Dose in patients with rheumatoid arthritis
 
-The recommended starting dose is 7.5 mg methotrexate once a week .
+The recommended starting dose is 7.5 mg methotrexate once a week.
 
 The doctor may increase the dose if the used dose is not effective but tolerated well. The average weekly dose is 15-20 mg. Generally, a weekly dose of 25 mg should not be exceeded. Once Nordimet starts working, the doctor may reduce the dose gradually to the lowest possible effective maintenance dose.
 
@@ -6882,8 +6983,9 @@ If you have difficulty handling the pen, ask your doctor or pharmacist. Do not t
 
 ## Instructions on injecting yourself with Nordimet
 
-- 1) Wash your hands thoroughly with soap and water .
-- 2) Sit or lie in a relaxed, comfortable position. Make sure you can see the skin area you are going to inject.
+- 1) Wash your hands thoroughly with soap and water.
+
+2) Sit or lie in a relaxed, comfortable position. Make sure you can see the skin area you are going to inject.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6900,8 +7002,8 @@ Once you have taken the cap off, keep the pen in your hand. Do not allow the pen
 
 - 6) Make a fold in the skin by gently pinching the skin of the injection place with your forefinger and thumb. Make sure you hold the skin fold throughout the injection.
 - 7) Move the pen towards the skin fold (site of injection) with the needle shield pointing directly at the site of injection. Place the yellow needle shield against the area of injection so that the entire rim of the needle shield is touching the skin.
-3. 8 ) Apply downward pressure on the pen on to your skin until you hear and feel a 'click'. This activates the pen and the solution will inject automatically into the skin.
-4. 9 ) The injection lasts for a maximum of 10 seconds. You will feel and hear a second 'click' once the injection is completed.
+- 8) Apply downward pressure on the pen on to your skin until you hear and feel a \"click\". This activates the pen and the solution will inject automatically into the skin.
+- 9) The injection lasts for a maximum of 10 seconds. You will feel and hear a second \"click\" once the injection is completed.
 - 10) Wait another 2-3 seconds before removing the pen from your skin. The safety shield on the pen
 
 <!-- image -->
@@ -6986,7 +7088,7 @@ Decrease in the number of blood cells and platelets, throat inflammation, dizzin
 
 ## Rare (may affect up to 1 in 1,000 people)
 
-Infection (incl. reactivation of inactive chronic infection), sepsis, red eyes, allergic reactions, anaphylactic shock, decreased numbers of antibodies in the blood, inflammation of the sac around the heart, accumulation of fluid in the sac around the heart, obstruction of cardiac filling due to fluid in the sac around the heart, visual disturbance, mood fluctuations, low blood pressure, blood clots, formation of scar tissue in the lung (pulmonary fibrosis), Pneumocystis jiroveci pneumonia, interruption of breathing, asthma, accumulation of fluid in the sac around the lungs,  inflamed gums, acute hepatitis (inflammation of the liver), brown skin, acne, red or purple spots due to vessel bleeding, allergic inflammation of blood vessels, bone fracture, kidney failure, decrease or absence of urine, electrolyte disturbances, fever, slow wound healing.
+Infection (incl. reactivation of inactive chronic infection), sepsis, red eyes, allergic reactions, anaphylactic shock, decreased numbers of antibodies in the blood, inflammation of the sac around the heart, accumulation of fluid in the sac around the heart, obstruction of cardiac filling due to fluid in the sac around the heart, visual disturbance, mood fluctuations, low blood pressure, blood clots, formation of scar tissue in the lung (pulmonary fibrosis), Pneumocystis jiroveci pneumonia, interruption of breathing, asthma, accumulation of fluid in the sac around the lungs, inflamed gums, acute hepatitis (inflammation of the liver), brown skin, acne, red or purple spots due to vessel bleeding, allergic inflammation of blood vessels, bone fracture, kidney failure, decrease or absence of urine, electrolyte disturbances, fever, slow wound healing.
 
 ## Very rare (may affect up to 1 in 10,000 people)
 
@@ -7016,9 +7118,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label of the pre-filled pen and the carton after EXP. The expiry date refers to the last day of that month.
 
-## Store below 25°C.
+Keep the pen in the outer carton in order to protect from light.
 
-Keep the pen in the outer carton in order to protect from light. Do not freeze.
+Store below 25°C. Do not freeze.
 
 Do not use this medicine if you notice that the solution is not clear and contains particles.
 
@@ -7028,37 +7130,57 @@ Nordimet is for single use only. Any used pen should be discarded. Do not throw 
 
 ## What Nordimet contains
 
-The active substance is methotrexate. 1.0 ml of solution contains 25 mg methotrexate.
+The active substance is methotrexate. 1.0 ml of solution contains 25 mg methotrexate. The other ingredients are sodium chloride, sodium hydroxide and water for injections.
 
-The other ingredients are sodium chloride, sodium hydroxide and water for injections.
+The following pens are available:
 
-<div style=\"page-break-after: always\"></div>
+Pre-filled pens of 0.3 ml containing 7.5 mg methotrexate.
 
-The following pens are available: Pre-filled pens of 0.3 ml containing 7.5 mg methotrexate. Pre-filled pens of 0.4 ml containing 10 mg methotrexate Pre-filled pens of 0.5 ml containing 12.5 mg methotrexate Pre-filled pens of 0.6 ml containing 15 mg methotrexate Pre-filled pens of 0.7 ml containing 17.5 mg methotrexate Pre-filled pens of 0.8 ml containing 20 mg methotrexate Pre-filled pens of 0.9 ml containing 22.5 mg methotrexate
+Pre-filled pens of 0.4 ml containing 10 mg methotrexate
+
+Pre-filled pens of 0.5 ml containing 12.5 mg methotrexate
+
+Pre-filled pens of 0.6 ml containing 15 mg methotrexate
+
+Pre-filled pens of 0.7 ml containing 17.5 mg methotrexate
+
+Pre-filled pens of 0.8 ml containing 20 mg methotrexate
+
+Pre-filled pens of 0.9 ml containing 22.5 mg methotrexate
 
 Pre-filled pens of 1.0 ml containing 25 mg methotrexate
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Nordimet looks like and contents of the pack
 
 Nordimet pre-filled pens contain a clear, yellow solution for injection.
 
-Nordimet is available in packs containing 1 or 4 pre-filled pens and 1 or 4 alcohol swabs and in multipacks comprising 4 cartons, each containing 1 pre-filled pen and one alcohol swab. Nordimet is also available in multipacks comprising 3 cartons, each containing 4 pre-filled pens and alcohol swabs.
+Nordimet is available in packs containing 1 or 4 pre-filled pens and 1 or 4 alcohol swabs and in multipacks comprising 4 cartons, each containing 1 pre-filled pen and one alcohol swab.
+
+Nordimet is also available in multipacks comprising 3 cartons, each containing 4 pre-filled pens and alcohol swabs.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp
-
-The Netherlands
+Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp, The Netherlands
 
 ## Manufacturer
 
-CENEXI - Laboratoires Thissen Rue de la Papyrée 2-6 B-1420 Brainel'Alleud Belgium
+CENEXI - Laboratoires Thissen
 
-Sever Pharma Solutions AB Agneslundsvagen 27 P.O. Box 590 SE-201 25 Malmo Sweden
+Rue de la Papyrée 2-6
 
-FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 3400 Hillerød Denmark
+B-1420 Braine-l'Alleud, Belgium QPharma AB Agneslundsvagen 27 P.O. Box 590
+
+SE-201 25 Malmo, Sweden
+
+FUJIFILM Diosynth Biotechnologies Denmark ApS
+
+Biotek Allé 1
+
+3400 Hillerød, Denmark
 
 ## This leaflet was last revised in
 
@@ -7066,9 +7188,9 @@ FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 3400 Hillerød Denm
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http//www.ema.europa.eu.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 Nordimet 7.5 mg solution for injection in pre-filled syringe
 
@@ -7093,7 +7215,7 @@ Nordimet 25 mg solution for injection in pre-filled syringe
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor or pharmacist.
 - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If  you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -7108,7 +7230,7 @@ Nordimet 25 mg solution for injection in pre-filled syringe
 
 Nordimet contains the active substance methotrexate which works by:
 
-- reducing  inflammation or swelling, and
+- reducing inflammation or swelling, and
 - reducing the activity of the immune system (the body's own defense mechanism). An overactive immune system has been linked to inflammatory diseases.
 
 Nordimet is a medicine used to treat a range of inflammatory diseases:
@@ -7116,7 +7238,7 @@ Nordimet is a medicine used to treat a range of inflammatory diseases:
 - active rheumatoid arthritis in adults. Active rheumatoid arthritis is an inflammatory condition that affects the joints;
 - severe, active juvenile idiopathic arthritis in five or more joints (the condition is therefore called polyarthritic), in patients who have had an inadequate response to nonsteroidal anti-inflammatory drugs (NSAIDs);
 - moderate to severe plaque psoriasis in adults who are candidates for systemic therapy, as well as in severe psoriasis that also affects the joints (psoriatic arthritis) in adult patients;
-- induction of remission in adults with moderate steroiddependent Crohn's disease, in combination with corticosteroids;
+- induction of remission in adults with moderate steroid-dependent Crohn's disease, in combination with corticosteroids;
 - maintenance of remission of Crohn´s disease in adults who have responded to methotrexate, as monotherapy.
 
 ## 2. What you need to know before you use Nordimet
@@ -7134,7 +7256,7 @@ Nordimet is a medicine used to treat a range of inflammatory diseases:
 - you have an impaired immune system
 - you have a severe or existing infection, e.g. tuberculosis or HIV
 - you have gastrointestinal ulcers
-- you are pregnant or breastfeeding (see section 'Pregnancy, breast - feeding and fertility')
+- you are pregnant or breast-feeding (see section \"Pregnancy, breast-feeding and fertility\")
 - you receive vaccinations with live vaccines at the same time.
 
 ## Warnings and precautions
@@ -7153,7 +7275,7 @@ Methotrexate may make your skin more sensitive to sunlight. Avoid intense sun an
 
 ## Important warning about the dosing of Nordimet
 
-Methotrexate for the therapy of rheumatic diseases, diseases of the skin and Crohn's disease must only be used once weekly . Incorrect dosing of methotrexate may lead to serious adverse effects which may be fatal. Please read section 3 of this package leaflet very carefully.
+Methotrexate for the therapy of rheumatic diseases, diseases of the skin and Crohn's disease must only be used once weekly. Incorrect dosing of methotrexate may lead to serious adverse effects which may be fatal. Please read section 3 of this package leaflet very carefully.
 
 Talk to your doctor before using Nordimet if:
 
@@ -7183,7 +7305,9 @@ The dose for elderly patients should be lowered due to age-related reduced liver
 
 ## Special precautionary measures for treatment with Nordimet
 
-Methotrexate temporarily affects sperm and egg production. Methotrexate can cause miscarriage and severe birth defects. You should avoid having a baby if you are being given methotrexate at the time and for at least 6 months after the end of your treatment with methotrexate if you are a woman. If you are a man you should avoid fathering a child if you are being given methotrexate at the time and for at least 3 months after the end of your treatment. See also section 'Pregnancy, breastfeeding and fertility' .
+Methotrexate temporarily affects sperm and egg production. Methotrexate can cause miscarriage and severe birth defects. You should avoid having a baby if you are being given methotrexate at the time and for at least 6 months after the end of your treatment with methotrexate if you are a woman. If you are a man you should avoid fathering a child if you are being given methotrexate at the time and for at least 3 months after the end of your treatment. See also section \"Pregnancy,
+
+breast-feeding and fertility\".
 
 Skin changes caused by psoriasis can worsen during treatment with Nordimet if exposed to ultraviolet irradiation.
 
@@ -7207,7 +7331,9 @@ Your doctor may perform the following examinations:
 - blood test to monitor kidney function
 - respiratory tract monitoring and, if necessary, lung function test
 
-It is very important that you appear for these scheduled examinations. If the results of any of these tests are conspicuous, your doctor will adjust your treatment accordingly.
+## It is very important that you appear for these scheduled examinations.
+
+If the results of any of these tests are conspicuous, your doctor will adjust your treatment accordingly.
 
 ## Other medicines and Nordimet
 
@@ -7221,8 +7347,8 @@ It is especially important to tell your doctor if you are taking:
 - cyclosporine (for suppressing the immune system)
 - azathioprine (used to prevent rejection after an organ transplant)
 - retinoids (used to treat psoriasis and other skin disorders)
-- -
-- anticonvulsant medicines (used to prevent fits), such as phenytoin, valproate or carbamazepine
+- anticonvulsant medicines (used to prevent fits), such as phenytoin, valproate or
+- carbamazepine
 - cancer treatments
 - barbiturates (sleeping injection)
 - tranquillisers
@@ -7237,7 +7363,7 @@ ciprofloxacin, cefalotin, tetracyclines, chloramphenicol)
 - proton-pump inhibitors (medicines that reduce the production of gastric acid and that are used to treat severe heartburn or ulcers), such as omeprazole or pantoprazole
 - theophylline (used to treat asthma)
 - colestyramine (used to treat high cholesterol, pruritus or diarrhoea)
-- NSAID's, non -steroidal anti-inflammatory drugs (used to treat pain or inflammation)
+- NSAID's, non-steroidal anti-inflammatory drugs (used to treat pain or inflammation)
 - p-aminobenzoic acid (used to treat skin disorders)
 - any vaccination with a live vaccine (must be avoided), such as measles, mumps or yellow fever vaccines
 - metamizole (synonyms novaminsulfon and dipyrone) (medicine against severe pain and /or fever)
@@ -7253,7 +7379,7 @@ If you are pregnant or breast feeding, think you may be pregnant or are planning
 
 ## Pregnancy
 
-Do not use Nordimet during pregnancy or if you are trying to become pregnant. Methotrexate can cause birth defects, harm unborn babies or cause miscarriage. It is associated with malformations of the skull, face, heart and blood vessels, brain and limbs. Therefore, it is very important that methotrexate is not given to pregnant patients or patients planning to become pregnant. In women of child-bearing age any possibility of pregnancy must be excluded with appropriate measures, e.g. a pregnancy test before starting treatment. You must avoid becoming pregnant whilst taking methotrexate and for at least 6 months after treatment is stopped by using reliable contraception throughout this time (see also sect ion 'Warnings and precautions').
+Do not use Nordimet during pregnancy or if you are trying to become pregnant. Methotrexate can cause birth defects, harm unborn babies or cause miscarriage. It is associated with malformations of the skull, face, heart and blood vessels, brain and limbs. Therefore, it is very important that methotrexate is not given to pregnant patients or patients planning to become pregnant. In women of child-bearing age any possibility of pregnancy must be excluded with appropriate measures, e.g. a pregnancy test before starting treatment. You must avoid becoming pregnant whilst taking methotrexate and for at least 6 months after treatment is stopped by using reliable contraception throughout this time (see also section \"Warnings and precautions\").
 
 If you do become pregnant during treatment or suspect you might be pregnant, speak to your doctor as soon as possible. You should be offered advice regarding the risk of harmful effects on the child through treatment.
 
@@ -7275,7 +7401,7 @@ Side effects affecting the central nervous system, such as tiredness and dizzine
 
 ## Nordimet contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium - free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium-free\".
 
 ## 3. How to use Nordimet
 
@@ -7285,23 +7411,23 @@ Use Nordimet only once a week for the treatment of rheumatoid arthritis, active 
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
-Nordimet is administered once a week only . You and your doctor can decide on a suitable day each week to receive your injection.
+Nordimet is administered once a week only. You and your doctor can decide on a suitable day each week to receive your injection.
 
 Incorrect administration of Nordimet can lead to severe side effects that may be fatal.
 
-## The recommended dose is:
+The recommended dose is:
 
 ## Dose in patients with rheumatoid arthritis
 
-The recommended starting dose is 7.5 mg methotrexate once a week .
+The recommended starting dose is 7.5 mg methotrexate once a week.
 
 The doctor may increase the dose if the used dose is not effective but tolerated well. The average weekly dose is 15-20 mg. Generally, a weekly dose of 25 mg should not be exceeded. Once Nordimet starts working, the doctor may reduce the dose gradually to the lowest possible effective maintenance dose.
 
 Generally, improvement of symptoms can be expected after 4-8 weeks of treatment. Symptoms may return if treatment with Nordimet is stopped.
 
-<div style=\"page-break-after: always\"></div>
-
 Use in adults with moderate to severe forms of plaque psoriasis or severe psoriatic arthritis Your doctor will give you a single test dose of 5-10 mg, in order to assess possible side effects. If the test dose is well tolerated, treatment will be continued after a week with a dose of approximately 7.5 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 Response to treatment can generally be expected after 2-6 weeks. Depending on the effects of treatment and results of blood and urine tests, the therapy is then continued or stopped.
 
@@ -7339,8 +7465,10 @@ If you have difficulty handling the syringe, ask your doctor or pharmacist. Do n
 ## Instructions on injecting yourself with Nordimet
 
 - 1) Wash your hands thoroughly with soap and water.
-- 2) Sit or lie in a relaxed, comfortable position. Make sure you can see the skin area you are going to inject.
-- 3) The syringe is pre-filled and ready to use. Open the blister pack by peeling back the top layer all the way off the blister pack as shown.
+
+2) Sit or lie in a relaxed, comfortable position. Make sure you can see the skin area you are going to inject.
+
+3) The syringe is pre-filled and ready to use. Open the blister pack by peeling back the top layer all the way off the blister pack as shown.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7370,11 +7498,11 @@ Do not press on the plunger before injecting yourself to get rid of air bubbles.
 
 - 11) Remove the needle by pulling it out straight. The safety shield on the syringe will automatically cover the needle to prevent any needlestick injuries. You can now let go of the skin fold.
 
-<div style=\"page-break-after: always\"></div>
-
 <!-- image -->
 
 Note: the safety system allowing release of the safety shield, can only be activated when the syringe has been emptied by pressing the plunger all the way down.
+
+<div style=\"page-break-after: always\"></div>
 
 12) Discard the used syringe into the sharps bin provided. Close the container lid tightly and place the container out of reach of children. If you accidently get methotrexate on the surface of the skin or soft tissues you must rinse with plenty of water.
 
@@ -7414,9 +7542,6 @@ If you develop any of the following side effects, contact your doctor immediatel
 - ulcers in mouth
 - black or tarry stools
 - blood in the urine or stools
-
-<div style=\"page-break-after: always\"></div>
-
 - tiny red spots on the skin
 - fever
 - yellowing of the skin (jaundice)
@@ -7427,6 +7552,8 @@ If you develop any of the following side effects, contact your doctor immediatel
 - blurred or decreased vision
 
 Stop using Nordimet and seek medical attention immediately if you notice any of the following symptoms of serious skin reactions:
+
+<div style=\"page-break-after: always\"></div>
 
 - severe skin erosions and skin peeling, often with painful sores affecting the mouth or mucous membrane (epidermal necrosis)
 
@@ -7452,13 +7579,13 @@ Infection (incl. reactivation of inactive chronic infection), sepsis, red eyes, 
 
 Reduction in certain white blood cells (agranulocytosis), severe failure of the bone marrow, liver failure, swollen glands, sleeplessness, pain, muscle weakness, sensation of numbness or tingling / having less sensitivity to stimulation than normal, changes in sense of taste (metallic taste), fits, inflammation of the lining of the brain causing paralysis or vomiting, impaired vision, damage to the retina of the eye, vomiting blood, toxic megacolon (enlargement of the large intestine associated with severe pain), defective sperm formation (oligospermia), Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell's syndrome), increased pigmentation of the nails, loss of sex drive, problems having an erection, infection around a fingernail, severe complications of the gastrointestinal tract, boils, visible enlargement of small blood vessels in the skin, menstrual disorders, vaginal discharge, infertility, male breast enlargement (gynaecomastia), lymphoproliferative disorders (excessive growth of white blood cells).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Frequency not known (cannot be estimated from the available data):
 
 Increased number of certain white blood cells (eosinophilia), certain brain disorders (encephalopathy/leukoencephalopathy), nose bleeds, bleeding from the lungs, bone damage in the jaw (secondary to excessive growth of white blood cells), protein in the urine, feeling weakness, tissue destruction at injection site, redness and shedding of skin, swelling.
 
 Only mild local skin reactions (such as burning sensations, erythema, swelling, discolouration, severe itching, pain) were observed with Nordimet and these decreased during therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 Nordimet may cause a reduction in the number of white blood cells and your resistance to infection may be decreased. If you experience an infection with symptoms such as fever and serious deterioration of your general condition, or fever with local infection symptoms such as sore throat/sore pharynx/sore mouth or urinary problems you should see your doctor immediately. A blood test will be taken to check for possible reduction of white blood cells (agranulocytosis). It is important to tell your doctor that you are taking Nordimet.
 
@@ -7478,11 +7605,15 @@ Do not use this medicine after the expiry date which is stated on the label of t
 
 ## Store below 25°C.
 
-Keep the syringe in the outer carton in order to protect from light. Do not freeze.
+Keep the syringe in the outer carton in order to protect from light.
+
+Do not freeze.
 
 Do not use this medicine if you notice that the solution is not clear and contains particles.
 
-Nordimet is for single use only. Any used syringe should be discarded. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Nordimet is for single use only. Any used syringe should be discarded.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -7492,13 +7623,27 @@ The active substance is methotrexate. 1.0 ml of solution contains 25 mg methotre
 
 The other ingredients are sodium chloride, sodium hydroxide and water for injections.
 
-<div style=\"page-break-after: always\"></div>
+The following syringes are available:
 
-The following syringes are available: Pre-filled syringes of 0.3 ml containing 7.5 mg methotrexate. Pre-filled syringes of 0.4 ml containing 10 mg methotrexate Pre-filled syringes of 0.5 ml containing 12.5 mg methotrexate Pre-filled syringes of 0.6 ml containing 15 mg methotrexate Pre-filled syringes of 0.7 ml containing 17.5 mg methotrexate Pre-filled syringes of 0.8 ml containing 20 mg methotrexate Pre-filled syringes of 0.9 ml containing 22.5 mg methotrexate
+Pre-filled syringes of 0.3 ml containing 7.5 mg methotrexate.
+
+Pre-filled syringes of 0.4 ml containing 10 mg methotrexate
+
+Pre-filled syringes of 0.5 ml containing 12.5 mg methotrexate
+
+Pre-filled syringes of 0.6 ml containing 15 mg methotrexate
+
+Pre-filled syringes of 0.7 ml containing 17.5 mg methotrexate
+
+Pre-filled syringes of 0.8 ml containing 20 mg methotrexate
+
+Pre-filled syringes of 0.9 ml containing 22.5 mg methotrexate
 
 Pre-filled syringes of 1.0 ml containing 25 mg methotrexate
 
 ## What Nordimet looks like and contents of the pack
+
+<div style=\"page-break-after: always\"></div>
 
 Nordimet pre-filled syringes contain a clear, yellow solution for injection.
 
@@ -7508,38 +7653,18 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Nordic Group B.V. Siriusdreef 41 2132 WT Hoofddorp The Netherlands
+Nordic Group B.V. Siriusdreef 41
+
+2132 WT Hoofddorp, The Netherlands
 
 ## Manufacturer
 
-CENEXI - Laboratoires Thissen Rue de la Papyrée 2-6 B-1420 Brainel'Alleud Belgium
+CENEXI - Laboratoires Thissen Rue de la Papyrée 2-6 B-1420 Braine-l'Alleud, Belgium QPharma AB Agneslundsvagen 27, P.O. Box 590
 
-Sever Pharma Solutions AB Agneslundsvagen 27 P.O. Box 590 SE-201 25 Malmo Sweden
+SE-201 25 Malmo, Sweden
 
-## This leaflet was last revised in
+This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http//www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for methotrexate, the scientific conclusions of PRAC are as follows:
-
-In view of available data on epidermal necrosis from the literature and spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers that a causal relationship between methotrexate and epidermal necrosis is at least a reasonable possibility. The PRAC concluded that the product information of products containing methotrexate should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for methotrexate the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing methotrexate is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-07 11:30:43
-document_pages: 95
+document_datetime: 2026-10-20 11:36:19
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jivi-epar-product-information_en.pdf
 document_name: jivi-epar-product-information_en.pdf
 version: success
-processing_time: 30.9803725
-conversion_datetime: 2025-12-19 22:26:47.749767
+processing_time: 32.5956226
+conversion_datetime: 2026-10-22 22:52:16.863972
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,13 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-| Jivi 250 IU powder and solvent for solution for injection   |
-|-------------------------------------------------------------|
-| Jivi 500 IU powder and solvent for solution for injection   |
-| Jivi 1000 IU powder and solvent for solution for injection  |
-| Jivi 2000 IU powder and solvent for solution for injection  |
-| Jivi 3000 IU powder and solvent for solution for injection  |
-| Jivi 4000 IU powder and solvent for solution for injection  |
+Jivi 250 IU powder and solvent for solution for injection Jivi 500 IU powder and solvent for solution for injection Jivi 1000 IU powder and solvent for solution for injection Jivi 2000 IU powder and solvent for solution for injection Jivi 3000 IU powder and solvent for solution for injection Jivi 4000 IU powder and solvent for solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -82,7 +76,7 @@ Powder: solid, white to slightly yellow. Solvent: clear solution.
 
 ## 4.1 Therapeutic indications
 
-Treatment and prophylaxis of bleeding in previously treated patients ≥ 7 years of age with haemophilia A (congenital factor VIII deficiency).
+Treatment and prophylaxis of bleeding in patients ≥ 7 years of age with haemophilia A (congenital factor VIII deficiency).
 
 ## 4.2 Posology and method of administration
 
@@ -142,19 +136,21 @@ Based on patient clinical characteristics the dose can also be 60 IU/kg every 7 
 
 ## Children 7 to &lt; 12 years of age
 
-The dose is 40-60 IU/kg two times per week (see sections 5.1 and 5.2).
-
 The recommended starting dose is 60 IU/kg two times per week.
 
+The dose is 40-60 IU/kg two times per week (see sections 5.1 and 5.2).
+
+Adjustments of doses and administration intervals may be considered based on achieved factor VIII levels and individual bleeding tendency (see section 5.1).
+
 For overweight patients, the maximum dose per injection for prophylaxis should not be higher than approximately 6 000 IU.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
 ## Paediatric population
 
-Jivi is not indicated in previously untreated patients and in patients less than 7 years of age.
-
-<div style=\"page-break-after: always\"></div>
+Jivi is not indicated in patients less than 7 years of age.
 
 ## Adolescent population
 
@@ -192,11 +188,11 @@ Allergic type hypersensitivity reactions are possible with Jivi. The medicinal p
 
 The formation of neutralising antibodies (inhibitors) to factor VIII is a known complication in the management of individuals with haemophilia A. These inhibitors are usually IgG immunoglobulins directed against the factor VIII procoagulant activity, which are quantified in Bethesda Units (BU) per mL of plasma using the modified Bethesda assay. The risk of developing inhibitors is correlated to the severity of the disease as well as the exposure to factor VIII, this risk being highest within the first 50 exposure days (ED) but continues throughout life although the risk is uncommon. Rarely, inhibitors may develop after the first 50 exposure days.
 
+<div style=\"page-break-after: always\"></div>
+
 The clinical relevance of inhibitor development will depend on the titre of the inhibitor, with low titre posing less of a risk of insufficient clinical response than high titre inhibitors.
 
 In general, all patients treated with coagulation factor VIII products should be carefully monitored for the development of inhibitors by appropriate clinical observations and laboratory tests.
-
-<div style=\"page-break-after: always\"></div>
 
 If the expected factor VIII activity plasma levels are not attained, or if bleeding is not controlled with an appropriate dose, testing for factor VIII inhibitor presence should be performed. In patients with high levels of inhibitor, factor VIII therapy may not be effective and other therapeutic options should be considered. Management of such patients should be directed by physicians with experience in the care of haemophilia and factor VIII inhibitors.
 
@@ -224,11 +220,11 @@ In patients with existing cardiovascular risk factors, substitution therapy with
 
 If a central venous access device (CVAD) is required, risk of CVAD-related complications including local infections, bacteraemia and catheter site thrombosis should be considered.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
-The listed warnings and precautions apply to adults, adolescents and children aged 7 to &lt; 12 years. Jivi is not indicated in patients &lt; 7 years of age and in previously untreated patients.
-
-<div style=\"page-break-after: always\"></div>
+The listed warnings and precautions apply to adults, adolescents and children aged 7 to &lt; 12 years. Jivi is not indicated in patients &lt; 7 years of age.
 
 ## Information about excipients
 
@@ -268,11 +264,11 @@ Development of neutralising antibodies (inhibitors) may occur in patients with h
 
 The most frequently reported adverse reactions in clinical studies in PTPs were headache, cough and pyrexia.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 A total of 256 patients constituted the safety population from 4 pivotal Phase I and III studies (one phase I study and 3 phase III studies), 148 adolescents/adults and 108 paediatric patients &lt; 12 years.
-
-<div style=\"page-break-after: always\"></div>
 
 The median number of exposure days to Jivi per patient was 195 (min-max: 1-698) for all patients in the clinical studies.
 
@@ -284,30 +280,30 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 2: Frequency of adverse drug reactions in clinical studies
 
-| MedDRA Standard System Organ Class                   | Adverse reactions                    | Frequency         |
-|------------------------------------------------------|--------------------------------------|-------------------|
-| Blood and lymphatic system disorders                 | FVIII inhibition                     | Uncommon (PTPs) a |
-| Immune system disorders                              | Hypersensitivity                     | common            |
-| Psychiatric disorders                                | Insomnia                             | common            |
-| Nervous system disorders                             | Headache                             | very common       |
-| Nervous system disorders                             | Dizziness                            | common            |
-| Nervous system disorders                             | Dysgeusia                            | uncommon          |
-| Vascular disorders                                   | Flushing                             | uncommon          |
-| Respiratory, thoracic and mediastinal disorders      | Cough                                | common            |
-| Gastrointestinal disorders                           | Abdominal pain, Nausea, Vomiting     | common            |
-| Skin and subcutaneous tissue disorders               | Erythema c , Rash d                  | common            |
-| Skin and subcutaneous tissue disorders               | Pruritus                             | uncommon          |
-| General disorders and administration site conditions | Injection site reactions b , Pyrexia | common            |
+| MedDRA Standard System Organ Class                   | Adverse reactions                    | Frequency                              |
+|------------------------------------------------------|--------------------------------------|----------------------------------------|
+| Blood and lymphatic system disorders                 | FVIII inhibition                     | uncommon (PTPs) a very common (PUPs) a |
+| Immune system disorders                              | Hypersensitivity                     | common                                 |
+| Psychiatric disorders                                | Insomnia                             | common                                 |
+| Nervous system disorders                             | Headache                             | very common                            |
+| Nervous system disorders                             | Dizziness                            | common                                 |
+| Nervous system disorders                             | Dysgeusia                            | uncommon                               |
+| Vascular disorders                                   | Flushing                             | uncommon                               |
+| Respiratory, thoracic and mediastinal disorders      | Cough                                | common                                 |
+| Gastrointestinal disorders                           | Abdominal pain, Nausea, Vomiting     | common                                 |
+| Skin and subcutaneous tissue disorders               | Erythema c , Rash d                  | common                                 |
+| Skin and subcutaneous tissue disorders               | Pruritus                             | uncommon                               |
+| General disorders and administration site conditions | Injection site reactions b , Pyrexia | common                                 |
 
-PTPs: previously treated patients
+PTPs: previously treated patients; PUPs: previously untreated patients
 
-a Frequency is based on studies with all factor VIII products which included patients with severe haemophilia
+a Frequency is based on studies with all factor VIII products which included patients with severe
 
-A
+haemophilia A; Jivi was not studied in PUPs
 
 b Includes injection site pruritus, injection site rash, infusion site pain and vessel puncture site pruritus
 
-c  Includes erythema and erythema multiforme
+c Includes erythema and erythema multiforme
 
 d Includes rash and rash papular
 
@@ -323,7 +319,7 @@ Immunogenicity was evaluated during clinical studies with Jivi in 159 (including
 
 ## FVIII inhibitors
 
-No de novo or confirmed cases of inhibitor against factor VIII occurred. A single unconfirmed positive result of a low titre of factor VIII inhibitor (1.7 BU/mL) was reported in one adult patient undergoing surgery.
+No de novo or confirmed cases of inhibitor against factor VIII occurred. A single unconfirmed positive result of a low titre of factor VIII inhibitor (1.7 BU/mL) was reported in one adult patient undergoing surgery. Jivi was not studied in previously untreated patients.
 
 ## Anti-PEG antibodies
 
@@ -365,7 +361,7 @@ Damoctocog alfa pegol is a PEGylated form of rFVIII. Site-specific PEGylation re
 
 ## Clinical studies
 
-A total of 267 previously treated patients with severe haemophilia A have been exposed in the clinical study program which included 1 phase I study and 3 phase II/III studies. 219 patients were ≥ 7 years of age.
+A total of 267 previously treated patients with severe haemophilia A have been exposed in the clinical study program which included 1 phase I study and 3 phase II/III studies. 219 patients were ≥ 7 years of age. Jivi was not studied in previously untreated patients.
 
 ## Phase II/III
 
@@ -383,11 +379,9 @@ Alfa PROTECT: A single group treatment, open-label, study to evaluate the safety
 
 During the main study period patients were assigned to prophylaxis 2x/week (n=24) or randomized to every 5 days (n=43) or every 7 days (n=43) or received on-demand treatment (n=20) with Jivi. Ninety nine of 110 patients (90%) remained on the assigned regimen. Eleven patients in every 7 days arm increased frequency. The median dose for all prophylaxis regimens was 46.9 IU/kg/injection. The median (Q1; Q3) ABR during prophylaxis was 2.09 (0.0; 6.1) for all bleeds and 0.0 (0;0 4.2) for spontaneous bleeds as compared to 23.4 (18; 37) total bleeds in the on-demand group. Forty-two out of 110 in the prophylaxis arms (38.2%) experienced no bleeding episode.
 
-During the extension study (median duration of 3.2 years, range 0.1-6.3 years), 23 patients were treated 2x/week, 33 patients every 5-days, 23 patients every 7 days during total time in the extension
-
 <div style=\"page-break-after: always\"></div>
 
-study and 28 patients changed treatment regimen. The median dose for prophylaxis was 47.8 IU/kg. The overall median (Q1; Q3) total ABR was 1.49 (0.4; 4.8) and 0.75 (0.0: 2.9) for spontaneous bleeds in the combined prophylaxis groups and total ABR was 34.1 in the on-demand group. Of note, ABR is not comparable between different factor concentrates and between different clinical studies.
+During the extension study (median duration of 3.2 years, range 0.1-6.3 years), 23 patients were treated 2x/week, 33 patients every 5-days, 23 patients every 7 days during total time in the extension study and 28 patients changed treatment regimen. The median dose for prophylaxis was 47.8 IU/kg. The overall median (Q1; Q3) total ABR was 1.49 (0.4; 4.8) and 0.75 (0.0: 2.9) for spontaneous bleeds in the combined prophylaxis groups and total ABR was 34.1 in the on-demand group. Of note, ABR is not comparable between different factor concentrates and between different clinical studies.
 
 ## Treatment of bleeding
 
@@ -403,39 +397,39 @@ The use of Jivi in children below 7 years is not indicated (see section 4.2, for
 
 PROTECT Kids: A total of 73 previously treated paediatric patients (44 patients &lt; 6 years and 29 patients 6 to &lt; 12 years) received prophylaxis treatment twice weekly, every 5 days or every 7 days in the phase III study. For 53 patients who completed the main study, the median (Q1; Q3) annualised bleeding rate was 2.87 (1.1; 6.1) and the spontaneous ABR was 0.0 (0.0; 2.6). For treatment of bleeds, 84.4 % of the bleeds were resolved with 1 injection, and 91.9% of the bleeds were resolved with 1 or 2 injections.
 
-11 patients in the age group &lt; 6 years dropped out due to an immune response to PEG associated with loss of efficacy and/or hypersensitivity reaction during the first four ED. For 59 patients who continued in the extension study the overall median (Q1; Q3) ABR during the extension period was 1.64 (0.5; 3.1). For 30 patients ≥ 12 years at the end of the extension study, the median (Q1; Q3) ABR was 1.76 (0.5; 3.3).
+11 patients in the age group &lt; 6 years dropped out due to an immune response to PEG associated with loss of efficacy and/or hypersensitivity reaction during the first four ED.
+
+For 59 patients who continued in the extension study the overall median (Q1; Q3) ABR during the extension period was 1.64 (0.5; 3.1). For 30 patients ≥ 12 years at the end of the extension study, the median (Q1; Q3) ABR was 1.76 (0.5; 3.3).
 
 Alfa PROTECT: A total of 35 PTP (7 to &lt; 12 years) received prophylaxis treatment twice weekly (4060 IU/kg) with median dose of 55 IU/kg. The median (Q1; Q3) annualized bleed rate in the efficacy population (32 patients) was 0.0 (0.0; 1.9). Bleeds were resolved with 1 or 2 injections in 95.2 %. One patient presented an immune response to PEG associated with loss of drug effect within the first 4 ED. Patient discontinued treatment for 2 months, antibodies disappeared and patient could restart treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+PROTECT Kids and Alfa-PROTECT extension studies in patients 7 to &lt;12 years of age (pooled analysis)
+
+A total of 74 PTP (7 to &lt; 12 years) received prophylaxis treatment, 42 of them twice weekly (2560 IU/kg) with a mean dose of 46 IU/kg. The median (Q1; Q3) ABR was 0.0 (0.0; 1.4). A total of 28 patients received prophylaxis treatment every 5 days (45-60 IU/kg) with a mean dose of 55.0 IU/kg. The median ABR was 1.4 (0.7; 5.0).
 
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetics (PK) of Jivi was compared to that of factor VIII in a crossover Phase I study. PK was also evaluated in 12 patients aged 7 to &lt; 12 years [PROTECT Kids] and 22 patients aged ≥12 years [PROTECT VIII], and in 16 of these patients after 6 months of prophylaxis treatment in the Phase II/III study.
 
-The PK data (based on chromogenic assay) indicated that Jivi has a reduced clearance (CL), resulting in a terminal half-life that is 1.4-fold longer and a dose normalized AUC which is 1.4-fold higher, as
-
-<div style=\"page-break-after: always\"></div>
-
-compared to the comparative factor VIII product. Dose proportional increases were observed between the doses of 25 and 60 IU/kg indicating dose linearity between 25 IU/kg and 60 IU/kg.
+The PK data (based on chromogenic assay) indicated that Jivi has a reduced clearance (CL), resulting in a terminal half-life that is 1.4-fold longer and a dose normalized AUC which is 1.4-fold higher, as compared to the comparative factor VIII product. Dose proportional increases were observed between the doses of 25 and 60 IU/kg indicating dose linearity between 25 IU/kg and 60 IU/kg.
 
 Table 3 summarizes the PK parameters after single dose of 60 IU/kg in 12 patients aged 7 to &lt; 12 years and in 22 patients ≥ 12 years. Repeated PK measurements in patients ≥ 12 years did not indicate any relevant changes in PK characteristics after long-term treatment.
 
-Table 3: Pharmacokinetic parameters (geometric mean (%CV) and arithmetic mean (  SD)) for Jivi following a single 60 IU/kg dose based on chromogenic assay
+Table 3: Pharmacokinetic parameters (geometric mean (%CV) and arithmetic mean (SD)) for Jivi following a single 60 IU/kg dose based on chromogenic assay
 
 | Parameters (units)   | Jivi Patients ≥ 12 years n=22 PROTECT VIII   | Jivi Patients 7 to < 12 years n=12 PROTECT Kids   |
 |----------------------|----------------------------------------------|---------------------------------------------------|
 | AUC (IU*h/dL)        | 3710 (33.8) 3900 ± 1280                      | 2842 (20.3) 2892.8± 546.83                        |
 | AUC, norm (h*kg/dL)  | 62.5 (33.7) 65.7 ± 21.4                      | 47.5 (19.6) 48.3 ± 8.9                            |
-| C max (IU/dL)        | 163 (14.7) 164 ± 23.8                        | 128 (19.9) 130 ± 25.0                             |
-| t ½ (h)              | 17.1 (27.1) 17.6 ± 4.26                      | 15.6 (23.5) 16.0± 3.6                             |
-| MRT IV (h)           | 24.4 (27.5) 25.2 ± 6.19                      | 23.5 (24.4) 24.2 ± 5.7                            |
-| V ss (dL/kg)         | 0.391 (16.3) 0.396 ± 0.0631                  | 0.496 (20.2) 0.505 ± 0.099                        |
+| Cmax (IU/dL)         | 163 (14.7) 164 ± 23.8                        | 128 (19.9) 130 ± 25.0                             |
+| t½ (h)               | 17.1 (27.1) 17.6 ± 4.26                      | 15.6 (23.5) 16.0± 3.6                             |
+| MRTIV (h)            | 24.4 (27.5) 25.2 ± 6.19                      | 23.5 (24.4) 24.2 ± 5.7                            |
+| Vss (dL/kg)          | 0.391 (16.3) 0.396 ± 0.0631                  | 0.496 (20.2) 0.505 ± 0.099                        |
 | CL (dL/h/kg)         | 0.0160 (33.7) 0.0168 ± 0.00553               | 0.0211 (19.6) 0.0214 ± 0.00433                    |
 
-AUC: area under the curve; AUC, norm: dose normalized AUC Cmax: maximum drug concentration
-
-t½: terminal half-life; MRT IV : mean residence time after an intravenous administration
-
-VSS: apparent volume distribution at steady-state
+AUC: area under the curve; AUC, norm: dose normalized AUC Cmax: maximum drug concentration t½: terminal half-life; MRT IV : mean residence time after an intravenous administration VSS: apparent volume distribution at steady-state
 
 CL: clearance
 
@@ -443,19 +437,19 @@ Incremental recovery was determined in 131 patients ≥ 12 years at several time
 
 A population PK model was developed based on all available factor VIII measurements (from dense PK sampling and all recovery samples) throughout the 3 clinical studies allowing calculation of PK parameters for patients in the various studies. The table 4 below provides PK parameters based on the population PK model.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4: PK parameters (geometric mean [%CV]) based on population PK model, using chromogenic assay
 
 | PK parameter (unit)   | 7 to < 12 years N=25   | 12 to < 18 years N=12   | ≥ 18 years N=133   | Total (≥ 12 years) N=145   |
 |-----------------------|------------------------|-------------------------|--------------------|----------------------------|
 | AUC (IU.h/dL)*        | 2694 (23)              | 3341 (34.2)             | 4052 (31.1)        | 3997 (31.6)                |
 | AUCnorm (kg.h/dL)     | 44.9 (23)              | 57.4 (32.6)             | 67.5 (30.6)        | 66.6 (31.0)                |
-| t 1/2 (h)             | 15.0 (19.3)            | 16.8 (25.2)             | 17.4 (28.8)        | 17.4 (28.4)                |
-| V ss (dL/kg)          | 0.481 (15.3)           | 0.423 (15.5)            | 0.373 (15.6)       | 0.376 (15.9)               |
+| t1/2 (h)              | 15.0 (19.3)            | 16.8 (25.2)             | 17.4 (28.8)        | 17.4 (28.4)                |
+| Vss (dL/kg)           | 0.481 (15.3)           | 0.423 (15.5)            | 0.373 (15.6)       | 0.376 (15.9)               |
 | CL (dL/h/kg)          | 0.0223 (22.9)          | 0.0174 (34.2)           | 0.0148 (31.1)      | 0.0150 (31.6)              |
 
 *AUC calculated for a dose of 60 IU/kg
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -469,23 +463,25 @@ No long-term studies in animals to evaluate the carcinogenic potential of Jivi, 
 
 ## 6.1 List of excipients
 
-Powder Sucrose Histidine Glycine (E 640) Sodium chloride Calcium chloride dihydrate (E 509) Polysorbate 80 (E 433) Acetic acid, glacial (for pH adjustment) (E 260)
+Powder Sucrose Histidine Glycine (E 640) Sodium chloride Calcium chloride dihydrate (E 509) Polysorbate 80 (E 433)
+
+Acetic acid, glacial (for pH adjustment) (E 260)
 
 Solvent Water for injections
 
 ## 6.2 Incompatibilities
 
-In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products .
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 Only the components provided in the package should be used for reconstitution and injection because treatment failure can occur as a consequence of factor VIII adsorption to the internal surfaces of some injection equipment.
 
 ## 6.3 Shelf life
 
-Unopened vial
+## Unopened vial
 
 2 years.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reconstituted solution
 
@@ -515,10 +511,10 @@ Each single package of Jivi contains:
 - one vial adapter (with integrated filter)
 - one venipuncture set
 
-## Pack sizes
+Pack sizes
 
-- -1 single pack.
-- -1 multipack with 30 single packs.
+- 1 single pack.
+- 1 multipack with 30 single packs.
 
 Not all pack sizes may be marketed.
 
@@ -526,13 +522,13 @@ Not all pack sizes may be marketed.
 
 Jivi powder should only be reconstituted with the supplied solvent (2.5 mL or 5 mL water for injections) in the prefilled-syringe and the vial adapter. The medicinal product must be prepared for injection under aseptic conditions. If any component of the package is opened or damaged, do not use this component.
 
+<div style=\"page-break-after: always\"></div>
+
 After reconstitution the solution is clear and colourless and then drawn back into the syringe.
 
 Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration.
 
 The reconstituted product must be filtered prior to administration to remove potential particulate matter in the solution. Filtering is achieved by using the vial adapter.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Detailed instructions for reconstitution and administration of Jivi
 
@@ -552,27 +548,25 @@ You will need alcohol swabs, gauze pads, plasters and tourniquet. These items ar
 
 <!-- image -->
 
-<!-- image -->
-
-|   1. | Wash your hands thoroughly using soap and warm water.                                                                                                                                                                                                                                                                                                     | Wash your hands thoroughly using soap and warm water.                                                                 |
-|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-|    2 | Hold an unopened vial and also a syringe in your hands to warm it to a comfortable temperature (do not exceed 37 °C).                                                                                                                                                                                                                                     | Hold an unopened vial and also a syringe in your hands to warm it to a comfortable temperature (do not exceed 37 °C). |
-|    3 | Remove the protective cap from the vial (A) . Wipe the rubber stopper on the vial with an alcohol swab and allow the stopper to air dry before use.                                                                                                                                                                                                       |                                                                                                                       |
-|    4 | Place the powder vial on a firm, non-slip surface. Peel off the paper cover on the plastic housing of the vial adapter. Do not remove the adapter from the plastic housing. Holding the adapter housing, place over the powder vial and firmly press down (B) . The adapter will snap over the vial cap. Do not remove the adapter housing at this point. |                                                                                                                       |
-|    5 | Hold the pre-filled syringe with solvent upright. Grasp the plunger rod as per the picture and attach the rod by turning it firmly clockwise into the threaded stopper (C).                                                                                                                                                                               |                                                                                                                       |
-|    6 | Holding the syringe by the barrel, snap the syringe cap off the tip (D) . Do not touch the syringe tip with your hand or any surface. Set the syringe aside for further use.                                                                                                                                                                              |                                                                                                                       |
-|    7 | Now remove and discard the adapter housing (E) .                                                                                                                                                                                                                                                                                                          |                                                                                                                       |
-|    8 | Attach the pre-filled syringe to the threaded vial adapter by turning clockwise (F).                                                                                                                                                                                                                                                                      |                                                                                                                       |
-|    9 | Inject the solvent by slowly pushing down on the plunger rod (G) .                                                                                                                                                                                                                                                                                        |                                                                                                                       |
-|   10 | Swirl vial gently until all the powder is dissolved (H) . Do not shake the vial. Be sure that the powder is completely dissolved. Look to check there are no particles or discoloration before you use the solution. Do not use solutions containing visible particles or that are cloudy.                                                                |                                                                                                                       |
+|   1. | Wash your hands thoroughly using soap and warm water.                                                                                                                                                                                                                                                                                                    |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   2. | Hold an unopened vial and also a syringe in your hands to warm it to a comfortable temperature (do not exceed 37 °C).                                                                                                                                                                                                                                    |
+|   3. | Remove the protective cap from the vial (A). Wipe the rubber stopper on the vial with an alcohol swab and allow the stopper to air dry before use.                                                                                                                                                                                                       |
+|   4. | Place the powder vial on a firm, non-slip surface. Peel off the paper cover on the plastic housing of the vial adapter. Do not remove the adapter from the plastic housing. Holding the adapter housing, place over the powder vial and firmly press down (B). The adapter will snap over the vial cap. Do not remove the adapter housing at this point. |
+|   5. | Hold the pre-filled syringe with solvent upright. Grasp the plunger rod as per the picture and attach the rod by turning it firmly clockwise into the threaded stopper (C).                                                                                                                                                                              |
+|   6. | Holding the syringe by the barrel, snap the syringe cap off the tip (D). Do not touch the syringe tip with your hand or any surface. Set the syringe aside for further use.                                                                                                                                                                              |
+|   7. | Now remove and discard the adapter housing (E).                                                                                                                                                                                                                                                                                                          |
+|   8. | Attach the pre-filled syringe to the threaded vial adapter by turning clockwise (F).                                                                                                                                                                                                                                                                     |
+|   9. | Inject the solvent by slowly pushing down on the plunger rod (G).                                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-11. Hold the vial on the end above the vial adapter and syringe (I) . Fill the syringe by drawing the plunger out slowly and smoothly. Ensure that the full content of the vial is drawn into the syringe. Hold the syringe upright and push the plunger until no air is left in the syringe.
+10. Swirl vial gently until all the powder is dissolved (H). Do not shake the vial. Be sure that the powder is completely dissolved. Look to check there are no particles or discoloration before you use the solution. Do not use solutions containing visible particles or that are cloudy.
+11. Hold the vial on the end above the vial adapter and syringe (I). Fill the syringe by drawing the plunger out slowly and smoothly. Ensure that the full content of the vial is drawn into the syringe. Hold the syringe upright and push the plunger until no air is left in the syringe.
 12. Apply a tourniquet to your arm.
 13. Determine the point of injection and clean the skin.
 14. Puncture the vein and secure the venipuncture set with a plaster.
-15. Holding the vial adapter in place, remove the syringe from the vial adapter (the adapter should remain attached to the vial). Attach the syringe to the venipuncture set (J) . Ensure that no blood enters the syringe
+15. Holding the vial adapter in place, remove the syringe from the vial adapter (the adapter should remain attached to the vial). Attach the syringe to the venipuncture set (J). Ensure that no blood enters the syringe
 16. Remove tourniquet.
 17. Inject the solution into a vein over 2 to 5 minutes, keeping an eye on the position of the needle. The speed of injection should be based on your comfort, but should not be faster than 2.5 mL per minute.
 18. If a further dose is needed, use a new syringe with the powder reconstituted as described above.
@@ -592,13 +586,17 @@ Bayer AG 51368 Leverkusen Germany
 
 <!-- image -->
 
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 ```
-EU/1/18/1324/001 - 1 x (Jivi 250 IU) EU/1/18/1324/002 - 1 x (Jivi 500 IU) EU/1/18/1324/003 - 1 x (Jivi 1000 IU) EU/1/18/1324/004 - 1 x (Jivi 2000 IU) EU/1/18/1324/005 - 1 x (Jivi 3000 IU) EU/1/18/1324/006 - 30 x (Jivi 250 IU) EU/1/18/1324/007 - 30 x (Jivi 500 IU) EU/1/18/1324/008 - 30 x (Jivi 1000 IU) EU/1/18/1324/009 - 30 x (Jivi 2000 IU) EU/1/18/1324/010 - 30 x (Jivi 3000 IU) EU/1/18/1324/011 - 1 x (Jivi 4000 IU) EU/1/18/1324/012 - 30 x (Jivi 4000 IU)
+EU/1/18/1324/001 - 1 x (Jivi 250 IU) EU/1/18/1324/002 - 1 x (Jivi 500 IU) EU/1/18/1324/003 - 1 x (Jivi 1000 IU) EU/1/18/1324/004 - 1 x (Jivi 2000 IU) EU/1/18/1324/005 - 1 x (Jivi 3000 IU) EU/1/18/1324/006 - 30 x (Jivi 250 IU) EU/1/18/1324/007 - 30 x (Jivi 500 IU) EU/1/18/1324/008 - 30 x (Jivi 1000 IU) EU/1/18/1324/009 - 30 x (Jivi 2000 IU) EU/1/18/1324/010 - 30 x (Jivi 3000 IU) EU/1/18/1324/011 - 1 x (Jivi 4000 IU)
 ```
+
+EU/1/18/1324/012 - 30 x (Jivi 4000 IU)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -620,7 +618,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -628,7 +626,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Bayer HealthCare LLC 800 Dwight Way Berkeley CA 94710 United States
+Bayer HealthCare LLC 800 Dwight Way Berkeley CA 94710
+
+United States
 
 Name and address of the manufacturer responsible for batch release
 
@@ -667,9 +667,9 @@ result of an important (pharmacovigilance or risk minimisation) milestone being 
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                   | Due date                                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Post Authorisation Safety Study (PASS): In order to investigate the potential effects of PEG accumulation in the choroid plexus of the brain and other tissues/organs, the MAHshould conduct and submit the results of a non- interventional post-authorisation safety study according to an agreed protocol. | Final study protocol should be submitted within 3 months after CHMP Opinion. Final study report should be submitted by 31 December 2028 |
+| Description                                                                                                                                                                                                                                                                                                    | Due date                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Post Authorisation Safety Study (PASS): In order to investigate the potential effects of PEG accumulation in the choroid plexus of the brain and other tissues/organs, the MAH should conduct and submit the results of a non- interventional post-authorisation safety study according to an agreed protocol. | Final study report should be submitted by 31 December 2028 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -716,6 +716,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -768,7 +778,7 @@ EU/1/18/1324/001 - 1 x (Jivi 250 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 250
 
 <div style=\"page-break-after: always\"></div>
 
@@ -781,15 +791,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 250
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -797,7 +805,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
+## OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -866,11 +874,7 @@ Any unused solution must be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
-
-Germany
+Bayer AG 51368 Leverkusen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -895,8 +899,8 @@ Jivi 250
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -937,6 +941,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -989,7 +1003,7 @@ EU/1/18/1324/006 - 30 x (Jivi 250 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 250
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1002,13 +1016,11 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 250
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1034,7 +1046,7 @@ Lot
 
 250 IU (damoctocog alfa pegol) .
 
-## 6. OTHER
+6. OTHER
 
 Bayer-Logo
 
@@ -1073,6 +1085,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1125,7 +1147,7 @@ EU/1/18/1324/002 - 1 x (Jivi 500 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 500
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1138,15 +1160,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 500
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1154,7 +1174,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
+## OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1223,11 +1243,7 @@ Any unused solution must be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
-
-Germany
+Bayer AG 51368 Leverkusen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1252,8 +1268,8 @@ Jivi 500
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1294,6 +1310,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1346,7 +1372,7 @@ EU/1/18/1324/007 - 30 x (Jivi 500 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 500
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1359,19 +1385,15 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 500
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-42
+<div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-POWDER VIAL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1385,7 +1407,7 @@ PEGylated B-domain deleted recombinant human coagulation factor VIII (damoctocog
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1396,8 +1418,6 @@ Lot
 ## 6. OTHER
 
 Bayer-Logo
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1434,6 +1454,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1486,7 +1516,7 @@ EU/1/18/1324/003 - 1 x (Jivi 1000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 1000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1499,25 +1529,21 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 1000
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
-
-46
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
+## OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1586,11 +1612,7 @@ Any unused solution must be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
-
-Germany
+Bayer AG 51368 Leverkusen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1615,8 +1637,8 @@ Jivi 1000
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1657,6 +1679,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1709,7 +1741,7 @@ EU/1/18/1324/008 - 30 x (Jivi 1000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 1000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1722,13 +1754,11 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 1000
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL
 
@@ -1739,7 +1769,6 @@ Jivi 1000 IU powder for solution for injection
 PEGylated B-domain deleted recombinant human coagulation factor VIII (damoctocog alfa pegol) Intravenous use.
 
 2. METHOD OF ADMINISTRATION
-
 3. EXPIRY DATE
 
 EXP
@@ -1796,6 +1825,16 @@ For reconstitution using the vial adapter read package leaflet before use.
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
@@ -1845,7 +1884,7 @@ EU/1/18/1324/004 -1 x ( Jivi 2000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 2000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1858,15 +1897,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 2000
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1874,7 +1911,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
+## OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1943,11 +1980,7 @@ Any unused solution must be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
-
-Germany
+Bayer AG 51368 Leverkusen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1972,8 +2005,8 @@ Jivi 2000
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2014,6 +2047,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -2066,7 +2109,7 @@ EU/1/18/1324/009 - 30 x (Jivi 2000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 2000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2079,13 +2122,11 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 2000
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL
 
@@ -2096,7 +2137,6 @@ Jivi 2000 IU powder for solution for injection
 PEGylated B-domain deleted recombinant human coagulation factor VIII (damoctocog alfa pegol) Intravenous use.
 
 2. METHOD OF ADMINISTRATION
-
 3. EXPIRY DATE
 
 EXP
@@ -2212,7 +2252,7 @@ EU/1/18/1324/005 - 1 x (Jivi 3000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 3000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2225,15 +2265,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 3000
-
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2241,7 +2279,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
+## OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2310,9 +2348,7 @@ Any unused solution must be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
+Bayer AG 51368 Leverkusen
 
 Germany
 
@@ -2340,8 +2376,8 @@ Jivi 3000
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2444,7 +2480,7 @@ EU/1/18/1324/010 - 30 x (Jivi 3000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 3000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2457,13 +2493,11 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 3000
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL
 
@@ -2474,16 +2508,17 @@ Jivi 3000 IU powder for solution for injection
 PEGylated B-domain deleted recombinant human coagulation factor VIII (damoctocog alfa pegol) Intravenous use.
 
 2. METHOD OF ADMINISTRATION
-
 3. EXPIRY DATE
 
 EXP
 
-4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 000 IU (damoctocog alfa pegol).
 
@@ -2590,7 +2625,7 @@ EU/1/18/1324/011 - 1 x (Jivi 4000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 4000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2603,15 +2638,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 4000
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2619,7 +2652,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
+## OUTER LABEL OF MULTIPACK WITH 30 SINGLE PACKS (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2688,9 +2721,7 @@ Any unused solution must be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
+Bayer AG 51368 Leverkusen
 
 Germany
 
@@ -2718,8 +2749,8 @@ Jivi 4000
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2760,6 +2791,16 @@ Read the package leaflet before use.
 For intravenous use.
 
 For reconstitution using the vial adapter read package leaflet before use.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -2812,7 +2853,7 @@ EU/1/18/1324/012 - 30 x (Jivi 4000 IU)
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Jivi 4000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2825,19 +2866,17 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Jivi 4000
-
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-POWDER VIAL
+## POWDER VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2865,15 +2904,17 @@ Bayer-Logo
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND IF NECESSARY ROUTE(S) OF ADMINISTRATION   |
-|------|--------------------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND IF NECESSARY ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------------------------------------------|
 
 Water for injections
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2885,8 +2926,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 - 2.5 mL [for reconstitution of strengths 250/500/1 000/2 000/3 000 IU]
 
@@ -2895,17 +2936,18 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND IF NECESSARY ROUTE(S) OF ADMINISTRATION   |
-|------|--------------------------------------------------------------------------|
+1. NAME OF THE MEDICINAL PRODUCT AND IF NECESSARY ROUTE(S) OF
+
+ADMINISTRATION
 
 Water for injections
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2917,15 +2959,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 mL [for reconstitution of strength 4 000 IU]
 
 | 6.   | OTHER   |
 |------|---------|
-
-85
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2943,10 +2983,10 @@ PEGylated B-domain deleted recombinant human coagulation factor VIII (damoctocog
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2959,9 +2999,11 @@ PEGylated B-domain deleted recombinant human coagulation factor VIII (damoctocog
 
 ## 1. What Jivi is and what it is used for
 
-Jivi contains the active substance damoctocog alfa pegol. It is produced by recombinant technology without addition of any human- or animal-derived components in the manufacturing process. Factor VIII is a protein naturally found in the blood that helps to clot it. The protein in damoctocog alfa pegol has been modified (pegylated) to prolong its action in the body.
+Jivi contains the active substance damoctocog alfa pegol. It is produced by recombinant technology
 
-Jivi is used to treat and prevent bleeding in previously treated adults, adolescents and children aged 7 years or more with haemophilia A (hereditary factor VIII deficiency). It is not for use in children younger than 7 years of age.
+without addition of any human- or animal-derived components in the manufacturing process. Factor VIII is a protein naturally found in the blood that helps to clot it. The protein in damoctocog alfa pegol has been modified (pegylated) to prolong its action in the body.
+
+Jivi is used to treat and prevent bleeding in adults, adolescents and children aged 7 years or more with haemophilia A (hereditary factor VIII deficiency). It is not for use in children younger than 7 years of age.
 
 ## 2. What you need to know before you use Jivi
 
@@ -3037,8 +3079,9 @@ To prevent bleeding your doctor will select an appropriate dose and frequency de
 - 60 IU per kg body weight every 7 days or
 - 30-40 IU per kg body weight two times per week.
 - For children 7 to below 12 years of age
-- 40-60 IU per kg body weight two times per week.
-- 60 IU per kg body weight starting dose two times per week.
+- Starting dose: 60 IU per kg body weight two times per week.
+- Maintenance dose: 40-60 IU per kg body weight two times per week.
+- Your doctor may choose another dose or how often the injections should be given, based on your need.
 
 ## Laboratory tests
 
@@ -3066,7 +3109,7 @@ Tell your doctor if this occurs. No symptoms of overdose have been reported.
 
 ## If you forget to use Jivi
 
-Inject your next dose immediately and continue at regular intervals as advised by your doctor. Do not use a double dose to make up for a forgotten dose .
+Inject your next dose immediately and continue at regular intervals as advised by your doctor. Do not use a double dose to make up for a forgotten dose.
 
 ## If you stop using Jivi
 
@@ -3088,7 +3131,7 @@ The most serious side effects are allergic reactions or severe allergic reaction
 - a reduction in blood pressure, which may make you feel faint upon standing
 - feeling sick (nausea)
 
-For patients who have received previous treatment with factor VIII (more than 150 days of treatment) inhibitor antibodies (see section 2) may form uncommonly (less than 1 in 100 patients). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
+For children not previously treated with factor VIII medicines, formation of inhibitor antibodies (see section 2) is very common (may affect more than 1 in 10 patients). For patients who have received previous treatment with factor VIII (more than 150 days of treatment) inhibitor antibodies (see section 2) may form uncommonly (less than 1 in 100 patients). If this happens your medicine may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
 
 The following side effects may occur with this medicine:
 
@@ -3148,7 +3191,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Jivi contains
 
 - The active substance is PEGylated B-domain deleted recombinant human coagulation factor VIII (damoctocog alfa pegol). Each vial of Jivi contains nominally 250 or 500 or 1 000 or 2 000 or 3 000 or 4 000 IU damoctocog alfa pegol. After reconstitution with the supplied solvent (sterile water for injection), the prepared solutions have the following concentration:
-- The other ingredients are sucrose, histidine, glycine (E 640), sodium chloride, calcium chloride dihydrate (E 509), polysorbate 80 (E 433), acetic acid glacial ( E 260) and water for injections. See section 2 'Jivi contains sodium' and 'Jivi contains polysorbate 80 (E 433)'.
+- The other ingredients are sucrose, histidine, glycine (E 640), sodium chloride, calcium chloride dihydrate (E 509), polysorbate 80 (E 433), acetic acid glacial ( E 260) and water for injections. See section 2 \"Jivi contains sodium\" and \"Jivi contains polysorbate 80 (E 433)\".
 
 | Strength   | Concentration after reconstitution approximately   |
 |------------|----------------------------------------------------|
@@ -3173,8 +3216,8 @@ Each single pack of Jivi contains:
 
 Jivi is available in pack sizes of:
 
-- -1 single pack
-- -1 multipack with 30 single packs
+- 1 single pack
+- 1 multipack with 30 single packs
 
 Not all pack sizes may be marketed.
 
@@ -3188,7 +3231,9 @@ Bayer AG 51368 Leverkusen Germany
 
 Bayer AG Kaiser-Wilhelm-Allee 51368 Leverkusen Germany
 
-Bayer AG Müllerstraße 178 13353 Berlin Germany
+Bayer AG Müllerstraße 178 13353 Berlin
+
+Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -3206,7 +3251,9 @@ Tел.: +359-(0)2-424 72 80
 
 ## Česká republika
 
-Bayer s.r.o. Tel: +420 266 101 111
+Bayer s.r.o.
+
+Tel: +420 266 101 111
 
 ## Danmark
 
@@ -3302,23 +3349,11 @@ Bayer d.o.o.
 
 Tel: +385-(0)1-6599 900
 
-## România
-
-SC Bayer SRL
-
-Tel: +40 21 529 59 00
-
 ## Ireland
 
 Bayer Limited
 
 Tel: +353 1 216 3300
-
-## Slovenija
-
-Bayer d. o. o.
-
-Tel: +386 (0)1 58 14 400
 
 ## Ísland
 
@@ -3326,23 +3361,11 @@ Icepharma hf.
 
 Sími: +354 540 8 000
 
-## Slovenská republika
-
-Bayer spol. s r.o.
-
-Tel. +421 2 59 21 31 11
-
 ## Italia
 
 Bayer S.p.A.
 
 Tel: +39 02 397 8 1
-
-## Suomi/Finland
-
-Bayer Oy
-
-Puh/Tel: +358- 20 785 21
 
 ## Κύπρος
 
@@ -3350,19 +3373,43 @@ NOVAGEM Limited
 
 Tηλ: +357 22 48 38 58
 
+## Latvija
+
+SIA Bayer
+
+Tel: +371 67 84 55 63
+
+## România
+
+SC Bayer SRL
+
+Tel: +40 21 529 59 00
+
+## Slovenija
+
+Bayer d. o. o.
+
+Tel: +386 (0)1 58 14 400
+
+## Slovenská republika
+
+Bayer spol. s r.o.
+
+Tel. +421 2 59 21 31 11
+
+## Suomi/Finland
+
+Bayer Oy
+
+Puh/Tel: +358- 20 785 21
+
 ## Sverige
 
 Bayer AB
 
 Tel: +46 (0) 8 580 223 00
 
-## Latvija
-
-SIA Bayer
-
 <div style=\"page-break-after: always\"></div>
-
-Tel: +371 67 84 55 63
 
 ## This leaflet was last revised in
 
@@ -3376,77 +3423,47 @@ You will need alcohol swabs, gauze pads, plasters and tourniquet. These items ar
 
 1. Wash your hands thoroughly using soap and warm water.
 2. Hold an unopened vial and also a syringe in your hands to warm it to a comfortable temperature (do not exceed 37 °C).
-3. Remove the protective cap from the vial (A) . Wipe the rubber stopper on the vial with an alcohol swab and allow the stopper to air dry before use.
-4. Place the powder vial on a firm, non-slip surface. Peel off the paper cover on the plastic housing of the vial adapter. Do not remove the adapter from the plastic housing. Holding the adapter housing, place over the powder vial and firmly press down (B) . The adapter will snap over the vial cap. Do not remove the adapter housing at this point.
+3. Remove the protective cap from the vial (A). Wipe the rubber stopper on the vial with an alcohol swab and allow the stopper to air dry before use.
+4. Place the powder vial on a firm, non-slip surface. Peel off the paper cover on the plastic housing of the vial adapter. Do not remove the adapter from the plastic housing. Holding the adapter housing, place over the powder vial and firmly press down (B). The adapter will snap over the vial cap. Do not remove the adapter housing at this point.
+
+<!-- image -->
+
+5. Hold the pre-filled syringe with solvent upright. Grasp the plunger rod as per the picture and attach the rod by turning it firmly clockwise into the threaded stopper (C).
+6. Holding the syringe by the barrel, snap the syringe cap off the tip (D). Do not touch the syringe tip with your hand or any surface. Set the syringe aside for further use.
+7. Now remove and discard the adapter housing (E).
+8. Attach the pre-filled syringe to the threaded vial adapter by turning clockwise (F).
+9. Inject the solvent by slowly pushing down on the plunger rod (G).
+10. Swirl vial gently until all the powder is dissolved (H). Do not shake the vial. Be sure that the powder is completely dissolved. Look to check there are no particles or discoloration before you use the solution. Do not use solutions containing visible particles or that are cloudy.
+11. Hold the vial on the end above the vial adapter and syringe (I). Fill the syringe by drawing the plunger out slowly and smoothly. Ensure that the full content of the vial is drawn into the syringe. Hold the syringe upright and push the plunger until no air is left in the syringe.
+12. Apply a tourniquet to your arm.
+13. Determine the point of injection and clean the skin.
+14. Puncture the vein and secure the venipuncture set with a plaster.
+15. Holding the vial adapter in place, remove the syringe from the vial adapter (the adapter should remain attached to the vial). Attach the syringe to the venipuncture set (J). Ensure that no blood enters the syringe
+16. Remove tourniquet.
+17. Inject the solution into a vein over 2 to 5 minutes, keeping an eye on the position of the needle. The speed of injection should be based on your comfort, but should not be faster than 2.5 mL per minute.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-5. Hold the pre-filled syringe with solvent upright. Grasp the plunger rod as per the picture and attach the rod by turning it firmly clockwise into the threaded stopper (C).
-
-6. Holding the syringe by the barrel, snap the syringe cap off the tip (D) . Do not touch the syringe tip with your hand or any surface. Set the syringe aside for further use.
-
-7. Now remove and discard the adapter housing (E) .
-
-8. Attach the pre-filled syringe to the threaded vial adapter by turning clockwise (F).
-
-9. Inject the solvent by slowly pushing down on the plunger rod (G) .
-
-10. Swirl vial gently until all the powder is dissolved (H) . Do not shake the vial. Be sure that the powder is completely dissolved. Look to check there are no particles or discoloration before you use the solution. Do not use solutions containing visible particles or that are cloudy.
-
-11. Hold the vial on the end above the vial adapter and syringe (I) . Fill the syringe by drawing the plunger out slowly and smoothly. Ensure that the full content of the vial is drawn into the syringe. Hold the syringe upright and push the plunger until no air is left in the syringe.
-
-12. Apply a tourniquet to your arm.
-
-13. Determine the point of injection and clean the skin.
-
-14. Puncture the vein and secure the venipuncture set with a plaster.
-
-15. Holding the vial adapter in place, remove the syringe from the vial adapter (the adapter should remain attached to the vial). Attach the syringe to the venipuncture set (J) . Ensure that no blood enters the syringe
-
-16. Remove tourniquet.
-
-17. Inject the solution into a vein over 2 to 5 minutes, keeping an eye on the position of the needle. The speed of injection should be based on your comfort, but should not be faster than 2.5 mL per minute.
-
-C
-
-D
-
-E
-
-F
-
-1
-
-G
-
-H
-
-e
 
 <div style=\"page-break-after: always\"></div>
 
 |   18. | If a further dose is needed, use a new syringe with the powder reconstituted as described above.                                                                                                                                                                        |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    19 | If no further dose is required, remove the venipuncture set and syringe. Hold a pad firmly over the injection site on your outstretched arm for about 2 minutes. Finally, apply a small pressure dressing to the injection site and consider if a plaster is necessary. |
-|    20 | It is recommended that every time you use Jivi, you note down the name and the batch number of the product.                                                                                                                                                             |
-|    21 | Do not throw away any medicines via wastewater or household waste. Ask your pharmacist or physician how to throw away medicines you no longer use. These measures will help protect the environment                                                                     |
+|   19. | If no further dose is required, remove the venipuncture set and syringe. Hold a pad firmly over the injection site on your outstretched arm for about 2 minutes. Finally, apply a small pressure dressing to the injection site and consider if a plaster is necessary. |
+|   20. | It is recommended that every time you use Jivi, you note down the name and the batch number of the product.                                                                                                                                                             |
+|   21. | Do not throw away any medicines via wastewater or household waste. Ask your pharmacist or physician how to throw away medicines you no longer use. These measures will help protect the environment                                                                     |

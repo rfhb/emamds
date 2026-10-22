@@ -1,30 +1,28 @@
 ---
-document_datetime: 2026-06-01 15:09:19
-document_pages: 29
+document_datetime: 2026-10-19 16:42:13
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/capvaxive-epar-product-information_en.pdf
 document_name: capvaxive-epar-product-information_en.pdf
 version: success
-processing_time: 18.0608887
-conversion_datetime: 2026-06-04 22:38:02.371157
+processing_time: 24.3152126
+conversion_datetime: 2026-10-22 22:37:07.072105
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-This medicinal product is subject to additional monitoring. This will allow quick identif ication of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -38,15 +36,15 @@ CAPVAXIVE solution for injection in pre-filled syringe Pneumococcal polysacchari
 Pneumococcal polysaccharide serotype 3 1 4 mcg Pneumococcal polysaccharide serotype 6A 1 4 mcg Pneumococcal polysaccharide serotype 7F 1 4 mcg Pneumococcal polysaccharide serotype 8 1 4 mcg Pneumococcal polysaccharide serotype 9N 1 4 mcg Pneumococcal polysaccharide serotype 10A 1 4 mcg Pneumococcal polysaccharide serotype 11A 1 4 mcg Pneumococcal polysaccharide serotype 12F 1 4 mcg Pneumococcal polysaccharide serotype 15A 1 4 mcg Pneumococcal polysaccharide from deOAc15B (de-O-acetylated serotype 15B) 1 4 mcg Pneumococcal polysaccharide serotype 16F 1 4 mcg Pneumococcal polysaccharide serotype 17F 1 4 mcg Pneumococcal polysaccharide serotype 19A 1 4 mcg Pneumococcal polysaccharide serotype 20A 1 4 mcg Pneumococcal polysaccharide serotype 22F 1 4 mcg Pneumococcal polysaccharide serotype 23A 1 4 mcg Pneumococcal polysaccharide serotype 23B 1 4 mcg Pneumococcal polysaccharide serotype 24F 1 4 mcg Pneumococcal polysaccharide serotype 31 1 4 mcg Pneumococcal polysaccharide serotype 33F 1 4 mcg Pneumococcal polysaccharide serotype 35B 1 4 mcg
 ```
 
-1 Conjugated to CRM197 carrier protein. CRM197 is a nontoxic mutant of diphtheria toxin (originating from Corynebacterium diphtheriae C7) expressed recombinantly in Pseudomonas fluorescens .
+1 Conjugated to CRM197 carrier protein. CRM197 is a nontoxic mutant of diphtheria toxin (originating from Corynebacterium diphtheriae C7) expressed recombinantly in Pseudomonas fluorescens.
 
 1 dose (0.5 mL) contains approximately 65 mcg CRM197 carrier protein.
 
-## Excipient(s) with known effect
+Excipient(s) with known effect
 
 1 dose (0.5 mL) contains 0.5 mg polysorbate 20.
 
-For the full list of  excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -60,7 +58,7 @@ The vaccine is a colourless, clear to opalescent solution.
 
 ## 4.1 Therapeutic indications
 
-CAPVAXIVE is indicated for active immunisation for the prevention of invasive disease and pneumonia caused by Streptococcus pneumoniae in individuals 18 years of  age and older.
+CAPVAXIVE is indicated for active immunisation for the prevention of invasive disease and pneumonia caused by Streptococcus pneumoniae in individuals 18 years of age and older.
 
 CAPVAXIVE is indicated for active immunisation for the prevention of invasive disease and pneumonia caused by Streptococcus pneumoniae in children and adolescents 2 to less than 18 years of age who previously completed a primary paediatric pneumococcal vaccination regimen.
 
@@ -72,7 +70,9 @@ The use of CAPVAXIVE should be in accordance with official recommendations.
 
 Posology
 
-Individuals 18 years of age and older 1 dose (0.5 mL).
+Individuals 18 years of age and older
+
+1 dose (0.5 mL).
 
 Children and adolescents 2 to less than 18 years of age who previously completed a primary paediatric pneumococcal vaccination regimen
 
@@ -90,7 +90,7 @@ The safety and efficacy of CAPVAXIVE in children younger than 2 years of age hav
 
 CAPVAXIVE should be administered by intramuscular injection only. This vaccine should be administered preferably in the deltoid muscle of the upper arm, with care to avoid injection into or near nerves and blood vessels.
 
-For instructions on the handling of the vaccine bef ore administration, see section 6.6.
+For instructions on the handling of the vaccine before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -102,15 +102,15 @@ Hypersensitivity to the active substances including diphtheria toxoid, or to any
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Anaphylaxis
-
 <div style=\"page-break-after: always\"></div>
+
+## Anaphylaxis
 
 As with all injectable vaccines, appropriate medical treatment and supervision should always be readily available in case of a rare anaphylactic event following the administration of the vaccine.
 
 ## Concurrent illness
 
-Vaccination should be postponed in individuals suffering from acute severe febrile illness or acute infection. The presence of a minor inf ection and/or low-grade f ever should not delay vaccination.
+Vaccination should be postponed in individuals suffering from acute severe febrile illness or acute infection. The presence of a minor infection and/or low-grade fever should not delay vaccination.
 
 ## Thrombocytopenia and coagulation disorders
 
@@ -118,7 +118,7 @@ As with other intramuscular injections, the vaccine should be given with caution
 
 ## Anxiety-related reactions
 
-Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a response to the needle injection. Stress-related reactions are temporary and resolve on their own . It is important that precautions are in place to avoid injury f rom f ainting.
+Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a response to the needle injection. Stress-related reactions are temporary and resolve on their own. It is important that precautions are in place to avoid injury from fainting.
 
 ## Immunocompromised individuals
 
@@ -132,7 +132,7 @@ As with any vaccine, vaccination with CAPVAXIVE may not protect all vaccine reci
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say, essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say, essentially 'sodium-free'.
 
 ## Polysorbate 20
 
@@ -140,13 +140,13 @@ This medicinal product contains 0.5 mg of polysorbate 20 in each dose. Polysorba
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Different injectable vaccines should always be administered at diff erent injection sites.
+Different injectable vaccines should always be administered at different injection sites.
 
 ## Individuals 18 years of age and older
 
-CAPVAXIVE can be administered concomitantly with quadrivalent influenza vaccine (split virion, inactivated). There are no data on the concomitant administration of CAPVAXIVE with vaccines other than inf luenza vaccines.
-
 <div style=\"page-break-after: always\"></div>
+
+CAPVAXIVE can be administered concomitantly with quadrivalent influenza vaccine (split virion, inactivated). There are no data on the concomitant administration of CAPVAXIVE with vaccines other than influenza vaccines.
 
 ## Children and adolescents 2 to less than 18 years of age
 
@@ -158,9 +158,9 @@ There are no data on the concomitant administration of CAPVAXIVE with other vacc
 
 There are no data on the use of CAPVAXIVE in pregnant women.
 
-Animal studies do not indicate direct or indirect harmf ul effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3).
+Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3).
 
-Administration of CAPVAXIVE in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and the f oetus.
+Administration of CAPVAXIVE in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and the foetus.
 
 ## Breast-feeding
 
@@ -168,11 +168,11 @@ It is unknown whether CAPVAXIVE is excreted in human milk.
 
 ## Fertility
 
-No human data on the effect of CAPVAXIVE on fertility are available. Animal studies in female rats do not indicate harmf ul eff ects (see section 5.3).
+No human data on the effect of CAPVAXIVE on fertility are available. Animal studies in female rats do not indicate harmful effects (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
-CAPVAXIVE has no or negligible influence on the ability to drive and use machines. However, some of the ef f ects mentioned under section 4.8 'Undesirable ef f ects' may temporarily af f ect the ability to drive or use machines.
+CAPVAXIVE has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4.8 \"Undesirable effects\" may temporarily affect the ability to drive or use machines.
 
 ## 4.8 Undesirable effects
 
@@ -180,68 +180,69 @@ CAPVAXIVE has no or negligible influence on the ability to drive and use machine
 
 Individuals 18 years of age and older
 
-The most frequently reported adverse reactions following vaccination with CAPVAXIVE in individuals 18 years of age and older were solicited. Overall, the most frequently reported adverse reactions were injection-site pain (52.9%), f atigue (25.3%), headache (17.7%), and myalgia (10.4%).
+The most frequently reported adverse reactions following vaccination with CAPVAXIVE in individuals 18 years of age and older were solicited. Overall, the most frequently reported adverse reactions were injection-site pain (52.9%), fatigue (25.3%), headache (17.7%), and myalgia (10.4%).
 
-The majority of local and systemic adverse reactions f or individuals who received CAPVAXIVE were mild or moderate (based on intensity or size) and of  short duration (≤ 3 days); severe reactions (defined as an event that prevents normal daily activity or size ˃ 10 cm) occurred in ≤ 1.0% of adults (see Table 1).
+The majority of local and systemic adverse reactions for individuals who received CAPVAXIVE were mild or moderate (based on intensity or size) and of short duration (≤ 3 days); severe reactions (defined as an event that prevents normal daily activity or size ˃ 10 cm) occurred in ≤ 1.0% of adults (see Table 1).
 
 ## Paediatric population (2 to less than 18 years of age)
 
-Overall, there were no clinically meaningful differences in the saf ety profile observed in children and adolescents 2 to less than 18 years of  age when compared to individuals 18 years of age and older.
+Overall, there were no clinically meaningful differences in the safety profile observed in children and adolescents 2 to less than 18 years of age when compared to individuals 18 years of age and older.
 
-The most frequently reported adverse reactions following vaccination with CAPVAXIVE in children and adolescents 2 to less than 18 years of age were solicited. The most frequently reported (&gt;10%) adverse reactions were injection-site pain (67.7%), injection-site erythema (24.3%), fatigue (20.1%), injection-site swelling (18.8%), headache (17.1%), malaise (13.3%), and irritability (11.6%). The majority of local and systemic adverse reactions f or individuals who received CAPVAXIVE were mild or moderate (based on intensity or size) and of  short duration (≤ 3 days). One serious adverse event (SAE) syncope (0.2%) was assessed to be related to CAPVAXIVE.
+The most frequently reported adverse reactions following vaccination with CAPVAXIVE in children and adolescents 2 to less than 18 years of age were solicited. The most frequently reported (&gt;10%)
 
 <div style=\"page-break-after: always\"></div>
+
+adverse reactions were injection-site pain (67.7%), injection-site erythema (24.3%), fatigue (20.1%), injection-site swelling (18.8%), headache (17.1%), malaise (13.3%), and irritability (11.6%). The majority of local and systemic adverse reactions for individuals who received CAPVAXIVE were mild or moderate (based on intensity or size) and of short duration (≤ 3 days). One serious adverse event (SAE) syncope (0.2%) was assessed to be related to CAPVAXIVE.
 
 ## Tabulated list of adverse reactions
 
-Unless otherwise stated the frequency categories are based on the saf ety of CAPVAXIVE assessed in 6 clinical studies, conducted across the Americas, Europe, Asia Pacif ic and Af rica which included 4 914 individuals 18 years of age and older; with or without stable underlying medical conditions. Frequency data for individuals 2 to less than 18 years of  age are based on one clinical study conducted in 874 children and adolescents at increased risk f or pneumococcal disease who had previously completed a primary paediatric pneumococcal vaccination regimen.
+Unless otherwise stated the frequency categories are based on the safety of CAPVAXIVE assessed in 6 clinical studies, conducted across the Americas, Europe, Asia Pacific and Africa which included 4 914 individuals 18 years of age and older; with or without stable underlying medical conditions. Frequency data for individuals 2 to less than 18 years of age are based on one clinical study conducted in 874 children and adolescents at increased risk for pneumococcal disease who had previously completed a primary paediatric pneumococcal vaccination regimen.
 
 Adverse reactions reported for all age groups are listed in this section per system organ class, in decreasing order of frequency and seriousness. The frequency is defined as follows:
 
-- -Very common (≥ 1/10)
-- -Common (≥ 1/100 to &lt; 1/10)
-- -Uncommon (≥ 1/1 000 to &lt; 1/100)
-- -Rare (≥ 1/10 000 to &lt; 1/1 000)
-- -Very rare (&lt; 1/10 000)
-- -Not known (cannot be estimated from the available data).
+- Very common (≥ 1/10)
+- Common (≥ 1/100 to &lt; 1/10)
+- Uncommon (≥ 1/1 000 to &lt; 1/100)
+- Rare (≥ 1/10 000 to &lt; 1/1 000)
+- Very rare (&lt; 1/10 000)
+- Not known (cannot be estimated from the available data).
 
 Table 1: Tabulated list of adverse reactions
 
-| System Organ Class                                   | Adverse Reactions                                 | Frequency     | Frequency                                   |
-|------------------------------------------------------|---------------------------------------------------|---------------|---------------------------------------------|
-|                                                      |                                                   | Adults        | Children and adolescents 2 to less than 18Y |
-| Blood and lymphatic system disorders                 | Lymphadenopathy                                   | Uncommon      | -                                           |
-| Immune system disorders                              | Hypersensitivity reaction, including bronchospasm | Rare          | -                                           |
-| Psychiatric disorders                                | Irritability                                      | -             | Very common †                               |
-| Nervous system disorders                             | Headache                                          | Very common † | Very common †                               |
-| Nervous system disorders                             | Dizziness                                         | Uncommon      | -                                           |
-| Nervous system disorders                             | Somnolence                                        | -             | Common †                                    |
-| Nervous system disorders                             | Syncope                                           | -             | Uncommon                                    |
-| Gastrointestinal disorders                           | Nausea                                            | Uncommon      | -                                           |
-| Gastrointestinal disorders                           | Diarrhoea                                         | Uncommon      | -                                           |
-| Gastrointestinal disorders                           | Vomiting                                          | Uncommon      | -                                           |
-| Skin and subcutaneous tissue disorders               | Urticaria                                         | -             | Common †                                    |
-| Musculoskeletal and connective tissue disorders      | Myalgia                                           | Common * †    | Common †                                    |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                                        | Uncommon      | Common †                                    |
-| General disorders and administration site conditions | Injection-site pain                               | Very common † | Very common †                               |
-| General disorders and administration site conditions | Fatigue                                           | Very common † | Very common †                               |
-| General disorders and administration site conditions | Injection-site erythema                           | Common * †    | Very common †                               |
-| General disorders and administration site conditions | Injection-site swelling                           | Common * †    | Very common †                               |
-| General disorders and administration site conditions | Pyrexia                                           | Common †      | Common †                                    |
-| General disorders and administration site conditions | Injection-site pruritus                           | Uncommon      | -                                           |
-| General disorders and administration site conditions | Chills                                            | Uncommon      | -                                           |
+| System Organ Class                                   | Adverse Reactions                                 | Frequency - Adults   | Frequency - Children and adolescents 2 to less than 18 Y   |
+|------------------------------------------------------|---------------------------------------------------|----------------------|------------------------------------------------------------|
+| Blood and lymphatic system disorders                 | Lymphadenopathy                                   | Uncommon             | -                                                          |
+| Immune system disorders                              | Hypersensitivity reaction, including bronchospasm | Rare                 | -                                                          |
+| Psychiatric disorders                                | Irritability                                      | -                    | Very common †                                              |
+| Nervous system disorders                             | Headache                                          | Very common †        | Very common †                                              |
+| Nervous system disorders                             | Dizziness                                         | Uncommon             | -                                                          |
+| Nervous system disorders                             | Somnolence                                        | -                    | Common †                                                   |
+| Nervous system disorders                             | Syncope                                           | -                    | Uncommon                                                   |
+| Gastrointestinal disorders                           | Nausea                                            | Uncommon             | -                                                          |
+| Gastrointestinal disorders                           | Diarrhoea                                         | Uncommon             | -                                                          |
+| Gastrointestinal disorders                           | Vomiting                                          | Uncommon             | -                                                          |
+| Skin and subcutaneous tissue disorders               | Urticaria                                         | -                    | Common †                                                   |
+| Musculoskeletal and connective tissue disorders      | Myalgia                                           | Common *†            | Common †                                                   |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                                        | Uncommon             | Common †                                                   |
+| General disorders and administration site conditions | Injection-site pain                               | Very common †        | Very common †                                              |
+| General disorders and administration site conditions | Fatigue                                           | Very common †        | Very common †                                              |
+| General disorders and administration site conditions | Injection-site erythema                           | Common *†            | Very common †                                              |
+| General disorders and administration site conditions | Injection-site swelling                           | Common *†            | Very common †                                              |
+| General disorders and administration site conditions | Pyrexia                                           | Common †             | Common †                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Injection-site bruising   | Uncommon   | -             |
+| Injection-site pruritus   | Uncommon   | -             |
 |---------------------------|------------|---------------|
+| Chills                    | Uncommon   | -             |
+| Injection-site bruising   | Uncommon   | -             |
 | Malaise                   | -          | Very common † |
 
 ## Other special populations
 
 ## Safety in individuals 65 years of age and older
 
-A lower frequency of local injection-site reactions was observed in participants 75 years of age and older compared to participants 65 to 74 years of age. There were no clinically meaningf ul dif ferences for other adverse events in participants 65 to 74 years of age and 75 years of age and older who received CAPVAXIVE.
+A lower frequency of local injection-site reactions was observed in participants 75 years of age and older compared to participants 65 to 74 years of age. There were no clinically meaningful differences for other adverse events in participants 65 to 74 years of age and 75 years of age and older who received CAPVAXIVE.
 
 ## Safety in adults living with HIV
 
@@ -249,7 +250,7 @@ The safety profile of CAPVAXIVE in adults living with HIV was generally comparab
 
 ## Safety in adults with increased risk for pneumococcal disease
 
-An additional study, Protocol 008, was conducted to evaluate CAPVAXIVE in pneumococcal vaccine-naïve adults 18 to 64 years of  age with one or more prespecified chronic medical conditions known to increase the risk of pneumococcal disease (see section 5.1). The safety prof ile of CAPVAXIVE was generally comparable to PCV15 followed by PPSV23 and generally similar to the profile observed in the pivotal studies.
+An additional study, Protocol 008, was conducted to evaluate CAPVAXIVE in pneumococcal vaccine-naïve adults 18 to 64 years of age with one or more prespecified chronic medical conditions known to increase the risk of pneumococcal disease (see section 5.1). The safety profile of CAPVAXIVE was generally comparable to PCV15 followed by PPSV23 and generally similar to the profile observed in the pivotal studies.
 
 ## Reporting of suspected adverse reactions
 
@@ -267,21 +268,21 @@ Pharmacotherapeutic group: vaccines, pneumococcal vaccines, ATC code: J07AL02
 
 ## Mechanism of action
 
-CAPVAXIVE contains 21 pneumococcal capsular polysaccharides from Streptococcus pneumoniae (3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, deOAc15B, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F, and 35B), which are known to contribute to the pathogenicity of pneumococci in adults. Each serotype of activated polysaccharide is individually conjugated to a carrier protein (CRM197), and elicits antibodies that enhance opsonisation, phagocytosis, and killing of pneumococci to protect against pneumococcal disease. CAPVAXIVE elicits a T-cell dependent immune response. Carrier protein-specific helper T-cells support specificity, functionality, and maturation of serotype-specif ic B-cells.
+CAPVAXIVE contains 21 pneumococcal capsular polysaccharides from Streptococcus pneumoniae (3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, deOAc15B, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F, and 35B), which are known to contribute to the pathogenicity of pneumococci in adults. Each serotype of activated polysaccharide is individually conjugated to a carrier protein (CRM197), and elicits antibodies that enhance opsonisation, phagocytosis, and killing of pneumococci to protect against pneumococcal disease. CAPVAXIVE elicits a T-cell dependent immune response. Carrier protein-specific helper T-cells support specificity, functionality, and maturation of serotype-specific B-cells.
 
 <div style=\"page-break-after: always\"></div>
 
-Immune responses following natural exposure to Streptococcus pneumoniae or f ollowing pneumococcal vaccination can be determined through the assessments of opsonophagocytic activity (OPA) responses, to assess functional antibodies capable of opsonizing pneumococcal capsular polysaccharides for presentation to phagocytic cells for engulf ment and subsequent killing. OPA responses are considered an important immunologic surrogate measure of protection against pneumococcal disease in adults. Specific threshold values that correlate with protection in adults have not been defined. There is a positive correlation between OPA responses and anti-capsular Immunoglobulin G (IgG) responses.
+Immune responses following natural exposure to Streptococcus pneumoniae or following pneumococcal vaccination can be determined through the assessments of opsonophagocytic activity (OPA) responses, to assess functional antibodies capable of opsonizing pneumococcal capsular polysaccharides for presentation to phagocytic cells for engulfment and subsequent killing. OPA responses are considered an important immunologic surrogate measure of protection against pneumococcal disease in adults. Specific threshold values that correlate with protection in adults have not been defined. There is a positive correlation between OPA responses and anti-capsular Immunoglobulin G (IgG) responses.
 
 Serotype-specific immune responses (OPA and IgG) for the 21 serotypes contained in CAPVAXIVE and the cross-reactive serotype 15B were measured using a validated multiplexed opsonophagocytic assay (MOPA) and pneumococcal electrochemiluminescence (Pn ECL) assay. Serotype 15C represents the immune response to the deOAc15B polysaccharide as the molecular structure for deOAc15B and 15C are similar.
 
-## Clinical ef f icacy and saf ety
+## Clinical efficacy and safety
 
 ## Clinical trials experience in individuals 18 years of age and older
 
-Six Phase 3, clinical studies (Protocol 003, Protocol 004, Protocol 005, Protocol 006, Protocol 007, and Protocol 010) conducted across the Americas, Europe, Asia Pacif ic and Af rica evaluated the immunogenicity of CAPVAXIVE in 8 369 individuals 18 years of age and older, of whom 5 450 received CAPVAXIVE. Participants enrolled in the Phase 3 studies included adults across different age groups; approximately 32% were 18 to 49 years of  age, 32% were 50 to 64 years of age, 29% were 65 to 74 years of  age, and 8% were 75 years of age and older. Of those vaccinated, 14% had received other prior pneumococcal vaccines, 33% had risk factors for pneumococcal disease (e.g., alcoholism, chronic heart disease, chronic liver disease, chronic lung disease including asthma, diabetes, renal disorders, smoking) and approximately 4% were adults living with HIV, which is associated with high risk of pneumococcal disease.
+Six Phase 3, clinical studies (Protocol 003, Protocol 004, Protocol 005, Protocol 006, Protocol 007, and Protocol 010) conducted across the Americas, Europe, Asia Pacific and Africa evaluated the immunogenicity of CAPVAXIVE in 8 369 individuals 18 years of age and older, of whom 5 450 received CAPVAXIVE. Participants enrolled in the Phase 3 studies included adults across different age groups; approximately 32% were 18 to 49 years of age, 32% were 50 to 64 years of age, 29% were 65 to 74 years of age, and 8% were 75 years of age and older. Of those vaccinated, 14% had received other prior pneumococcal vaccines, 33% had risk factors for pneumococcal disease (e.g., alcoholism, chronic heart disease, chronic liver disease, chronic lung disease including asthma, diabetes, renal disorders, smoking) and approximately 4% were adults living with HIV, which is associated with high risk of pneumococcal disease.
 
-In each study, immunogenicity was assessed by serotype-specif ic OPA and IgG responses at 1-month postvaccination.
+In each study, immunogenicity was assessed by serotype-specific OPA and IgG responses at 1-month postvaccination.
 
 ## Clinical trials conducted in pneumococcal vaccine-naïve adults
 
@@ -289,7 +290,7 @@ CAPVAXIVE effectiveness in adults against invasive pneumococcal disease and pneu
 
 ## Protocol 003
 
-In a double-blind study, 2 362 pneumococcal vaccine-naïve individuals 50 years of  age and older were randomised to receive either CAPVAXIVE or PCV20. The immune response as assessed by the geometric mean titre (GMT) ratio (CAPVAXIVE/PCV20) is presented in Table 2.
+In a double-blind study, 2 362 pneumococcal vaccine-naïve individuals 50 years of age and older were randomised to receive either CAPVAXIVE or PCV20. The immune response as assessed by the geometric mean titre (GMT) ratio (CAPVAXIVE/PCV20) is presented in Table 2.
 
 CAPVAXIVE met the pre-defined statistical noninferiority criterion compared to PCV20 for the 10 serotypes included in both vaccines as assessed by the geometric mean titre (GMT) ratio (CAPVAXIVE/PCV20) where the noninferiority criterion was met if the lower bound of the 2-sided 95% Confidence Interval (CI) were ˃ 0.5. CAPVAXIVE met the predefined superiority criterion compared to PCV20 for all but one (15C) of the 11 additional serotypes to CAPVAXIVE as assessed by the GMT ratio (CAPVAXIVE/PCV20) where the statistical superiority criterion was met if the lower bound of the 2-sided 95% CI were ˃ 2.0 (see Table 2).
 
@@ -297,40 +298,39 @@ CAPVAXIVE met the pre-defined statistical noninferiority criterion compared to P
 
 Table 2: Serotype-specific OPA GMTs in pneumococcal vaccine-naïve individuals ≥ 50 years of age (Protocol 003)
 
-| Pneumococcal Serotype                  | CAPVAXIVE (N=1 179)                    | CAPVAXIVE (N=1 179)     | PCV20 (N=1 177)         | PCV20 (N=1 177)         | GMTRatio* (CAPVAXIVE/PCV20)   |
-|----------------------------------------|----------------------------------------|-------------------------|-------------------------|-------------------------|-------------------------------|
-|                                        | n                                      | GMT*                    | n                       | GMT*                    | (95% CI)*                     |
-| 10 Shared Serotypes †                  |                                        |                         |                         |                         |                               |
-| 3                                      | 1 154                                  | 274.0                   | 1 161                   | 176.7                   | 1.55 (1.40, 1.72)             |
-| 6A                                     | 1 148                                  | 2 302.0                 | 1 153                   | 2 972.5                 | 0.77 (0.68, 0.88)             |
-| 7F                                     | 1 152                                  | 3 637.4                 | 1 158                   | 3 429.9                 | 1.06 (0.95, 1.18)             |
-| 8                                      | 1 155                                  | 2 501.3                 | 1 158                   | 1 811.1                 | 1.38 (1.25, 1.53)             |
-| 10A                                    | 1 161                                  | 3 893.4                 | 1 159                   | 4 678.0                 | 0.83 (0.75, 0.93)             |
-| 11A                                    | 1 145                                  | 3 232.6                 | 1 150                   | 2 092.8                 | 1.54 (1.39, 1.72)             |
-| 12F                                    | 1 160                                  | 2 641.2                 | 1 161                   | 2 499.6                 | 1.06 (0.92, 1.21)             |
-| 19A                                    | 1 159                                  | 2 136.1                 | 1 162                   | 2 817.8                 | 0.76 (0.69, 0.84)             |
-| 22F                                    | 1 147                                  | 3 874.5                 | 1 154                   | 4 770.1                 | 0.81 (0.72, 0.92)             |
-| 33F                                    | 1 154                                  | 13 558.9                | 1 157                   | 11 742.1                | 1.15 (1.01, 1.32)             |
-| 11 Additional Serotypes in CAPVAXIVE ‡ | 11 Additional Serotypes in CAPVAXIVE ‡ |                         |                         |                         |                               |
-| 9N                                     | 1 147                                  | 7 470.7                 | 1 150                   | 1 640.4                 | 4.55 (4.12, 5.04)             |
-| 15A                                    | 1 107                                  | 5 237.2                 | 1 102                   | 1 589.0                 | 3.30 (2.91, 3.74)             |
-| 15C                                    | 1 153                                  | 4 216.2                 | 1 158                   | 2 072.3                 | 2.03 (1.77, 2.34)             |
-| 16F                                    | 1 151                                  | 4 868.2                 | 1 153                   | 846.3                   | 5.75 (5.16, 6.41)             |
-| 17F                                    | 1 148                                  | 7 764.9                 | 1 156                   | 460.4                   | 16.86 (14.90, 19.09)          |
-| 20A                                    | 1 161                                  | 6 099.2                 | 1 155                   | 631.1                   | 9.66 (8.66, 10.79)            |
-| 23A                                    | 1 132                                  | 3 737.2                 | 1 104                   | 461.5                   | 8.10 (6.86, 9.55)             |
-| 23B                                    | 1 160                                  | 1 082.5                 | 1 160                   | 107.3                   | 10.09 (8.48, 12.00)           |
-| 24F                                    | 1 153                                  | 2 728.6                 | 1 130                   | 70.5                    | 38.71 (33.87, 44.25)          |
-| 31                                     | 1 153                                  | 3 132.5                 | 1 154                   | 144.4                   | 21.69 (18.68, 25.18)          |
-| 35B                                    | 1 153                                  | 8 527.8                 | 1 159                   | 1 383.0                 | 6.17 (5.59, 6.80)             |
-| Cross-reactive serotype                | Cross-reactive serotype                | Cross-reactive serotype | Cross-reactive serotype | Cross-reactive serotype | Cross-reactive serotype       |
-| 15B                                    | 1 140                                  | 4 400.6                 | 1 141                   | 4 640.0                 | 0.95 (0.84, 1.07)             |
+| Pneumococcal Serotype                  | CAPVAXIVE (N=1 179) - n                | CAPVAXIVE (N=1 179) - GMT*   | PCV 20 (N=1 177) - n   | PCV 20 (N=1 177) - GMT*   | GMT Ratio* (CAPVAXIVE/PCV20) - (95% CI)*   |
+|----------------------------------------|----------------------------------------|------------------------------|------------------------|---------------------------|--------------------------------------------|
+| 10 Shared Serotypes †                  |                                        |                              |                        |                           |                                            |
+| 3                                      | 1 154                                  | 274.0                        | 1 161                  | 176.7                     | 1.55 (1.40, 1.72)                          |
+| 6A                                     | 1 148                                  | 2 302.0                      | 1 153                  | 2 972.5                   | 0.77 (0.68, 0.88)                          |
+| 7F                                     | 1 152                                  | 3 637.4                      | 1 158                  | 3 429.9                   | 1.06 (0.95, 1.18)                          |
+| 8                                      | 1 155                                  | 2 501.3                      | 1 158                  | 1 811.1                   | 1.38 (1.25, 1.53)                          |
+| 10A                                    | 1 161                                  | 3 893.4                      | 1 159                  | 4 678.0                   | 0.83 (0.75, 0.93)                          |
+| 11A                                    | 1 145                                  | 3 232.6                      | 1 150                  | 2 092.8                   | 1.54 (1.39, 1.72)                          |
+| 12F                                    | 1 160                                  | 2 641.2                      | 1 161                  | 2 499.6                   | 1.06 (0.92, 1.21)                          |
+| 19A                                    | 1 159                                  | 2 136.1                      | 1 162                  | 2 817.8                   | 0.76 (0.69, 0.84)                          |
+| 22F                                    | 1 147                                  | 3 874.5                      | 1 154                  | 4 770.1                   | 0.81 (0.72, 0.92)                          |
+| 33F                                    | 1 154                                  | 13 558.9                     | 1 157                  | 11 742.1                  | 1.15 (1.01, 1.32)                          |
+| 11 Additional Serotypes in CAPVAXIVE ‡ | 11 Additional Serotypes in CAPVAXIVE ‡ |                              |                        |                           |                                            |
+| 9N                                     | 1 147                                  | 7 470.7                      | 1 150                  | 1 640.4                   | 4.55 (4.12, 5.04)                          |
+| 15A                                    | 1 107                                  | 5 237.2                      | 1 102                  | 1 589.0                   | 3.30 (2.91, 3.74)                          |
+| 15C                                    | 1 153                                  | 4 216.2                      | 1 158                  | 2 072.3                   | 2.03 (1.77, 2.34)                          |
+| 16F                                    | 1 151                                  | 4 868.2                      | 1 153                  | 846.3                     | 5.75 (5.16, 6.41)                          |
+| 17F                                    | 1 148                                  | 7 764.9                      | 1 156                  | 460.4                     | 16.86 (14.90, 19.09)                       |
+| 20A                                    | 1 161                                  | 6 099.2                      | 1 155                  | 631.1                     | 9.66 (8.66, 10.79)                         |
+| 23A                                    | 1 132                                  | 3 737.2                      | 1 104                  | 461.5                     | 8.10 (6.86, 9.55)                          |
+| 23B                                    | 1 160                                  | 1 082.5                      | 1 160                  | 107.3                     | 10.09 (8.48, 12.00)                        |
+| 24F                                    | 1 153                                  | 2 728.6                      | 1 130                  | 70.5                      | 38.71 (33.87, 44.25)                       |
+| 31                                     | 1 153                                  | 3 132.5                      | 1 154                  | 144.4                     | 21.69 (18.68, 25.18)                       |
+| 35B                                    | 1 153                                  | 8 527.8                      | 1 159                  | 1 383.0                   | 6.17 (5.59, 6.80)                          |
+| Cross-reactive serotype                | Cross-reactive serotype                |                              |                        |                           |                                            |
+| 15B                                    | 1 140                                  | 4 400.6                      | 1 141                  | 4 640.0                   | 0.95 (0.84, 1.07)                          |
 
 N=Number of individuals randomised and vaccinated; n=Number of individuals contributing to the analysis.
 
-CAPVAXIVE met the superiority  criterion  compared  to  PCV20  for  10  of  additional  11 serotypes (except 15C) in CAPVAXIVE as assessed by the proportion of individuals w ho achieved a ≥  4 -fold rise from  prevaccination  to  1-month  postvaccination  f or  OPA  responses.  The  superiority  criterion  was defined as the dif f erence between CAPVAXIVE and PCV20 being ˃ 10 percentage points.
+CAPVAXIVE met the superiority criterion compared to PCV20 for 10 of additional 11 serotypes (except 15C) in CAPVAXIVE as assessed by the proportion of individuals who achieved a ≥ 4-fold rise from prevaccination to 1-month postvaccination for OPA responses. The superiority criterion was defined as the difference between CAPVAXIVE and PCV20 being ˃ 10 percentage points.
 
-Immunobridging in pneumococcal vaccine-naïve individuals 18 to 49 years of age
+## Immunobridging in pneumococcal vaccine-naïve individuals 18 to 49 years of age
 
 In a double-blind study pneumococcal vaccine-naïve individuals 18 to 49 years of age were randomised in a 2:1 ratio to receive CAPVAXIVE (N=200) or PCV20 (N=100). The 18 to 49 year old group who received CAPVAXIVE (N=200) was compared to the 50 to 64 year old group (N=589) which also had received CAPVAXIVE to evaluate the OPA responses.
 
@@ -340,34 +340,29 @@ CAPVAXIVE successfully immunobridged serotype-specific immune responses to each 
 
 Table 3: Comparison of serotype-specific OPA GMTs in pneumococcal vaccine-naïve individuals 18-49 years of age to 50-64 years of age who received CAPVAXIVE (Protocol 003)
 
-| Pneumococcal Serotype   | 18-49 years (N=200)   | 18-49 years (N=200)   | 50-64 years (N=589)   | 50-64 years (N=589)   | GMTRatio* † (18-49 years/50-64 years) (95% CI)*   |
-|-------------------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------------------------------------------|
-|                         | n                     | GMT                   | n                     | GMT                   |                                                   |
-| 3                       | 194                   | 308.6                 | 572                   | 282.7                 | 1.09 (0.90, 1.33)                                 |
-| 6A                      | 196                   | 5 289.6               | 569                   | 2 572.9               | 2.06 (1.61, 2.62)                                 |
-| 7F                      | 198                   | 6 447.2               | 571                   | 4 278.8               | 1.51 (1.23, 1.84)                                 |
-| 8                       | 197                   | 4 516.0               | 571                   | 3 004.7               | 1.50 (1.26, 1.79)                                 |
-| 9N                      | 197                   | 17 283.2              | 570                   | 8 791.4               | 1.97 (1.59, 2.43)                                 |
-| 10A                     | 197                   | 6 808.1               | 575                   | 4 382.6               | 1.55 (1.26, 1.92)                                 |
-| 11A                     | 196                   | 5 871.6               | 564                   | 3 785.8               | 1.55 (1.26, 1.91)                                 |
-| 12F                     | 196                   | 6 150.4               | 574                   | 3 561.2               | 1.73 (1.37, 2.17)                                 |
-| 15A                     | 184                   | 11 319.2              | 550                   | 5 901.2               | 1.92 (1.55, 2.37)                                 |
-| 15C                     | 195                   | 10 194.0              | 570                   | 5 708.0               | 1.79 (1.36, 2.35)                                 |
-| 16F                     | 193                   | 8 877.0               | 571                   | 5 720.0               | 1.55 (1.26, 1.91)                                 |
-| 17F                     | 194                   | 16 070.6              | 568                   | 10 068.0              | 1.60 (1.26, 2.02)                                 |
-| 19A                     | 198                   | 2 773.2               | 574                   | 2 374.6               | 1.17 (0.97, 1.40)                                 |
-| 20A                     | 197                   | 13 150.0              | 575                   | 7 562.7               | 1.74 (1.39, 2.18)                                 |
-| 22F                     | 198                   | 9 299.6               | 568                   | 4 683.6               | 1.99 (1.58, 2.49)                                 |
-| 23A                     | 192                   | 8 848.7               | 561                   | 4 739.5               | 1.87 (1.43, 2.44)                                 |
-| 23B                     | 198                   | 2 140.1               | 575                   | 1 420.9               | 1.51 (1.11, 2.04)                                 |
-| 24F                     | 197                   | 4 137.6               | 570                   | 3 047.2               | 1.36 (1.10, 1.67)                                 |
-| 31                      | 195                   | 8 005.6               | 570                   | 3 820.7               | 2.10 (1.63, 2.69)                                 |
-| 33F                     | 197                   | 34 805.5              | 570                   | 17 607.4              | 1.98 (1.52, 2.57)                                 |
-| 35B                     | 198                   | 13 933.4              | 573                   | 9 053.9               | 1.54 (1.26, 1.87)                                 |
-
-* GMTs, GMT ratio, and 95% CI were estimated from a Longitudinal Data Analysis model.
-
-† A conclusion of immunobridging was based on the lower bound of the 95% CI for the estimated GMT ratio (18-49 years / 50-64 years) being &gt; 0.5.
+| Pneumococcal Serotype   |   18-49 years (N=200) - n | 18-49 years (N=200) - GMT   |   50-64 years (N=589) - n | 50-64 years (N=589) - GMT   | GMT Ratio* † (18-49 years/50-64 years) (95% CI)*   |
+|-------------------------|---------------------------|-----------------------------|---------------------------|-----------------------------|----------------------------------------------------|
+| 3                       |                       194 | 308.6                       |                       572 | 282.7                       | 1.09 (0.90, 1.33)                                  |
+| 6A                      |                       196 | 5 289.6                     |                       569 | 2 572.9                     | 2.06 (1.61, 2.62)                                  |
+| 7F                      |                       198 | 6 447.2                     |                       571 | 4 278.8                     | 1.51 (1.23, 1.84)                                  |
+| 8                       |                       197 | 4 516.0                     |                       571 | 3 004.7                     | 1.50 (1.26, 1.79)                                  |
+| 9N                      |                       197 | 17 283.2                    |                       570 | 8 791.4                     | 1.97 (1.59, 2.43)                                  |
+| 10A                     |                       197 | 6 808.1                     |                       575 | 4 382.6                     | 1.55 (1.26, 1.92)                                  |
+| 11A                     |                       196 | 5 871.6                     |                       564 | 3 785.8                     | 1.55 (1.26, 1.91)                                  |
+| 12F                     |                       196 | 6 150.4                     |                       574 | 3 561.2                     | 1.73 (1.37, 2.17)                                  |
+| 15A                     |                       184 | 11 319.2                    |                       550 | 5 901.2                     | 1.92 (1.55, 2.37)                                  |
+| 15C                     |                       195 | 10 194.0                    |                       570 | 5 708.0                     | 1.79 (1.36, 2.35)                                  |
+| 16F                     |                       193 | 8 877.0                     |                       571 | 5 720.0                     | 1.55 (1.26, 1.91)                                  |
+| 17F                     |                       194 | 16 070.6                    |                       568 | 10 068.0                    | 1.60 (1.26, 2.02)                                  |
+| 19A                     |                       198 | 2 773.2                     |                       574 | 2 374.6                     | 1.17 (0.97, 1.40)                                  |
+| 20A                     |                       197 | 13 150.0                    |                       575 | 7 562.7                     | 1.74 (1.39, 2.18)                                  |
+| 22F                     |                       198 | 9 299.6                     |                       568 | 4 683.6                     | 1.99 (1.58, 2.49)                                  |
+| 23A                     |                       192 | 8 848.7                     |                       561 | 4 739.5                     | 1.87 (1.43, 2.44)                                  |
+| 23B                     |                       198 | 2 140.1                     |                       575 | 1 420.9                     | 1.51 (1.11, 2.04)                                  |
+| 24F                     |                       197 | 4 137.6                     |                       570 | 3 047.2                     | 1.36 (1.10, 1.67)                                  |
+| 31                      |                       195 | 8 005.6                     |                       570 | 3 820.7                     | 2.10 (1.63, 2.69)                                  |
+| 33F                     |                       197 | 34 805.5                    |                       570 | 17 607.4                    | 1.98 (1.52, 2.57)                                  |
+| 35B                     |                       198 | 13 933.4                    |                       573 | 9 053.9                     | 1.54 (1.26, 1.87)                                  |
 
 N=Number of individuals randomised and vaccinated; n=Number of individuals contributing to the analysis.
 
@@ -375,52 +370,51 @@ N=Number of individuals randomised and vaccinated; n=Number of individuals contr
 
 In a double-blind study, 1 484 pneumococcal vaccine-naïve individuals 50 years of age and older were randomised to receive either CAPVAXIVE or PPSV23; 46% of participants were 50 to 64 years of age, 54% were 65 years of age and older, and 10% were 75 years of age and older. The immune response as assessed by the GMT ratio (CAPVAXIVE/PPSV23) is presented in Table 4.
 
-CAPVAXIVE met the pre-defined  statistical  noninferiority  criterion  compared  to  PPSV23  for  the 12 serotypes included in both vaccines as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the noninferiority criterion was met if  the lower bound of  the 2-sided 95% Conf idence Interval (CI) were ˃ 0.5. CAPVAXIVE met the predefined superiority criterion compared to PPSV23 for the 9 additional serotypes to CAPVAXIVE as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the statistical superiority criterion was met if the lower bound of the 2-sided 95% CI were ˃ 2.0 (see Table 4).
+CAPVAXIVE met the pre-defined statistical noninferiority criterion compared to PPSV23 for the 12 serotypes included in both vaccines as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the noninferiority criterion was met if the lower bound of the 2-sided 95% Confidence Interval (CI) were ˃ 0.5. CAPVAXIVE met the predefined superiority criterion compared to PPSV23 for the 9 additional serotypes to CAPVAXIVE as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the statistical superiority criterion was met if the lower bound of the 2-sided 95% CI were ˃ 2.0 (see Table 4).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 4: Serotype specific OPA GMTs in pneumococcal vaccine-naïve individuals 50 years of age and older (Protocol 010)
 
-| Pneumococcal Serotype                 | CAPVAXIVE (N=739)                     | CAPVAXIVE (N=739)                     | PPSV23 (N=741)                        | PPSV23 (N=741)                        | GMTRatio* (CAPVAXIVE/PPSV23) (95% CI)*   |
-|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------|
-|                                       | n                                     | GMT*                                  | n                                     | GMT*                                  | GMTRatio* (CAPVAXIVE/PPSV23) (95% CI)*   |
-| 12 Shared Serotypes †                 |                                       |                                       |                                       |                                       |                                          |
-| 3                                     | 725                                   | 230.4                                 | 729                                   | 211.5                                 | 1.09 (0.96, 1.23)                        |
-| 7F                                    | 729                                   | 4 876.7                               | 732                                   | 3 314.6                               | 1.47 (1.29, 1.68)                        |
-| 8                                     | 730                                   | 3 379.6                               | 733                                   | 2 882.1                               | 1.17 (1.04, 1.32)                        |
-| 9N                                    | 728                                   | 7 346.6                               | 729                                   | 6 545.9                               | 1.12 (1.00, 1.26)                        |
-| 10A                                   | 725                                   | 4 382.9                               | 726                                   | 2 818.7                               | 1.55 (1.37, 1.77)                        |
-| 11A                                   | 728                                   | 3 711.1                               | 729                                   | 1 809.7                               | 2.05 (1.82, 2.31)                        |
-| 12F                                   | 728                                   | 3 031.8                               | 732                                   | 1 854.9                               | 1.63 (1.40, 1.90)                        |
-| 17F                                   | 722                                   | 8 215.7                               | 730                                   | 4 060.5                               | 2.02 (1.77, 2.31)                        |
-| 19A                                   | 731                                   | 2 670.0                               | 732                                   | 1 879.9                               | 1.42 (1.26, 1.60)                        |
-| 20A                                   | 730                                   | 6 966.1                               | 733                                   | 4 208.4                               | 1.66 (1.46, 1.88)                        |
-| 22F                                   | 725                                   | 4 724.1                               | 728                                   | 3 084.9                               | 1.53 (1.34, 1.75)                        |
-| 33F                                   | 727                                   | 15 497.3                              | 731                                   | 17 483.0                              | 0.89 (0.76, 1.04)                        |
-| 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡    |
-| 6A                                    | 729                                   | 3 193.9                               | 730                                   | 964.0                                 | 3.31 (2.84, 3.87)                        |
-| 15A                                   | 715                                   | 6 746.5                               | 703                                   | 1 462.1                               | 4.61 (3.99, 5.33)                        |
-| 15C                                   | 729                                   | 7 604.8                               | 730                                   | 2 605.0                               | 2.92 (2.50, 3.42)                        |
-| 16F                                   | 726                                   | 6 675.4                               | 723                                   | 1 482.2                               | 4.50 (3.99, 5.09)                        |
-| 23A                                   | 711                                   | 4 804.2                               | 690                                   | 837.2                                 | 5.74 (4.81, 6.85)                        |
-| 23B                                   | 730                                   | 2 252.6                               | 726                                   | 137.2                                 | 16.42 (13.46, 20.03)                     |
-| 24F                                   | 723                                   | 4 568.0                               | 705                                   | 1 346.7                               | 3.39 (2.97, 3.87)                        |
-| 31                                    | 730                                   | 5 040.7                               | 731                                   | 423.9                                 | 11.89 (10.16, 13.91)                     |
-| 35B                                   | 728                                   | 10 707.5                              | 732                                   | 1 735.0                               | 6.17 (5.54, 6.87)                        |
-| Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype                  |
-| 15B                                   | 716                                   | 5 157.3                               | 727                                   | 3 243.2                               | 1.59 (1.37, 1.85)                        |
+| Pneumococcal Serotype                 | CAPVAXIVE (N=739) - n                 | CAPVAXIVE (N=739) - GMT*   |   PPSV23 (N=741) - n | PPSV23 (N=741) - GMT*   | GMT Ratio* (CAPVAXIVE/PPSV23) (95% CI)*   |
+|---------------------------------------|---------------------------------------|----------------------------|----------------------|-------------------------|-------------------------------------------|
+| 12 Shared Serotypes †                 |                                       |                            |                      |                         |                                           |
+| 3                                     | 725                                   | 230.4                      |                  729 | 211.5                   | 1.09 (0.96, 1.23)                         |
+| 7F                                    | 729                                   | 4 876.7                    |                  732 | 3 314.6                 | 1.47 (1.29, 1.68)                         |
+| 8                                     | 730                                   | 3 379.6                    |                  733 | 2 882.1                 | 1.17 (1.04, 1.32)                         |
+| 9N                                    | 728                                   | 7 346.6                    |                  729 | 6 545.9                 | 1.12 (1.00, 1.26)                         |
+| 10A                                   | 725                                   | 4 382.9                    |                  726 | 2 818.7                 | 1.55 (1.37, 1.77)                         |
+| 11A                                   | 728                                   | 3 711.1                    |                  729 | 1 809.7                 | 2.05 (1.82, 2.31)                         |
+| 12F                                   | 728                                   | 3 031.8                    |                  732 | 1 854.9                 | 1.63 (1.40, 1.90)                         |
+| 17F                                   | 722                                   | 8 215.7                    |                  730 | 4 060.5                 | 2.02 (1.77, 2.31)                         |
+| 19A                                   | 731                                   | 2 670.0                    |                  732 | 1 879.9                 | 1.42 (1.26, 1.60)                         |
+| 20A                                   | 730                                   | 6 966.1                    |                  733 | 4 208.4                 | 1.66 (1.46, 1.88)                         |
+| 22F                                   | 725                                   | 4 724.1                    |                  728 | 3 084.9                 | 1.53 (1.34, 1.75)                         |
+| 33F                                   | 727                                   | 15 497.3                   |                  731 | 17 483.0                | 0.89 (0.76, 1.04)                         |
+| 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ |                            |                      |                         |                                           |
+| 6A                                    | 729                                   | 3 193.9                    |                  730 | 964.0                   | 3.31 (2.84, 3.87)                         |
+| 15A                                   | 715                                   | 6 746.5                    |                  703 | 1 462.1                 | 4.61 (3.99, 5.33)                         |
+| 15C                                   | 729                                   | 7 604.8                    |                  730 | 2 605.0                 | 2.92 (2.50, 3.42)                         |
+| 16F                                   | 726                                   | 6 675.4                    |                  723 | 1 482.2                 | 4.50 (3.99, 5.09)                         |
+| 23A                                   | 711                                   | 4 804.2                    |                  690 | 837.2                   | 5.74 (4.81, 6.85)                         |
+| 23B                                   | 730                                   | 2 252.6                    |                  726 | 137.2                   | 16.42 (13.46, 20.03)                      |
+| 24F                                   | 723                                   | 4 568.0                    |                  705 | 1 346.7                 | 3.39 (2.97, 3.87)                         |
+| 31                                    | 730                                   | 5 040.7                    |                  731 | 423.9                   | 11.89 (10.16, 13.91)                      |
+| 35B                                   | 728                                   | 10 707.5                   |                  732 | 1 735.0                 | 6.17 (5.54, 6.87)                         |
+| Cross-reactive serotype               | Cross-reactive serotype               |                            |                      |                         |                                           |
+| 15B                                   | 716                                   | 5 157.3                    |                  727 | 3 243.2                 | 1.59 (1.37, 1.85)                         |
 
-N=Number of individuals randomised and vaccinated; n=Number of individuals contributing to the analysis.
+CAPVAXIVE met the superiority criterion compared to PPSV23 for 8 of 9 additional serotypes (except 15C) in CAPVAXIVE as assessed by the proportion of individuals who achieved a ≥ 4-fold rise from prevaccination to 1-month postvaccination for OPA responses. The superiority criterion was defined as the difference between CAPVAXIVE and PPSV23 being ˃ 10 percentage points.
 
-CAPVAXIVE met the superiority criterion compared to PPSV23 for 8 of 9 additional serotypes (except 15C) in CAPVAXIVE as assessed by the proportion of individuals who achieved a ≥ 4-fold rise f rom prevaccination to 1-month postvaccination for OPA responses. The superiority criterion was defined as the dif f erence between CAPVAXIVE and PPSV23 being ˃ 10 percentage points.
+In a subset of participants, a descriptive immunogenicity analysis was conducted up to 24 months following vaccination. Serotype-specific OPA GMTs and IgG geometric mean concentrations (GMCs) declined over time but remained above pre-vaccination levels through Month 24, as seen with other pneumococcal conjugate vaccines. The clinical relevance of these data is unknown.
 
 ## Clinical trials conducted in adults with prior pneumococcal vaccination
 
 ## Protocol 006
 
-A descriptive Phase 3 study, enrolled individuals 50 years of  age and older who were previously vaccinated with other pneumococcal vaccines at least 1 year prior to study entry. Subjects were randomised to receive CAPVAXIVE or another pneumococcal vaccine.
+A descriptive Phase 3 study, enrolled individuals 50 years of age and older who were previously vaccinated with other pneumococcal vaccines at least 1 year prior to study entry. Subjects were randomised to receive CAPVAXIVE or another pneumococcal vaccine.
 
-Across all 3 cohorts, CAPVAXIVE was immunogenic for all 21 serotypes contained in the vaccine as assessed by serotype-specif ic OPA GMTs. OPA GMTs were generally comparable between the two vaccination groups for the shared serotypes and higher in the CAPVAXIVE group for the additional serotypes included only in CAPVAXIVE.
+Across all 3 cohorts, CAPVAXIVE was immunogenic for all 21 serotypes contained in the vaccine as assessed by serotype-specific OPA GMTs. OPA GMTs were generally comparable between the two vaccination groups for the shared serotypes and higher in the CAPVAXIVE group for the additional serotypes included only in CAPVAXIVE.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -430,17 +424,17 @@ Across all 3 cohorts, CAPVAXIVE was immunogenic for all 21 serotypes contained i
 
 ## Protocol 007
 
-In a double-blind study, 313 adults living with HIV, with or without a history of prior pneumococcal vaccination, were randomised in a 1:1 ratio to receive either CAPVAXIVE followed by placebo 8 weeks later, or PCV15 followed by PPSV23 (PCV15+PPSV23) 8 weeks later. At screening, of  the participants vaccinated 6.7% had a CD4+ T-cell counts ≥ 50 to &lt; 350 cells/µL, 18.6% had CD4+ Tcell  counts  ≥ 350 to &lt; 500 cells/µL and 74.7% had a CD4+ T-cell counts ≥ 500 cells/µL; 83% had an undetectable HIV viral load (&lt; 20 copies/mL).
+In a double-blind study, 313 adults living with HIV, with or without a history of prior pneumococcal vaccination, were randomised in a 1:1 ratio to receive either CAPVAXIVE followed by placebo 8 weeks later, or PCV15 followed by PPSV23 (PCV15+PPSV23) 8 weeks later. At screening, of the participants vaccinated 6.7% had a CD4+ T-cell counts ≥ 50 to &lt; 350 cells/µL, 18.6% had CD4+ T-cell counts ≥ 350 to &lt; 500 cells/µL and 74.7% had a CD4+ T-cell counts ≥ 500 cells/µL; 83% had an undetectable HIV viral load (&lt; 20 copies/mL).
 
-CAPVAXIVE was immunogenic for all 21 serotypes contained in the vaccine, as assessed by serotype specif ic OPA GMTs at 1-month postvaccination with CAPVAXIVE. CAPVAXIVE elicited immune responses that were generally comparable to PCV15+PPSV23 for the 13 common serotypes and higher for the 8 serotypes additional to CAPVAXIVE as assessed by OPA GMTs at 1-month postvaccination with CAPVAXIVE and 1-month postvaccination with PCV15+PPSV23.
+CAPVAXIVE was immunogenic for all 21 serotypes contained in the vaccine, as assessed by serotype specific OPA GMTs at 1-month postvaccination with CAPVAXIVE. CAPVAXIVE elicited immune responses that were generally comparable to PCV15+PPSV23 for the 13 common serotypes and higher for the 8 serotypes additional to CAPVAXIVE as assessed by OPA GMTs at 1-month postvaccination with CAPVAXIVE and 1-month postvaccination with PCV15+PPSV23.
 
 ## Adults with increased risk for pneumococcal disease
 
 ## Protocol 008
 
-In a double-blind study, 518 individuals 18 to 64 years of age with one or more prespecif ied chronic medical conditions known to increase the risk of pneumococcal disease (diabetes mellitus, chronic heart disease, chronic kidney disease, chronic liver disease, or chronic lung disease) were randomised in a 3:1 ratio to receive either CAPVAXIVE followed by placebo 8 weeks later, or PCV15 followed by PPSV23 (PCV15+PPSV23) 8 weeks later. The study participants had not previously received any pneumococcal vaccines other than routine childhood PCVs.
+In a double-blind study, 518 individuals 18 to 64 years of age with one or more prespecified chronic medical conditions known to increase the risk of pneumococcal disease (diabetes mellitus, chronic heart disease, chronic kidney disease, chronic liver disease, or chronic lung disease) were randomised in a 3:1 ratio to receive either CAPVAXIVE followed by placebo 8 weeks later, or PCV15 followed by PPSV23 (PCV15+PPSV23) 8 weeks later. The study participants had not previously received any pneumococcal vaccines other than routine childhood PCVs.
 
-CAPVAXIVE was immunogenic for all 21 serotypes contained in the vaccine, as assessed by serotype specif ic OPA GMTs at 1-month postvaccination with CAPVAXIVE. CAPVAXIVE elicited immune responses that were generally comparable to PCV15+PPSV23 for the 13 common serotypes and higher for the 8 serotypes additional to CAPVAXIVE as assessed by OPA GMTs at 1-month postvaccination with CAPVAXIVE and 1-month postvaccination with PCV15+PPSV23.
+CAPVAXIVE was immunogenic for all 21 serotypes contained in the vaccine, as assessed by serotype specific OPA GMTs at 1-month postvaccination with CAPVAXIVE. CAPVAXIVE elicited immune responses that were generally comparable to PCV15+PPSV23 for the 13 common serotypes and higher for the 8 serotypes additional to CAPVAXIVE as assessed by OPA GMTs at 1-month postvaccination with CAPVAXIVE and 1-month postvaccination with PCV15+PPSV23.
 
 ## Paediatric population
 
@@ -448,42 +442,43 @@ CAPVAXIVE was immunogenic for all 21 serotypes contained in the vaccine, as asse
 
 ## Protocol 013
 
-In a double-blind study, 874 individuals 2 to less than 18 years of  age with one or more prespecified chronic medical conditions known to increase the risk of pneumococcal disease and who completed a primary pneumococcal vaccination regimen at least 8 weeks prior to enrollment were randomised in a 3:2 ratio to receive either CAPVAXIVE or PPSV23. Among the vaccinated participants, 135 (15.4%) had diabetes mellitus only, 143 (16.4%) had chronic heart disease only, 76 (8.7%) had chronic kidney disease only, 60 (6.9%) had chronic liver disease only, 499 (57.1%) had chronic lung disease only, and 36 (4.1%) had ≥ 2 increased-risk conditions. Immunogenicity was assessed by OPA GMTs at 1-month postvaccination with either CAPVAXIVE or PPSV23.
+In a double-blind study, 882 individuals 2 to less than 18 years of age with one or more prespecified chronic medical conditions known to increase the risk of pneumococcal disease and who completed a primary pneumococcal vaccination regimen at least 8 weeks prior to enrollment were randomised in a 3:2 ratio to receive either CAPVAXIVE or PPSV23. Among the vaccinated participants, 135 (15.4%) had diabetes mellitus, 143 (16.4%) had chronic heart disease, 76 (8.7%) had chronic kidney disease, 60 (6.9%) had chronic liver disease, 499 (57.1%) had chronic lung disease, and 36 (4.1%) had ≥ 2 increased-risk conditions. Immunogenicity was assessed by OPA GMTs at 1-month postvaccination with either CAPVAXIVE or PPSV23.
 
-CAPVAXIVE met the pre-defined  statistical  noninferiority  criterion  compared  to  PPSV23  for  the 12 serotypes included in both vaccines as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the noninferiority criterion was met if  the lower bound of  the 2-sided 95% CI were  ˃ 0.5. CAPVAXIVE met  the  predefined  superiority  criterion  compared  to  PPSV23  for  the  9  additional  serotypes  to CAPVAXIVE as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the statistical superiority criterion was met if the lower bound of the 2-sided 95% CI were ˃ 2.0 (see Table 5).
+CAPVAXIVE met the pre-defined statistical noninferiority criterion compared to PPSV23 for the
+
+12 serotypes included in both vaccines as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the noninferiority criterion was met if the lower bound of the 2-sided 95% CI were ˃ 0.5. CAPVAXIVE met the predefined superiority criterion compared to PPSV23 for the 9 additional serotypes to CAPVAXIVE as assessed by the GMT ratio (CAPVAXIVE/PPSV23) where the statistical superiority criterion was met if the lower bound of the 2-sided 95% CI were ˃ 2.0 (see Table 5).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 5: Serotype-specific OPA GMTs in children and adolescents 2 to less than 18 years of age with increased risk of pneumococcal disease (Protocol 013)
 
-| Pneumococcal Serotype                 | CAPVAXIVE (N=527)                     | CAPVAXIVE (N=527)                     | PPSV23 (N=347)                        | PPSV23 (N=347)                        | GMTRatio* (CAPVAXIVE/PPSV23)          |
-|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-|                                       | n                                     | GMT*                                  | n                                     | GMT*                                  | (95% CI)*                             |
-| 12 Shared Serotypes †                 |                                       |                                       |                                       |                                       |                                       |
-| 3                                     | 488                                   | 526.6                                 | 314                                   | 517.0                                 | 1.02 (0.89, 1.17)                     |
-| 7F                                    | 486                                   | 20 618.1                              | 315                                   | 14 207.2                              | 1.45 (1.24, 1.70)                     |
-| 8                                     | 485                                   | 12 294.5                              | 313                                   | 8 966.9                               | 1.37 (1.20, 1.56)                     |
-| 9N                                    | 485                                   | 35 556.8                              | 315                                   | 18 587.8                              | 1.91 (1.64, 2.23)                     |
-| 10A                                   | 485                                   | 13 719.7                              | 311                                   | 5 363.8                               | 2.56 (2.18, 3.00)                     |
-| 11A                                   | 486                                   | 10 396.3                              | 312                                   | 3 129.8                               | 3.32 (2.80, 3.95)                     |
-| 12F                                   | 486                                   | 14 752.0                              | 314                                   | 4 820.1                               | 3.06 (2.62, 3.58)                     |
-| 17F                                   | 481                                   | 40 011.8                              | 312                                   | 11 267.4                              | 3.55 (3.02, 4.17)                     |
-| 19A                                   | 486                                   | 9 009.8                               | 314                                   | 9 797.6                               | 0.92 (0.78, 1.08)                     |
-| 20A                                   | 480                                   | 37 532.2                              | 311                                   | 14 787.0                              | 2.54 (2.13, 3.02)                     |
-| 22F                                   | 487                                   | 20 162.7                              | 313                                   | 7 770.3                               | 2.59 (2.21, 3.04)                     |
-| 33F                                   | 488                                   | 73 201.8                              | 314                                   | 40 609.0                              | 1.80 (1.54, 2.11)                     |
-| 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ |
-| 6A                                    | 480                                   | 16 910.9                              | 311                                   | 5 653.8                               | 2.99 (2.46, 3.64)                     |
-| 15A                                   | 485                                   | 69 527.8                              | 315                                   | 5 332.2                               | 13.04 (11.13, 15.27)                  |
-| 15C                                   | 480                                   | 34 539.1                              | 308                                   | 4 398.4                               | 7.85 (6.29, 9.81)                     |
-| 16F                                   | 485                                   | 31 544.9                              | 313                                   | 5 449.7                               | 5.79 (5.01, 6.69)                     |
-| 23A                                   | 474                                   | 28 591.7                              | 296                                   | 4 882.0                               | 5.86 (4.88, 7.03)                     |
-| 23B                                   | 485                                   | 5 988.2                               | 312                                   | 370.5                                 | 16.16 (12.03, 21.72)                  |
-| 24F                                   | 478                                   | 11 102.2                              | 297                                   | 2 771.8                               | 4.01 (3.40, 4.72)                     |
-| 31                                    | 484                                   | 46 163.7                              | 311                                   | 2 563.0                               | 18.01 (15.09, 21.50)                  |
-| 35B                                   | 482                                   | 40 102.8                              | 311                                   | 7 812.5                               | 5.13 (4.45, 5.93)                     |
-| Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype               | Cross-reactive serotype               |
-| 15B                                   | 483                                   | 18 395.6                              | 307                                   | 4 863.4                               | 3.78 (3.03, 4.73)                     |
+| Pneumococcal Serotype                 | CAPVAXIVE (N=527) - n                 | CAPVAXIVE (N=527) - GMT*   |   PPSV23 (N=347) - n | PPSV23 (N=347) - GMT*   | GMT Ratio* (CAPVAXIVE/PPSV23) - (95% CI)*   |
+|---------------------------------------|---------------------------------------|----------------------------|----------------------|-------------------------|---------------------------------------------|
+| 12 Shared Serotypes †                 |                                       |                            |                      |                         |                                             |
+| 3                                     | 488                                   | 526.6                      |                  314 | 517.0                   | 1.02 (0.89, 1.17)                           |
+| 7F                                    | 486                                   | 20 618.1                   |                  315 | 14 207.2                | 1.45 (1.24, 1.70)                           |
+| 8                                     | 485                                   | 12 294.5                   |                  313 | 8 966.9                 | 1.37 (1.20, 1.56)                           |
+| 9N                                    | 485                                   | 35 556.8                   |                  315 | 18 587.8                | 1.91 (1.64, 2.23)                           |
+| 10A                                   | 485                                   | 13 719.7                   |                  311 | 5 363.8                 | 2.56 (2.18, 3.00)                           |
+| 11A                                   | 486                                   | 10 396.3                   |                  312 | 3 129.8                 | 3.32 (2.80, 3.95)                           |
+| 12F                                   | 486                                   | 14 752.0                   |                  314 | 4 820.1                 | 3.06 (2.62, 3.58)                           |
+| 17F                                   | 481                                   | 40 011.8                   |                  312 | 11 267.4                | 3.55 (3.02, 4.17)                           |
+| 19A                                   | 486                                   | 9 009.8                    |                  314 | 9 797.6                 | 0.92 (0.78, 1.08)                           |
+| 20A                                   | 480                                   | 37 532.2                   |                  311 | 14 787.0                | 2.54 (2.13, 3.02)                           |
+| 22F                                   | 487                                   | 20 162.7                   |                  313 | 7 770.3                 | 2.59 (2.21, 3.04)                           |
+| 33F                                   | 488                                   | 73 201.8                   |                  314 | 40 609.0                | 1.80 (1.54, 2.11)                           |
+| 9 Additional Serotypes in CAPVAXIVE ‡ | 9 Additional Serotypes in CAPVAXIVE ‡ |                            |                      |                         |                                             |
+| 6A                                    | 480                                   | 16 910.9                   |                  311 | 5 653.8                 | 2.99 (2.46, 3.64)                           |
+| 15A                                   | 485                                   | 69 527.8                   |                  315 | 5 332.2                 | 13.04 (11.13, 15.27)                        |
+| 15C                                   | 480                                   | 34 539.1                   |                  308 | 4 398.4                 | 7.85 (6.29, 9.81)                           |
+| 16F                                   | 485                                   | 31 544.9                   |                  313 | 5 449.7                 | 5.79 (5.01, 6.69)                           |
+| 23A                                   | 474                                   | 28 591.7                   |                  296 | 4 882.0                 | 5.86 (4.88, 7.03)                           |
+| 23B                                   | 485                                   | 5 988.2                    |                  312 | 370.5                   | 16.16 (12.03, 21.72)                        |
+| 24F                                   | 478                                   | 11 102.2                   |                  297 | 2 771.8                 | 4.01 (3.40, 4.72)                           |
+| 31                                    | 484                                   | 46 163.7                   |                  311 | 2 563.0                 | 18.01 (15.09, 21.50)                        |
+| 35B                                   | 482                                   | 40 102.8                   |                  311 | 7 812.5                 | 5.13 (4.45, 5.93)                           |
+| Cross-reactive serotype               |                                       |                            |                      |                         |                                             |
+| 15B                                   | 483                                   | 18 395.6                   |                  307 | 4 863.4                 | 3.78 (3.03, 4.73)                           |
 
 N=Number of individuals randomised and vaccinated; n=Number of individuals contributing to the analysis.
 
@@ -493,7 +488,7 @@ Not applicable.
 
 ## 5.3 Preclinical safety data
 
-Non-clinical study data revealed no hazard f or humans based on conventional studies of repeated dose toxicity and toxicity to reproduction and development.
+Non-clinical study data revealed no hazard for humans based on conventional studies of repeated dose toxicity and toxicity to reproduction and development.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -501,7 +496,9 @@ Non-clinical study data revealed no hazard f or humans based on conventional stu
 
 <div style=\"page-break-after: always\"></div>
 
-Sodium chloride (NaCl) Histidine Polysorbate 20 (E432) Hydrochloric acid (HCl; for pH adjustment) Water for injections
+Sodium chloride (NaCl)
+
+Histidine Polysorbate 20 (E432) Hydrochloric acid (HCl; for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -513,11 +510,7 @@ In the absence of compatibility studies, this vaccine must not be mixed with oth
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2° C -8° C).
-
-Do not freeze.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2° C - 8° C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 CAPVAXIVE should be administered as soon as possible after being removed from the refrigerator.
 
@@ -527,14 +520,14 @@ Stability data indicate that CAPVAXIVE is stable at temperatures up to 25° C fo
 
 0.5 mL solution in a single-dose pre-filled syringe (Type I glass) with a plunger stopper (bromobutyl rubber) and a tip cap (styrene butadiene or isoprene bromobutyl rubber).
 
-Pack sizes of 1 or 10 pre-filled syringes, either without needles, with 1 separate needle, or with 2 separate needles per pre-f illed syringe.
+Pack sizes of 1 or 10 pre-filled syringes, either without needles, with 1 separate needle, or with 2 separate needles per pre-filled syringe.
 
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
 - The vaccine should be used as supplied.
-- Inspect the solution visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present and/or if  it appears discoloured.
+- Inspect the solution visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present and/or if it appears discoloured.
 - Attach a needle with Luer lock connection by twisting in a clockwise direction until the needle fits securely on the syringe.
 - CAPVAXIVE should be administered by intramuscular injection only. This vaccine should be administered preferably in the deltoid muscle of the upper arm, with care to avoid injection into or near nerves and blood vessels.
 
@@ -542,15 +535,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
+Merck Sharp &amp; Dohme B.V. Waarderweg 39
 
 <div style=\"page-break-after: always\"></div>
 
+2031 BN Haarlem The Netherlands
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1913/001 EU/1/25/1913/002 EU/1/25/1913/003 EU/1/25/1913/004 EU/1/25/1913/005
-
-EU/1/25/1913/006
+EU/1/25/1913/001 EU/1/25/1913/002 EU/1/25/1913/003 EU/1/25/1913/004 EU/1/25/1913/005 EU/1/25/1913/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -558,7 +551,7 @@ Date of first authorisation: 24 March 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of  the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -605,8 +598,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of  the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benef it/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -622,31 +615,31 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON -Pre-filled syringe
+OUTER CARTON - Pre-filled syringe
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-CAPVAXIVE solution for injection in pre-filled syringe
-
-Pneumococcal polysaccharide conjugate vaccine (21-valent)
+CAPVAXIVE solution for injection in pre-filled syringe Pneumococcal polysaccharide conjugate vaccine (21-valent)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-1 dose (0.5 mL) contains 4 mcg of pneumococcal polysaccharide for serotypes 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, de-O-acetylated type 15B, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F and 35B conjugated to CRM197 carrier protein.
+1 dose (0.5 mL) contains 4 mcg of pneumococcal polysaccharide for serotypes 3, 6A, 7F, 8, 9N, 10A,
+
+11A, 12F, 15A, de-O-acetylated type 15B, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F and 35B conjugated to CRM197 carrier protein.
 
 ## 3. LIST OF EXCIPIENTS
 
 Excipients: NaCl, histidine, E432, HCl, water for injections.
 
-See leaflet for f urther inf ormation.
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Solution for injection
 
-- 1 pre-f illed syringe (0.5 mL) without needle
-- 1 pre-f illed syringe (0.5 mL) + 1 needle
-- 1 pre-f illed syringe (0.5 mL) + 2 needles
+- 1 pre-filled syringe (0.5 mL) without needle
+- 1 pre-filled syringe (0.5 mL) + 1 needle
+- 1 pre-filled syringe (0.5 mL) + 2 needles
 - 10 pre-filled syringes (0.5 mL each) without needles
 - 10 pre-filled syringes (0.5 mL each) + 10 needles
 - 10 pre-filled syringes (0.5 mL each) + 20 needles
@@ -671,7 +664,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not f reeze.
+Store in a refrigerator. Do not freeze.
 
 Keep the syringe in the outer carton in order to protect from light.
 
@@ -689,15 +682,7 @@ The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1913/001 - pack of 1 without needle
-
-EU/1/25/1913/002 - pack of 1 + 1 needle
-
-EU/1/25/1913/003 - pack of 1 + 2 needles
-
-EU/1/25/1913/004 - pack of 10 without needles
-
-EU/1/25/1913/005 - pack of 10 + 10 needles
+EU/1/25/1913/001 - pack of 1 without needle EU/1/25/1913/002 - pack of 1 + 1 needle EU/1/25/1913/003 - pack of 1 + 2 needles EU/1/25/1913/004 - pack of 10 without needles EU/1/25/1913/005 - pack of 10 + 10 needles
 
 EU/1/25/1913/006 - pack of 10 + 20 needles
 
@@ -711,48 +696,46 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-Justif ication f or not including Braille accepted.
+Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
-|---------------------------------------------------------------|
-| LABEL - Pre-filled syringe                                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL - Pre-filled syringe                                         |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-CAPVAXIVE Solution for Injection IM
+CAPVAXIVE Solution for Injection
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+IM
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Intramuscular use
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose (0.5 mL)
 
@@ -773,21 +756,21 @@ MSD
 
 Pneumococcal polysaccharide conjugate vaccine (21-valent)
 
-This medicine is subject to additional monitoring. This will allow quick identif ication of new safety inf ormation. You can help by reporting any side ef fects you may get. See the end of section 4 for how to report side ef f ects.
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you or your child are vaccinated because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This vaccine has been prescribed for you or your child only. Do not pass it on to others.
-- -If you or your child get any side ef fects, talk to your doctor, pharmacist or nurse. This includes any possible side ef fects not listed in this leaf let. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This vaccine has been prescribed for you or your child only. Do not pass it on to others.
+- If you or your child get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
 1. What CAPVAXIVE is and what it is used for
 2. What you need to know before you or your child receive CAPVAXIVE
 3. How CAPVAXIVE is given
-4. Possible side ef f ects
+4. Possible side effects
 5. How to store CAPVAXIVE
 6. Contents of the pack and other information
 
@@ -798,7 +781,7 @@ CAPVAXIVE is a pneumococcal vaccine given to:
 - people aged 18 years and older
 - children and adolescents 2 to less than 18 years of age who have previously completed the routine pneumococcal vaccination schedule for children.
 
-This vaccine helps to protect against illnesses caused by a bacterium called Streptococcus pneumoniae or pneumococcus. These diseases include: lung infection (pneumonia), inflammation of the brain and spinal cord (meningitis) and inf ection in the blood (bacteraemia).
+This vaccine helps to protect against illnesses caused by a bacterium called Streptococcus pneumoniae or pneumococcus. These diseases include: lung infection (pneumonia), inflammation of the brain and spinal cord (meningitis) and infection in the blood (bacteraemia).
 
 It works by helping the body to make its own antibodies, which protect you or your child against these diseases.
 
@@ -806,7 +789,7 @@ It works by helping the body to make its own antibodies, which protect you or yo
 
 ## Do not receive CAPVAXIVE:
 
-- if  you or your child are allergic to the active substances, including diphtheria toxoid, or to any of the ingredients of this vaccine (listed in section 6).
+- if you or your child are allergic to the active substances, including diphtheria toxoid, or to any of the ingredients of this vaccine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -818,7 +801,7 @@ Talk to your doctor, pharmacist, or nurse before you or your child receive CAPVA
 <div style=\"page-break-after: always\"></div>
 
 - you or your child have anxiety related to injections or have ever fainted after any injection.
-- your or your child's immune system is weakened (which means the body is less able to fight off inf ections) or if  you or your child are taking certain medicines that may weaken the immune system.
+- your or your child's immune system is weakened (which means the body is less able to fight off infections) or if you or your child are taking certain medicines that may weaken the immune system.
 
 As with any vaccine, CAPVAXIVE may not fully protect all those who get the vaccine.
 
@@ -837,15 +820,15 @@ Tell your doctor, pharmacist, or nurse if:
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist, or nurse for advice bef ore you receive this vaccine.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor, pharmacist, or nurse for advice before you receive this vaccine.
 
 ## Driving and using machines
 
-CAPVAXIVE has no or negligible influence on the ability to drive and use machines. However, some of the ef f ects mentioned under section 4 'Possible side ef f ects' may temporarily af f ect  the ability  to drive or use machines.
+CAPVAXIVE has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4 \"Possible side effects\" may temporarily affect the ability to drive or use machines.
 
 ## CAPVAXIVE contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg ) per dose, that is to  say essentially  'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
 
 ## CAPVAXIVE contains polysorbate 20
 
@@ -869,7 +852,7 @@ Like all vaccines, CAPVAXIVE can cause side effects, although not everybody gets
 
 Rare (may affect up to 1 in 1 000 people):
 
-CAPVAXIVE may cause allergic (hypersensitivity) reactions including excessive contraction of the airway muscles causing breathing difficulty (bronchospasm). Get medical care right away if  you or your child have symptoms of an allergic reaction, which may include:
+CAPVAXIVE may cause allergic (hypersensitivity) reactions including excessive contraction of the airway muscles causing breathing difficulty (bronchospasm). Get medical care right away if you or your child have symptoms of an allergic reaction, which may include:
 
 - Wheezing or trouble breathing
 
@@ -883,19 +866,19 @@ CAPVAXIVE may cause allergic (hypersensitivity) reactions including excessive co
 
 The following side effects have been seen after the use of CAPVAXIVE in adults:
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - Headaches
 - Pain at the injection site
 - Feeling tired
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - Muscle aches (very common in people 18 to 49 years of age)
 - Redness or swelling at the injection site (very common in people 18 to 49 years of age)
 - Fever
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 - Swelling of lymph nodes
 - Dizziness
@@ -909,16 +892,16 @@ The following side effects have been seen after the use of CAPVAXIVE in adults:
 
 The following side effects have been seen after the use of CAPVAXIVE in children and adolescents 2 to less than 18 years of age:
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - Irritability
 - Headaches
 - Pain at the injection site
 - Feeling tired
 - Redness or swelling at the injection site
-- Feeling of illness, discomf ort, or unease
+- Feeling of illness, discomfort, or unease
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - Feeling sleepy
 - Hives
@@ -934,7 +917,7 @@ These side effects are generally mild or moderate and last a short time.
 
 ## Reporting of side effects
 
-If you get any side ef f ects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side ef fects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -942,11 +925,11 @@ If you get any side ef f ects, talk to your doctor, pharmacist, or nurse. This i
 
 Keep this vaccine out of the sight and reach of children.
 
-Do not use this vaccine af ter the expiry date which is stated on the carton and syringe label af ter EXP. The expiry date refers to the last day of  that month.
+Do not use this vaccine after the expiry date which is stated on the carton and syringe label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2° C -8° C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect f rom light.
+Store in a refrigerator (2° C - 8° C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-CAPVAXIVE should be administered as soon as possible after being removed from the refrigerator. However, in circumstances where CAPVAXIVE is temporarily held outside of refrigeration, the vaccine is stable at temperatures up to 25 °C for 96 hours. At the end of this time period CAPVAXIVE should be used or discarded. This inf ormation is intended to guide healthcare professionals in case of temporary temperature excursions only.
+CAPVAXIVE should be administered as soon as possible after being removed from the refrigerator. However, in circumstances where CAPVAXIVE is temporarily held outside of refrigeration, the vaccine is stable at temperatures up to 25 °C for 96 hours. At the end of this time period CAPVAXIVE should be used or discarded. This information is intended to guide healthcare professionals in case of temporary temperature excursions only.
 
 ## 6. Contents of the pack and other information
 
@@ -954,7 +937,7 @@ CAPVAXIVE should be administered as soon as possible after being removed from th
 
 The active substances are:
 
-- -Polysaccharides from pneumococcus types 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, de-Oacetylated type 15B, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F and 35B (4 micrograms of each type);
+- Polysaccharides from pneumococcus types 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, de-Oacetylated type 15B, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F and 35B (4 micrograms of each type);
 
 Each polysaccharide is linked to a carrier protein (CRM197). The polysaccharides and the carrier protein are not alive and do not cause disease.
 
@@ -978,9 +961,9 @@ België/Belgique/Belgien MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.c
 
 <div style=\"page-break-after: always\"></div>
 
-## /Beъл/geа/erи/ia
+## България
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De, /teел.:  +359  2  819 3737 info-msdbg@msd.com
+Мерк Шарп и Доум България ЕООД, тел.: +359 2 819 3737 info-msdbg@msd.com
 
 ## Česká republika
 
@@ -988,9 +971,7 @@ Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 ## Danmark
 
-MSD Danmark ApS
-
-Tlf.: +45 4482 4000 dkmail@msd.com
+MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
@@ -998,15 +979,19 @@ MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
-Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
+Merck Sharp &amp; Dohme OÜ
+
+Tel: +372 614 4200 dpoc.estonia@msd.com
 
 ## Ελλάδα
 
-MSD Α.Φ.Ε.Ε. Τηλ : +30 210 98 97 300 dpoc.greece@msd.com
+MSD Α.Φ.Ε.Ε. Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
+Merck Sharp &amp; Dohme de España, S.A.
+
+Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
@@ -1060,13 +1045,13 @@ Merck Sharp &amp; Dohme Romania S.R.L Tel.: +40 21 529 29 00 msdromania@msd.com
 
 Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
-
-<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -1082,7 +1067,9 @@ Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccy
 
 ## Latvija
 
-SIA Merck Sharp &amp; Dohme Latvija Tel.: +371 67025300 dpoc.latvia@msd.com
+SIA Merck Sharp &amp; Dohme Latvija
+
+Tel.: +371 67025300 dpoc.latvia@msd.com
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -1095,11 +1082,11 @@ Detailed information on this medicine is available on the European Medicines Age
 The following information is intended for healthcare professionals only:
 
 - The vaccine should be used as supplied.
-- Inspect the solution visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present and/or if  it appears discoloured.
+- Inspect the solution visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present and/or if it appears discoloured.
 - Attach a needle with Luer lock connection by twisting in a clockwise direction until the needle fits securely on the syringe.
 - CAPVAXIVE should be administered by intramuscular injection only. This vaccine should be administered preferably in the deltoid muscle of the upper arm, with care to avoid injection into or near nerves and blood vessels.
 
-CAPVAXIVE can be administered concomitantly with quadrivalent influenza vaccine (split virion, inactivated) in adults. Dif f erent injectable vaccines should always be administered at different injection sites.
+CAPVAXIVE can be administered concomitantly with quadrivalent influenza vaccine (split virion, inactivated) in adults. Different injectable vaccines should always be administered at different injection sites.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 

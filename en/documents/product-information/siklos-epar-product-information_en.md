@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-28 17:26:33
-document_pages: 32
+document_datetime: 2026-10-19 17:17:37
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/siklos-epar-product-information_en.pdf
 document_name: siklos-epar-product-information_en.pdf
 version: success
-processing_time: 7.5614072
-conversion_datetime: 2026-04-29 13:12:40.998322
+processing_time: 25.9340683
+conversion_datetime: 2026-10-22 23:02:22.392457
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,11 +24,13 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Siklos 100 mg film-coated tablet. Siklos 1 000 mg film-coated tablet.
+Siklos 100 mg film-coated tablet.
+
+Siklos 1 000 mg film-coated tablet.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Siklos 100 mg film-coated tablet
+## Siklos 100 mg film-coated tablet
 
 Each film-coated tablet contains 100 mg of hydroxycarbamide.
 
@@ -46,13 +48,13 @@ Film-coated tablet (tablet).
 
 Off-white oblong-shaped, film-coated tablet with half-scoring on both sides.
 
-The tablet can be divided into two equal parts. Each half of tablet is embossed 'H' on one side.
+The tablet can be divided into two equal parts. Each half of tablet is embossed \"H\" on one side.
 
 ## Siklos 1 000 mg film-coated tablet
 
 Off-white, capsule-shaped, film-coated tablet with triple scoring on both sides.
 
-The tablet can be divided into four equal parts. Each quarter of tablet is embossed 'T' on one side.
+The tablet can be divided into four equal parts. Each quarter of tablet is embossed \"T\" on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -88,19 +90,15 @@ The toxic range may be characterised by the following results of blood tests:
 
 Neutrophils
 
-&lt; 1 500/mm 3
-
 Platelets
+
+&lt; 1 500/mm 3
 
 &lt; 80 000/mm 3
 
-Haemoglobin
+Haemoglobin &lt; 4.5 g/dL
 
-&lt; 4.5 g/dL
-
-Reticulocytes
-
-&lt; 80 000/mm 3  if the haemoglobin concentration &lt; 9 g/dL
+Reticulocytes &lt; 80 000/mm 3 if the haemoglobin concentration &lt; 9 g/dL
 
 Long-term data on the continued use of hydroxycarbamide in patients with sickle cell syndrome are available in children and adolescents, with a follow-up of 12 years in children and adolescents and over 13 years in adults. It is currently unknown how long patients should be treated with Siklos. The duration of treatment is the responsibility of the prescribing physician and should be based on the clinical and haematological status of each patient.
 
@@ -190,7 +188,9 @@ Hydroxycarbamide may falsely elevate sensor glucose results from certain continu
 
 Women of childbearing potential/Contraception in males and females
 
-Women of childbearing age receiving hydroxycarbamide should be advised to avoid becoming pregnant, and to inform the treating physician immediately should this occur. An effective method of contraception is strongly recommended in women of childbearing potential. Male and female patients on hydroxycarbamide wishing to conceive should stop treatment 3 to 6 months before pregnancy if possible. The evaluation of the risk-benefit ratio should be made on an individual basis taking into consideration the respective risk of hydroxycarbamide therapy against the switch to a blood transfusion programme.
+Women of childbearing age receiving hydroxycarbamide should be advised to avoid becoming pregnant, and to inform the treating physician immediately should this occur.
+
+An effective method of contraception is strongly recommended in women of childbearing potential. Male and female patients on hydroxycarbamide wishing to conceive should stop treatment 3 to 6 months before pregnancy if possible. The evaluation of the risk-benefit ratio should be made on an individual basis taking into consideration the respective risk of hydroxycarbamide therapy against the switch to a blood transfusion programme.
 
 ## Pregnancy
 
@@ -235,7 +235,7 @@ The adverse reactions are listed below by system organ class and absolute freque
 | Very common:                                    | Bone marrow depression 1 including neutropenia (< 1.5 x 10 9 /L), reticulocytopenia (< 80 x 10 9 /L), macrocytosis 2 |
 | Common:                                         | Thrombocytopenia (< 80 x 10 9 /L), anaemia (haemoglobin < 4.5 g/dL) 3                                                |
 | Nervous system disorders:                       | Nervous system disorders:                                                                                            |
-| Common:                                         | Headache                                                                                                             |
+| Common: Uncommon:                               | Headache Dizziness                                                                                                   |
 | Eye disorders:                                  | Eye disorders:                                                                                                       |
 | Not known:                                      | Limbal stem cell deficiency                                                                                          |
 | Vascular disorders:                             | Vascular disorders:                                                                                                  |
@@ -254,14 +254,14 @@ The adverse reactions are listed below by system organ class and absolute freque
 |                                                       | Uncommon: Rash, melanonychia, alopecia                                                          |
 |                                                       | Rare: Leg ulcers                                                                                |
 |                                                       | Very rare: Systemic and cutaneous lupus erythematous                                            |
-|                                                       | known: Cutaneous dryness                                                                        |
+|                                                       | Not known: Cutaneous dryness                                                                    |
 | Reproductive system and breast disorders:             | Reproductive system and breast disorders:                                                       |
 |                                                       | Very common: Oligospermia, azoospermia 4                                                        |
-|                                                       | known: Amenorrhea                                                                               |
+|                                                       | Not known: Amenorrhea                                                                           |
 | General disorders and administration site conditions: | General disorders and administration site conditions:                                           |
-|                                                       | known: Fever                                                                                    |
+|                                                       | Not known: Fever                                                                                |
 | Investigations:                                       | Investigations:                                                                                 |
-|                                                       | known: Weight gain 5                                                                            |
+|                                                       | Not known: Weight gain 5                                                                        |
 
 ## Pediatric population
 
@@ -315,7 +315,7 @@ In NOHARM trial (Opoka 2017) children of mean age of 2.2 years old (from 1 to 3.
 
 At the end of the NOHARM trial, children were enrolled in the NOHARM extension trial (John 2020), and randomly assigned in a 1:1 ratio either to receive hydroxycarbamide at a fixed standard dose (mean [±SD], 20±5 mg per kilogram per day) or to escalate hydroxycarbamide to the maximum tolerated dose. 187 children were randomized: 94 (age 4.6 ± 1.0) in the fixed dose group (19.2±1.8 mg /kg/d) and 93 (age 4.8 ± 0.9) in the dose escalation group (29.5±3.6 mg/kg/d). After 18 months, an increase in Hb level (+0.3 g/dL) and % HbF (+8%) was found in the escalation group. Clinical adverse events of any grade were more frequent in the fixed-dose group, including all sickle cell-related events (245 vs 105) and specific events: vaso-occlusive pain crisis (200 vs 86) and acute chest syndrome or pneumonia (30 vs 8). The number of key medical interventions were also fewer in the dose-escalation group than in the fixed-dose group, both for transfusions (34 vs. 116) and hospitalizations (19 vs. 90).
 
-In infants with SS/Sb0 aged 9-23 months, a decrease of episodes of pain (-52%, 177 events vs 375), dactylitis (- 80%, 24 vs 123), acute chest syndrome (8 vs 27) and hospitalizations (- 28%, 232 vs 324) has been reported with hydroxycarbamide (n=96) compared to placebo (n=97) respectively in the randomized controlled trial Baby Hug. In 25 patients treated for 1 year in the uncontrolled ESCORT HU over 1 year, compared to 1 year prior to enrolment (n=25), reduction of vaso-occlusive crises: 42% and hospitalizations: -55%.
+In infants with SS/Sb0 aged 9-23 months, a decrease of episodes of pain (-52%, 177 events vs 375), dactylitis (- 80%, 24 vs 123), acute chest syndrome (8 vs 27) and hospitalizations (- 28%, 232 vs 324) has been reported with hydroxycarbamide (n=96) compared to placebo (n=97) respectively in the randomized controlled trial Baby Hug. In 25 patients treated for 1 year in the uncontrolled ESCORT HU over 1 year, compared to 1 year prior to enrolment (n=25), reduction of vaso-occlusive crises: - 42% and hospitalizations: -55%.
 
 The benefit risk ratio and long-term safety remain to be established in this population.
 
@@ -355,7 +355,7 @@ In paediatric and adult patients with sickle cell syndrome the systemic exposure
 
 ## Renal impairment
 
-As renal excretion is a pathway of elimination, consideration should be given to decreasing the dose of Siklos in patients with renal impairment. In an open single-dose study in adult patients with sickle cell syndrome ( Yan JH et al, 2005 ) the influence of renal function on pharmacokinetics of hydroxycarbamide was assessed. Patients with normal (creatinine clearance CrCl&gt;80 mL/min), mild (CrCl 60-80 mL/min), moderate (CrCl 30 - 60 mL/min), or severe (&lt;30 mL/min) renal impairment received hydroxycarbamide as a single dose of 15 mg/kg b.w. by using 200 mg, 300 mg, or 400 mg capsules. In patients, whose CrCl was below 60 mL/min or patients with end-stage renal disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function. As evaluated in a further study, in patients with a CrCl&lt;60 mL/min the area under the curve was approximately 51% higher than in patients with a CrCl ≥60 mL/min, which suggests that a dose reduction of hydroxycarbamide by 50% may be appropriate in patients with a CrCl &lt; 60 mL/min. Haemodialysis reduced the exposure to hydroxycarbamide by 33% (see sections 4.2 and 4.4). Close monitoring of blood parameters is advised in these patients.
+As renal excretion is a pathway of elimination, consideration should be given to decreasing the dose of Siklos in patients with renal impairment. In an open single-dose study in adult patients with sickle cell syndrome (Yan JH et al, 2005) the influence of renal function on pharmacokinetics of hydroxycarbamide was assessed. Patients with normal (creatinine clearance CrCl&gt;80 mL/min), mild (CrCl 60-80 mL/min), moderate (CrCl 30 - 60 mL/min), or severe (&lt;30 mL/min) renal impairment received hydroxycarbamide as a single dose of 15 mg/kg b.w. by using 200 mg, 300 mg, or 400 mg capsules. In patients, whose CrCl was below 60 mL/min or patients with end-stage renal disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function. As evaluated in a further study, in patients with a CrCl&lt;60 mL/min the area under the curve was approximately 51% higher than in patients with a CrCl ≥60 mL/min, which suggests that a dose reduction of hydroxycarbamide by 50% may be appropriate in patients with a CrCl &lt; 60 mL/min. Haemodialysis reduced the exposure to hydroxycarbamide by 33% (see sections 4.2 and 4.4). Close monitoring of blood parameters is advised in these patients.
 
 ## Hepatic impairment
 
@@ -365,9 +365,7 @@ There are no data that support specific guidance for dose adjustment in patients
 
 In preclinical toxicity studies the most common effects noted included bone marrow depression, lymphoid atrophy and degenerative changes in the epithelium of the small and large intestines. Cardiovascular effects and haematological changes were observed in some species. Also, in rats testicular atrophy with decreased spermatogenesis occurred, while in dogs reversible spermatogenic arrest was noted.
 
-## Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems.
-
-Conventional long-term studies to evaluate the carcinogenic potential of hydroxycarbamide have not been performed. However, hydroxycarbamide is presumed to be a transspecies carcinogen.
+Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems. Conventional long-term studies to evaluate the carcinogenic potential of hydroxycarbamide have not been performed. However, hydroxycarbamide is presumed to be a transspecies carcinogen.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -429,15 +427,9 @@ E-mail : question@theravia.com
 
 Siklos 100 mg film-coated tablet
 
-EU/1/07/397/002
+EU/1/07/397/002 EU/1/07/397/003 EU/1/07/397/004
 
-EU/1/07/397/003
-
-EU/1/07/397/004
-
-Siklos 1 000 mg film-coated tablet
-
-EU/1/07/397/001
+Siklos 1 000 mg film-coated tablet EU/1/07/397/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -448,6 +440,8 @@ Date of latest renewal: 24/04/2017
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency: http://www.ema.europa.eu.
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
@@ -539,27 +533,29 @@ The MAH must implement this educational plan nationally, and as agreed with the 
 
 CARTON
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Siklos 100 mg film-coated tablet
 
 hydroxycarbamide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each tablet contains 100 mg of hydroxycarbamide.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-60 tablets
-
-90 tablets
+60 tablets 90 tablets
 
 120 tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
 Read the package leaflet before use.
 
@@ -569,55 +565,63 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-Cytotoxic
+Cytotoxic: Handle tablets with caution.
 
-: Handle tablets with caution.
-
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP:
 
 In-use shelf life of broken tablets: 3 months.
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 THERAVIA, 16 Rue Montrosier, 92200 Neuilly-sur-Seine, France
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/07/397/002 60 tablets
-
-EU/1/07/397/003 90 tablets
+EU/1/07/397/002 60 tablets EU/1/07/397/003 90 tablets
 
 EU/1/07/397/004 120 tablets
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot:
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 siklos 100 mg
 
-## 17. UNIQUE IDENTIFIER- 2D BARCODE
+| 17. UNIQUE IDENTIFIER- 2D BARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER- HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER- HUMAN READABLE DATA   |
+|----------------------------------------------|
 
 PC:
 
@@ -636,8 +640,8 @@ NN:
 
 Siklos 100 mg tablet hydroxycarbamide Oral use
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -649,8 +653,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 60 tablets 90 tablets 120 tablets
 
@@ -695,9 +699,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Cytotoxic
-
-: Handle tablets with caution.
+Cytotoxic: Handle tablets with caution.
 
 ## 8. EXPIRY DATE
 
@@ -711,88 +713,97 @@ Store below 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 THERAVIA, 16 Rue Montrosier, 92200 Neuilly-sur-Seine, France
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/07/397/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot:
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 siklos 1 000 mg
 
-## 17. UNIQUE IDENTIFIER- 2D BARCODE
+| 17. UNIQUE IDENTIFIER- 2D BARCODE   |
+|-------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER- HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER- HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
-PC:
-
-SN:
-
-NN:
+PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
+|----------------------------------------------------|
+| BOTTLE                                             |
 
-BOTTLE
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Siklos 1 000 mg tablet hydroxycarbamide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each tablet contains 1 000 mg of hydroxycarbamide.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 30 tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-Read the package leaflet before use.
+Read the package leaflet before use. Oral use
 
-Oral use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-Cytotoxic
+Cytotoxic: Handle tablets with caution.
 
-: Handle tablets with caution.
-
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP:
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
@@ -815,8 +826,10 @@ Lot:
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -828,14 +841,14 @@ Lot:
 
 ## Siklos 100 mg film-coated tablet Siklos 1 000 mg film-coated tablet
 
-hydroxycarbamide
+## hydroxycarbamide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, or pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, or pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -852,7 +865,7 @@ Siklos is used to prevent painful crises, including sudden chest pain, caused by
 
 Sickle cell disease is an inherited blood disorder that affects the disc shaped red cells of the blood. Some cells become abnormal, rigid and take a crescent or sickle shape which leads to anemia. The sickle cells also get stuck in blood vessels, blocking blood flow. This can cause acute pain crises and organ damage.
 
-For  severe  painful  crises,  most  patients  require  hospitalisation.  Siklos  will  decrease  the  number  of painful crises as well as the need for hospitalisation linked with the disease.
+For severe painful crises, most patients require hospitalisation. Siklos will decrease the number of painful crises as well as the need for hospitalisation linked with the disease.
 
 The active substance of Siklos, hydroxycarbamide, is a substance which inhibits growth and proliferation of some cells, such as blood cells. These effects lead to a reduction of circulating red, white and coagulation blood cells (myelosuppressive effect). In sickle cell disease, hydroxycarbamide helps also to prevent red blood cells from taking abnormal shape.
 
@@ -860,17 +873,11 @@ The active substance of Siklos, hydroxycarbamide, is a substance which inhibits 
 
 ## Do not take Siklos
 
-- -if you are allergic to hydroxycarbamide or any of the other ingredients of this medicine (listed in section 6),
-- -if you suffer from severe liver disease,
-- -if you suffer from severe kidney disease,
-
--
-
-if you are myelosuppressed (if you have decreased production of red, white, or coagulating
-
-blood cells) as described in section 3 'How to take Siklos, Treatment follow-up',
-
-- -if you are breast-feeding (see section 'Pregnancy, breast-feeding and fertility').
+- if you are allergic to hydroxycarbamide or any of the other ingredients of this medicine (listed in section 6),
+- if you suffer from severe liver disease,
+- if you suffer from severe kidney disease,
+- if you are myelosuppressed (if you have decreased production of red, white, or coagulating blood cells) as described in section 3 \"How to take Siklos, Treatment follow-up\",
+- if you are breast-feeding (see section \"Pregnancy, breast-feeding and fertility\").
 
 <div style=\"page-break-after: always\"></div>
 
@@ -878,11 +885,11 @@ blood cells) as described in section 3 'How to take Siklos, Treatment follow-up'
 
 Talk to your doctor or pharmacist or nurse before taking Siklos
 
-- -if you have a liver disease,
-- -if you have a kidney disease,
-- -if you have leg ulcers,
-- -if you are taking other myelosuppressive medicines (decrease production of red, white, or coagulating blood cells) or receiving radiation therapy,
-- -if you have a known lack of vitamin B12 or folate.
+- if you have a liver disease,
+- if you have a kidney disease,
+- if you have leg ulcers,
+- if you are taking other myelosuppressive medicines (decrease production of red, white, or coagulating blood cells) or receiving radiation therapy,
+- if you have a known lack of vitamin B12 or folate.
 
 If you experience (or have experienced) any of the above, please tell your doctor. If you have any question, please ask your doctor or pharmacist or nurse.
 
@@ -896,10 +903,10 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Information sharing is especially required for
 
-- -some antiretroviral medicines (those that inhibit or destroy a retrovirus such as HIV), e.g. didanosine, stavudine and indinavir (a drop in your white cell count may occur),
-- -myelosuppressive medicines (those that decrease production of red, white, or coagulating blood cells) and radiation therapy,
-- -some vaccines,
-- -continuous glucose monitor (CGM), used to test your blood glucose (hydroxycarbamide may falsely elevate sensor glucose results from certain CGM systems and may lead to hypoglycaemia if sensor glucose results are relied upon to dose insulin).
+- some antiretroviral medicines (those that inhibit or destroy a retrovirus such as HIV), e.g. didanosine, stavudine and indinavir (a drop in your white cell count may occur),
+- myelosuppressive medicines (those that decrease production of red, white, or coagulating blood cells) and radiation therapy,
+- some vaccines,
+- continuous glucose monitor (CGM), used to test your blood glucose (hydroxycarbamide may falsely elevate sensor glucose results from certain CGM systems and may lead to hypoglycaemia if sensor glucose results are relied upon to dose insulin).
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -927,11 +934,11 @@ Always take Siklos exactly as your doctor has told you. Check with your doctor o
 
 ## Dose
 
+The usual starting dose for adults, adolescents and children older than 2 years is 15 mg/kg each day. The usual maintenance dose is between 15-30 mg/kg.
+
 ## Your doctor will tell you how much of Siklos to take each day and will describe the dose in whole, half or quarter tablets.
 
-The prescribed dose of Siklos must be taken once daily, preferably in the morning before breakfast. It can be taken with a glass of water or a very small amount of food.
-
-If you cannot swallow the tablets, you can disintegrate them in water immediately before use :
+The prescribed dose of Siklos must be taken once daily, preferably in the morning before breakfast. It can be taken with a glass of water or a very small amount of food. If you cannot swallow the tablets, you can disintegrate them in water immediately before use:
 
 -  Place the required dose (preferably broken if Siklos 1 000 mg tablet is used) in a teaspoon and add some water.
 -  As soon as the tablet is disintegrated, swallow the content of the teaspoon. You can add a drop of syrup or mix the content with food to mask a possible bitter taste.
@@ -941,13 +948,13 @@ If you cannot swallow the tablets, you can disintegrate them in water immediatel
 
 Siklos is a cytotoxic medicine that must be handled with care.
 
-Any person, in particular pregnant women, who are not taking Siklos should avoid direct contact with the parts when breaking a tablet. Wash your hands before and after contact with the tablets. In case the prescribed dose requires breaking the tablet in halves or quarters, this should be done out of the reach of food. Powder spilled from the broken tablet should be wiped up with a damp disposable towel which must be thrown out. For the storage of unused broken tablets, see section 5 'How to store Siklos'.
+Any person, in particular pregnant women, who are not taking Siklos should avoid direct contact with the parts when breaking a tablet. Wash your hands before and after contact with the tablets. In case the prescribed dose requires breaking the tablet in halves or quarters, this should be done out of the reach of food. Powder spilled from the broken tablet should be wiped up with a damp disposable towel which must be thrown out. For the storage of unused broken tablets, see section 5 \"How to store Siklos\".
 
 ## Treatment follow-up
 
 Your doctor will tell you how long to take Siklos.
 
-When taking Siklos you will have regular blood tests and check your liver and kidney. Depending on the dose you take, these tests may be performed monthly or every two months.
+## When taking Siklos you will have regular blood tests and check your liver and kidney. Depending on the dose you take, these tests may be performed monthly or every two months.
 
 Depending on these results your doctor will adjust your dose of Siklos.
 
@@ -955,16 +962,16 @@ Depending on these results your doctor will adjust your dose of Siklos.
 
 If you take more Siklos than you should or if a child has taken any, contact your doctor or the nearest hospital immediately as you may need urgent medical treatment. The most common symptoms of overdose with Siklos are:
 
-- -Redness of the skin,
-- -Soreness (touch is painful) and swelling of the palms of hands and soles of feet followed by the hands and feet becoming scaly,
-- -Skin becoming strongly pigmented (locally changes of colour),
-- -Soreness or swelling in the mouth.
+- Redness of the skin,
+- Soreness (touch is painful) and swelling of the palms of hands and soles of feet followed by the hands and feet becoming scaly,
+- Skin becoming strongly pigmented (locally changes of colour),
+- Soreness or swelling in the mouth.
 
 ## If you forget to take Siklos
 
-Do not take a double dose to make up for a forgotten tablet. Continue as normal when it is time to take the next dose as prescribed by your doctor.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not take a double dose to make up for a forgotten tablet. Continue as normal when it is time to take the next dose as prescribed by your doctor.
 
 ## If you stop taking Siklos
 
@@ -978,20 +985,20 @@ Like all medicines, Siklos can cause side effects, although not everybody gets t
 
 ## Tell your doctor immediately if you notice any of the following serious side effects:
 
-- -A severe infection,
-- -Tiredness and/or looking pale,
-- -Unexplained bruising (accumulation of blood under the skin) or bleeding,
-- -Unusual headache,
-- -Difficulties in breathing.
+- A severe infection,
+- Tiredness and/or looking pale,
+- Unexplained bruising (accumulation of blood under the skin) or bleeding,
+- Unusual headache,
+- Difficulties in breathing.
 
 ## Tell your doctor as soon as possible if you notice any of the following side effects:
 
-- -Fever or chills,
-- -Feeling sick, or a general feeling of being unwell,
-- -Rash (itching red eruption of the skin),
-- -Ulcers or wounds on your legs,
-- -Sore (open skin infection) on your skin,
-- -Disorientation (confusion) and dizziness.
+- Fever or chills,
+- Feeling sick, or a general feeling of being unwell,
+- Rash (itching red eruption of the skin),
+- Ulcers or wounds on your legs,
+- Sore (open skin infection) on your skin,
+- Disorientation (confusion) and dizziness.
 
 ## DETAILS OF SIDE EFFECTS
 
@@ -1015,13 +1022,13 @@ Wounds on the legs (leg ulcers), and modification of liver function.
 
 Inflammation of the skin causing red scaly patches and possibly occurring together with pain in the joints.
 
-Isolated cases of malignant disease of blood cells (leukaemia), skin cancer in elderly patients, bleeding, gastrointestinal disturbances, vomiting, skin dryness, fever, absence of menstrual cycles (amenorrhoea), eye disease causing redness and pain of the eyes, sensitivity to light, and/or reduced vision (limbal stem cell deficiency). See also section 2. and weight gain.
+Isolated cases of malignant disease of blood cells (leukaemia), skin cancer in elderly patients, bleeding, gastrointestinal disturbances, vomiting, gastrointestinal ulcer, severely low levels of magnesium in the blood, skin dryness, fever, absence of menstrual cycles (amenorrhoea), eye disease causing redness and pain of the eyes, sensitivity to light, and/or reduced vision (limbal stem cell deficiency). See also section 2. and weight gain.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
 <div style=\"page-break-after: always\"></div>
+
+If you get any side effects, talk to your doctor or, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Siklos
 
@@ -1029,7 +1036,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use Siklos after the expiry date which is stated on the carton and the bottle after EXP.
 
-Store below 30  C.
+Store below 30C.
 
 Unused broken tablets must be replaced in the bottle and must be used within three months.
 
@@ -1039,21 +1046,22 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Siklos contains
 
-- -The active substance is hydroxycarbamide. Each Siklos 100 mg film-coated tablet contains 100 mg hydroxycarbamide.
-
-Each Siklos 1 000 mg film-coated tablet contains 1 000 mg hydroxycarbamide.
-
-- -The other ingredients are sodium stearyl fumarate, silicified microcrystalline cellulose and basic butylated methacrylate copolymer.
+- The active substance is hydroxycarbamide. Each Siklos 100 mg film-coated tablet contains 100 mg hydroxycarbamide. Each Siklos 1 000 mg film-coated tablet contains 1 000 mg hydroxycarbamide.
+- The other ingredients are sodium stearyl fumarate, silicified microcrystalline cellulose and basic butylated methacrylate copolymer.
 
 ## What Siklos looks like and contents of the pack
 
 Siklos 100 mg film-coated tablets are off-white, oblong-shaped tablets with a break line on both sides. The tablet can be divided into two equal parts.
 
-Each half of tablet is embossed 'H' on one side.
+Each half of tablet is embossed \"H\" on one side.
 
 Siklos 100 mg is supplied in plastic bottles containing 60, 90 or 120 tablets.
 
-Siklos 1 000 mg film-coated tablets are off-white, capsule-shaped tablets marked with three score lines on both sides. The tablet can be divided into four equal parts. Each quarter of tablet is embossed 'T' on one side. Siklos 1 000 mg is supplied in plastic bottles containing 30 tablets.
+Siklos 1 000 mg film-coated tablets are off-white, capsule-shaped tablets marked with three score lines on both sides. The tablet can be divided into four equal parts.
+
+Each quarter of tablet is embossed \"T\" on one side.
+
+Siklos 1 000 mg is supplied in plastic bottles containing 30 tablets.
 
 All pack sizes may not be marketed.
 
@@ -1061,17 +1069,21 @@ All pack sizes may not be marketed.
 
 THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
 
-Manufacturer Parc d'Activités Roubaix-Est
+## Manufacturer
 
-Delpharm Lille 22 rue de Toufflers CS 50070 59452 Lys-lez-Lannoy
-
-France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Delpharm Lille Parc d'Activités Roubaix-Est 22 rue de Toufflers CS 50070
 
 <div style=\"page-break-after: always\"></div>
 
+59452 Lys-lez-Lannoy France
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
 ## België/Belgique/Belgien
 
-Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
+Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43
+
+[medinfo@norgine.com](mailto:medinfo@norgine.com)
 
 ## България
 
@@ -1083,13 +1095,13 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francie Tel: +33 (0)1 72 69
 
 ## Danmark
 
-Norgine Danmark A/S Tlf.: +4570715000 medinfo@norgine.com
+Norgine Danmark A/S Tlf.: +4570715000
+
+[medinfo@norgine.com](mailto:medinfo@norgine.com)
 
 ## Deutschland
 
-THERAVIA
-
-Tel: 0800 10 90 001
+THERAVIA Tel: 0800 10 90 001
 
 ## Eesti
 
@@ -1101,19 +1113,19 @@ Specialty Therapeutics IKE Τηλ: +30 213 02 33 913
 
 ## España
 
-Norgine de España, S.L.U. Tel: +34 913275320 medinfo@norgine.com
+Norgine de España, S.L.U. Tel: +34 913275320
 
-France Norgine SAS Tél: +33 (0)1 41 39 93 90 medinfo@norgine.com
+[medinfo@norgine.com](mailto:medinfo@norgine.com)
 
-## Hrvatska
+France Norgine SAS Tél: +33 (0)1 41 39 93 90
 
-## Lietuva
-
-THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Prancūzija Tel: +33 (0)1 72 69 01 86
+medinfo@norgine.com Lietuva THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Prancūzija Tel: +33 (0)1 72 69 01 86
 
 ## Luxembourg/Luxemburg
 
-Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
+Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43
+
+[medinfo@norgine.com](mailto:medinfo@norgine.com)
 
 ## Magyarország
 
@@ -1125,13 +1137,15 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franza Tel: +33 (0)1 72 69 
 
 ## Nederland
 
-Norgine Pharma B.V. Tel: +31 20 567 0998 medinfo@norgine.com
+Norgine Pharma B.V. Tel: +31 20 567 0998
+
+[medinfo@norgine.com](mailto:medinfo@norgine.com)
 
 ## Norge
 
 Norgine Danmark A/S Tlf: +4570715000
 
-medinfo@norgine.com
+[medinfo@norgine.com](mailto:medinfo@norgine.com)
 
 ## Österreich
 
@@ -1139,17 +1153,15 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Frankreich Tel: +33 (0)1 72
 
 ## Polska
 
-THERAVIA
-
-16 Rue Montrosier 92200 Neuilly-sur-Seine - Francja Tel: +33 (0)1 72 69 01 86
+THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francja Tel: +33 (0)1 72 69 01 86
 
 ## Portugal
 
 Norgine Portugal Farmacêutica Unipessoal, Lda. Tel:+35 1218945581 medinfo@norgine.com
 
-## România
-
 <div style=\"page-break-after: always\"></div>
+
+## Hrvatska
 
 THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine Tel: +33 (0)1 72 69 01 86
 
@@ -1177,9 +1189,11 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Γαλλία Τηλ: +33 (0
 
 THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francija Tel: +33 (0)1 72 69 01 86
 
-## This leaflet was last revised in MM/YYYY .
+## This leaflet was last revised in MM/YYYY.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+
+## România
 
 THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Franţa Tel: +33 (0)1 72 69 01 86
 
@@ -1195,10 +1209,8 @@ THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine - Francúzsko Tel: +33 (0)1 7
 
 Norgine Danmark A/S Puh/Tel: +4570715000
 
-medinfo@norgine.com
+[medinfo@norgine.com](mailto:medinfo@norgine.com)
 
 ## Sverige
 
-Norgine Danmark A/S Tel: +4570715000
-
-medinfo@norgine.com
+Norgine Danmark A/S Tel: +4570715000 medinfo@norgine.com

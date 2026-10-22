@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-05 12:06:57
-document_pages: 33
+document_datetime: 2026-10-20 09:14:19
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arikayce-liposomal-product-information_en.pdf
 document_name: arikayce-liposomal-product-information_en.pdf
 version: success
-processing_time: 6.4951494
-conversion_datetime: 2026-08-07 14:37:14.519512
+processing_time: 22.6299665
+conversion_datetime: 2026-10-22 22:33:52.54167
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -142,7 +142,11 @@ In patients with a maternal history of relevant mutations or aminoglycoside indu
 
 ## Nephrotoxicity
 
-Nephrotoxicity was reported in clinical trials in patients treated with inhaled liposomal amikacin. Renal function should be monitored periodically during treatment in all patients and frequent monitoring is advised in patients with pre-existing renal dysfunction. Consideration should be given to stopping inhaled liposomal amikacin in patients who develop evidence of nephrotoxicity on treatment.
+Nephrotoxicity was reported in clinical trials in patients treated with inhaled liposomal amikacin.
+
+Renal function should be monitored periodically during treatment in all patients and frequent monitoring is advised in patients with pre-existing renal dysfunction.
+
+Consideration should be given to stopping inhaled liposomal amikacin in patients who develop evidence of nephrotoxicity on treatment.
 
 Use in patients with severe renal impairment is contraindicated (see section 4.3).
 
@@ -204,7 +208,7 @@ Most common serious adverse reactions included Chronic Obstructive Pulmonary Dis
 
 ## Tabulated list of adverse reactions
 
-Adverse drug reactions in Table 1 are listed according to system organ classes in MedDRA based on clinical trials and post marketing data. Within each system organ class, the following definitions apply to the frequency terminology used hereafter: very com mon (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known: (cannot be estimated from the available data).
+Adverse drug reactions in Table 1 are listed according to system organ classes in MedDRA based on clinical trials and post marketing data. Within each system organ class, the following definitions apply to the frequency terminology used hereafter: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known: (cannot be estimated from the available data).
 
 ## Table 1 - Summary of adverse reactions
 
@@ -236,9 +240,8 @@ Adverse drug reactions in Table 1 are listed according to system organ classes i
 |                                                      | Oropharyngeal pain         | Common               |
 |                                                      | Allergic alveolitis        | Common               |
 |                                                      | Chronic Obstructive        | Common               |
-|                                                      | Pulmonary Disease          |                      |
-|                                                      | Wheezing                   | Common               |
-|                                                      | Productive cough           | Common               |
+|                                                      | Pulmonary Disease          | Common               |
+|                                                      | Wheezing Productive cough  | Common               |
 |                                                      | Sputum increased           | Common               |
 |                                                      | Bronchospasm               | Common               |
 |                                                      | Pneumonitis                | Common               |
@@ -250,10 +253,8 @@ Adverse drug reactions in Table 1 are listed according to system organ classes i
 |                                                      | Rhinorrhoea                | Not known            |
 |                                                      | Sneezing                   | Not known            |
 |                                                      | Nasal Congestion           | Not known            |
-| Gastrointestinal disorders                           | Diarrhoea                  | Common               |
-|                                                      | Nausea                     | Common               |
-|                                                      | Vomiting                   | Common               |
-|                                                      | Dry mouth                  | Common               |
+| Gastrointestinal disorders                           | Diarrhoea Nausea           | Common Common        |
+|                                                      | Vomiting Dry mouth         | Common Common        |
 |                                                      | Decrease of appetite       | Common               |
 |                                                      | Dysphagia                  | Not known            |
 |                                                      | Glossitis                  | Not known            |
@@ -272,10 +273,12 @@ Adverse drug reactions in Table 1 are listed according to system organ classes i
 |                                                      | Acute Kidney Injury        | Not known            |
 |                                                      | Renal failure              | Not known            |
 | General disorders and administration site conditions | Fatigue                    | Common               |
-|                                                      | Pyrexia                    | Common               |
-|                                                      | Chest discomfort           | Common               |
+|                                                      | Pyrexia Chest              | Common               |
+|                                                      | discomfort                 | Common               |
 | Investigations                                       | Weight decreased           | Common               |
 |                                                      | Blood creatinine increased | Not known            |
+
+* Following accidental eye exposure to the aerosol.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -313,7 +316,7 @@ Patients who had not achieved sputum culture conversion (SCC) while being treate
 
 A total of 335 patients were randomised and dosed (ARIKAYCE liposomal + MDR n = 223; MDR alone n = 112) (Safety population). Median duration of prior MDR treatment was 2.6 years and 2.4 years in the ARIKAYCE liposomal + MDR and MDR alone group, respectively. Patients were stratified per smoking status (current smoker or not) and MDR use at screening (on treatment or off treatment for at least 3 months prior to screening). The primary endpoint was durable SCC defined as the proportion of randomised patients that had achieved SCC by month 6 on treatment and had no positive solid media culture or no more than two broth media cultures by 3 months off treatment.
 
-Sixty-five (29.0%) and 10 (8.9%) patients achieved SCC by month 6 on treatment in the ARIKAYCE liposomal + MDR and the MDR group, respectively (p&lt; 0.0001). Of these, based on the primary analysis durable SCC at 3 months off treatment was achieved by 16.1% [36/224] vs. 0% [0/112]; p -value &lt;0.0001.
+Sixty-five (29.0%) and 10 (8.9%) patients achieved SCC by month 6 on treatment in the ARIKAYCE liposomal + MDR and the MDR group, respectively (p&lt; 0.0001). Of these, based on the primary analysis durable SCC at 3 months off treatment was achieved by 16.1% [36/224] vs. 0% [0/112]; pvalue &lt;0.0001.
 
 In a post-hoc analysis that eliminated patients with negative cultures (solid media or broth) at study baseline and which counted any post-treatment positive culture (solid media or broth) as positive, 30/224 (13.4%) in the ARIKAYCE liposomal + MDR group and 0/112 (0%) in the MDR group achieved durable SCC at 3 months off treatment. Respective rates at 12 months off treatment were 25/224 (11%) vs. 0/112 (0%).
 
@@ -357,7 +360,7 @@ In a 2-year inhalation carcinogenicity study with inhaled liposomal amikacin in 
 
 ## Genotoxicity
 
-No evidence of mutagenicity or genotoxicity was observed in a battery of in vitro and in vivo genotoxicity studies with liposomal amikacin formulations ( in vitro microbial mutagenesis test, in vitro mouse lymphoma mutation assay, in vitro chromosomal aberration study, and an in vivo micronucleus study in rats).
+No evidence of mutagenicity or genotoxicity was observed in a battery of in vitro and in vivo genotoxicity studies with liposomal amikacin formulations (in vitro microbial mutagenesis test, in vitro mouse lymphoma mutation assay, in vitro chromosomal aberration study, and an in vivo micronucleus study in rats).
 
 ## Reproductive and development toxicity
 
@@ -379,7 +382,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2 °C - 8 °C).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -415,9 +418,7 @@ EU/1/20/1469/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 27 October 2020
-
-Date of latest renewal: 02 June 2025
+Date of first authorisation: 27 October 2020 Date of latest renewal: 02 June 2025
 
 <div style=\"page-break-after: always\"></div>
 
@@ -491,7 +492,9 @@ ARIKAYCE liposomal 590 mg nebuliser dispersion amikacin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial contains amikacin sulfate equivalent to 590 mg amikacin in a liposomal formulation. The mean delivered dose per vial is approximately 312 mg of amikacin.
+Each vial contains amikacin sulfate equivalent to 590 mg amikacin in a liposomal formulation.
+
+The mean delivered dose per vial is approximately 312 mg of amikacin.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -521,8 +524,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -551,9 +552,11 @@ EU/1/20/1469/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 Arikayce
 
@@ -567,6 +570,8 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## INNER CARTON WITH TRAY FOR 7 VIALS AND 1 LAMIRA AEROSOL HEAD
@@ -577,7 +582,9 @@ ARIKAYCE liposomal 590 mg nebuliser dispersion amikacin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial contains amikacin sulfate equivalent to 590 mg amikacin in a liposomal formulation. The mean delivered dose per vial is approximately 312 mg of amikacin.
+Each vial contains amikacin sulfate equivalent to 590 mg amikacin in a liposomal formulation.
+
+The mean delivered dose per vial is approximately 312 mg of amikacin.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -635,7 +642,8 @@ EU/1/20/1469/001
 
 See vial for batch number and expiry date
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
@@ -647,9 +655,8 @@ See vial for batch number and expiry date
 |--------------------------------------------------------------------|
 | VIAL                                                               |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 ARIKAYCE liposomal 590 mg nebuliser dispersion amikacin Inhalation use
 
@@ -676,9 +683,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE PATIENT ALERT CARD
+| PARTICULARS TO APPEAR ON THE PATIENT ALERT CARD   |
+|---------------------------------------------------|
 
-## 1. OTHER
+| 1.   | OTHER   |
+|------|---------|
 
 ## Front side
 
@@ -686,11 +695,11 @@ Lot
 
 ## Important safety information
 
-ARIKAYCE liposomal 590 mg (amikacin) may cause serious side effects.
+ARIKAYCE liposomal 590 mg (amikacin) may cause serious side effects. These may happen any time during treatment.
 
-These may happen any time during treatment. You may experience more than one side effect at the same time.
+You may experience more than one side effect at the same time.
 
-ARIKAYCE liposomal may be associated with the development of an allergic lung condition (allergic alveolitis)
+## ARIKAYCE liposomal may be associated with the development of an allergic lung condition (allergic alveolitis)
 
 CONTACT YOUR DOCTOR IMMEDIATELY if you develop any signs or symptoms such as:
 
@@ -704,7 +713,7 @@ Your doctor may give you other medicines to prevent more severe complications an
 ## Important
 
 - Do not attempt to diagnose or treat side effects yourself.
-- Please keep this card with you at all times , especially when you travel, whenever you go to the Emergency department, or when you must see another doctor.
+- Please keep this card with you at all times, especially when you travel, whenever you go to the Emergency department, or when you must see another doctor.
 - Be sure to notify any health care professional you see that you are being treated with ARIKAYCE liposomal and show them this card.
 - If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed on this card.
 
@@ -718,14 +727,16 @@ Your doctor may give you other medicines to prevent more severe complications an
 
 ## Package leaflet: Information for the patient
 
-## ARIKAYCE liposomal 590 mg nebuliser dispersion amikacin
+## ARIKAYCE liposomal 590 mg nebuliser dispersion
+
+amikacin
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -747,20 +758,20 @@ ARIKAYCE liposomal is used by inhalation to treat lung infection caused by Mycob
 
 ## Do not use ARIKAYCE liposomal
 
-- -if you are allergic to amikacin or other aminoglycosides , soya or any of the other ingredients of this medicine (listed in section 6)
-- -if you are taking any other aminoglycosides (oral or for injection)
-- -if you have very poor kidney function
+- if you are allergic to amikacin or other aminoglycosides, soya or any of the other ingredients of this medicine (listed in section 6)
+- if you are taking any other aminoglycosides (oral or for injection)
+- if you have very poor kidney function
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before using ARIKAYCE liposomal if:
 
-- -you use a bronchodilator ('reliever') for breathing problems, as you will be asked to use that first, before using ARIKAYCE liposomal;
-- -you have kidney problems ; you may need to have a kidney test before starting treatment;
-- -you have hearing difficulties , ringing or buzzing in the ears (tinnitus) or balance problems including spinning sensation, lack of coordinated muscle movements, dizziness or lightheadedness. You may have to have a hearing test before starting or during treatment, if you have any hearing problems;
-- -you suffer from other lung diseases ;
-- -you have a disease that causes muscle weakness and fatigue, such as myasthenia gravis ;
-- -you have, or have a maternal history of mitochondrial mutation disease (a genetic condition) or loss of hearing due to antibiotic medicines, you are advised to inform your doctor or pharmacist before you take an aminoglycoside; certain mitochondrial mutations may increase your risk of
+- you use a bronchodilator (\"reliever\") for breathing problems, as you will be asked to use that first, before using ARIKAYCE liposomal;
+- you have kidney problems; you may need to have a kidney test before starting treatment;
+- you have hearing difficulties, ringing or buzzing in the ears (tinnitus) or balance problems including spinning sensation, lack of coordinated muscle movements, dizziness or lightheadedness. You may have to have a hearing test before starting or during treatment, if you have any hearing problems;
+- you suffer from other lung diseases;
+- you have a disease that causes muscle weakness and fatigue, such as myasthenia gravis;
+- you have, or have a maternal history of mitochondrial mutation disease (a genetic condition) or loss of hearing due to antibiotic medicines, you are advised to inform your doctor or pharmacist before you take an aminoglycoside; certain mitochondrial mutations may increase your risk of
 
 <div style=\"page-break-after: always\"></div>
 
@@ -768,9 +779,9 @@ hearing loss with this product. Your doctor may recommend genetic testing before
 
 ## Talk to your doctor immediately if, whilst using ARIKAYCE liposomal you experience any of the below:
 
-- -loss of consciousness, skin rash, fever, worsening or new problems with your breathing ;
-- -worsening of kidney problems ;
-- -ear problems like ringing in your ears or loss of hearing.
+- loss of consciousness, skin rash, fever, worsening or new problems with your breathing;
+- worsening of kidney problems;
+- ear problems like ringing in your ears or loss of hearing.
 
 See section 4.
 
@@ -784,8 +795,8 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Special care is needed if you are taking other medicines, as some could interact with ARIKAYCE liposomal, for example:
 
-- -diuretics ('water tablets') such as ethacrynic acid, furosemide, or mannitol
-- -other medicines that can affect your kidneys, hearing, balance or reduce muscle strength.
+- diuretics (\"water tablets\") such as ethacrynic acid, furosemide, or mannitol
+- other medicines that can affect your kidneys, hearing, balance or reduce muscle strength.
 
 ## Pregnancy and breast-feeding
 
@@ -807,16 +818,16 @@ The recommended dose is one vial of ARIKAYCE liposomal inhaled in your mouth onc
 
 ## Taking ARIKAYCE liposomal
 
-If you use a bronchodilator ('reliever'), use that first, before using ARIKAYCE liposomal. Each vial is for single use only .
+If you use a bronchodilator (\"reliever\"), use that first, before using ARIKAYCE liposomal. Each vial is for single use only.
 
-- -Only use ARIKAYCE liposomal with the Lamira Nebuliser Handset and aerosol head connected to a Lamira Control Unit. See section 7 for how to use the medicine together with the Lamira Nebuliser System.
-- -Do not use ARIKAYCE liposomal with any other type of nebuliser handset or aerosol head.
-- -Do not put other medicines in the Lamira Nebuliser Handset.
+- Only use ARIKAYCE liposomal with the Lamira Nebuliser Handset and aerosol head connected to a Lamira Control Unit. See section 7 for how to use the medicine together with the Lamira Nebuliser System.
+- Do not use ARIKAYCE liposomal with any other type of nebuliser handset or aerosol head.
+- Do not put other medicines in the Lamira Nebuliser Handset.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Do not drink the liquid in the vial.
-- -Read the instructions for use, which are provided at the end of this leaflet.
+- Do not drink the liquid in the vial.
+- Read the instructions for use, which are provided at the end of this leaflet.
 
 ## How and when do you replace the Lamira Nebuliser Handset?
 
@@ -842,8 +853,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Tell your doctor immediately if:
 
-- -you experience any hypersensitivity or severe allergic reactions when taking ARIKAYCE liposomal (e.g. with low blood pressure, loss of consciousness, severe skin rash or severe wheezing and breathlessness). The frequency of these side effects is not known.
-- -you experience worsening of your usual lung problems or new problems with your breathing (e.g. breathlessness or wheezing). This may be a sign of severe inflammation in the lungs that requires treatment and may mean you should stop taking ARIKAYCE liposomal. The frequency of these severe side effects is common to very common.
+- you experience any hypersensitivity or severe allergic reactions when taking ARIKAYCE liposomal (e.g. with low blood pressure, loss of consciousness, severe skin rash or severe wheezing and breathlessness). The frequency of these side effects is not known.
+- you experience worsening of your usual lung problems or new problems with your breathing (e.g. breathlessness or wheezing). This may be a sign of severe inflammation in the lungs that requires treatment and may mean you should stop taking ARIKAYCE liposomal. The frequency of these severe side effects is common to very common.
 
 ## Other side effects:
 
@@ -851,71 +862,70 @@ Tell your doctor or pharmacist if you experience any of the following:
 
 Very common side effects (may affect more than 1 in 10 people)
 
-- -Difficulty in speaking
-- -Difficulty in breathing
-- -Cough
-- -Coughing up blood
+- Difficulty in speaking
+- Difficulty in breathing
+- Cough
+- Coughing up blood
 
-## Common side effects (may affect up to 1 in 10 people)
+Common side effects (may affect up to 1 in 10 people)
 
-- -Infection causing worsening of your lung condition
-- -Increase in mucus coughed up from lungs
-- -Chesty cough
-- -Wheezing
-- -Throat irritation
-- -Sore throat
-- -Loss of voice
-- -Thrush (a fungal infection) in the mouth
-- -Pain in the mouth
-- -Change in your sense of taste
-- -Lung inflammation
-- -Headache
-- -Dizziness
+- Infection causing worsening of your lung condition
+- Increase in mucus coughed up from lungs
+- Chesty cough
+- Wheezing
+- Throat irritation
+- Sore throat
+- Loss of voice
+- Thrush (a fungal infection) in the mouth
+- Pain in the mouth
+- Change in your sense of taste
+- Lung inflammation
+- Headache
+- Dizziness
 
 <div style=\"page-break-after: always\"></div>
 
-- -Feeling unsteady
-- -Diarrhoea
-- -Feeling sick (nausea)
-- -Being sick (vomiting)
-- -Dry mouth
-- -Decrease of appetite
-- -Itching of the skin
-- -Deafness
-- -Ringing in your ears
-- -Kidney problems including poor kidney function
-- -Joint pain
-- -Muscle pain
-- -Rash
-- -Tiredness
-- -Discomfort in chest
-- -Fever
-- -Loss of weight
+- Feeling unsteady
+- Diarrhoea
+- Feeling sick (nausea)
+- Being sick (vomiting)
+- Dry mouth
+- Decrease of appetite
+- Itching of the skin
+- Deafness
+- Ringing in your ears
+- Kidney problems including poor kidney function
+- Joint pain
+- Muscle pain
+- Rash
+- Tiredness
+- Discomfort in chest
+- Fever
+- Loss of weight
 
 Uncommon side effect (may affect up to 1 in 100 people)
 
-- -Anxiety
+- Anxiety
 
 Side effects with Unknown frequency
 
-- -Pharyngeal swelling
-- -Nasal dryness
-- -Epistaxis
-- -Rhinorrhoea
-- -Sneezing
-- -Nasal Congestion
-- -Dysphagia
-- -Glossitis
-- -Glossodynia
-- -Salivary hypersecretion
-- -Stomatitis
-- -Abdominal pain
-- -Abdominal pain upper
-- -Abdominal discomfort
-- -Abdominal distension
-- -Eye irritation following accidental exposure to the aerosol
-- -Kidney problems including reduced urine output, swelling in legs, ankles or feet, nausea, and confusion (acute kidney injury)
-- -Elevated creatinine in the blood, indicating kidney problems
+- Swelling of the throat
+- Nasal dryness
+- Nosebleeds
+- Runny nose
+- Sneezing
+- Nasal Congestion
+- Difficulty swallowing
+- Inflammation of the tongue
+- Pain in the tongue
+- Increased salivation
+- Sores in the mouth, lips or tongue
+- Abdominal pain
+- Abdominal discomfort
+- Abdominal distension
+- Eye irritation following accidental exposure to the aerosol
+- Kidney problems including reduced urine output, swelling in legs, ankles or feet, nausea, and confusion (acute kidney injury)
+- Elevated creatinine in the blood, indicating kidney problems
 
 Accidental exposure following inhalation of ARIKAYCE liposomal in people who are not using the medicine, such as caregivers, may cause side effects. Short-lasting reactions have been reported, including cough, pain in mouth and throat, headache, and throat and eye irritation, due to contact with the aerosol.
 
@@ -923,15 +933,15 @@ Accidental exposure following inhalation of ARIKAYCE liposomal in people who are
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store ARIKAYCE liposomal
 
 Keep this medicine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze, discard any vial that has been frozen.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze, discard any vial that has been frozen.
 
 Alternatively, ARIKAYCE liposomal can be stored at room temperature below 25 °C, but only for up to 4 weeks. Once at room temperature, any unused medicinal product must be discarded at the end of 4 weeks.
 
@@ -941,14 +951,14 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What ARIKAYCE liposomal contains
 
-- -The active substance is amikacin. Each vial contains amikacin sulfate equivalent to 590 mg amikacin in a liposomal formulation. The mean delivered dose per vial is approximately 312 mg of amikacin.
-- -The other ingredients are cholesterol, dipalmitoylphosphatidylcholine (DPPC), sodium chloride, sodium hydroxide and water for injections.
+- The active substance is amikacin. Each vial contains amikacin sulfate equivalent to 590 mg amikacin in a liposomal formulation. The mean delivered dose per vial is approximately 312 mg of amikacin.
+- The other ingredients are cholesterol, dipalmitoylphosphatidylcholine (DPPC), sodium chloride, sodium hydroxide and water for injections.
 
 ## What ARIKAYCE liposomal looks like and contents of the pack
 
 ARIKAYCE liposomal is a white to off-white, milky nebuliser dispersion in a glass vial with rubber stopper and metal seal with plastic flip-off cap.
 
-The 28 vials are provided in a carton for a 28day supply; one vial per day. One ARIKAYCE liposomal carton contains 4 inner cartons, each containing 7 vials and one aerosol head. The 28-day supply pack also contains 1 Lamira Nebuliser Handset.
+The 28 vials are provided in a carton for a 28-day supply; one vial per day. One ARIKAYCE liposomal carton contains 4 inner cartons, each containing 7 vials and one aerosol head. The 28-day supply pack also contains 1 Lamira Nebuliser Handset.
 
 ## Marketing Authorisation Holder
 
@@ -1016,25 +1026,3 @@ Figure 6
 Figure 7
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for amikacin (centrally authorised product only), the scientific conclusions of PRAC are as follows:
-
-In view of available data on eye irritation, nephrotoxicity and occupational exposure/exposure in caregivers from spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between amikacin (centrally authorised product only) and eye irritation, acute kidney injury, renal failure and blood creatinine increased is at least a reasonable possibility. The PRAC concluded that the product information of products containing amikacin (centrally authorised products only) should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for amikacin (centrally authorised product only) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing amikacin (centrally authorised product only) is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

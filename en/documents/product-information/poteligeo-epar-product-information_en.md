@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 13:34:37
-document_pages: 28
+document_datetime: 2026-10-20 09:36:55
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/poteligeo-epar-product-information_en.pdf
 document_name: poteligeo-epar-product-information_en.pdf
 version: success
-processing_time: 6.3815757
-conversion_datetime: 2026-04-09 12:24:28.099749
+processing_time: 9.6240778
+conversion_datetime: 2026-10-22 23:00:19.888708
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,7 +68,7 @@ Patients receiving mogamulizumab have experienced drug rash (drug eruption), som
 
 <div style=\"page-break-after: always\"></div>
 
-## · POTELIGEO should be permanently discontinued for a life-threatening (Grade 4) rash (see section 4.4).
+- POTELIGEO should be permanently discontinued for a life-threatening (Grade 4) rash (see section 4.4).
 
 ## Infusion-related reactions
 
@@ -127,7 +127,7 @@ If an IRR occurs, the infusion should be interrupted and appropriate medical man
 
 ## Infections
 
-Subjects with MF or SS treated with mogamulizumab are at increased risk of serious infection and/or viral reactivation. The combination of mogamulizumab with systemic immune modulating medicinal products or with other licensed therapies for MF or SS has not been studied and is, therefore, not recommended, especially in consideration of the risk of severe infections in patients treated with mogamulizumab. Topical steroids or low doses of systemic corticosteroids may be used during treatment with mogamulizumab; however, the risk of serious infection and/or viral reactivation may be higher in case of concomitant administration with systemic immunosuppressive agents. Patients should be monitored for signs and symptoms of infection and treated promptly.
+Patients with MF or SS treated with mogamulizumab are at increased risk of serious infection (see section 4.8) and/or viral reactivation. Patients should be monitored for signs and symptoms of infection and treated promptly.
 
 Patients should be tested for hepatitis B infection before initiating treatment with mogamulizumab. For patients who test positive for current/previous hepatitis B infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended for advice concerning appropriate measures against hepatitis B reactivation.
 
@@ -143,15 +143,17 @@ Tumour lysis syndrome (TLS) has been observed in patients receiving mogamulizuma
 
 ## Cardiac disorders
 
-One case of acute myocardial infarction has been observed in a clinical trial patient with MF/SS receiving mogamulizumab. In clinical trial patients with other T-cell lymphomas there have been reports of stress cardiomyopathy (one case) and acute myocardial infarction (one case). The subjects had a medical history including various risk factors. Patients who have risk factors associated with cardiac disease should be monitored and appropriate precautions taken.
+One case of acute myocardial infarction has been observed in a clinical trial patient with MF/SS receiving mogamulizumab. In clinical trial patients with other T-cell lymphomas there have been reports of stress cardiomyopathy (one case) and acute myocardial infarction (one case). The patients had a medical history including various risk factors. Patients who have risk factors associated with cardiac disease should be monitored and appropriate precautions taken.
 
-<div style=\"page-break-after: always\"></div>
+## Large cell transformation (LCT)
 
 There are limited data available on patients with LCT.
 
 ## Other
 
 Mogamulizumab should not be administered subcutaneously or intramuscularly, by rapid intravenous administration, or as an intravenous bolus.
+
+<div style=\"page-break-after: always\"></div>
 
 This medicinal product contains less than 1 mmol sodium per dose, that is to say essentially 'sodium free'.
 
@@ -191,13 +193,13 @@ The most frequently reported serious adverse reactions were pneumonia, pyrexia, 
 
 The most frequently reported adverse reactions were infusion-related reaction and rash (drug eruption); most of these reactions were non-serious and Grades 1 or 2.
 
-<div style=\"page-break-after: always\"></div>
-
 Severe adverse reactions included Grade 4 respiratory failure (1.1%) and Grade 5 reactions were polymyositis and sepsis (0.5% each).
 
 ## Tabulated list of adverse reactions
 
 The adverse reactions are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 1: Adverse drug reactions identified with POTELIGEO
 
@@ -225,17 +227,17 @@ Patients receiving POTELIGEO have experienced drug rash (drug eruption), some of
 
 Infusion-related reactions have been observed in 33% of patients treated with POTELIGEO. The majority of treatment-related infusion-related reactions were Grade 1 or 2 and occurred during or shortly after the first infusion. Severe reactions (Grade 3) were experienced by 4% of patients.
 
-The incidence of infusion related reactions was highest after the first infusion (28.8% of subjects), reducing to ≤ 3.8% of subjects after two or more infusions.
+The incidence of infusion related reactions was highest after the first infusion (28.8% of patients), reducing to ≤ 3.8% of patients after two or more infusions.
 
 Infusion interruptions occurred in approximately 6% of patients, most of which (approximately 90%) occurred within the first cycle of treatment with mogamulizumab.
 
 Less than 1% of patients treated in Clinical Trial 0761-010 discontinued treatment due to infusionrelated reactions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Serious infections
 
-Patients with MF or SS are at increased risk of serious infection due to the disruption of dermal integrity caused by cutaneous disease, as well as the immunosuppressive effects of extracutaneous disease, and treatment with mogamulizumab may increase that risk. Serious infections, including sepsis, pneumonia and skin infections, were experienced by 14.3% of subjects receiving mogamulizumab. The latency to event onset following the first dose varied considerably. The majority of patients recovered from infection. In the clinical trial (0761-010), there were 2 reports of respiratory failure with fatal outcome in patients with severe pneumonia occurring more than 9 months after starting treatment with mogamulizumab.
+Patients with MF or SS are at increased risk of serious infection due to the disruption of dermal integrity caused by cutaneous disease, as well as the immunosuppressive effects of extracutaneous disease, and treatment with mogamulizumab may increase that risk. Serious infections, including sepsis, pneumonia and skin infections, were experienced by 14.3% of patients receiving mogamulizumab. The latency to event onset following the first dose varied considerably. The majority of patients recovered from infection. In the clinical trial (0761-010), there were 2 reports of respiratory failure with fatal outcome in patients with severe pneumonia occurring more than 9 months after starting treatment with mogamulizumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity
 
@@ -247,7 +249,7 @@ Colitis was mainly characterized by watery diarrhoea, in some cases excessive.
 
 ## Safety post last dose
 
-Of the 320 subjects exposed to mogamulizumab in Clinical Trial 0761-010, 21 (6.6%), experienced at least one serious adverse drug reaction (SADR) that occurred within 90 days from the date of last study drug administration.
+Of the 320 patients exposed to mogamulizumab in Clinical Trial 0761-010, 21 (6.6%), experienced at least one serious adverse drug reaction (SADR) that occurred within 90 days from the date of last study drug administration.
 
 Of these, SADRs that were reported in more than one patient were coded under the SOCs Infections and infestations (7 [2.2%] patients), General disorders and administration site conditions (5 [1.6%] patients), Respiratory, thoracic and mediastinal disorders (4 [1.3%] patients), Musculoskeletal and connective tissue disorders (3 [0.9%] patients), Hepatobiliary disorders (2 [0.6%] patients), and Injury, poisoning and procedural complications (2 [0.6%] patients). All remaining SOCs reported SADRs in one patient (0.3%).
 
@@ -255,7 +257,7 @@ The safety profile observed in the 90 days following the last dose of mogamulizu
 
 ## Elderly
 
-The safety profile in elderly patients (≥ 65 years) was generally consistent with that of adult patients, except for dermatologic reactions and infusion related reactions which were seen more often in older subjects.
+The safety profile in elderly patients (≥ 65 years) was generally consistent with that of adult patients, except for dermatologic reactions and infusion related reactions which were seen more often in older patients.
 
 ## Reporting suspected adverse reactions
 
@@ -265,13 +267,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no information on overdose with mogamulizumab. In case of overdose, the patient, including their vital signs, should be closely monitored (for at least 1 hour) and supportive treatment should be administered if required.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, monoclonal antibodies ATC code: L01FX09
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -283,7 +285,7 @@ The efficacy of mogamulizumab in the treatment of patients with mycosis fungoide
 
 The primary efficacy endpoint was progression-free survival (PFS) based on investigator assessment using a global composite response criteria that took into account all potentially affected disease compartments (skin, blood, lymph nodes and viscera). Response in skin and blood was evaluated every 4 weeks. Response in lymph nodes and viscera was evaluated at 4 weeks, then every 8 weeks in the first year, and then every 16 weeks thereafter.
 
-All patients had a histologically confirmed diagnosis of mycosis fungoides (MF), 56.5%, 53.2%, or Sézary Syndrome (SS), 43.5%, 46.8%, in the mogamulizumab and vorinostat groups, respectively, and had received at least one prior systemic therapy. The most common prior systemic therapies used by subjects in Europe were bexarotene (70%), interferon (59%), methotrexate (49%), extracorporeal photopheresis (ECP) (31%) and gemcitabine/gemcitabine regimens (28%).
+All patients had a histologically confirmed diagnosis of mycosis fungoides (MF), 56.5%, 53.2%, or Sézary Syndrome (SS), 43.5%, 46.8%, in the mogamulizumab and vorinostat groups, respectively, and had received at least one prior systemic therapy. The most common prior systemic therapies used by patients in Europe were bexarotene (70%), interferon (59%), methotrexate (49%), extracorporeal photopheresis (ECP) (31%) and gemcitabine/gemcitabine regimens (28%).
 
 The median duration of exposure with mogamulizumab was 5.6 months (range: &lt; 1 to 45.3 months). 56% of patients received mogamulizumab for at least 6 cycles, and 25% of patients received mogamulizumab for at least 12 cycles.
 
@@ -291,15 +293,13 @@ Patients were a median age of 64 years at the time of screening (range 25 to 101
 
 CCR4 expression was assessed retrospectively on pretreatment skin biopsies (formalin fixed paraffin embedded) using immunohistochemistry. In the mogamulizumab arm, baseline CCR4 expression levels were available in 75% of patients (N = 140). CCR4 was detected on ≥ 1% of lymphocytes in 100% of patients, and 96% (134/140) had CCR4 detected on ≥ 10% of skin lymphocytes.
 
-Of the patients randomised to vorinostat, 136 patients (73.1%) crossed over to mogamulizumab during the study. Reasons for crossover to mogamulizumab were disease progression (109 patients) and
+Of the patients randomised to vorinostat, 136 patients (73.1%) crossed over to mogamulizumab during the study. Reasons for crossover to mogamulizumab were disease progression (109 patients) and treatment intolerance (27 patients). The number of infusions of mogamulizumab administered to crossover patients ranged from 1 to 94 (up to 46 months of treatment) as of the December 2016 datacut.
+
+At 6, 12, 18 and 24 months after the start of randomised treatment, the percent of patients alive without disease progression was higher for mogamulizumab (55.3%, 38.3%, 28.0%, and 14.1%, respectively) compared to vorinostat (28.8%, 15.3%, 7.2%, and 7.2%, respectively). Median PFS for the mogamulizumab group was 7.70 months (95% CI: 5.67, 10.33) and 3.10 months (95% CI: 2.87, 4.07) for the vorinostat group with resultant hazard ration of 0.53 (95% CI: 0.41, 0.69), p &lt; 0.0001 (2-sided, stratified log rank test).
 
 <div style=\"page-break-after: always\"></div>
 
-treatment intolerance (27 patients). The number of infusions of mogamulizumab administered to crossover patients ranged from 1 to 94 (up to 46 months of treatment) as of the December 2016 datacut.
-
-At 6, 12, 18 and 24 months after the start of randomised treatment, the percent of subjects alive without disease progression was higher for mogamulizumab (55.3%, 38.3%, 28.0%, and 14.1%, respectively) compared to vorinostat (28.8%, 15.3%, 7.2%, and 7.2%, respectively). Median PFS for the mogamulizumab group was 7.70 months (95% CI: 5.67, 10.33) and 3.10 months (95% CI: 2.87, 4.07) for the vorinostat group with resultant hazard ration of 0.53 (95% CI: 0.41, 0.69), p &lt; 0.0001 (2-sided, stratified log rank test).
-
-The Kaplan-Meier curve for PFS is shown Figure 1 .
+The Kaplan-Meier curve for PFS is shown Figure 1.
 
 Figure 1: Plot of Kaplan-Meier curve of progression-free survival by investigator's assessment (ITT) population
 
@@ -309,7 +309,7 @@ Key secondary endpoints were overall response rate (ORR), ORR after crossover, d
 
 Overall response was reported as a composite score from measures in each compartment, and a response had to be demonstrated at two successive overall disease assessments (at least 8 weeks apart during the first year and 16 weeks apart thereafter) in order to be confirmed. Patients were included in the analysis for a specific compartment if they had presence of disease in that compartment at baseline, or had any post-baseline response assessment for that compartment.
 
-Table 2 summarises ORR and DOR, and response by compartment. The study demonstrated statistically significant improvements in ORR and response by compartment in the blood, skin, and lymph nodes as compared to vorinostat. Response in the viscera could not be evaluated due to limited efficacy data in subjects with visceral involvement; the benefit-risk of mogamulizumab in subjects with visceral involvement is currently undetermined due to lack of data.
+Table 2 summarises ORR and DOR, and response by compartment. The study demonstrated statistically significant improvements in ORR and response by compartment in the blood, skin, and lymph nodes as compared to vorinostat. Response in the viscera could not be evaluated due to limited efficacy data in patients with visceral involvement; the benefit-risk of mogamulizumab in patients with visceral involvement is currently undetermined due to lack of data.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -347,9 +347,9 @@ CI = confidence interval; CR = complete response; PR = partial response
 
 Treatment with mogamulizumab resulted in 8 confirmed complete responses (complete clearing of all affected compartments) compared with 0 patients on vorinostat: 4 of these 8 patients were initially randomized to mogamulizumab and 4 had crossed over to mogamulizumab during the study. Fortyone of the 136 cross-over patients (30.1%) responded with either partial or complete response with mogamulizumab.
 
-There are limited efficacy data in patients with low (&lt; 10%) CCR4 expression in the skin. In Clinical Trial 0761-010 there were 10/290 evaluable patients with CCR4 expression &lt; 10%, of which 6 were randomised to mogamulizumab, and 4 were randomised to vorinostat and subsequently crossed over to mogamulizumab. No confirmed responses were observed in these 10 subjects with low (&lt; 10%) CCR4 expression. Compartmental responses were seen in 3 of 10 evaluable subjects treated with mogamulizumab in the randomised or cross over phase.
+There are limited efficacy data in patients with low (&lt; 10%) CCR4 expression in the skin. In Clinical Trial 0761-010 there were 10/290 evaluable patients with CCR4 expression &lt; 10%, of which 6 were randomised to mogamulizumab, and 4 were randomised to vorinostat and subsequently crossed over to mogamulizumab. No confirmed responses were observed in these 10 patients with low (&lt; 10%) CCR4 expression. Compartmental responses were seen in 3 of 10 evaluable patients treated with mogamulizumab in the randomised or cross over phase.
 
-Patients with stage IB/II disease treated with mogamulizumab had confirmed ORR of 17.6% compared to 8.3% for vorinostat, and compartment level (blood, skin, lymph node) response rates that were higher than those for vorinostat treated patients (Table 3). Overall, the median period of progression free survival for stage IB/II subjects treated with mogamulizumab was 4.7 months compared to 3.9 months for vorinostat-treated patients (Table 4). In patients with stage IB/II disease, given the limited number of subjects with a response and immaturity of the data, no conclusion on duration of response can be made.
+Patients with stage IB/II disease treated with mogamulizumab had confirmed ORR of 17.6% compared to 8.3% for vorinostat, and compartment level (blood, skin, lymph node) response rates that were higher than those for vorinostat treated patients (Table 3). Overall, the median period of progression free survival for stage IB/II patients treated with mogamulizumab was 4.7 months compared to 3.9 months for vorinostat-treated patients (Table 4). In patients with stage IB/II disease, given the limited number of patients with a response and immaturity of the data, no conclusion on duration of response can be made.
 
 Time to compartment level response in Stage IB/II patients was approximately 3 months, which is consistent with time to response for the ITT population overall (approximately 3 months). If a compartment level response or overall response is not observed after 3 months of treatment, discontinuation of treatment should be considered.
 
@@ -362,7 +362,8 @@ Table 3: Overall and Compartmental Response Rate in Early Disease Stages
 | Disease stage IB/II                | N = 68          | N = 72       |                       |
 | Overall response rate (ORR), n (%) | 12 (17.6)       | 6 (8.3)      | 9.3                   |
 | Compartment:                       |                 |              |                       |
-| Blood (n) Response Rate (n, %)     | 17 8 (47.1)     | 23 4 (17.4)  | 29.7                  |
+| Blood (n)                          | 17              | 23 4 (17.4)  |                       |
+| Response Rate (n, %)               | 8 (47.1)        |              | 29.7                  |
 | 95% CI a                           | (23.0, 72.2)    | (5.0, 38.8)  | (-2.2, 57.1)          |
 | Skin (n)                           | 68              | 72           |                       |
 | Response Rate (n, %)               | 19 (27.9)       | 14 (19.4)    | 8.5                   |
@@ -370,8 +371,6 @@ Table 3: Overall and Compartmental Response Rate in Early Disease Stages
 | Nodal (n)                          | 41              | 40           |                       |
 | Response Rate (n, %)               | 4 (9.8)         | 1 (2.5)      | 7.3                   |
 | 95% CI a                           | (2.7, 23.1)     | (0.1, 13.2)  | (-14.3, 28.6)         |
-
-M = mogamulizumab. V = vorinostat
 
 Table 4: Progression Free Survival (PFS) by Treatment Group and Disease Stage (Randomised Treatment Period)
 
@@ -446,7 +445,9 @@ In an animal reproductive and developmental toxicity study, administration of mo
 
 ## 6.1 List of excipients
 
-Citric acid monohydrate Glycine Polysorbate 80 Sodium hydroxide (for pH adjustment) Hydrochloric acid (for pH adjustment) Water for injections
+Citric acid monohydrate Glycine Polysorbate 80 Sodium hydroxide (for pH adjustment) Hydrochloric acid (for pH adjustment)
+
+Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -454,9 +455,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
-
-3 years.
+Unopened vial 3 years.
 
 ## After opening
 
@@ -514,9 +513,7 @@ EU/1/18/1335/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 22 November 2018
-
-Date of latest renewal: 01 September 2023
+Date of first authorisation: 22 November 2018 Date of latest renewal: 01 September 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -539,9 +536,13 @@ Name and address of the manufacturer of the biological active substance
 
 Kyowa Kirin Co., Ltd. Takasaki Plant 100-1 Hagiwara-machi, Takasaki-shi, Gunma, 370-0013, Japan
 
-Lonza AG Lonzastrasse CH-3930 Visp Switzerland
+Lonza AG Lonzastrasse CH-3930 Visp
 
-Name and address of the manufacturer responsible for batch release allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen Germany
+Switzerland
+
+Name and address of the manufacturer responsible for batch release
+
+allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen Germany
 
 Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp Netherlands
 
@@ -586,11 +587,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-POTELIGEO 4 mg/mL concentrate for solution for infusion mogamulizumab
+POTELIGEO 4 mg/mL concentrate for solution for infusion
+
+mogamulizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -660,9 +663,11 @@ EU/1/18/1335/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -680,18 +685,22 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 POTELIGEO 4 mg/mL concentrate for solution for infusion mogamulizumab Intravenous use after dilution
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Read the package leaflet before use.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -700,11 +709,13 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 20 mg/5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 For single use only.
 
@@ -712,17 +723,17 @@ For single use only.
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## POTELIGEO 4 mg/mL concentrate for solution for infusion mogamulizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -743,18 +754,18 @@ This medicine is used to treat adults with mycosis fungoides and Sézary syndrom
 
 ## Do not use POTELIGEO:
 
-- -if you are allergic to mogamulizumab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to mogamulizumab or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 ## Talk to your doctor or nurse before using POTELIGEO if you:
 
-- -ever had a severe skin reaction with this medicine.
-- -ever had an infusion reaction with this medicine (possible symptoms of an infusion reaction are listed in section 4).
-- -have human immunodeficiency virus (HIV), herpes, cytomegalovirus (CMV), or hepatitis B or C infection, or other on-going infections.
-- -have had or plan to have a stem cell transplant, either using your own cells or a donor's.
-- -have had tumour lysis syndrome (a complication involving the destruction of cancer cells) after a previous treatment.
-- -have heart problems.
+- ever had a severe skin reaction with this medicine.
+- ever had an infusion reaction with this medicine (possible symptoms of an infusion reaction are listed in section 4).
+- have human immunodeficiency virus (HIV), herpes, cytomegalovirus (CMV), or hepatitis B or C infection, or other on-going infections.
+- have had or plan to have a stem cell transplant, either using your own cells or a donor's.
+- have had tumour lysis syndrome (a complication involving the destruction of cancer cells) after a previous treatment.
+- have heart problems.
 
 Tell the person giving you the infusion or get medical help straight away if you experience a reaction during or after any POTELIGEO infusion.
 
@@ -796,8 +807,6 @@ This medicine contains 1 mg of polysorbate 80 in each vial which is equivalent t
 
 The amount of POTELIGEO you will receive is calculated by your doctor based on your body weight. The recommended dose is 1 mg POTELIGEO for each kg of body weight.
 
-<div style=\"page-break-after: always\"></div>
-
 POTELIGEO will be given to you through a vein (intravenous infusion) over at least 60 minutes. To start with, the infusions will be given once a week for the first 5 doses, then once every 2 weeks. Treatment should be continued unless you get serious side effects or the cutaneous T-cell lymphoma starts to get worse.
 
 ## 4. Possible side effects
@@ -808,24 +817,26 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor or nurse or get medical help immediately if you have any of the following signs and symptoms after starting POTELIGEO:
 
+<div style=\"page-break-after: always\"></div>
+
 ## Very common side effects: may affect more than 1 in 10 people
 
-- -chills, nausea or vomiting, headache, wheezing, itching, flushing, rash, dizziness or feeling faint, difficulty breathing and fever, which may be signs of an infusion reaction. If this happens, the infusion may need to be stopped and you may require additional treatment. When the symptoms go away, POTELIGEO can normally continue to be given, but more slowly. Your doctor may stop POTELIGEO treatment if your reaction is severe.
-- -signs of infection, which may include a fever, sweats or chills, flu-like symptoms, sore throat or difficulty swallowing, cough, shortness of breath, stomach pain, nausea or vomiting, diarrhoea and feeling very unwell.
-- -skin rash (which may become severe), or sore mouth. In some people receiving POTELIGEO for other types of cancers, skin pain/burning sensation, itching, skin blisters/peeling, ulcers in the mouth or on the lips or genitals occurred, which are possible signs of a severe skin reaction, such as Stevens-Johnson syndrome or toxic epidermal necrolysis (which affected up to 1 in 100 people).
+- chills, nausea or vomiting, headache, wheezing, itching, flushing, rash, dizziness or feeling faint, difficulty breathing and fever, which may be signs of an infusion reaction. If this happens, the infusion may need to be stopped and you may require additional treatment. When the symptoms go away, POTELIGEO can normally continue to be given, but more slowly. Your doctor may stop POTELIGEO treatment if your reaction is severe.
+- signs of infection, which may include a fever, sweats or chills, flu-like symptoms, sore throat or difficulty swallowing, cough, shortness of breath, stomach pain, nausea or vomiting, diarrhoea and feeling very unwell.
+- skin rash (which may become severe), or sore mouth. In some people receiving POTELIGEO for other types of cancers, skin pain/burning sensation, itching, skin blisters/peeling, ulcers in the mouth or on the lips or genitals occurred, which are possible signs of a severe skin reaction, such as Stevens-Johnson syndrome or toxic epidermal necrolysis (which affected up to 1 in 100 people).
 
 ## Common side effects: may affect up to 1 in 10 people
 
-- -Watery diarrhoea, more bowel movements than usual, severe abdominal pain or tenderness which are possible signs of inflammation of the large bowel (colitis).
+- Watery diarrhoea, more bowel movements than usual, severe abdominal pain or tenderness which are possible signs of inflammation of the large bowel (colitis).
 
 ## Uncommon side effects: may affect up to 1 in 100 people
 
-- -fever, chills, nausea, vomiting, confusion, shortness of breath, seizures, irregular heartbeat, dark or cloudy urine, unusual tiredness and/or muscle or joint pain. The destruction of cancer cells and the body's reaction to it can very occasionally lead to a problem called tumour lysis syndrome.
-- -chest pain, shortness of breath, fast or slow heartbeat, sweating, dizziness, nausea or vomiting, weakness, feeling faint and feeling unwell. Although unlikely to be caused by this medicine, these may be signs of a heart disorder.
+- fever, chills, nausea, vomiting, confusion, shortness of breath, seizures, irregular heartbeat, dark or cloudy urine, unusual tiredness and/or muscle or joint pain. The destruction of cancer cells and the body's reaction to it can very occasionally lead to a problem called tumour lysis syndrome.
+- chest pain, shortness of breath, fast or slow heartbeat, sweating, dizziness, nausea or vomiting, weakness, feeling faint and feeling unwell. Although unlikely to be caused by this medicine, these may be signs of a heart disorder.
 
 ## Not known: frequency cannot be estimated from the available data
 
-- -if you go on to have a stem cell transplant, it is possible that you could then develop complications (graft versus host disease) that are difficult to manage. Symptoms may include skin rashes or blistering, nausea or diarrhoea that doesn't go away, stomach pain or vomiting, joint pain or stiffness, dry or irritated eyes or blurred vision, mouth sores, irritation or pain, a cough that does not go away or difficulty breathing, sensitive genitals, jaundice (turning yellow), dark urine, and any swelling.
+- if you go on to have a stem cell transplant, it is possible that you could then develop complications (graft versus host disease) that are difficult to manage. Symptoms may include skin rashes or blistering, nausea or diarrhoea that doesn't go away, stomach pain or vomiting, joint pain or stiffness, dry or irritated eyes or blurred vision, mouth sores, irritation or pain, a cough that does not go away or difficulty breathing, sensitive genitals, jaundice (turning yellow), dark urine, and any swelling.
 
 ## Other side effects
 
@@ -833,29 +844,28 @@ Talk to your doctor if you get any other side effects. These can include:
 
 ## Very common side effects: may affect more than 1 in 10 people
 
-- -Lack of energy (fatigue)
-- -Constipation
-
-<div style=\"page-break-after: always\"></div>
-
-- -Swollen legs or ankles
-- -Headache
+- Lack of energy (fatigue)
+- Constipation
+- Swollen legs or ankles
+- Headache
 
 ## Common side effects: may affect up to 1 in 10 people
 
-- -Anaemia (reduced red blood cells)
-- -Reduced blood platelets (thrombocytopenia)
-- -Reduced white blood cells (neutropenia and leucopenia) or reduced lymphocytes
-- -Blood tests showing raised liver enzyme levels
-- -Underactive thyroid
+- Anaemia (reduced red blood cells)
+- Reduced blood platelets (thrombocytopenia)
+- Reduced white blood cells (neutropenia and leucopenia) or reduced lymphocytes
+- Blood tests showing raised liver enzyme levels
+- Underactive thyroid
 
 ## Uncommon side effects: may affect up to 1 in 100 people
 
-- -Inflammation of the liver (hepatitis)
+- Inflammation of the liver (hepatitis)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Not Known: frequency cannot be estimated from the available data
 
-- -Small lumps of the skin, bone or other tissues caused by accumulation of immune cells as a response to inflammation (granuloma)
+- Small lumps of the skin, bone or other tissues caused by accumulation of immune cells as a response to inflammation (granuloma)
 
 ## Reporting of side effects
 
@@ -865,7 +875,7 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and the vial after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and the vial after \"EXP\". The expiry date refers to the last day of that month.
 
 Unopened vial: Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
@@ -881,14 +891,12 @@ Do not throw away any medicines via wastewater or household waste. These measure
 
 ## What POTELIGEO contains
 
-- -Each vial contains 20 mg of mogamulizumab in 5 mL of concentrate, corresponding to 4 mg/mL.
-- -The other excipients are citric acid monohydrate, glycine, polysorbate 80, sodium hydroxide, hydrochloric acid, and water for injections. See section 2 'POTELIGEO contains sodium'.
+- Each vial contains 20 mg of mogamulizumab in 5 mL of concentrate, corresponding to 4 mg/mL.
+- The other excipients are citric acid monohydrate, glycine, polysorbate 80, sodium hydroxide, hydrochloric acid, and water for injections. See section 2 \"POTELIGEO contains sodium\".
 
 ## What POTELIGEO looks like and contents of the pack
 
 POTELIGEO is a clear, colourless solution. The pack contains a glass vial containing 5 mL concentrate for solution for infusion.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -896,13 +904,9 @@ Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp Netherlands medinfo@kyowa
 
 ## Manufacturer
 
-allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen Germany
+allphamed PHARBIL Arzneimittel GmbH Hildebrandstr. 10-12 37081 Göttingen Germany Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp Netherlands Kyowa Kirin Services Ltd. Dutch Branch Bloemlaan 2 Hoofddorp 2132 NP Netherlands This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;.
 
-Kyowa Kirin Holdings B.V. Bloemlaan 2 2132NP Hoofddorp Netherlands
-
-Kyowa Kirin Services Ltd. Dutch Branch Bloemlaan 2 Hoofddorp 2132 NP Netherlands
-
-This leaflet was last revised in &lt; { MM/YYYY }&gt;&lt;{ month YYYY }&gt;.
+<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 

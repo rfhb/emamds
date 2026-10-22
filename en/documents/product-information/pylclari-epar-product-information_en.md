@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 11:39:06
-document_pages: 38
+document_datetime: 2026-10-09 16:43:15
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pylclari-epar-product-information_en.pdf
 document_name: pylclari-epar-product-information_en.pdf
 version: success
-processing_time: 23.6014005
-conversion_datetime: 2026-03-09 14:15:42.092928
+processing_time: 11.4880512
+conversion_datetime: 2026-10-22 23:00:45.30222
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.77.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.5.0
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,17 +36,13 @@ Pylclari 1 500 MBq/mL solution for injection
 
 ## Pylclari 1 000 MBq/mL solution for injection
 
-Each mL of solution contains 1 000 MBq of piflufolastat ( 18
-
-F) at the date and time of calibration.
+Each mL of solution contains 1 000 MBq of piflufolastat ( 18 F) at the date and time of calibration.
 
 The total activity per vial ranges from 500 MBq to 10 000 MBq at the date and time of calibration.
 
 ## Pylclari 1 500 MBq/mL solution for injection
 
-Each mL of solution contains 1 500 MBq of piflufolastat ( 18
-
-F) at the date and time of calibration.
+Each mL of solution contains 1 500 MBq of piflufolastat ( 18 F) at the date and time of calibration.
 
 The total activity per vial ranges from 750 MBq to 15 000 MBq at the date and time of calibration.
 
@@ -101,7 +97,9 @@ It is administered by a single intravenous injection.
 
 Pylclari is presented in multidose vial. The minimal volume is 0.5 mL of solution per vial. The volume of solution to be administered can range from 0.2 mL to 10 mL.
 
-Precautions to be taken before handling or administering the medicinal product For instruction before administration, see section 6.6.
+## Precautions to be taken before handling or administering the medicinal product
+
+For instruction before administration, see section 6.6.
 
 For instructions on dilution of the medicinal product before administration, see section 12.
 
@@ -159,6 +157,12 @@ Images should be interpreted only by readers trained in the interpretation of PE
 
 Clinical correlation, which may include histopathological evaluation of the suspected prostate cancer site, is recommended. A negative image does not rule out the presence of prostate cancer and a positive image does not confirm the presence of prostate cancer.
 
+CE-marked software may be used as an adjunct to visual interpretation to support in standardized reporting and semi-quantitative assessment.
+
+When such software is used, users should be appropriately trained and perform the assessment in accordance with the manufacturer's Instructions For Use. Visual interpretation should be performed prior to consideration of software outputs. Software results should be regarded as supportive only. The final clinical interpretation remains the responsibility of the physician.
+
+AI software does not provide validated diagnostic criteria to differentiate benign from malignant findings and should not be used as a standalone diagnostic tool.
+
 Piflufolastat ( 18 F) was not studied for detection of distant metastases in primary staging.
 
 The performance of piflufolastat ( 18 F) for imaging of patients with biochemical evidence of recurrence of prostate cancer seems to be affected by serum PSA levels (see section 5.1). The performance of piflufolastat ( 18 F) for imaging of metastatic pelvic lymph nodes prior to initial definitive therapy seems to be affected by risk factors such as Gleason score.
@@ -183,6 +187,8 @@ Androgen deprivation therapy (ADT) and other therapies targeting the androgen pa
 
 Chronic treatment with diuretics does not seem to have any interference with piflufolastat ( 18 F) for interpretation of images.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -193,11 +199,9 @@ Piflufolastat ( 18 F) is not intended for use in women.
 
 Piflufolastat ( 18 F) is not intended for use in women.
 
-## Fertility
+Fertility
 
 No studies on fertility have been performed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -213,38 +217,40 @@ Adverse reactions have been reported during clinical development and are listed 
 
 ## Tabulated list of adverse reactions
 
-The frequencies of adverse reactions are defined as follows: Very common (≥1/10), common (≥1/100 to &lt;1/10), Uncommon ( ≥ 1/1 000 to &lt;1/100), Rare ( ≥ 1/10 000 to &lt;1/1 000), Very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The frequencies of adverse reactions are defined as follows: Very common (≥1/10), common (≥1/100 to &lt;1/10), Uncommon (≥1/1 000 to &lt;1/100), Rare (≥1/10 000 to &lt;1/1 000), Very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Adverse reactions observed with piflufolastat ( 18 F)
 
-| MedDRA body system organ class                       | Adverse reactions     | Frequency   |
-|------------------------------------------------------|-----------------------|-------------|
-| Immune system disorders                              | Hypersensitivity      | Uncommon    |
-| Metabolism and nutrition disorders                   | Dehydration           | Uncommon    |
-| Psychiatric disorders                                | Disorientation        | Uncommon    |
-| Nervous system disorders                             | Syncope               | Not known*  |
-| Nervous system disorders                             | Dysgeusia             | Common      |
-| Nervous system disorders                             | Headache              |             |
-| Nervous system disorders                             | Dizziness             | Uncommon    |
-| Nervous system disorders                             | Hyperaesthesia        |             |
-| Nervous system disorders                             | Migraine              |             |
-| Eye disorders                                        | Visual field defect   | Uncommon    |
-| Ear and labyrinth disorders                          | Vertigo               | Uncommon    |
-| Gastrointestinal disorders                           | Nausea                | Not known*  |
-| Gastrointestinal disorders                           | Vomiting              |             |
-| Skin and subcutaneous tissue disorders               | Dry skin              | Uncommon    |
-| Skin and subcutaneous tissue disorders               | Rash                  |             |
-| Musculoskeletal and connective tissue disorders      | Arthralgia            | Uncommon    |
-| Musculoskeletal and connective tissue disorders      | Muscular weakness     |             |
-| Musculoskeletal and connective tissue disorders      | Pain in extremity     |             |
-| Renal and urinary disorders                          | Dysuria               | Uncommon    |
-| General disorders and administration site conditions | Fatigue               | Uncommon    |
-| General disorders and administration site conditions | Chest discomfort      | Uncommon    |
-| General disorders and administration site conditions | Application site rash |             |
-| General disorders and administration site conditions | Feeling abnormal      |             |
-| General disorders and administration site conditions | Injection site pain   |             |
+| MedDRA body system organ class                  | Adverse reactions   | Frequency   |
+|-------------------------------------------------|---------------------|-------------|
+| Immune system disorders                         | Hypersensitivity    | Uncommon    |
+| Metabolism and nutrition disorders              | Dehydration         | Uncommon    |
+| Psychiatric disorders                           | Disorientation      | Uncommon    |
+| Nervous system disorders                        | Syncope             | Not known*  |
+| Nervous system disorders                        | Dysgeusia           | Common      |
+| Nervous system disorders                        | Headache            |             |
+| Nervous system disorders                        | Dizziness           | Uncommon    |
+| Nervous system disorders                        | Hyperaesthesia      |             |
+| Nervous system disorders                        | Migraine            |             |
+| Eye disorders                                   | Visual field defect | Uncommon    |
+| Ear and labyrinth disorders                     | Vertigo             | Uncommon    |
+| Gastrointestinal disorders                      | Nausea              | Not known*  |
+| Gastrointestinal disorders                      | Vomiting            |             |
+| Skin and subcutaneous tissue disorders          | Dry skin            | Uncommon    |
+| Skin and subcutaneous tissue disorders          | Rash                |             |
+| Musculoskeletal and connective tissue disorders | Arthralgia          | Uncommon    |
+| Musculoskeletal and connective tissue disorders | Muscular weakness   |             |
 
 <div style=\"page-break-after: always\"></div>
+
+|                                                      | Pain in extremity     |          |
+|------------------------------------------------------|-----------------------|----------|
+| Renal and urinary disorders                          | Dysuria               | Uncommon |
+| General disorders and administration site conditions | Fatigue               | Uncommon |
+| General disorders and administration site conditions | Chest discomfort      | Uncommon |
+| General disorders and administration site conditions | Application site rash | Uncommon |
+| General disorders and administration site conditions | Feeling abnormal      | Uncommon |
+| General disorders and administration site conditions | Injection site pain   | Uncommon |
 
 ## Description of selected adverse reactions
 
@@ -274,11 +280,11 @@ Pharmacotherapeutic group: Diagnostic radiopharmaceuticals, other diagnostic rad
 
 Prostate-Specific Membrane Antigen (PSMA), is a trans-membrane glycoprotein primarily expressed in normal human prostate epithelium at low levels, but may be overexpressed by malignant tissues, particularly by prostate cancer cells, including metastatic disease. Fluorine ( 18 F) is a β+ emitting radionuclide that enables positron emission tomography. Piflufolastat ( 18 F) is a selective secondgeneration fluorine-18-labeled small-molecule PSMA inhibitor. Based on the intensity of the signals, PET images obtained using piflufolastat ( 18 F) indicate the presence of PSMA expressing tissues.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 At the chemical concentrations used for diagnostic examinations, this medicinal product does not appear to have any pharmacodynamic activity.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy
 
@@ -294,34 +300,34 @@ Table 2 shows piflufolastat ( 18 F) PET/CT performance by reader using pelvic ly
 
 Table 2: Performance evaluation of piflufolastat ( 18 F) PET/CT for pelvic lymph node metastasis detection in OSPREY cohort A (n=252) using Patient-Level and Region-Matched analysis.
 
-|                        | Reader 1   | Reader 2   | Reader 3   |
-|------------------------|------------|------------|------------|
-| True positive          | 23         | 17         | 23         |
-| False Positive         | 7          | 4          | 9          |
-| False Negative         | 36         | 43         | 37         |
-| True Negative          | 186        | 188        | 183        |
-| Sensitivity, %(95% CI) | 39 (27;51) | 28 (17;40) | 38 (26;51) |
-| Specificity, %(95% CI) | 96 (94;99) | 98 (95;99) | 95 (92;98) |
-| PPV, %(95% CI)         | 77 (62;92) | 81 (59;93) | 72 (56;87) |
-| NPV, %(95% CI)         | 84 (79;89) | 81 (76;86) | 83 (78;88) |
+|                         | Reader 1   | Reader 2   | Reader 3   |
+|-------------------------|------------|------------|------------|
+| True positive           | 23         | 17         | 23         |
+| False Positive          | 7          | 4          | 9          |
+| False Negative          | 36         | 43         | 37         |
+| True Negative           | 186        | 188        | 183        |
+| Sensitivity, % (95% CI) | 39 (27;51) | 28 (17;40) | 38 (26;51) |
+| Specificity, % (95% CI) | 96 (94;99) | 98 (95;99) | 95 (92;98) |
+| PPV, % (95% CI)         | 77 (62;92) | 81 (59;93) | 72 (56;87) |
+| NPV, % (95% CI)         | 84 (79;89) | 81 (76;86) | 83 (78;88) |
 
 Abbreviations: CI = confidence interval, PPV = positive predictive value, NPV = negative predictive value
+
+<div style=\"page-break-after: always\"></div>
 
 For primary staging (OSPREY Cohort A), high level reader agreement for pelvic lymph nodes metastases (92.5 %) was achieved with Fleiss' kappa statistic of 0.78 (95 %CI: 0.71; 0.85).
 
 In exploratory analyses, there were numerical trends towards more true positive results among patients with total Gleason score of 8 or higher and among patients with tumor stage of T2c or higher relative to those patients with lower Gleason score or tumor stage.
 
-A comparison  on  diagnostic  performance  of  piflufolastat  ( 18 F) PET/CT with  baseline  conventional imaging (CI) in patients with high risk prostate cancer from Osprey Cohort A was performed as a post-
-
-<div style=\"page-break-after: always\"></div>
-
-hoc study. Piflufolastat ( 18 F) PET/CT demonstrated a 3-fold higher PPV than conventional imaging (median 86.7 % vs. 28.3 %, respectively) despite similar sensitivity (median 40.3 % for piflufolastat ( 18 F) PET/CT and 42.6 % for conventional imaging). Mean specificiy of piflufolastat ( 18 F) PET/CT was 97.9 % and 65.1 % for CI and mean NPV 83.2 % vs. 78.8 % respectively.
+A comparison on diagnostic performance of piflufolastat ( 18 F) PET/CT with baseline conventional imaging (CI) in patients with high risk prostate cancer from Osprey Cohort A was performed as a posthoc study. Piflufolastat ( 18 F) PET/CT demonstrated a 3-fold higher PPV than conventional imaging (median 86.7 % vs. 28.3 %, respectively) despite similar sensitivity (median 40.3 % for piflufolastat ( 18 F) PET/CT and 42.6 % for conventional imaging). Mean specificiy of piflufolastat ( 18 F) PET/CT was 97.9 % and 65.1 % for CI and mean NPV 83.2 % vs. 78.8 % respectively.
 
 CONDOR enrolled 208 patients with biochemical evidence of suspected recurrent prostate cancer after initial treatment (radical prostatectomy in 85 % of the patients). The median serum PSA was 0.82 ng/mL. All enrolled patients had negative or equivocal for prostate cancer conventional imaging evaluation (for most patients, CT or MRI) within 60 days prior to receiving piflufolastat ( 18 F). All patients received a single PET/CT from mid-thigh to skull vertex with optional imaging of the lower extremities. Three independent central readers, blinded to all clinical information, evaluated each PET/CT scan for the presence and location of positive lesions. Location of each lesion was categorized into 5 regions (prostate/prostate bed, pelvic lymph nodes, other lymph nodes, soft tissue, bone). The primary endpoint was the correct localisation rate (CLR) at the patient level, defined as the percentage of patients for whom there was a one-to-one correspondence between localisation of at least one lesion identified on piflufolastat ( 18 F) PET/CT imaging and the composite truth standard. If the lower bound of the 95 % CI was &gt;0.2 (CLR of 20 %) for at least 2 of the 3 independent imaging reviewers, then the primary endpoint analysis was considered a success. The secondary endpoint was the impact on patient management (IMP) defined as the percentage of patients with a change in intended prostate cancer treatment plans due to piflufolastat ( 18 F) PET/CT as measured by comparison of intended management questionnaires completed pre- and post- piflufolastat ( 18 F) PET/CT imaging results.
 
 Depending on the reader, a total of 123 to 137 patients (59 % to 66 %) had at least one lesion that was identified as piflufolastat ( 18 F) PET-positive (Table 3). The region most commonly observed to have a PET-positive finding was pelvic lymph nodes (40 % to 42 % of all PET-positive regions) and the least common region was soft tissue (6 % to 7 %).
 
 Depending on the reader, 99 to 104 patients with a piflufolastat ( 18 F) PET-positive region had location-matched composite reference standard information that consisted of histopathology, imaging (CT, MRI, ultrasound, fluciclovine ( 18 F) PET, choline PET, or bone scan) obtained within 60 days of the PET/CT scan, or response of serum PSA level to targeted radiotherapy. Table 3 shows patientlevel performance results of piflufolastat ( 18 F) PET/CT by reader, including location-matched positive predictive value, also known as Correct Localization Rate (CLR). A patient was considered true positive if they had at least one matching location positive on both piflufolastat ( 18 F) PET/CT and the composite reference standard.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3. Patient-Level Performance of piflufolastat ( 18 F) PET/CT in CONDOR (n=208)
 
@@ -332,28 +338,21 @@ Table 3. Patient-Level Performance of piflufolastat ( 18 F) PET/CT in CONDOR (n=
 | True positive                                          | 89         | 87         | 84         |
 | False positive                                         | 15         | 13         | 15         |
 | Unevaluable (PET- positive Without Reference Standard) | 33         | 24         | 24         |
-| CLR %(95% CI)                                          | 86 (79,92) | 87 (80,94) | 85 (78,92) |
+| CLR % (95% CI)                                         | 86 (79,92) | 87 (80,94) | 85 (78,92) |
 
 Abbreviations: CLR = location-matched positive predictive value, CI = confidence interval
 
 Table 4 shows patient-level piflufolastat ( 18 F) PET/CT results from the majority read stratified by serum PSA level. Percent PET positivity was calculated as the proportion of patients with a positive PET/CT out of all patients scanned. The likelihood of a patient having at least one piflufolastat ( 18 F) PET-positive lesion generally increased with higher serum PSA level.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4: Patient-Level piflufolastat ( 18 F) PET results and percent PET positivity* stratified by serum PSA level in the CONDOR study using majority result among three readers (n=199)**
 
-| PSA (ng/mL)   | PET positive patients   | PET positive patients   | PET positive patients   | PET positive patients                    |   PET negative patients | Percent PET positivity (95% CI) *   |
-|---------------|-------------------------|-------------------------|-------------------------|------------------------------------------|-------------------------|-------------------------------------|
-|               | Total                   | TP                      | FP                      | Unevaluable (Without reference standard) |                         |                                     |
-| < 0.5         | 24                      | 11                      | 4                       | 9                                        |                      45 | 35 (24;46)                          |
-| ≥0.5 and <1   | 18                      | 12                      | 3                       | 3                                        |                      18 | 50 (34;66)                          |
-| ≥1 and <2     | 21                      | 15                      | 3                       | 3                                        |                      10 | 68 (51;84)                          |
-| ≥2            | 57                      | 50                      | 3                       | 4                                        |                       6 | 90 (83;98)                          |
-| Total         | 120                     | 88                      | 13                      | 19                                       |                      79 | 60 (54;67)                          |
-
-* Percent PET positivity = PET positive patients/total patients scanned. PET positive patients include true positive and false positive patients as well as those who did not have reference standard information.
-
-** Six patients were excluded from this table due to lack of baseline PSA level, and three patients were excluded from this table due to lack of majority result among three readers.
+| PSA (ng/mL)   |   PET positive patients - Total |   PET positive patients - TP |   PET positive patients - FP |   PET positive patients - Unevaluable (Without reference standard) |   PET negative patients | Percent PET positivity (95% CI) *   |
+|---------------|---------------------------------|------------------------------|------------------------------|--------------------------------------------------------------------|-------------------------|-------------------------------------|
+| < 0.5         |                              24 |                           11 |                            4 |                                                                  9 |                      45 | 35 (24;46)                          |
+| ≥0.5 and <1   |                              18 |                           12 |                            3 |                                                                  3 |                      18 | 50 (34;66)                          |
+| ≥1 and <2     |                              21 |                           15 |                            3 |                                                                  3 |                      10 | 68 (51;84)                          |
+| ≥2            |                              57 |                           50 |                            3 |                                                                  4 |                       6 | 90 (83;98)                          |
+| Total         |                             120 |                           88 |                           13 |                                                                 19 |                      79 | 60 (54;67)                          |
 
 Abbreviations: TP = true positive, FP = false positive, CI = confidence interval
 
@@ -361,9 +360,9 @@ For the 207 patients with medical management questionnaires completed by treatin
 
 PYTHON was a randomised, open-label, two-treatment cross-over study. It enrolled 217 male patients with first biochemical recurrence of prostate cancer, who underwent definitive therapy (radical prostatectomy (RP) ± extented lymph node dissection (eLND) in 73.2 % patients, EBRT or brachytherapy in 26.8 % patients). The primary endpoint was detection rate (DR) defined as number of patients defined as positive at patient level by the independent readers among the total number of patients assessed (for piflufolastat ( 18 F) PET/CT and fluorocholine ( 18 F) PET/CT). A significant difference of 12 % detection rate in favour of piflufolastat ( 18 F) against Fluorocholine ( 18 F) was predefined. Secondary endpoints were sensitivity (ratio between the number of patients defined as positive for a given region by the independent readers and the total number of patients assessed as positive for a given region by the truth panel), concordance (ratio between the number of regions defined as positive by both piflufolastat ( 18 F) PET/CT and Fluorocholine ( 18 F) PET/CT + the number of regions defined as negative by both piflufolastat ( 18 F) PET/CT and Fluorocholine ( 18 F) PET/CT and the total number of assessed regions) and impact on patient management.
 
-Two-hundred one patients performed one piflufolastat ( 18 F) PET/CT and one fluorocholine ( 18 F) PET/CT from mid-thigh to skull vertex in a randomised order. Three independent central readers, blinded to all clinical information, evaluated each piflufolastat ( 18 F) and each fluorocholine ( 18 F) PET/CT for the presence and location of positive lesions. Location of each lesion was categorized into 5 regions (prostate/prostate bed, pelvic lymph nodes, other lymph nodes, bone, soft tissue). Recurrence was detected by the blind read experts in 119 (60.4%) and 82 (41.0%) of the patients with piflufolastat ( 18 F) and fluorocholine ( 18 F) PET/CT, respectively. Details of overall independent reader's interpretation by PSA level is given in Table 5.
-
 <div style=\"page-break-after: always\"></div>
+
+Two-hundred one patients performed one piflufolastat ( 18 F) PET/CT and one fluorocholine ( 18 F) PET/CT from mid-thigh to skull vertex in a randomised order. Three independent central readers, blinded to all clinical information, evaluated each piflufolastat ( 18 F) and each fluorocholine ( 18 F) PET/CT for the presence and location of positive lesions. Location of each lesion was categorized into 5 regions (prostate/prostate bed, pelvic lymph nodes, other lymph nodes, bone, soft tissue). Recurrence was detected by the blind read experts in 119 (60.4%) and 82 (41.0%) of the patients with piflufolastat ( 18 F) and fluorocholine ( 18 F) PET/CT, respectively. Details of overall independent reader's interpretation by PSA level is given in Table 5.
 
 Table 5: Per-patient detection rate of PET/CT by PSA level in PYTHON study (N=201)
 
@@ -379,13 +378,25 @@ Per-patient sensitivity was assessed for 37 patients with a standard of truth an
 
 Table 6: Per-patient sensitivity (n=37)
 
-| PET/CT                | piflufolastat ( 18 F)    | fluorocholine ( 18 F)    |
-|-----------------------|--------------------------|--------------------------|
-| Sensitivity ( 95% CI) | 58.3% (95% CI 51.5;64.9) | 40.6% (95% CI 34.1;47.5) |
+| PET/CT               | piflufolastat ( 18 F)    | fluorocholine ( 18 F)    |
+|----------------------|--------------------------|--------------------------|
+| Sensitivity (95% CI) | 58.3% (95% CI 51.5;64.9) | 40.6% (95% CI 34.1;47.5) |
 
 The concordance rate between ( 18 F)-piflufolastat PET/CT and ( 18 F)-fluorocholine PET/CT according to central blind readers, per-region was remarkably high for all regions of interest, namely prostate bed: 87.3 % (81.9; 91.3), pelvic lymph nodes: 73.9 % (67.3; 79.5), extrapelvic lymph nodes: 86.5% (81.0; 90.6), bones: 86.9 % (81.5;91.0), and other organs: 92.0 % (87.3; 95.1).
 
 Regarding the localization of recurrence, the central readers achieved an agreement of 84.2% with a Fleiss' kappa statistic of 0.58 (95 % CI: 0.47; 0.70) for all biopsy images in OSPREY Cohort B. In CONDOR, the central readers exhibited 76% agreement in interpreting positive or negative piflufolastat ( 18 F) PET/CT scans with a Fleiss' kappa statistic of 0.65 (95 % CI: 0.58; 0.73), while the concordance between each central reader and the local reader ranged from 83% to 84%. In PYTHON, the inter-reader agreement percentage was 67.8 %, and the corresponding Fleiss' kappa was 0.55 (95 % CI: 0.47; 0.63).
+
+<div style=\"page-break-after: always\"></div>
+
+Clinical studies demonstrating adjunctive use of CE-marked software for standardized reporting and semi-quantitative assessment
+
+The reliability of using the CE-marked software (Pylclari AI/aPROMISE) as an adjunct to visual interpretation of PSMA-PET/CT was assessed in paired reader investigations and clinical evaluations.
+
+In a prospectively planned, paired, multi-reader analysis of CONDOR images, three independent certified nuclear medicine physicians evaluated the same PSMA PET/CT images with and without Pylclari AI assistance. Readers selected regions considered suspicious for prostate cancer based on their clinical judgement. During software-assisted assessment, Pylclari AI provided automated segmentation and quantitative outputs for selected regions, while lesion selection and final image interpretation remained under reader control.
+
+Against a composite standard of truth, lesion-level sensitivity, with and without Pylclari AI assistance, was 69.7% (95% CI 64.6 - 74.7) vs 61.6% (95%CI 56.3 - 66.9) for Reader 1; 77.1% (95% CI 72.5 - 81.7) vs 78.0% (95% CI 73.5 - 82.5) for Reader 2; and 76.8% (95% CI 72.2 - 81.4) vs 76.2% (95% CI 71.5 - 80.8) for Reader 3 respectively. PPV was 47.9 % (95% CI 42.0 - 51.8) vs 54.7 % (95% CI 48.6 - 60.8), 64.7 % (95% CI 58.4 - 68.0) vs 60.5 % (95% CI 55.7 - 65.4) and 60.0 % (95% CI 53.5 - 63.8) vs 58.3 % (95% CI 53.5 - 63.1), respectively. Importantly for quantitative assessment, inter-reader reproducibility of per-lesion, standardized uptake value (SUV) improved from intraclass correlation coefficient (ICC) 0.90 (95% CI 0.88-0.91) without the software to ICC 0.98 (95%CI 0.96-0.99) with the software (p&lt;0.0001).
+
+These findings indicate maintained diagnostic performance together with enhanced standardization and quantitative reproducibility when the software is used adjunctively under physician oversight.
 
 ## Paediatric population
 
@@ -401,11 +412,11 @@ Blood levels decline in a biphasic fashion. The distribution half-life is 0.17 �
 
 Physiologic accumulation of piflufolastat ( 18 F) is observed in the kidneys (16.5% of administered activity), liver (9.3 %), and lung (2.9 %), within 60 minutes of intravenous administration. Most of the remaining 70 % of activity at 60 minutes is with the rest of the body background region.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
 The only radioactive component detected in plasma samples by high-performance liquid chromatography (HPLC) up to 173 minutes post-injection was unchanged piflufolastat ( 18 F). Elimination is by urinary excretion. In the first 8 hours post-injection, approximately 50% of administered radioactivity is excreted in the urine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Half-life
 
@@ -443,8 +454,6 @@ After the first withdrawal, this medicinal product does not require any special 
 
 After dilution, store for up to 4 hours without exceeding the expiry time.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
 Store in the original lead shielding.
@@ -455,14 +464,16 @@ For storage conditions after first withdrawal of the medicinal product, see sect
 
 Storage of radiopharmaceuticals should be in accordance with national regulation on radioactive materials.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 15 mL Type I glass vial, closed with a chlorobutyl stopper and an aluminium seal.
 
 Pack size: one multidose vial contains 0.5 mL to 10 mL of solution, corresponding to:
 
-- -500 to 10 000 MBq at calibration time of Pylclari 1 000 MBq/mL
-- -750 to 15 000 MBq at calibration time of Pylclari 1 500 MBq/mL
+- 500 to 10 000 MBq at calibration time of Pylclari 1 000 MBq/mL
+- 750 to 15 000 MBq at calibration time of Pylclari 1 500 MBq/mL
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -486,8 +497,6 @@ The administration of radiopharmaceuticals creates risks for other persons from 
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 CURIUM PET FRANCE 3 rue Marie Curie, Biopole Clermont-Limagne 63 360 Saint-Beauzire - France
@@ -495,6 +504,8 @@ CURIUM PET FRANCE 3 rue Marie Curie, Biopole Clermont-Limagne 63 360 Saint-Beauz
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1746/001 EU/1/23/1746/002
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -506,11 +517,11 @@ Date of first authorisation: 24 July 2023
 
 Data listed below are from sponsored clinical studies.
 
-Assumptions:
+## Assumptions:
 
 Fluorine ( 18 F) decays to stable oxygen ( 18 O) with a half-life of 110 minutes by emitting a positronic radiation of maximum energy of 634 keV, followed by photonic annihilation radiations of 511 keV. Piflufolastat ( 18 F) exhibits bi-exponential behaviour in blood, with a distribution half-life of 0.17 ± 0.044 hours and an elimination half-life of 3.47 ± 0.49 hours. It distributes to the kidneys (16.5 % of administered activity), liver (9.3 %), and lung (2.9 %), within minutes of intravenous administration.
 
-Methodology:
+## Methodology:
 
 The time-integrated activity in source tissue was obtained from longitudinal imaging data. Contours or volumes of interest (VOIs) were typically drawn around different activity-containing organs that were identified on each image at each time-point. The S-value was obtained by Monte Carlo simulation. The absorbed doses calculation was performed on 3D-RD-S software. The resulting effective dose was calculated according to ICRP 103.
 
@@ -518,31 +529,31 @@ The time-integrated activity in source tissue was obtained from longitudinal ima
 
 | ORGAN                      |   ABSORBED DOSE PER UNIT ACTIVITY ADMINISTERED (mGy/MBq) |
 |----------------------------|----------------------------------------------------------|
-| Adrenals                   |                                                  0.0326  |
+| Adrenals                   |                                                   0.0326 |
 | Bone surfaces              |                                                  0.00662 |
 | Brain                      |                                                  0.00215 |
 | Breast                     |                                                  0.00767 |
-| Gallbladder wall           |                                                  0.0255  |
+| Gallbladder wall           |                                                   0.0255 |
 | Gastrointestinal tract     |                                                          |
-| Stomach wall               |                                                  0.0127  |
-| Small Intestine wall       |                                                  0.0101  |
+| Stomach wall               |                                                   0.0127 |
+| Small Intestine wall       |                                                   0.0101 |
 | Colon wall                 |                                                          |
-| Upper large intestine wall |                                                  0.0125  |
-| Lower Large Intestine wall |                                                  0.0101  |
-| Heart wall                 |                                                  0.0178  |
-| Kidneys                    |                                                  0.124   |
-| Liver                      |                                                  0.0388  |
-| Lungs                      |                                                  0.0121  |
+| Upper large intestine wall |                                                   0.0125 |
+| Lower Large Intestine wall |                                                   0.0101 |
+| Heart wall                 |                                                   0.0178 |
+| Kidneys                    |                                                    0.124 |
+| Liver                      |                                                   0.0388 |
+| Lungs                      |                                                   0.0121 |
 | Muscles                    |                                                  0.00714 |
-| Pancreas                   |                                                  0.0183  |
+| Pancreas                   |                                                   0.0183 |
 | Red marrow                 |                                                  0.00851 |
-| Skin                       |                                                  0.0054  |
-| Spleen                     |                                                  0.0283  |
+| Skin                       |                                                   0.0054 |
+| Spleen                     |                                                   0.0283 |
 | Testes                     |                                                  0.00638 |
 | Thymus                     |                                                  0.00769 |
 | Thyroid                    |                                                  0.00687 |
 | Urinary bladder wall       |                                                  0.00712 |
-| Effective dose (mSv/MBq)   |                                                  0.0121  |
+| Effective dose (mSv/MBq)   |                                                   0.0121 |
 
 The effective dose resulting from the administration of a maximal recommended activity of 360 MBq for an adult weighing 70 kg is about 4.4 mSv.
 
@@ -593,35 +604,25 @@ Name and address of the manufacturer(s) responsible for batch release
 
 CHU XAVIER ARNOZAN AVENUE DU HAUT LEVEQUE 33604 PESSAC - FRANCE
 
-CURIUM PET FRANCE 136 IMPASSE DES QUATRE MOLLARDS
-
-38280 JANNEYRIAS - FRANCE
+CURIUM PET FRANCE 136 IMPASSE DES QUATRE MOLLARDS 38280 JANNEYRIAS - FRANCE
 
 CURIUM PET FRANCE 1-3 RUE GERMAINE RICHIER 37100 TOURS - FRANCE
 
-## CURIUM ITALY S.R.L.
+CURIUM ITALY S.R.L. VIA GIUSEPPE RIPAMONTI, 435, MILANO, 20141 - ITALY
 
-VIA GIUSEPPE RIPAMONTI, 435, MILANO, 20141 - ITALY
+CURIUM ITALY S.R.L. TOR VERGATA, VIALE OXFORD, 81, ROME 00133 - ITALY
 
-## CURIUM ITALY S.R.L.
-
-TOR VERGATA, VIALE OXFORD, 81, ROME 00133 - ITALY
-
-## ISTITUTO DI FISIOLOGIA CLINICA DEL CNR
+ISTITUTO DI FISIOLOGIA CLINICA DEL CNR
 
 VIA GIUSEPPE MORUZZI, 1, PISA 56124 - ITALY
 
 ## CURIUM AUSTRIA GMBH
 
-SEILERSTÄTTE 4
-
-LINZ, 4020 - AUSTRIA
+SEILERSTÄTTE 4 LINZ, 4020 - AUSTRIA
 
 ## CURIUM FINLAND OY
 
-SAUKONPAADENRANTA 2
-
-HELSINKI, 00180 - FINLAND
+SAUKONPAADENRANTA 2 HELSINKI, 00180 - FINLAND
 
 <div style=\"page-break-after: always\"></div>
 
@@ -629,15 +630,13 @@ CURIUM PHARMA SPAIN, S.A. C/ MANUEL BARTOLOMÉ COSSIO, 10
 
 E-28040 MADRID - SPAIN
 
-CURIUM PHARMA SPAIN, S.A. THOMAS ALVA EDISON, 7 41092 SEVILLA - SPAIN
+CURIUM PHARMA SPAIN, S.A. THOMAS ALVA EDISON, 7
 
-CURIUM PHARMA SPAIN, S.A. POL. IND. CONPISA, C/VEGUILLAS, 2 NAVE 16
+41092 SEVILLA - SPAIN
 
-28864 AJALVIR - SPAIN
+CURIUM PHARMA SPAIN, S.A. POL. IND. CONPISA, C/VEGUILLAS, 2 NAVE 16 28864 AJALVIR - SPAIN
 
-SYN INNOVATION LABORATORIES SOUSAKI SITE AG. THEODOROI,
-
-KORINTHIA PREFECTURE 20003 - GREECE
+SYN INNOVATION LABORATORIES SOUSAKI SITE AG. THEODOROI, KORINTHIA PREFECTURE 20003 - GREECE
 
 ## CURIUM PET FRANCE
 
@@ -651,21 +650,19 @@ CURIUM PET FRANCE CHU DE BRABOIS 4 RUE DU MORVAN
 
 54500 VANDŒUVRE-LES-NANCY CEDEX - FRANCE
 
-CYCLOTRON VU
+## CYCLOTRON VU
 
 VAN DER BOECHORSTSTRAAT 6A AMSTERDAM, 1081 BT - NETHERLANDS
 
-CURIUM PET FRANCE AVENUE DE LA BATAILLE FLANDRES DUNKERQUE
+## CURIUM PET FRANCE
 
-35000 RENNES - FRANCE
+AVENUE DE LA BATAILLE FLANDRES DUNKERQUE 35000 RENNES - FRANCE
 
 CURIUM PET FRANCE ONCOPOLE DE TOULOUSE 3 PLACE PIERRE POTIER 31100 TOULOUSE - FRANCE
 
-CURIUM ITALY S.R.L. PIAZZALE SANTA MARIA DELLA MISERICORDIA 15
+CURIUM ITALY S.R.L. PIAZZALE SANTA MARIA DELLA MISERICORDIA 15 33100 UDINE - ITALY
 
-33100 UDINE  - ITALY
-
-CURIUM ITALY S.R.L. VIA GIOVANNI BATTISTA PERGOLESI 33 20900 MONZA  - ITALY
+CURIUM ITALY S.R.L. VIA GIOVANNI BATTISTA PERGOLESI 33 20900 MONZA - ITALY
 
 CURIUM BULGARIA LYULIN DISTRICT ULITSA BANSKO SHOSE 128 SOFIA 1331 - BULGARIA
 
@@ -673,11 +670,9 @@ CURIUM BULGARIA LYULIN DISTRICT ULITSA BANSKO SHOSE 128 SOFIA 1331 - BULGARIA
 
 ## CURIUM ROMANIA S.R.L
 
-STRADA GRADINARILOR NR 1
+STRADA GRADINARILOR NR 1 PANTELIMON 077145 - ROMANIA
 
-PANTELIMON 077145 - ROMANIA
-
-## ÚJV ŘEZ A.S.
+## ÚJV ŘEŽ A.S.
 
 REZ
 
@@ -695,13 +690,13 @@ UL. PREZYDENTA STEFANA ARTWINSKIEGO 3 KIELCE, 25-734 - POLAND
 
 ## CURIUM PHARMA IRELAND LIMITED
 
-BLACKROCK CLINIC ROCK ROAD DUBLIN, A94 E4X7 - IRELAND
+BLACKROCK CLINIC ROCK ROAD
+
+DUBLIN, A94 E4X7 - IRELAND
 
 ## CURIUM PET LIEGE
 
-ALLEE DU SIX-AOUT 8
-
-LIEGE, 4000 - BELGIUM
+ALLEE DU SIX-AOUT 8 LIEGE, 4000 - BELGIUM
 
 ## CURIUM PET FRANCE
 
@@ -731,8 +726,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- -At the request of the European Medicines Agency;
-- -Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -770,11 +765,7 @@ Excipients: Ethanol, sodium chloride 9 mg/mL (0.9 %) solution for injection, sod
 
 Volume : {xx.x} mL
 
-Activity  (Act.)  :  1
-
-000 MBq/mL at ToC. : DDMMYYYY ({hh:mm}  {Time Zone}). Or Activity :
-
-MBq/vial at ToC. : DDMMYYYY ({hh:mm}  {Time Zone}).
+Activity (Act.) : 1 000 MBq/mL at ToC. : DDMMYYYY ({hh:mm} {Time Zone}). Or Activity : MBq/vial at ToC. : DDMMYYYY ({hh:mm} {Time Zone}).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -790,21 +781,22 @@ Keep out of the sight and reach of children.
 
 <!-- image -->
 
+A
+
 ## 8. EXPIRY DATE
 
 EXP {DDMMYYYY} {hh:mm} {Time Zone}
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose according to local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-CURIUM PET FRANCE
+CURIUM PET FRANCE 3 rue Marie Curie, Biopole Clermont-Limagne
 
-3 rue Marie Curie, Biopole Clermont-Limagne 63 360 Saint-Beauzire - France
+63 360 Saint-Beauzire - France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -815,9 +807,7 @@ EU/1/23/1746/001
 Batch {vial number}
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -826,7 +816,7 @@ Justification for not including Braille accepted.
 
 Not applicable.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable.
 
@@ -842,9 +832,7 @@ VIAL LABEL
 
 Pylclari 1 000 MBq/mL solution for injection
 
-piflufolastat ( 18
-
-F)
+piflufolastat ( 18 F)
 
 Intravenous use
 
@@ -860,9 +848,7 @@ Batch {vial number}
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-Act. : ≤ 1
-
-000 MBq/mL at ToC (see shield label)
+Act. : ≤ 1 000 MBq/mL at ToC (see shield label)
 
 Volume : {xx.x} mL
 
@@ -870,15 +856,15 @@ Volume : {xx.x} mL
 
 <!-- image -->
 
-Manufacturer : CURIUM PET France -Sarcelles - France
+Manufacturer : CURIUM PET France-Sarcelles - France
 
 Or
 
-Manufacturer : CURIUM PET FranceJanneyrias - France
+Manufacturer : CURIUM PET France-Janneyrias - France
 
 Or
 
-Manufacturer : CURIUM PET FrancePessac - France
+Manufacturer : CURIUM PET France-Pessac - France
 
 Or
 
@@ -898,11 +884,11 @@ Manufacturer : CURIUM ITALY S.R.L Milano - Italy
 
 Or
 
-- Manufacturer : CURIUM ITALY S.R.L Rome - Italy
+Manufacturer : CURIUM ITALY S.R.L Rome - Italy
 
 Or
 
-- Manufacturer : ISTITUTO DI FISIOLOGIA CLINICA DEL CNR Pisa - Italy
+Manufacturer : ISTITUTO DI FISIOLOGIA CLINICA DEL CNR Pisa - Italy
 
 Or
 
@@ -910,32 +896,7 @@ Manufacturer : SYN INNOVATION LABORATORIES - Greece
 
 <div style=\"page-break-after: always\"></div>
 
-| Or                                                                                                      |
-|---------------------------------------------------------------------------------------------------------|
-| Manufacturer : CURIUM AUSTRIA GMBH - Austria Or                                                         |
-| Manufacturer : CURIUM FINLAND OY - Finland Or                                                           |
-| Manufacturer: CURIUM PET France - Marseille - France Or                                                 |
-| Manufacturer: CURIUM PET France - Vandoeuvre-lès-Nancy - France Or                                      |
-| Manufacturer: CURIUM PET France- Tours - France                                                         |
-| Or                                                                                                      |
-| Manufacturer: CYCLOTRON VU - Netherlands                                                                |
-| Or                                                                                                      |
-| Manufacturer: CURIUM PET France - Rennes - France Or                                                    |
-| Manufacturer: CURIUM PET France - Toulouse - France Or                                                  |
-| Manufacturer : CURIUM ITALY S.R.L - Udine - Italy Or                                                    |
-| Manufacturer : CURIUM ITALY S.R.L - Monza - Italy Or                                                    |
-| Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria Or Manufacturer : CURIUM ROMANIA S.R.L - Pantelimon - |
-| Romania Or                                                                                              |
-| Manufacturer : ÚJV ŘEZ A.S. - Husinec - Czech Republic Or                                               |
-| Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic                                                     |
-| Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce - Poland Or                                          |
-| Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin -                                                 |
-| Ireland                                                                                                 |
-| Manufacturer : CURIUM PET LIEGE - Liege - Belgium Or                                                    |
-| France                                                                                                  |
-| Manufacturer: CURIUM PET France - La Mézière -                                                          |
-| Or                                                                                                      |
-| Or                                                                                                      |
+## Or Manufacturer : CURIUM AUSTRIA GMBH - Austria Or Manufacturer : CURIUM FINLAND OY - Finland Or Manufacturer: CURIUM PET France - Marseille - France Or Manufacturer: CURIUM PET France - Vandoeuvre-lès-Nancy - France Or Manufacturer: CURIUM PET France-Tours - France Or Manufacturer: CYCLOTRON VU - Netherlands Or Manufacturer: CURIUM PET France - Rennes - France Or Manufacturer: CURIUM PET France - Toulouse - France Or Manufacturer : CURIUM ITALY S.R.L - Udine - Italy Or Manufacturer : CURIUM ITALY S.R.L - Monza - Italy Or Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria Or Manufacturer : CURIUM ROMANIA S.R.L - Pantelimon - Romania Or Manufacturer : ÚJV ŘEZ A.S. - Husinec - Czech Republic Or Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic Or Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce - Poland Or Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin - Ireland Or Manufacturer : CURIUM PET LIEGE - Liege - Belgium Or Manufacturer: CURIUM PET France - La Mézière - France
 
 <div style=\"page-break-after: always\"></div>
 
@@ -963,7 +924,7 @@ Excipients: Ethanol, sodium chloride 9 mg/mL (0.9 %) solution for injection, sod
 
 Volume : {xx.x} mL
 
-Activity  (Act.):  1  500  MBq/mL  at  ToC.  :  DDMMYYYY  ({hh:mm}    {Time  Zone}).  Or  Activity : MBq/vial at ToC. : DDMMYYYY ({hh:mm}  {Time Zone}).
+Activity (Act.): 1 500 MBq/mL at ToC. : DDMMYYYY ({hh:mm} {Time Zone}). Or Activity : MBq/vial at ToC. : DDMMYYYY ({hh:mm} {Time Zone}).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -979,12 +940,13 @@ Keep out of the sight and reach of children.
 
 <!-- image -->
 
+A
+
 ## 8. EXPIRY DATE
 
 EXP {DDMMYYYY} {hh:mm} {Time Zone}
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose according to local requirements.
@@ -1006,9 +968,7 @@ EU/1/23/1746/002
 Batch {vial number}
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1017,23 +977,25 @@ Justification for not including Braille accepted.
 
 Not applicable.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Pylclari 1 500 MBq/mL solution for injection
 
-F)
+piflufolastat ( 18 F)
 
-piflufolastat ( 18 Intravenous use
+Intravenous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1047,9 +1009,7 @@ Batch {vial number}
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-Act. : ≤ 1
-
-500 MBq/mL at ToC (see shield label)
+Act. : ≤ 1 500 MBq/mL at ToC (see shield label)
 
 Volume : {xx.x} mL
 
@@ -1057,27 +1017,27 @@ Volume : {xx.x} mL
 
 <!-- image -->
 
-Manufacturer:
+Manufacturer: CURIUM PET France-Sarcelles - France
 
 Or
 
-- Manufacturer: CURIUM PET FranceJanneyrias - France
+Manufacturer: CURIUM PET France-Janneyrias - France
 
 Or
 
-Manufacturer: CURIUM PET FrancePessac - France
+Manufacturer: CURIUM PET France-Pessac - France
 
 Or
 
-- Manufacturer: CURIUM PHARMA SPAIN Sevilla - Spain
+Manufacturer: CURIUM PHARMA SPAIN Sevilla - Spain
 
 Or
 
-- Manufacturer: CURIUM PHARMA SPAIN Madrid - Spain
+Manufacturer: CURIUM PHARMA SPAIN Madrid - Spain
 
 Or
 
-- Manufacturer: CURIUM PHARMA SPAIN Ajalvir - Spain
+Manufacturer: CURIUM PHARMA SPAIN Ajalvir - Spain
 
 Or
 
@@ -1085,36 +1045,15 @@ Or
 
 Or
 
-- Manufacturer : CURIUM ITALY S.R.L Rome - Italy
+Manufacturer : CURIUM ITALY S.R.L Rome - Italy
 
 Or
 
-- Manufacturer : ISTITUTO DI FISIOLOGIA CLINICA DEL CNR Pisa - Italy Or
-
-CURIUM PET France -Sarcelles - France
+Manufacturer : ISTITUTO DI FISIOLOGIA CLINICA DEL CNR Pisa - Italy Or
 
 <div style=\"page-break-after: always\"></div>
 
-| Manufacturer: SYN INNOVATION LABORATORIES - Greece Or              |
-|--------------------------------------------------------------------|
-| Manufacturer: CURIUM AUSTRIAGMBH - Austria Or                      |
-| Manufacturer: CURIUM FINLAND OY - Finland Or                       |
-| Manufacturer: CURIUM PET France- Marseille - France Or             |
-| Manufacturer: CURIUM PET France - Vandoeuvre-lès-Nancy - France Or |
-| Manufacturer: CURIUM PET France -Tours - France Or                 |
-| Manufacturer: CYCLOTRON VU - Netherlands                           |
-| Manufacturer: CURIUM PET France - Rennes - France Or               |
-| Manufacturer: CURIUM PET France - Toulouse - France Or             |
-| Manufacturer : CURIUM ITALY S.R.L - Udine - Italy Or               |
-| Manufacturer : CURIUM ITALY S.R.L - Monza - Italy Or               |
-| Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria                  |
-| Manufacturer : CURIUM ROMANIA S.R.L - Pantelimon - Romania Or      |
-| Manufacturer : ÚJV ŘEZ A.S. - Husinec - Czech Republic Or          |
-| Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic Or             |
-| Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce - Poland Or     |
-| Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin - Ireland Or |
-| Manufacturer : CURIUM PET LIEGE - Liege - Belgium Or               |
-| Manufacturer: CURIUM PET France - La Mézière - France              |
+## Manufacturer: SYN INNOVATION LABORATORIES - Greece Or Manufacturer: CURIUM AUSTRIA GMBH - Austria Or Manufacturer: CURIUM FINLAND OY - Finland Or Manufacturer: CURIUM PET France-Marseille - France Or Manufacturer: CURIUM PET France- Vandoeuvre-lès-Nancy - France Or Manufacturer: CURIUM PET France-Tours - France Or Manufacturer: CYCLOTRON VU - Netherlands Or Manufacturer: CURIUM PET France - Rennes - France Or Manufacturer: CURIUM PET France - Toulouse - France Or Manufacturer : CURIUM ITALY S.R.L - Udine - Italy Or Manufacturer : CURIUM ITALY S.R.L - Monza - Italy Or Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria Or Manufacturer : CURIUM ROMANIA S.R.L - Pantelimon - Romania Or Manufacturer : ÚJV ŘEZ A.S. - Husinec - Czech Republic Or Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic Or Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce - Poland Or Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin - Ireland Or Manufacturer : CURIUM PET LIEGE - Liege - Belgium Or Manufacturer: CURIUM PET France - La Mézière - France
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1122,21 +1061,21 @@ CURIUM PET France -Sarcelles - France
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-Pylclari 1 000 MBq/mL solution for injection Pylclari 1 500 MBq/mL solution for injection
+## Pylclari 1 000 MBq/mL solution for injection Pylclari 1 500 MBq/mL solution for injection
 
-18 F)
-
-piflufolastat (
+piflufolastat ( 18 F)
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your nuclear medicine doctor who will supervise the procedure.
-- -If you get any side effects, talk to your nuclear medicine doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your nuclear medicine doctor who will supervise the procedure.
+- If you get any side effects, talk to your nuclear medicine doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1153,8 +1092,8 @@ This medicine is a radiopharmaceutical product for diagnostic use only.
 
 Pylclari contains the active substance piflufolastat ( 18 F), which contains radioactive fluorine ( 18 F). It is given so that doctors can perform a special type of scan called a positron emission tomography (PET) scan to detect specific types of cancer cells with a protein called prostate-specific membrane antigen (PSMA). This medicine is used in patients:
 
-- -with prostate cancer who are at high risk of the disease spreading to other parts of the body and who is suitable for treatment which can cure the cancer
-- -have received previous treatment for prostate cancer and in whom the cancer is suspected to have returned based on the results from other tests (e.g., prostate specific antigen, PSA).
+- with prostate cancer who are at high risk of the disease spreading to other parts of the body and who is suitable for treatment which can cure the cancer
+- have received previous treatment for prostate cancer and in whom the cancer is suspected to have returned based on the results from other tests (e.g., prostate specific antigen, PSA).
 
 Pylclari PET scan can can help your doctor find the locations of the disease.
 
@@ -1174,8 +1113,8 @@ If you are allergic to piflufolastat ( 18 F) or any of the other ingredients of 
 
 Take special care with Pylclari
 
-- -if you have kidney problems
-- -if you are on a low sodium diet (see section 2 \"Pylclari contains sodium\").
+- if you have kidney problems
+- if you are on a low sodium diet (see section 2 \"Pylclari contains sodium\").
 
 ## Before administration of Pylclari you should
 
@@ -1215,20 +1154,22 @@ The nuclear medicine doctor supervising the procedure will decide on the quantit
 
 ## Administration of Pylclari and conduct of the procedure
 
-- -This medicine will be given as a single injection into a vein in your arm.
-- -One injection is sufficient to conduct the test that your doctor needs.
+- This medicine will be given as a single injection into a vein in your arm.
+- One injection is sufficient to conduct the test that your doctor needs.
 
 ## Duration of the procedure
 
-Your nuclear medicine doctor will inform you about the usual duration of the procedure. The scan will usually start between 90 and 120 minutes after Pylclari injection is given.
+Your nuclear medicine doctor will inform you about the usual duration of the procedure.
 
-## After administration of Pylclari you should :
+The scan will usually start between 90 and 120 minutes after Pylclari injection is given.
 
-- -avoid any close contact with young children and pregnant women for the 12 hours following the injection
+## After administration of Pylclari you should:
+
+- avoid any close contact with young children and pregnant women for the 12 hours following the injection
 
 <div style=\"page-break-after: always\"></div>
 
-- -drink plenty of water in order to urinate (pass water) frequently, to eliminate the product from your body.
+- drink plenty of water in order to urinate (pass water) frequently, to eliminate the product from your body.
 
 The nuclear medicine doctor will inform you if you need to take any other special precautions after receiving this medicine. Contact your nuclear medicine doctor if you have any questions.
 
@@ -1246,36 +1187,36 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Common (may affect up to 1 in 10 people):
 
-- -dysgeusia (altered taste in the mouth),
-- -headache.
+- dysgeusia (altered taste in the mouth),
+- headache.
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -hypersensitivity (allergic reactions),
-- -dehydration (when the body loses too much water and other fluids that it needs to work normally),
-- -confusion about time and place,
-- -tiredness,
-- -dizziness,
-- -increased sensitivity or heightened pain response to stimuli such as light touch or sound,
-- -migraine,
-- -vertigo (a spinning sensation),
-- -muscular weakness,
-- -visual field defect,
-- -dry skin,
-- -rash,
-- -arthralgia (joint pain),
-- -pain in extremity,
-- -dysuria (urination trouble),
-- -chest discomfort,
-- -rash at the site of administration,
-- -feeling abnormal,
-- -pain at the site of administration.
+- hypersensitivity (allergic reactions),
+- dehydration (when the body loses too much water and other fluids that it needs to work normally),
+- confusion about time and place,
+- tiredness,
+- dizziness,
+- increased sensitivity or heightened pain response to stimuli such as light touch or sound,
+- migraine,
+- vertigo (a spinning sensation),
+- muscular weakness,
+- visual field defect,
+- dry skin,
+- rash,
+- arthralgia (joint pain),
+- pain in extremity,
+- dysuria (urination trouble),
+- chest discomfort,
+- rash at the site of administration,
+- feeling abnormal,
+- pain at the site of administration.
 
 Not known (frequency cannot be estimated from the available data):
 
-- -fainting
-- -nausea (feeling sick)
-- -vomiting
+- fainting
+- nausea (feeling sick)
+- vomiting
 
 This radiopharmaceutical will deliver low amounts of ionising radiation associated with the least risk of cancer and hereditary abnormalities.
 
@@ -1297,10 +1238,10 @@ Pylclari must not be used after the expiry date which is stated on the shield la
 
 ## What Pylclari contains
 
-- -The active substance is piflufolastat ( 18 F). Each mL of solution contains 1 000 MBq or 1 500 MBq of Pylclari at the date and time of calibration.
-- -The other ingredients are ethanol, sodium chloride 9 mg/ml (0.9 %) solution for injection and sodium ascorbate.
+- The active substance is piflufolastat ( 18 F). Each mL of solution contains 1 000 MBq or 1 500 MBq of Pylclari at the date and time of calibration.
+- The other ingredients are ethanol, sodium chloride 9 mg/ml (0.9 %) solution for injection and sodium ascorbate.
 
-Please see section 2 'Pylclari contains sodium and ethanol'.
+Please see section 2 \"Pylclari contains sodium and ethanol\".
 
 ## What Pylclari looks like and contents of the pack
 
@@ -1316,15 +1257,13 @@ CURIUM PET FRANCE
 
 ## Manufacturers
 
-## CURIUM PET FRANCE
+CURIUM PET FRANCE
 
 10 AVENUE CHARLES PEGUY 95200 SARCELLES - FRANCE
 
 ## CURIUM PET FRANCE
 
-CHU XAVIER ARNOZAN
-
-AVENUE DU HAUT LEVEQUE 33604 PESSAC - FRANCE
+CHU XAVIER ARNOZAN AVENUE DU HAUT LEVEQUE 33604 PESSAC - FRANCE
 
 ## CURIUM PET FRANCE
 
@@ -1338,9 +1277,9 @@ VIA GIUSEPPE RIPAMONTI, 435, MILANO, 20141 - ITALY
 
 SAUKONPAADENRANTA 2 HELSINKI, 00180 - FINLAND
 
-CURIUM PHARMA SPAIN, S.A. C/ MANUEL BARTOLOMÉ COSSIO, 10
+CURIUM PHARMA SPAIN, S.A.
 
-E-28040 MADRID - SPAIN
+C/ MANUEL BARTOLOMÉ COSSIO, 10 E-28040 MADRID - SPAIN
 
 ## CURIUM PHARMA SPAIN, S.A.
 
@@ -1352,7 +1291,7 @@ SOUSAKI SITE AG. THEODOROI, KORINTHIA PREFECTURE 20003 - GREECE
 
 <div style=\"page-break-after: always\"></div>
 
-| CURIUM AUSTRIAGMBH SEILERSTÄTTE 4 LINZ, 4020 - AUSTRIA                                              | CURIUM PET FRANCE 3 RUE MARIE CURIE, BIOPOLE CLERMONT- LIMAGNE 63 360 SAINT-BEAUZIRE - FRANCE   |
+| CURIUM AUSTRIA GMBH SEILERSTÄTTE 4 LINZ, 4020 - AUSTRIA                                             | CURIUM PET FRANCE 3 RUE MARIE CURIE, BIOPOLE CLERMONT- LIMAGNE 63 360 SAINT-BEAUZIRE - FRANCE   |
 |-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | CURIUM PET FRANCE TECHNOPOLE DE CHATEAU GOMBERT RUE LOUIS LEPRINCE RINGUET 13013 MARSEILLE - FRANCE | CURIUM PET FRANCE CHU DE BRABOIS 4 RUE DU MORVAN 54500 VANDŒUVRE-LES-NANCY CEDEX - FRANCE       |
 | CYCLOTRON VU VAN DER BOECHORSTSTRAAT 6A AMSTERDAM, 1081 BT - NETHERLANDS                            | CURIUM PET FRANCE 1-3 RUE GERMAINE RICHIER 37100 TOURS - FRANCE                                 |

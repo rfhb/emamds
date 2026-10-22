@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-09 11:25:26
-document_pages: 96
+document_datetime: 2026-10-19 15:40:00
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pyrukynd-epar-product-information_en.pdf
 document_name: pyrukynd-epar-product-information_en.pdf
 version: success
-processing_time: 24.7975277
-conversion_datetime: 2026-07-10 22:55:43.188112
+processing_time: 43.8413428
+conversion_datetime: 2026-10-22 23:01:43.079962
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pyrukynd 5 mg film-coated tablets Pyrukynd 20 mg film-coated tablets Pyrukynd 50 mg film-coated tablets
+Pyrukynd 5 mg film-coated tablets
+
+Pyrukynd 20 mg film-coated tablets Pyrukynd 50 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -62,13 +64,13 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet
 
-## Pyrukynd 5 mg film-coated tablets
+Pyrukynd 5 mg film-coated tablets
 
-Blue, round film-coated tablets of approximately 5 mm in diameter with 'M5' printed in black ink on one side and plain on the reverse.
+Blue, round film-coated tablets of approximately 5 mm in diameter with \"M5\" printed in black ink on one side and plain on the reverse.
 
 ## Pyrukynd 20 mg film-coated tablets
 
-Blue, round film-coated tablets of approximately 8 mm in diameter with 'M20' printed in black ink on one side and plain on the reverse.
+Blue, round film-coated tablets of approximately 8 mm in diameter with \"M20\" printed in black ink on one side and plain on the reverse.
 
 ## Pyrukynd 50 mg film-coated tablets
 
@@ -113,12 +115,11 @@ To minimise the risk of acute haemolysis, abrupt interruption or discontinuation
 
 Table 2: Dose taper schedule
 
-|                   | Dose taper schedule   | Dose taper schedule   | Dose taper schedule   |
-|-------------------|-----------------------|-----------------------|-----------------------|
-| Current dose      | Day 1-7               | Day 8-14              | Day 15                |
-| 5 mg twice daily  | 5 mg once daily       | Discontinue           | N/A                   |
-| 20 mg twice daily | 20 mg once daily      | 5 mg once daily       | Discontinue           |
-| 50 mg twice daily | 50 mg o nce daily     | 20 mg once daily      | Discontinue           |
+| Current dose      | Dose taper schedule - Day 1-7   | Dose taper schedule - Day 8-14   | Dose taper schedule - Day 15   |
+|-------------------|---------------------------------|----------------------------------|--------------------------------|
+| 5 mg twice daily  | 5 mg once daily                 | Discontinue                      | N/A                            |
+| 20 mg twice daily | 20 mg once daily                | 5 mg once daily                  | Discontinue                    |
+| 50 mg twice daily | 50 mg once daily                | 20 mg once daily                 | Discontinue                    |
 
 N/A: not applicable.
 
@@ -144,7 +145,7 @@ The pharmacokinetics of mitapivat were studied in adult subjects with moderate h
 
 ## Renal impairment
 
-There are limited data available in patients with mild or moderate renal impairment. No dose modifications are recommended in patients with mild or moderate renal impairment (see section 5.2.).
+There are limited data available in patients with mild or moderate renal impairment. No dose modifications are recommended in patients with mild or moderate renal impairment (see section 5.2).
 
 There are no data available in patients with severe renal impairment. No dose recommendations can be made.
 
@@ -202,11 +203,11 @@ Mitapivat is primarily metabolised by CYP3A4 and is a substrate for P-glycoprote
 
 ## CYP3A4 inhibitors
 
-The effect of itraconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Itraconazole increased mitapivat AUC0-t, AUC ∞ and Cmax by 4.7-fold, 4.9-fold and 1.7-fold, respectively. Increased mitapivat plasma exposures may increase the risk of adverse reactions. The concomitant use of CYP3A4 inhibitors with mitapivat should be avoided (see section 4.4). If concomitant use of a CYP3A4 inhibitor is unavoidable, patients should be monitored for increased risk of adverse reactions (see section 4.2).
+The effect of itraconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Itraconazole increased mitapivat AUC0-t, AUC∞ and Cmax by 4.7-fold, 4.9-fold and 1.7-fold, respectively. Increased mitapivat plasma exposures may increase the risk of adverse reactions. The concomitant use of CYP3A4 inhibitors with mitapivat should be avoided (see section 4.4). If concomitant use of a CYP3A4 inhibitor is unavoidable, patients should be monitored for increased risk of adverse reactions (see section 4.2).
 
 ## CYP3A4 inducers
 
-The effect of rifampicin (a strong CYP3A4 inducer) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Rifampicin decreased mitapivat AUC0-t, AUC ∞ and Cmax by 91%, 91% and 77%, respectively. Decreased mitapivat plasma exposures may reduce the efficacy of mitapivat. The concomitant use of CYP3A4 inducers with mitapivat should be avoided (see section 4.4). If concomitant use of a CYP3A4 inducer is unavoidable, patients should be monitored for reduced efficacy of mitapivat.
+The effect of rifampicin (a strong CYP3A4 inducer) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Rifampicin decreased mitapivat AUC0-t, AUC∞ and Cmax by 91%, 91% and 77%, respectively. Decreased mitapivat plasma exposures may reduce the efficacy of mitapivat. The concomitant use of CYP3A4 inducers with mitapivat should be avoided (see section 4.4). If concomitant use of a CYP3A4 inducer is unavoidable, patients should be monitored for reduced efficacy of mitapivat.
 
 ## Gastric acid-reducing agents
 
@@ -216,7 +217,7 @@ Mitapivat exhibits pH-dependent solubility (see section 5.2) and coadministratio
 
 ## CYP3A4 substrates
 
-The effect of mitapivat (100 mg twice daily) on the pharmacokinetics of a single dose of midazolam (a sensitive CYP3A4 substrate) was evaluated in a Phase 1 study. Mitapivat at steady state decreased midazolam AUCs (AUC0-t, AUC ∞ ) and Cmax by 53% and 37%, respectively. Alternative therapies that are not sensitive substrates of CYP3A4 should be considered during treatment with mitapivat (see section 4.4). If co-administration of mitapivat with sensitive CYP3A4 substrates is unavoidable, patients should be carefully monitored especially for those substrates with a narrow therapeutic index (e.g. alfentanil, carbamazepine, cyclosporine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus).
+The effect of mitapivat (100 mg twice daily) on the pharmacokinetics of a single dose of midazolam (a sensitive CYP3A4 substrate) was evaluated in a Phase 1 study. Mitapivat at steady state decreased midazolam AUCs (AUC0-t, AUC∞) and Cmax by 53% and 37%, respectively. Alternative therapies that are not sensitive substrates of CYP3A4 should be considered during treatment with mitapivat (see section 4.4). If co-administration of mitapivat with sensitive CYP3A4 substrates is unavoidable, patients should be carefully monitored especially for those substrates with a narrow therapeutic index (e.g. alfentanil, carbamazepine, cyclosporine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus).
 
 ## Hormonal contraceptives
 
@@ -270,7 +271,7 @@ The safety evaluation of Pyrukynd is based on experience from a randomised, doub
 
 <div style=\"page-break-after: always\"></div>
 
-( ACTIVATE ) and a single-arm clinical study of adult patients with PK deficiency who were regularly transfused ( ACTIVATE-T ).
+(ACTIVATE) and a single-arm clinical study of adult patients with PK deficiency who were regularly transfused (ACTIVATE-T).
 
 The most common adverse reaction across both studies was insomnia (19.4%) and the most common laboratory abnormalities observed were oestrone decreased (males) (43.5%) and oestradiol decreased (males) (8.7%).
 
@@ -280,7 +281,7 @@ The adverse reactions associated with Pyrukynd as identified in clinical studies
 
 Adverse reactions are listed by MedDRA system organ class and frequency: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-## Table 3: Adverse reactions
+Table 3: Adverse reactions
 
 | System organ class                                   | Very common                | Common                                                            |
 |------------------------------------------------------|----------------------------|-------------------------------------------------------------------|
@@ -299,13 +300,13 @@ In a Phase 2 study, 2 of 52 patients (3.8%) experienced haemolysis upon sudden w
 
 ## Changes in sex hormone levels
 
-Mitapivat is a weak aromatase inhibitor in vitro . In ACTIVATE , 1 of 16 (6.3%) males experienced increases in testosterone to above normal levels and 2 of 16 (12.5%) and 9 of 16 (56.3%) males experienced decreases in oestradiol and oestrone below the lower limit of normal, respectively. In ACTIVATE-T, 1 of 7 males (14.3%) experienced oestrone decrease below the lower limit of normal. These changes in hormone levels were maintained throughout the study period. In patients who discontinued Pyrukynd at the end of the core period, the hormone changes were reversible. Sex hormone analysis in female patients was limited due to physiological variations in hormone levels expected throughout the normal menstrual cycle and the various types of hormonal contraceptives used by patients.
+Mitapivat is a weak aromatase inhibitor in vitro. In ACTIVATE, 1 of 16 (6.3%) males experienced increases in testosterone to above normal levels and 2 of 16 (12.5%) and 9 of 16 (56.3%) males experienced decreases in oestradiol and oestrone below the lower limit of normal, respectively. In ACTIVATE-T, 1 of 7 males (14.3%) experienced oestrone decrease below the lower limit of normal. These changes in hormone levels were maintained throughout the study period. In patients who discontinued Pyrukynd at the end of the core period, the hormone changes were reversible. Sex hormone analysis in female patients was limited due to physiological variations in hormone levels expected throughout the normal menstrual cycle and the various types of hormonal contraceptives used by patients.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Insomnia
 
-In ACTIVATE , insomnia was reported with a similar incidence between patients who received Pyrukynd and patients who received placebo and was reported in 6 of 27 (22.2%) patients in ACTIVATE-T . In a Phase 2 study, 5 of 27 (18.5%) patients treated at 50 mg twice daily and 16 of 25 (64%) patients treated at 300 mg twice daily experienced insomnia during the core period.
+In ACTIVATE, insomnia was reported with a similar incidence between patients who received Pyrukynd and patients who received placebo and was reported in 6 of 27 (22.2%) patients in ACTIVATE-T. In a Phase 2 study, 5 of 27 (18.5%) patients treated at 50 mg twice daily and 16 of 25 (64%) patients treated at 300 mg twice daily experienced insomnia during the core period.
 
 ## Reporting of suspected adverse reactions
 
@@ -313,7 +314,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-In clinical studies in patients with PK deficiency, doses of mitapivat were assessed up to 300 mg twice daily. Healthy volunteers received up to 2 500 mg as a single dose and 700 mg twice daily for 14 days. One patient in a clinical study took 150 mg twice daily, a dose greater than the recommended dose in that study (50 mg twice daily) and did not experience any associated adverse events.
+In clinical studies in patients with PK deficiency, doses of mitapivat were assessed up to 300 mg twice daily. Healthy volunteers received up to 2 500 mg as a single dose and 700 mg twice daily for 14 days. One patient in a clinical study took 150 mg twice daily, a dose greater than the recommended dose in that study (50 mg twice daily) and did not experience any associated adverse events.
 
 Patients who received higher than the recommended maximum dose of 50 mg twice daily in clinical studies reported adverse events consistent with the safety profile of mitapivat in all patients.
 
@@ -339,7 +340,7 @@ The efficacy of Pyrukynd was evaluated in 2 multinational Phase 3 clinical studi
 
 ## Patients with PK deficiency who were not regularly transfused (ACTIVATE)
 
-The efficacy of Pyrukynd was studied in a multinational, randomised, double-blind, placebocontrolled clinical study ( ACTIVATE ) of 80 adult patients with PK deficiency who were not regularly transfused, defined as having had no more than 4 transfusions in the 52-week period prior to treatment and no transfusions in the 3-month period prior to treatment. Patients were included if they had documented presence of at least 2 mutant alleles in the PKLR gene, of which at least 1 was a missense mutation, and a Hb concentration less than or equal to 100 g/L (10 g/dL; 6.2 mmol/L). Patients homozygous for the R479H mutation or with 2 non-missense mutations (without the presence of another missense mutation) in the PKLR gene were excluded because these patients did not achieve Hb response (change from baseline in Hb ≥ 1.5 g/dL or ≥ 1.5 g/dL or ≥ 0.9 mmol/L) at &gt; 50% assessments) in the Phase 2 dose-ranging study. Randomisation was stratified by average of screening Hb concentrations (&lt; 85 vs ≥ 85 g/L; &lt; 8.5 vs ≥ 8.5 g/dL; &lt; 5.3 vs ≥ 5.3 mmol/L) and PKLR gene mutation category (missense/missense vs missense/non-missense). Following a dose titration period with 2 sequential steps for dose level increase up to 50 mg twice daily, patients continued on a fixed dose of Pyrukynd for 12 weeks.
+The efficacy of Pyrukynd was studied in a multinational, randomised, double-blind, placebocontrolled clinical study (ACTIVATE) of 80 adult patients with PK deficiency who were not regularly transfused, defined as having had no more than 4 transfusions in the 52-week period prior to treatment and no transfusions in the 3-month period prior to treatment. Patients were included if they had documented presence of at least 2 mutant alleles in the PKLR gene, of which at least 1 was a missense mutation, and a Hb concentration less than or equal to 100 g/L (10 g/dL; 6.2 mmol/L). Patients homozygous for the R479H mutation or with 2 non-missense mutations (without the presence of another missense mutation) in the PKLR gene were excluded because these patients did not achieve Hb response (change from baseline in Hb ≥ 15 g/L or ≥ 1.5 g/dL or ≥ 0.9 mmol/L at &gt; 50% assessments) in the Phase 2 dose-ranging study. Randomisation was stratified by average of screening Hb concentrations (&lt; 85 vs ≥ 85 g/L; &lt; 8.5 vs ≥ 8.5 g/dL; &lt; 5.3 vs ≥ 5.3 mmol/L) and PKLR gene mutation category (missense/missense vs missense/non-missense). Following a dose titration period with 2 sequential steps for dose level increase up to 50 mg twice daily, patients continued on a fixed dose of Pyrukynd for 12 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -347,21 +348,21 @@ Among the 80 patients with PK deficiency, 40 patients were randomised to Pyrukyn
 
 The baseline disease characteristics are shown in Table 4.
 
-Table 4: Baseline disease characteristics in patients with PK deficiency who were not regularly transfused ( ACTIVATE )
+Table 4: Baseline disease characteristics in patients with PK deficiency who were not regularly transfused (ACTIVATE)
 
-| Baseline disease characteristics 1                                            | Total N=80                          |
-|-------------------------------------------------------------------------------|-------------------------------------|
-| Haemoglobin (g/L) 2 , n Median (min, max)                                     | 80 85.08 (64.0, 102.3)              |
-| PKLR genotype , n (%) Missense/missense Missense/non-missense                 | 55 (68.8) 25 (31.3)                 |
-| Reticulocyte (fraction of 1) , n Median (min, max)                            | 80 0.4009 (0.038, 0.827)            |
-| Indirect bilirubin (µmol/L) , n Median (min, max)                             | 76 74.647 (11.03, 294.7)            |
-| LDH (U/L) , n Median (min, max)                                               | 79 223.5 (101.0, 1190.5)            |
-| Haptoglobin (g/L) , n Median (min, max)                                       | 80 0.030 (0.03, 0.70)               |
-| Ferritin (µg/L) , n Median (min, max)                                         | 77 479.420 (21.36, 5890.25)         |
-| Femoral T-score category by DXA , n (%) ≤ -2.5 > -2.5 - < -1.0 ≥ -1.0 Missing | 5 (6.3) 36 (45.0) 38 (47.5) 1 (1.3) |
-| Prior history of splenectomy , n (%)                                          | 58 (72.5)                           |
-| Prior history of cholecystectomy , n (%)                                      | 58 (72.5) 15 (18.8)                 |
-| Prior chelation therapy, n (%)                                                |                                     |
+| Baseline disease characteristics 1                                           | Total N=80                          |
+|------------------------------------------------------------------------------|-------------------------------------|
+| Haemoglobin (g/L) 2 , n Median (min, max)                                    | 80 85.08 (64.0, 102.3)              |
+| PKLR genotype, n (%) Missense/missense Missense/non-missense                 | 55 (68.8) 25 (31.3)                 |
+| Reticulocyte (fraction of 1), n Median (min, max)                            | 80 0.4009 (0.038, 0.827)            |
+| Indirect bilirubin (µmol/L), n Median (min, max)                             | 76 74.647 (11.03, 294.7)            |
+| LDH (U/L), n Median (min, max)                                               | 79 223.5 (101.0, 1190.5)            |
+| Haptoglobin (g/L), n Median (min, max)                                       | 80 0.030 (0.03, 0.70)               |
+| Ferritin (µg/L), n Median (min, max)                                         | 77 479.420 (21.36, 5890.25)         |
+| Femoral T-score category by DXA, n (%) ≤ -2.5 > -2.5 - < -1.0 ≥ -1.0 Missing | 5 (6.3) 36 (45.0) 38 (47.5) 1 (1.3) |
+| Prior history of splenectomy, n (%)                                          | 58 (72.5)                           |
+| Prior history of cholecystectomy, n (%)                                      | 58 (72.5)                           |
+| Prior chelation therapy, n (%)                                               | 15 (18.8)                           |
 
 DXA: dual-energy X-ray absorptiometry, LDH: lactate dehydrogenase.
 
@@ -369,22 +370,21 @@ DXA: dual-energy X-ray absorptiometry, LDH: lactate dehydrogenase.
 
 1 n is the number of patients with non-missing data.
 
-2  Baseline Hb in g/dL: median 8.51 (range: 6.4 to 10.2). Baseline Hb in mmol/L: median 5.28 (range: 4.0 to 6.3).
+2 Baseline Hb in g/dL: median 8.51 (range: 6.4 to 10.2). Baseline Hb in mmol/L: median 5.28 (range: 4.0 to 6.3).
 
 The primary endpoint of Hb response was defined as a ≥ 15 g/L (≥ 1.5 g/dL; ≥ 0.9 mmol/L) increase in Hb concentration from baseline sustained at 2 or more scheduled assessments (Weeks 16, 20 and 24) during the fixed-dose period without transfusions. The efficacy results are shown in Table 5.
 
-Table 5: Efficacy results in patients with PK deficiency who were not regularly transfused ( ACTIVATE )
+Table 5: Efficacy results in patients with PK deficiency who were not regularly transfused (ACTIVATE)
 
-|                               | Pyrukynd 1 N=40            | Placebo 1 N=40           | Difference 1                   | Difference 1   |
-|-------------------------------|----------------------------|--------------------------|--------------------------------|----------------|
-| Primary endpoint              | n (%)                      | n (%)                    | Adjusted difference 2 (95% CI) | p-value        |
-| Hb response                   | 16 (40%)                   | 0                        | 39.3 (24.1, 54.6)              | < 0.0001       |
-| Secondary endpoints 3         | LS mean 95% CI             | LS mean 95% CI           | LS mean difference (95% CI)    | p-value        |
-| Haemoglobin (g/L) 4           | 16.73 (12.60, 20.86)       | -1.48 (-5.63, 2.67)      | 18.21 (12.41, 24.01)           | < 0.0001       |
-| Indirect bilirubin ( µ mol/L) | -21.16 (-29.59, -12.72)    | 5.10 (-3.00, 13.21)      | -26.26 (-37.82, -14.70)        | < 0.0001       |
-| Reticulocytes (fraction of 1) | -0.0973 (-0.1252, -0.0694) | 0.0038 (-0.0239, 0.0315) | -0.1011 (-0.1391, -0.0632)     | < 0.0001       |
-| LDH (U/L)                     | -91.99 (-124.47, -59.50)   | -21.18 (-53.30, 10.94)   | -70.81 (-115.88, -25.74)       | 0.0027         |
-| Haptoglobin (g/L)             | 0.169 (0.088, 0.251)       | 0.012 (-0.070, 0.094)    | 0.158 (0.043, 0.273)           | 0.0079         |
+| Primary endpoint              | Pyrukynd 1 N=40 - n (%)    | Placebo 1 N=40 - n (%)   | Difference 1 - Adjusted difference 2 (95% CI)   | Difference 1 - p-value   |
+|-------------------------------|----------------------------|--------------------------|-------------------------------------------------|--------------------------|
+| Hb response                   | 16 (40%)                   | 0                        | 39.3 (24.1, 54.6)                               | < 0.0001                 |
+| Secondary endpoints 3         | LS mean 95% CI             | LS mean 95% CI           | LS mean difference (95% CI)                     | p-value                  |
+| Haemoglobin (g/L) 4           | 16.73 (12.60, 20.86)       | -1.48 (-5.63, 2.67)      | 18.21 (12.41, 24.01)                            | < 0.0001                 |
+| Indirect bilirubin (µmol/L)   | -21.16 (-29.59, -12.72)    | 5.10 (-3.00, 13.21)      | -26.26 (-37.82, -14.70)                         | < 0.0001                 |
+| Reticulocytes (fraction of 1) | -0.0973 (-0.1252, -0.0694) | 0.0038 (-0.0239, 0.0315) | -0.1011 (-0.1391, -0.0632)                      | < 0.0001                 |
+| LDH (U/L)                     | -91.99 (-124.47, -59.50)   | -21.18 (-53.30, 10.94)   | -70.81 (-115.88, -25.74)                        | 0.0027                   |
+| Haptoglobin (g/L)             | 0.169 (0.088, 0.251)       | 0.012 (-0.070, 0.094)    | 0.158 (0.043, 0.273)                            | 0.0079                   |
 
 CI: confidence interval, Hb: haemoglobin, LDH: lactate dehydrogenase, LS: least square.
 
@@ -394,7 +394,7 @@ CI: confidence interval, Hb: haemoglobin, LDH: lactate dehydrogenase, LS: least 
 
 3 Secondary endpoints are the average change from baseline at Weeks 16, 20 and 24 for Hb, indirect bilirubin, reticulocytes, LDH and haptoglobin.
 
-4  Adjusted difference in g/dL is 1.82 (95% CI: 1.24, 2.40). Adjusted difference in mmol/L is 1.13 (95% CI: 0.77, 1.49).
+4 Adjusted difference in g/dL is 1.82 (95% CI: 1.24, 2.40). Adjusted difference in mmol/L is 1.13 (95% CI: 0.77, 1.49).
 
 During the study, 2 (5.0%) patients in the Pyrukynd arm and 7 (17.5%) patients in the placebo arm received transfusions.
 
@@ -402,38 +402,38 @@ Fifteen of the 16 patients with an Hb response in ACTIVATE continued in a long-t
 
 ## Patients with PK deficiency who were regularly transfused (ACTIVATE-T)
 
-The efficacy of Pyrukynd was studied in a multinational, single-arm clinical study ( ACTIVATE-T ) of 27 adult patients with PK deficiency who were regularly transfused. Patients who were regularly transfused were defined as having had a minimum of 6 transfusion episodes and a history of transfusions occurring on average no more frequently than once every 3 weeks during the 52-week period prior to informed consent. There were no limitations on the amount of RBC units received during the 52-week period prior to informed consent. Patients were included if they had documented presence of at least 2 mutant alleles in the PKLR gene, of which at least 1 was a missense mutation. Patients homozygous for the R479H mutation or with 2 non-missense mutations (without the presence of another missense mutation) in the PKLR gene were excluded because these patients did not achieve Hb response (change from baseline in Hb ≥ 1.5 g/dL or ≥ 1.5 g/dL or ≥ 0.9 mmol/L) at &gt; 50% assessments) in the Phase 2 dose-ranging study. Following a dose titration period with 2 sequential steps for dose level increase up to 50 mg twice daily, patients continued on a fixed dose of Pyrukynd for 24 weeks.
+The efficacy of Pyrukynd was studied in a multinational, single-arm clinical study (ACTIVATE-T) of 27 adult patients with PK deficiency who were regularly transfused. Patients who were regularly transfused were defined as having had a minimum of 6 transfusion episodes and a history of transfusions occurring on average no more frequently than once every 3 weeks during the 52-week period prior to informed consent. There were no limitations on the amount of RBC units received during the 52-week period prior to informed consent. Patients were included if they had documented presence of at least 2 mutant alleles in the PKLR gene, of which at least 1 was a missense mutation. Patients homozygous for the R479H mutation or with 2 non-missense mutations (without the presence of another missense mutation) in the PKLR gene were excluded because these patients did not achieve Hb response (change from baseline in Hb ≥ 15 g/L or ≥ 1.5 g/dL or ≥ 0.9 mmol/L at &gt; 50% assessments) in the Phase 2 dose-ranging study. Following a dose titration period with 2 sequential steps for dose level increase up to 50 mg twice daily, patients continued on a fixed dose of Pyrukynd for 24 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
 Among the 27 patients treated, the median duration of treatment with Pyrukynd was 40.3 weeks (range 16.3 to 46.3 weeks). Overall, 20 (74.1%) patients were exposed to Pyrukynd for &gt; 40 weeks. Twenty-five out of the 27 (92.6%) patients who received Pyrukynd received an optimised dose of 50 mg twice daily following the dose titration period. The median age was 36 years (range 18 to 68 years), and 25.9% were male; race was reported in 85.2% of patients including 74.1% White, and 11.1% Asian. The baseline disease characteristics are shown in Table 6.
 
-Table 6: Baseline disease characteristics in patients with PK deficiency who were regularly transfused ( ACTIVATE-T )
+Table 6: Baseline disease characteristics in patients with PK deficiency who were regularly transfused (ACTIVATE-T)
 
-| Baseline disease characteristics 1                                            | Pyrukynd N=27                |
-|-------------------------------------------------------------------------------|------------------------------|
-| Haemoglobin (g/L) 2 , n Median (min, max)                                     | 27 91.0 (74, 109)            |
-| PKLR genotype , n (%)                                                         |                              |
-| Missense/missense Missense/non-missense                                       | 20 (74.1) 7 (25.9)           |
-| Ferritin (µg/L) , n Median (min, max)                                         | 18 748.445 (163.42, 5357.04) |
-| Transfusion burden                                                            |                              |
-| Number of transfusion episodes standardised to 24 weeks , n Median (min, max) | 27 4.15 (2.8, 7.8)           |
-| Number of RBC units transfused standardised to 24 weeks , n Median (min, max) | 27 6.92 (2.8, 20.3)          |
-| Femoral T-score category by DXA , n (%)                                       |                              |
-| ≤ -2.5                                                                        | 1 (3.7)                      |
-| > -2.5 - < -1.0                                                               | 15 (55.6)                    |
-| ≥ -1.0                                                                        | 10 (37.0)                    |
-| Missing                                                                       | 1 (3.7)                      |
-| Prior history of splenectomy , n (%)                                          | 21 (77.8)                    |
-| Prior history of cholecystectomy , n (%)                                      | 23 (85.2)                    |
-|                                                                               | (88.9)                       |
-| Prior chelation therapy, n (%)                                                | 24                           |
+| Baseline disease characteristics 1                                           | Pyrukynd N=27                |
+|------------------------------------------------------------------------------|------------------------------|
+| Haemoglobin (g/L) 2 , n Median (min, max)                                    | 27 91.0 (74, 109)            |
+| PKLR genotype, n (%)                                                         |                              |
+| Missense/missense Missense/non-missense                                      | 20 (74.1) 7 (25.9)           |
+| Ferritin (µg/L), n Median (min, max)                                         | 18 748.445 (163.42, 5357.04) |
+| Transfusion burden                                                           |                              |
+| Number of transfusion episodes standardised to 24 weeks, n Median (min, max) | 27 4.15 (2.8, 7.8)           |
+| Number of RBC units transfused standardised to 24 weeks, n Median (min, max) | 27 6.92 (2.8, 20.3)          |
+| Femoral T-score category by DXA, n (%)                                       |                              |
+| ≤ -2.5                                                                       | 1 (3.7)                      |
+| > -2.5 - < -1.0                                                              | 15 (55.6)                    |
+| ≥ -1.0                                                                       | 10 (37.0)                    |
+| Missing                                                                      | 1 (3.7)                      |
+| Prior history of                                                             | 21 (77.8)                    |
+| splenectomy, n (%)                                                           | 23 (85.2)                    |
+| Prior history of cholecystectomy, n (%)                                      | 24                           |
+| Prior chelation therapy, n (%)                                               | (88.9)                       |
 
 DXA: dual-energy X-ray absorptiometry, RBC: red blood cell.
 
 1 n is the number of patients with non-missing data.
 
-2   Baseline Hb in g/dL: median 9.10 (range: 7.4 to 10.9). Baseline Hb in mmol/L: median 5.64 (range: 4.6 to 6.8).
+2 Baseline Hb in g/dL: median 9.10 (range: 7.4 to 10.9). Baseline Hb in mmol/L: median 5.64 (range: 4.6 to 6.8).
 
 The primary endpoint of transfusion reduction response was defined as ≥ 33% reduction in the number of RBC units transfused during the fixed-dose period compared with the historical transfusion burden standardised to 24 weeks.
 
@@ -441,13 +441,16 @@ Efficacy results for patients with PK deficiency who were regularly transfused a
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7: Efficacy results in patients with PK deficiency who were regularly transfused ( ACTIVATE-T )
+Table 7: Efficacy results in patients with PK deficiency who were regularly transfused (ACTIVATE-T)
 
-| Endpoint                                                                           | Pyrukynd N=27          |
-|------------------------------------------------------------------------------------|------------------------|
-| Patients with transfusion reduction response , n (%) 95% CI                        | 10 (37.0) (19.4, 57.6) |
-| Percent reduction in RBC units from baseline 1 ≥ 33 to < 50%, n (%) ≥ 50%, n (%) 2 | 1 (3.7) 10 (37.0)      |
-| Patients who were transfusion free , n (%) 95% CI                                  | 6 (22.2) (8.6, 42.3)   |
+| Endpoint                                                            | Pyrukynd N=27          |
+|---------------------------------------------------------------------|------------------------|
+| Patients with transfusion reduction response, n (%) 95% CI          | 10 (37.0) (19.4, 57.6) |
+| Percent reduction in RBC units from baseline 1 ≥ 33 to < 50%, n (%) |                        |
+| 2                                                                   | 1 (3.7)                |
+| ≥ 50%, n (%)                                                        | 10 (37.0)              |
+| Patients who were transfusion free, n (%)                           | 6 (22.2)               |
+| 95% CI                                                              | (8.6, 42.3)            |
 
 CI: confidence interval, RBC: red blood cell.
 
@@ -521,11 +524,11 @@ No clinically meaningful effects on the pharmacokinetics of mitapivat were obser
 
 ## Elderly
 
-There were 5 patients 65 years of age or older who received mitapivat in the clinical studies ACTIVATE and ACTIVATE-T . No differences in the pharmacokinetics were observed in these patients compared to younger patients.
+There were 5 patients 65 years of age or older who received mitapivat in the clinical studies ACTIVATE and ACTIVATE-T. No differences in the pharmacokinetics were observed in these patients compared to younger patients.
 
 ## Hepatic impairment
 
-The pharmacokinetics of mitapivat were studied in adult subjects with moderate hepatic impairment (Child-Pugh Class B). After a single oral administration of 50 mg mitapivat, subjects with moderate hepatic impairment demonstrated 36% greater exposure (AUC ∞ ) to mitapivat, compared to subjects with normal hepatic function. This difference in exposure is not considered to be clinically meaningful. Geometric mean Cmax values were similar between the groups. There were no major changes to plasma protein binding or elimination half-life in subjects with moderate hepatic impairment relative to healthy controls. Mitapivat has not been studied in subjects with severe hepatic impairment (Child-Pugh Class C).
+The pharmacokinetics of mitapivat were studied in adult subjects with moderate hepatic impairment (Child-Pugh Class B). After a single oral administration of 50 mg mitapivat, subjects with moderate hepatic impairment demonstrated 36% greater exposure (AUC∞) to mitapivat, compared to subjects with normal hepatic function. This difference in exposure is not considered to be clinically meaningful. Geometric mean Cmax values were similar between the groups. There were no major changes to plasma protein binding or elimination half-life in subjects with moderate hepatic impairment relative to healthy controls. Mitapivat has not been studied in subjects with severe hepatic impairment (Child-Pugh Class C).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -559,7 +562,7 @@ In a fertility and early embryonic development study, oral administration of mit
 
 In repeat dose toxicity studies in male and female rats, reproductive organ changes were observed and were attributable to aromatase inhibition. In males, lower accessory sex gland weights and higher testis weights, as well as microscopic findings in the testis and accessory sex glands were seen at AUC0-12hr values ≥ 4.7 fold the human exposure at the MRHD. In females, higher ovarian weights and lower uterus weights, and microscopic findings in the ovary and vagina occurred at AUC0-12hr values 3.0-fold the human exposure. All findings were reversible.
 
-In a juvenile toxicology study initiated in rats aged 7 days and treated up to sexual maturity, most treatment-related findings were considered related to aromatase inhibition. In males, microscopic findings in the testis were observed from the low-dose level of 30 mg/kg/day (1.5-fold the human AUC0-12hr at the MRHD) and delayed sexual maturity, abnormal sperm evaluation findings, and mating and fertility changes were observed at ≥ 150 mg/kg/day (≥ 22-fold the human AUC0-12hr at the MRHD). In females, oestrous cycle changes were observed at the high-dose level of 200 mg/kg/day (60-fold the human AUC0-12hr at the MRHD). All evaluable reproductive changes were reversible or partially reversible. Treatment-related decrease and increase in body weights were observed in males and females, respectively, at ≥ 20-fold the human AUC0-12hr at the MRHD and were not reversed in females. Bone changes, including lower bone density and mass, were observed at ≥ 1.5and ≥ 20-fold the human exposure in males and females, respectively. These changes were fully reversible in females; in males, they were fully reversible at 1.5-fold the human exposure and partially reversible at higher exposure levels.
+In a juvenile toxicology study initiated in rats aged 7 days and treated up to sexual maturity, most treatment-related findings were considered related to aromatase inhibition. In males, microscopic findings in the testis were observed from the low-dose level of 30 mg/kg/day (1.5-fold the human AUC0-12hr at the MRHD) and delayed sexual maturity, abnormal sperm evaluation findings, and mating and fertility changes were observed at ≥ 150 mg/kg/day (≥ 22-fold the human AUC0-12hr at the MRHD). In females, oestrous cycle changes were observed at the high-dose level of 200 mg/kg/day (60-fold the human AUC0-12hr at the MRHD). All evaluable reproductive changes were reversible or partially reversible. Treatment-related decrease and increase in body weights were observed in males and females, respectively, at ≥ 20-fold the human AUC0-12hr at the MRHD and were not reversed in females. Bone changes, including lower bone density and mass, were observed at ≥ 1.5- and ≥ 20-fold the human exposure in males and females, respectively. These changes were fully reversible in females; in males, they were fully reversible at 1.5-fold the human exposure and partially reversible at higher exposure levels.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -577,7 +580,9 @@ Hypromellose (E464) Titanium dioxide (E171) Lactose monohydrate Triacetin Indigo
 
 Printing ink
 
-Shellac (E904) Black iron oxide (E172) Ammonium hydroxide (E527)
+Shellac (E904) Black iron oxide (E172)
+
+Ammonium hydroxide (E527)
 
 ## 6.2 Incompatibilities
 
@@ -641,19 +646,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
+Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1662/001
-
-EU/1/22/1662/002
-
-EU/1/22/1662/003
-
-EU/1/22/1662/004
-
-EU/1/22/1662/005
+EU/1/22/1662/001 EU/1/22/1662/002 EU/1/22/1662/003 EU/1/22/1662/004 EU/1/22/1662/005
 
 EU/1/22/1662/006
 
@@ -733,7 +732,7 @@ The pharmacokinetics of mitapivat were studied in adult subjects with moderate h
 
 ## Renal impairment
 
-There are limited data available in patients with mild or moderate renal impairment. No dose modifications are recommended in patients with mild or moderate renal impairment (see section 5.2.).
+There are limited data available in patients with mild or moderate renal impairment. No dose modifications are recommended in patients with mild or moderate renal impairment (see section 5.2).
 
 There are no data available in patients with severe renal impairment. No dose recommendations can be made.
 
@@ -789,13 +788,13 @@ Mitapivat is primarily metabolised by CYP3A4 and is a substrate for P-glycoprote
 
 ## CYP3A4 inhibitors
 
-The effect of itraconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Itraconazole increased mitapivat AUC0-t, AUC ∞ and Cmax by 4.7-fold, 4.9-fold and 1.7-fold, respectively. Increased mitapivat plasma exposures may increase the risk of adverse reactions. The concomitant use of CYP3A4 inhibitors with mitapivat should be avoided (see section 4.4). If concomitant use of a moderate CYP3A4 inhibitor is unavoidable, the dose of mitapivat should be 100 mg once daily and patients should be monitored for increased risk of adverse reactions. When used with a moderate CYP3A inhibitor, patients should not exceed a dose of 100 mg once daily.
+The effect of itraconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Itraconazole increased mitapivat AUC0-t, AUC∞ and Cmax by 4.7-fold, 4.9-fold and 1.7-fold, respectively. Increased mitapivat plasma exposures may increase the risk of adverse reactions. The concomitant use of CYP3A4 inhibitors with mitapivat should be avoided (see section 4.4). If concomitant use of a moderate CYP3A4 inhibitor is unavoidable, the dose of mitapivat should be 100 mg once daily and patients should be monitored for increased risk of adverse reactions. When used with a moderate CYP3A inhibitor, patients should not exceed a dose of 100 mg once daily.
 
 <div style=\"page-break-after: always\"></div>
 
 ## CYP3A4 inducers
 
-The effect of rifampicin (a strong CYP3A4 inducer) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Rifampicin decreased mitapivat AUC0-t, AUC ∞ and Cmax by 91%, 91% and 77%, respectively. Decreased mitapivat plasma exposures may reduce the efficacy of mitapivat. The concomitant use of CYP3A4 inducers with mitapivat should be avoided (see section 4.4). If concomitant use of a CYP3A4 inducer is unavoidable, patients should be monitored for reduced efficacy of mitapivat. Patients should not exceed the recommended dose of 100 mg twice daily.
+The effect of rifampicin (a strong CYP3A4 inducer) on the pharmacokinetics of a single dose of mitapivat was evaluated in a Phase 1 study. Rifampicin decreased mitapivat AUC0-t, AUC∞ and Cmax by 91%, 91% and 77%, respectively. Decreased mitapivat plasma exposures may reduce the efficacy of mitapivat. The concomitant use of CYP3A4 inducers with mitapivat should be avoided (see section 4.4). If concomitant use of a CYP3A4 inducer is unavoidable, patients should be monitored for reduced efficacy of mitapivat. Patients should not exceed the recommended dose of 100 mg twice daily.
 
 ## Gastric acid-reducing agents
 
@@ -805,7 +804,7 @@ Concomitant use of mitapivat with medicinal products that elevate gastric pH was
 
 ## CYP3A4 substrates
 
-The effect of mitapivat (100 mg twice daily) on the pharmacokinetics of a single dose of midazolam (a sensitive CYP3A4 substrate) was evaluated in a Phase 1 study. Mitapivat at steady state decreased midazolam AUCs (AUC0-t, AUC ∞ ) and Cmax by 53% and 37%, respectively. Alternative therapies that are not sensitive substrates of CYP3A4 should be considered during treatment with mitapivat (see section 4.4). If co-administration of mitapivat with sensitive CYP3A4 substrates is unavoidable, patients should be carefully monitored especially for those substrates with a narrow therapeutic index (e.g. alfentanil, carbamazepine, cyclosporine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus).
+The effect of mitapivat (100 mg twice daily) on the pharmacokinetics of a single dose of midazolam (a sensitive CYP3A4 substrate) was evaluated in a Phase 1 study. Mitapivat at steady state decreased midazolam AUCs (AUC0-t, AUC∞) and Cmax by 53% and 37%, respectively. Alternative therapies that are not sensitive substrates of CYP3A4 should be considered during treatment with mitapivat (see section 4.4). If co-administration of mitapivat with sensitive CYP3A4 substrates is unavoidable, patients should be carefully monitored especially for those substrates with a narrow therapeutic index (e.g. alfentanil, carbamazepine, cyclosporine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus).
 
 ## Hormonal contraceptives
 
@@ -853,9 +852,9 @@ Pyrukynd has a minor influence on the ability to drive and use machines. Patient
 
 ## Summary of the safety profile
 
-The safety evaluation of Pyrukynd is based on experience from two randomised, double-blind, placebo-controlled clinical studies: one in adult patients with non-transfusion-dependent alpha- or beta-thalassaemia ( ENERGIZE ) and one in adult patients with transfusion-dependent alpha- or betathalassaemia ( ENERGIZE-T ). Across both studies, 301 subjects received Pyrukynd during the doubleblind period and 292 subjects had &gt; 12 months of exposure to Pyrukynd with continued exposure during the open-label extension period. The safety profile for Pyrukynd was characterized considering the data from both the double-blind and open-label extension periods.
+The safety evaluation of Pyrukynd is based on experience from two randomised, double-blind, placebo-controlled clinical studies: one in adult patients with non-transfusion-dependent alpha- or beta-thalassaemia (ENERGIZE) and one in adult patients with transfusion-dependent alpha- or betathalassaemia (ENERGIZE-T). Across both studies, 301 subjects received Pyrukynd during the doubleblind period and 292 subjects had &gt; 12 months of exposure to Pyrukynd with continued exposure during the open-label extension period. The safety profile for Pyrukynd was characterized considering the data from both the double-blind and open-label extension periods.
 
-The most common adverse reactions across both studies were headache (24.9%) and insomnia (24.3%) and the most common laboratory abnormalities observed were oestrone decreased (males) (57.8%), free testosterone increased (males) (57.4%), blood testosterone increased (males) (40.2%), , and oestradiol decreased (males) (15.6%).
+The most common adverse reactions across both studies were headache (24.9%) and insomnia (24.3%) and the most common laboratory abnormalities observed were oestrone decreased (males) (57.8%), free testosterone increased (males) (57.4%), blood testosterone increased (males) (40.2%), and oestradiol decreased (males) (15.6%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -882,17 +881,17 @@ Table 1: Adverse reactions
 
 ## Hypertransaminasaemia
 
-In ENERGIZE and ENERGIZE-T , 2 of 301 patients (0.66%) treated with Pyrukynd experienced adverse events suggestive of hepatocellular injury during the double-blind period. Three additional patients experienced adverse events suggestive of hepatocellular injury during the open-label extension periods after switching from placebo to Pyrukynd. For 2 of the 5 patients, the events were serious (requiring hospitalization) and for the remaining 3 the events were nonserious. These events were characterised by a time to onset within the first 6 months of treatment with peak elevations of alanine aminotransferase of &gt; 5×ULN. All patients discontinued treatment with Pyrukynd and these events improved upon treatment discontinuation. None of the events resulted in liver failure, liver transplant, or death.
+In ENERGIZE and ENERGIZE-T, 2 of 301 patients (0.66%) treated with Pyrukynd experienced adverse events suggestive of hepatocellular injury during the double-blind period. Three additional patients experienced adverse events suggestive of hepatocellular injury during the open-label extension periods after switching from placebo to Pyrukynd. For 2 of the 5 patients, the events were serious (requiring hospitalization) and for the remaining 3 the events were nonserious. These events were characterised by a time to onset within the first 6 months of treatment with peak elevations of alanine aminotransferase of &gt; 5×ULN. All patients discontinued treatment with Pyrukynd and these events improved upon treatment discontinuation. None of the events resulted in liver failure, liver transplant, or death.
 
 ## Changes in sex hormone levels
 
-Mitapivat is a weak aromatase inhibitor in vitro . In ENERGIZE , 15 of 46 (32.6%) males experienced increases in testosterone to above normal levels and 18 of 46 (39.1%) and 2 of 46 (4.3%) males experienced decreases in oestrone and oestradiol below the lower limit of normal, respectively. In ENERGIZE-T , 25 of 79 males (31.6%) experienced increases in testosterone to above normal levels and 46 of 79 (58.2%) and 15 of 79 (19.0%) males experienced decreases in oestrone and oestradiol below the lower limit of normal, respectively. These changes in hormone levels were maintained during treatment with Pyrukynd. In patients who discontinued Pyrukynd, the hormone changes were reversible. Sex hormone analysis in female patients was limited due to physiologic variations in hormone levels expected throughout the normal menstrual cycle and the various types of hormonal contraceptives used by patients.
+Mitapivat is a weak aromatase inhibitor in vitro. In ENERGIZE, 15 of 46 (32.6%) males experienced increases in testosterone to above normal levels and 18 of 46 (39.1%) and 2 of 46 (4.3%) males experienced decreases in oestrone and oestradiol below the lower limit of normal, respectively. In ENERGIZE-T, 25 of 79 males (31.6%) experienced increases in testosterone to above normal levels and 46 of 79 (58.2%) and 15 of 79 (19.0%) males experienced decreases in oestrone and oestradiol below the lower limit of normal, respectively. These changes in hormone levels were maintained during treatment with Pyrukynd. In patients who discontinued Pyrukynd, the hormone changes were reversible. Sex hormone analysis in female patients was limited due to physiologic variations in hormone levels expected throughout the normal menstrual cycle and the various types of hormonal contraceptives used by patients.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Insomnia
 
-In ENERGIZE , insomnia was reported in 35 of 129 (27.1%) patients who received Pyrukynd and 5 of 63 (7.9%) patients who received placebo. In ENERGIZE-T , insomnia was reported in 38 of 172 (22.1%) patients who received Pyrukynd and 8 of 85 (9.4%) patients who received placebo.
+In ENERGIZE, insomnia was reported in 35 of 129 (27.1%) patients who received Pyrukynd and 5 of 63 (7.9%) patients who received placebo. In ENERGIZE-T, insomnia was reported in 38 of 172 (22.1%) patients who received Pyrukynd and 8 of 85 (9.4%) patients who received placebo.
 
 ## Reporting of suspected adverse reactions
 
@@ -926,38 +925,38 @@ The efficacy of Pyrukynd was evaluated in 2 multinational Phase 3 clinical studi
 
 ## Patients with non-transfusion-dependent thalassaemia (ENERGIZE)
 
-The efficacy of Pyrukynd was evaluated in a multinational, randomised, double-blind, placebocontrolled clinical study ( ENERGIZE ) of 194 adult patients with non-transfusion-dependent alpha- or beta-thalassaemia, defined as having had no more than 5 RBC units transfused during the 24-week period prior to randomization and no RBC transfusions within 8 weeks prior to informed consent and during the screening period. Patients were included if they had a documented diagnosis of thalassaemia (beta-thalassaemia with or without alpha-globin gene mutations, HbE/beta-thalassaemia, or alphathalassaemia/HbH disease) and a baseline Hb concentration ≤ 100 g/L (≤ 10 g/dL ; ≤ 6.2 mmol/L). Patients were excluded if they had active and/or uncontrolled cardiac or pulmonary disease.
+The efficacy of Pyrukynd was evaluated in a multinational, randomised, double-blind, placebocontrolled clinical study (ENERGIZE) of 194 adult patients with non-transfusion-dependent alpha- or beta-thalassaemia, defined as having had no more than 5 RBC units transfused during the 24-week period prior to randomization and no RBC transfusions within 8 weeks prior to informed consent and during the screening period. Patients were included if they had a documented diagnosis of thalassaemia (beta-thalassaemia with or without alpha-globin gene mutations, HbE/beta-thalassaemia, or alpha-thalassaemia/HbH disease) and a baseline Hb concentration ≤ 100 g/L (≤ 10 g/dL; ≤ 6.2 mmol/L). Patients were excluded if they had active and/or uncontrolled cardiac or pulmonary disease.
 
 <div style=\"page-break-after: always\"></div>
 
-Randomization was stratified by baseline Hb concentrations ( ≤ 90 g/L vs 91-100 g/L ; ≤ 9 g/dL vs 9.110 g/dL; ≤ 5.6 mmol/L vs &gt; 5.6-6.2 mmol/L) and thalassaemia genotype (alpha-thalassaemia/HbH disease vs beta-thalassaemia).
+Randomization was stratified by baseline Hb concentrations (≤ 90 g/L vs 91-100 g/L; ≤ 9 g/dL vs 9.110 g/dL; ≤ 5.6 mmol/L vs &gt; 5.6-6.2 mmol/L) and thalassaemia genotype (alpha-thalassaemia/HbH disease vs beta-thalassaemia).
 
 Among the 194 patients with non-transfusion-dependent alpha- or beta-thalassaemia, 130 patients were randomised to receive 100 mg of Pyrukynd twice daily during the 24-week double-blind period. The median duration of treatment with Pyrukynd was 24.1 weeks (range 1.1 to 28.1 weeks). Overall, 97 (75%) patients were exposed to Pyrukynd for &gt; 24 weeks. Among the 194 randomised patients, the median age was 41.0 years (range 18 to 69) and 36.6% were male; race was reported in 99% of patients: 56.2% White, 39.2% Asian, 1.0% Black or African American, 0.5% Multiracial, and 2.1% unknown.
 
 The baseline disease characteristics are shown in Table 2.
 
-Table 2: Baseline disease characteristics in patients with non-transfusion-dependent thalassaemia ( ENERGIZE )
+Table 2: Baseline disease characteristics in patients with non-transfusion-dependent thalassaemia (ENERGIZE)
 
-| Baseline disease characteristics 1                                             | Pyrukynd N=130              | Placebo N=64               | Total N=194                 |
-|--------------------------------------------------------------------------------|-----------------------------|----------------------------|-----------------------------|
-| Haemoglobin (g/L) 2 , n Median (min, max)                                      | 130 83.88 (53.0, 104.0)     | 64 84.17 (58.5, 107.0)     | 194 84.00 (53.0,107.0)      |
-| Thalassaemia genotype , n (%) alpha-thalassaemia/HbH disease beta-thalassaemia | 42 (32.3) 88 (67.7)         | 20 (31.3) 44 (68.8)        | 62 (32.0) 132 (68.0)        |
-| Transfusion burden (RBC units) 3 , n (%) 0 1-2 3-5                             | 114 (87.7) 10 (7.7) 6 (4.6) | 54 (84.4) 7 (10.9) 3 (4.7) | 168 (86.6) 17 (8.8) 9 (4.6) |
-| Reticulocyte (fraction of 1) , n Median (min, max)                             | 122 0.05 (0.003, 0.298)     | 58 0.04 (0.000, 0.219)     | 180 0.05 (0.000, 0.298)     |
-| Indirect bilirubin (µmol/L) , n Median (min, max)                              | 130 23.38 (2.2, 155.8)      | 62 22.63 (2.7, 81.6)       | 192 23.00 (2.2, 155.8)      |
-| LDH (U/L) , n Median (min, max)                                                | 130 263.50 (107.5, 1207.5)  | 64 267.25 (110.0, 1009.0)  | 194 265.00 (107.5, 1207.5)  |
-| Hepatic iron concentration (mg/g) , n Median (min, max)                        | 98 3.93 (0.75, 27.19)       | 52 2.76 (0.75, 18.53)      | 150 3.64 (0.75, 27.19)      |
-| Prior history of splenectomy, n (%)                                            | 47 (36.2)                   | 25 (39.1)                  | 72 (37.1)                   |
-| Prior history of cholecystectomy, n (%)                                        | 45 (34.6)                   | 16 (25.0)                  | 61 (31.4)                   |
-| Prior history of iron chelation, n (%)                                         | 46 (35.4)                   | 22 (34.4)                  | 68 (35.1)                   |
+| Baseline disease characteristics 1                                            | Pyrukynd N=130              | Placebo N=64               | Total N=194                 |
+|-------------------------------------------------------------------------------|-----------------------------|----------------------------|-----------------------------|
+| Haemoglobin (g/L) 2 , n Median (min, max)                                     | 130 83.88 (53.0, 104.0)     | 64 84.17 (58.5, 107.0)     | 194 84.00 (53.0,107.0)      |
+| Thalassaemia genotype, n (%) alpha-thalassaemia/HbH disease beta-thalassaemia | 42 (32.3) 88 (67.7)         | 20 (31.3) 44 (68.8)        | 62 (32.0) 132 (68.0)        |
+| Transfusion burden (RBC units) 3 , n (%) 0 1-2 3-5                            | 114 (87.7) 10 (7.7) 6 (4.6) | 54 (84.4) 7 (10.9) 3 (4.7) | 168 (86.6) 17 (8.8) 9 (4.6) |
+| Reticulocyte (fraction of 1), n Median (min, max)                             | 122 0.05 (0.003, 0.298)     | 58 0.04 (0.000, 0.219)     | 180 0.05 (0.000, 0.298)     |
+| Indirect bilirubin (µmol/L), n Median (min, max)                              | 130 23.38 (2.2, 155.8)      | 62 22.63 (2.7, 81.6)       | 192 23.00 (2.2, 155.8)      |
+| LDH (U/L), n Median (min, max)                                                | 130 263.50 (107.5, 1207.5)  | 64 267.25 (110.0, 1009.0)  | 194 265.00 (107.5, 1207.5)  |
+| Hepatic iron concentration (mg/g), n Median (min, max)                        | 98 3.93 (0.75, 27.19)       | 52 2.76 (0.75, 18.53)      | 150 3.64 (0.75, 27.19)      |
+| Prior history of splenectomy, n (%)                                           | 47 (36.2)                   | 25 (39.1)                  | 72 (37.1)                   |
+| Prior history of cholecystectomy, n (%)                                       | 45 (34.6)                   | 16 (25.0)                  | 61 (31.4)                   |
+| Prior history of iron chelation, n (%)                                        | 46 (35.4)                   | 22 (34.4)                  | 68 (35.1)                   |
 
 Hb: haemoglobin, LDH: lactate dehydrogenase, RBC: red blood cell
 
-1   n is the number of patients with non-missing data.
+1 n is the number of patients with non-missing data.
 
-2  Baseline Hb in g/dL: median 8.40 (range: 5.3 to 10.7). Baseline Hb in mmol/L: median 5.21 (range: 3.3 to 6.6).
+2 Baseline Hb in g/dL: median 8.40 (range: 5.3 to 10.7). Baseline Hb in mmol/L: median 5.21 (range: 3.3 to 6.6).
 
-3  Total number of RBC units transfused in the 24-week period before randomization.
+3 Total number of RBC units transfused in the 24-week period before randomization.
 
 Among the 62 randomized patients with non-transfusion dependent alpha-thalassaemia, the median age was 39.0 years (range 18 to 67) and 17.7% were male; race was reported in 98.4% of patients: 59.7% Asian, 35.5% White, and 3.2% unknown. In the 24-week period before randomization, 95.2% of the patients received no RBC transfusions, 3.2% were transfused 1-2 RBC units and 1.6% were transfused 3-5 RBC units. At baseline, the median Hb was 87.00 g/L (range 53.0 to 103.0) or 8.70 g/dL (range 5.3 to 10.3) or 5.39 mmol/L (range 3.3 to 6.4), median reticulocyte (fraction of 1)
 
@@ -965,27 +964,26 @@ Among the 62 randomized patients with non-transfusion dependent alpha-thalassaem
 
 was 0.04 (range 0.010 to 0.221), median indirect bilirubin was 17.74 µmol/L (range 2.7 to 155.8), median LDH was 242.75 U/L (range 110.0 to 886.0), and median hepatic iron concentration was 2.57 mg/g (range 0.75 to 14.14). There were 16.1% of patients with a prior history of splenectomy, 22.6% with a prior history of cholecystectomy, and 19.4% with a prior history of iron chelation.
 
-The primary endpoint of Hb response was defined as a ≥ 10 g/L ( ≥ 1 g/dL; ≥ 0.62 mmol/L) increase in average Hb concentration from Week 12 through Week 24 compared with baseline. The efficacy results are shown in Table 3.
+The primary endpoint of Hb response was defined as a ≥ 10 g/L (≥ 1 g/dL; ≥ 0.62 mmol/L) increase in average Hb concentration from Week 12 through Week 24 compared with baseline. The efficacy results are shown in Table 3.
 
-Table 3: Efficacy results in patients with non-transfusion-dependent thalassaemia ( ENERGIZE )
+Table 3: Efficacy results in patients with non-transfusion-dependent thalassaemia (ENERGIZE)
 
-|                     | Pyrukynd N= 130   | Placebo N=64        | Difference                       | Difference   |
-|---------------------|-------------------|---------------------|----------------------------------|--------------|
-| Primary endpoint    | n (%)             | n (%)               | Adjusted difference (%) (95% CI) | p-value 1    |
-| Hb response 2       | 55 (42.3)         | 1 (1.6)             | 40.9 (32.0, 49.8)                | < 0.0001     |
-| Secondary endpoints | LS mean (95% CI)  | LS mean (95% CI)    | LS mean difference (95% CI)      | p-value 1    |
-| Haemoglobin (g/L) 3 | 8.57 (7.26, 9.88) | -1.06 (-2.77, 0.65) | 9.63 (7.80, 11.46)               | < 0.0001     |
-| FACIT-Fatigue 4     | 4.85 (3.41, 6.30) | 1.46 (-0.43, 3.34)  | 3.40 (1.21, 5.59)                | 0.0026       |
+| Primary endpoint    | Pyrukynd N= 130 - n (%)   | Placebo N=64 - n (%)   | Difference - Adjusted difference (%) (95% CI)   | Difference - p-value 1   |
+|---------------------|---------------------------|------------------------|-------------------------------------------------|--------------------------|
+| Hb response 2       | 55 (42.3)                 | 1 (1.6)                | 40.9 (32.0, 49.8)                               | < 0.0001                 |
+| Secondary endpoints | LS mean (95% CI)          | LS mean (95% CI)       | LS mean difference (95% CI)                     | p-value 1                |
+| Haemoglobin (g/L) 3 | 8.57 (7.26, 9.88)         | -1.06 (-2.77, 0.65)    | 9.63 (7.80, 11.46)                              | < 0.0001                 |
+| FACIT-Fatigue 4     | 4.85 (3.41, 6.30)         | 1.46 (-0.43, 3.34)     | 3.40 (1.21, 5.59)                               | 0.0026                   |
 
 CI: confidence interval, Hb: haemoglobin, LS: least squares
 
 1 All p-values are 2-sided and all results are statistically significant.
 
-2 For Hb response, the difference is adjusted for randomization stratification factors, which included Hb concentrations ( ≤ 9.0 g/dL vs 9.1-10.0 g/dL) and thalassaemia genotype (alpha-thalassaemia/HbH disease vs beta-thalassaemia). The two-sided p-value is based on the Mantel-Haenszel stratum weighted method adjusting for the randomization stratification factors.
+2 For Hb response, the difference is adjusted for randomization stratification factors, which included Hb concentrations (≤ 9.0 g/dL vs 9.1-10.0 g/dL) and thalassaemia genotype (alpha-thalassaemia/HbH disease vs beta-thalassaemia). The two-sided p-value is based on the Mantel-Haenszel stratum weighted method adjusting for the randomization stratification factors.
 
-3   Change from baseline in average Hb concentration from Week 12 through Week 24. Adjusted difference in g/dL is 0.96 (95% CI: 0.78, 1.15). Adjusted difference in mmol/L is 0.60 (95% CI: 0.48, 0.71).
+3 Change from baseline in average Hb concentration from Week 12 through Week 24. Adjusted difference in g/dL is 0.96 (95% CI: 0.78, 1.15). Adjusted difference in mmol/L is 0.60 (95% CI: 0.48, 0.71).
 
-4   Change from baseline in average Functional Assessment of Chronic Illness Therapy (FACIT)-Fatigue score from Week 12 through Week 24. The FACIT-Fatigue total score ranges from 0 to 52, with a higher score indicating better health-related quality of life.
+4 Change from baseline in average Functional Assessment of Chronic Illness Therapy (FACIT)-Fatigue score from Week 12 through Week 24. The FACIT-Fatigue total score ranges from 0 to 52, with a higher score indicating better health-related quality of life.
 
 Note: For the endpoints of change from baseline in average Hb concentration from Week 12 through Week 24 and change from baseline in average FACIT-Fatigue score from Week 12 through Week 24, the 95% CIs and the two-sided p-values are based on an analysis of covariance (ANCOVA) model, which included change from baseline as the dependent variable, treatment group as the independent variable, and baseline and the randomization stratification factors as covariates.
 
@@ -993,17 +991,17 @@ The majority of patients in the Pyrukynd arm experienced an increase from baseli
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Average change from baseline in haemoglobin from week 12 through week 24 by patient - all randomised patients ( ENERGIZE )
+Figure 1: Average change from baseline in haemoglobin from week 12 through week 24 by patient - all randomised patients (ENERGIZE)
 
 <!-- image -->
 
-Figure 2: Change from baseline in haemoglobin over time - all randomised patients ( ENERGIZE )
+Figure 2: Change from baseline in haemoglobin over time - all randomised patients (ENERGIZE)
 
 <!-- image -->
 
 Of the 55 patients with Hb response in the Pyrukynd arm, the average increase in Hb was 15.55 g/L (1.56 g/dL or 0.96 mmol/L) and the median duration of response was 19.6 weeks (range 4.0 to 23.4+ weeks) during the 24-week double-blind period. With continued exposure to Pyrukynd in the open-label extension period up to a total of 126.1 weeks, the median duration of response was 32.9 weeks (range 15.4 to 99.3+ weeks).
 
-Patients in the Pyrukynd arm experienced an improvement compared to placebo in the change from baseline to Week 24 for 2 markers of haemolysis (indirect bilirubin [-10.62 µmol/L (95% CI: -13.74, -7.50)] and lactate dehydrogenase [-24.28 U/L (95% CI: -45.40, -3.15)] ) and 1 marker of erythropoiesis (reticulocytes /erythrocytes ratio [-0.0135 (95% CI: -0.0217, -0.0053)] ); no improvements for patients in the Pyrukynd arm compared to placebo were observed for haptoglobin or erythropoietin.
+Patients in the Pyrukynd arm experienced an improvement compared to placebo in the change from baseline to Week 24 for 2 markers of haemolysis (indirect bilirubin [-10.62 µmol/L (95% CI: -13.74, -7.50)] and lactate dehydrogenase [-24.28 U/L (95% CI: -45.40, -3.15)]) and 1 marker of erythropoiesis (reticulocytes/erythrocytes ratio [-0.0135 (95% CI: -0.0217, -0.0053)]); no improvements for patients in the Pyrukynd arm compared to placebo were observed for haptoglobin or erythropoietin.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1011,7 +1009,7 @@ During treatment with Pyrukynd, hepatic iron concentration was assessed only dur
 
 Patients were fatigued at baseline reflected by a mean FACIT-Fatigue score of approximately 36 in both the Pyrukynd and placebo arms. A higher proportion of patients in the Pyrukynd arm compared to the placebo arm experienced a meaningful within-person change threshold for the FACIT-Fatigue score, defined as a ≥ 4.5-point improvement from baseline in average FACIT-Fatigue score from Week 12 through 24 [14.2% (95% CI: 1.1, 27.2)] (Figure 3).
 
-Figure 3: Average change from baseline in FACIT-Fatigue score from week 12 through week 24 - all randomised patients ( ENERGIZE )
+Figure 3: Average change from baseline in FACIT-Fatigue score from week 12 through week 24 - all randomised patients (ENERGIZE)
 
 <!-- image -->
 
@@ -1021,7 +1019,7 @@ At baseline, the mean 6-minute walk test (6MWT) distance was 422 meters in the P
 
 ## Patients with transfusion-dependent Thalassaemia (ENERGIZE-T)
 
-The efficacy of Pyrukynd was studied in a multinational, randomised, double-blind, placebocontrolled clinical study ( ENERGIZE-T ) of 258 adult patients with transfusion-dependent alpha- or beta-thalassaemia, defined as having had 6 to 20 RBC units transfused and no longer than a 6-week transfusion-free period during the 24 weeks prior to randomization. Patients were included if they had a documented diagnosis of thalassaemia (beta-thalassaemia with or without alpha-globin gene mutations, HbE/beta-thalassaemia, or alpha-thalassaemia/HbH disease). Patients were excluded if they had active and/or uncontrolled cardiac or pulmonary disease. Randomization was stratified by geographical region (North America and Europe vs Asia-Pacific vs Rest of World) and thalassaemia genotype (β 0 /β 0 vs nonβ 0 /β 0 ).
+The efficacy of Pyrukynd was studied in a multinational, randomised, double-blind, placebocontrolled clinical study (ENERGIZE-T) of 258 adult patients with transfusion-dependent alpha- or beta-thalassaemia, defined as having had 6 to 20 RBC units transfused and no longer than a 6-week transfusion-free period during the 24 weeks prior to randomization. Patients were included if they had a documented diagnosis of thalassaemia (beta-thalassaemia with or without alpha-globin gene mutations, HbE/beta-thalassaemia, or alpha-thalassaemia/HbH disease). Patients were excluded if they had active and/or uncontrolled cardiac or pulmonary disease. Randomization was stratified by geographical region (North America and Europe vs Asia-Pacific vs Rest of World) and thalassaemia genotype (β 0 /β 0 vs non-β 0 /β 0 ).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1029,23 +1027,25 @@ Among the 258 patients with transfusion-dependent alpha- or beta-thalassaemia, 1
 
 The baseline disease characteristics are shown in Table 4.
 
-Table 4: Baseline disease characteristics in patients with transfusion-dependent thalassaemia ( ENERGIZE-T )
+Table 4: Baseline disease characteristics in patients with transfusion-dependent thalassaemia (ENERGIZE-T)
 
-| Baseline disease characteristics 1                                                          | Pyrukynd N=171                   | Placebo N=87                    | Total N=258                       |
-|---------------------------------------------------------------------------------------------|----------------------------------|---------------------------------|-----------------------------------|
-| Haemoglobin (g/L) , n 1 Median (min, max)                                                   | 171 89.60 (51.0, 118.4)          | 87 89.20 (51.2, 109.1)          | 258 89.35 (51.0, 118.4)           |
-| Thalassaemia genotype , n (%) beta 0 / beta 0 non-beta 0 / beta 0                           | 75 (43.9) 96 (56.1)              | 39 (44.8) 48 (55.2)             | 114 (44.2) 144 (55.8)             |
-| Transfusion burden (RBC units) , n (%) 2 ≤ 12 >12                                           | 54 (31.6) 117 (68.4)             | 21 (24.1) 66 (75.9)             | 75 (29.1) 183 (70.9)              |
-| Hepatic iron concentration (mg/g) , n Median (min, max) Prior history of splenectomy, n (%) | 133 4.58 (0.37, 28.21) 92 (53.8) | 74 4.43 (0.37, 20.47) 49 (56.3) | 207 4.55 (0.37, 28.21) 141 (54.7) |
-| Prior history of cholecystectomy, n (%)                                                     | 42 (24.6)                        |                                 | 66                                |
-| Prior history of iron chelation, n (%)                                                      |                                  | 24 (27.6)                       | (25.6)                            |
-|                                                                                             | 165 (96.5)                       | 87 (100)                        | 252 (97.7)                        |
+| Baseline disease characteristics 1                                                                                | Pyrukynd N=171                         | Placebo N=87                          | Total N=258                               |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------|---------------------------------------|-------------------------------------------|
+| Haemoglobin (g/L), n 1 Median (min, max)                                                                          | 171 89.60 (51.0, 118.4)                | 87 89.20 (51.2, 109.1)                | 258 89.35 (51.0, 118.4)                   |
+| Thalassaemia genotype, n (%) beta 0 / beta 0 non-beta 0 / beta 0 alpha-thalassaemia/HbH disease beta-thalassaemia | 75 (43.9) 96 (56.1) 9 (5.3) 162 (94.7) | 39 (44.8) 48 (55.2) 3 (3.4) 84 (96.6) | 114 (44.2) 144 (55.8) 12 (4.7) 246 (95.3) |
+| Transfusion burden (RBC units), n (%) 2 ≤12 >12                                                                   | 54 (31.6) 117 (68.4)                   | 21 (24.1) 66 (75.9)                   | 75 (29.1) 183 (70.9)                      |
+| Hepatic iron concentration (mg/g), n Median (min, max)                                                            | 133 4.58 (0.37, 28.21)                 | 74 4.43 (0.37, 20.47)                 | 207 4.55 (0.37, 28.21)                    |
+| Prior history of splenectomy, n (%) Prior history of cholecystectomy, n (%)                                       | 92 (53.8)                              | 49 (56.3)                             | 141 (54.7)                                |
+| Prior history of iron chelation, n (%)                                                                            | 42 (24.6)                              | 24 (27.6)                             | 66 (25.6)                                 |
+|                                                                                                                   | 165 (96.5)                             | 87 (100)                              | 252 (97.7)                                |
 
 Hb: haemoglobin, RBC: red blood cells
 
 1 n is the number of patients with non-missing data.
 
-2 Pretransfusion Hb threshold is the mean of all pretransfusion Hb concentrations for the RBC transfusions administered during the 24-week period before randomization. Pretransfusion Hb threshold in g/dL: median 8.94 (range: 5.1 to 11.8). Pretransfusion Hb threshold in mmol/L: median 5.54 (range: 3.2 to 7.3).
+2 Pretransfusion Hb threshold is the mean of all pretransfusion Hb concentrations for the RBC transfusions administered during the 24-week period before randomization. Pretransfusion Hb threshold in g/dL:
+
+median 8.94 (range: 5.1 to 11.8). Pretransfusion Hb threshold in mmol/L: median 5.54 (range: 3.2 to 7.3).
 
 3 Total number of RBC units transfused in the 24-week period before randomization.
 
@@ -1055,22 +1055,21 @@ Among the 12 randomized patients with transfusion dependent alpha-thalassaemia, 
 
 The efficacy results, including the primary and secondary endpoints that characterize the durability of the effect of Pyrukynd versus placebo on transfusion burden, are shown in Table 5.
 
-Table 5: Efficacy results in patients with transfusion-dependent thalassaemia ( ENERGIZE-T )
+Table 5: Efficacy results in patients with transfusion-dependent thalassaemia (ENERGIZE-T)
 
-|                                                                                                                                                               | Pyrukynd N= 171   | Placebo N=87   | Difference                         | Difference   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|------------------------------------|--------------|
-| Primary endpoint                                                                                                                                              | n (%)             | n (%)          | Adjusted difference 2 (%) (95% CI) | p-value 1    |
-| TRR: ≥ 50% reduction in RBC units transfused with a reduction of ≥ 2 RBC units transfused, in any consecutive 12 weeks through Week 48 compared with baseline | 52 (30.4)         | 11 (12.6)      | 17.6 (8.0, 27.2)                   | 0.0003       |
-| Secondary endpoints                                                                                                                                           | n (%)             | n (%)          | Adjusted difference 2 (%) (95% CI) | p-value 1    |
-| ≥ 50% reduction from baseline in RBC units transfused in any consecutive 24 weeks                                                                             | 23 (13.5)         | 2 (2.3)        | 11.1 (5.1, 17.0)                   | 0.0003       |
-| ≥ 33% reduction from baseline in RBC units from Week 13 through Week 48                                                                                       | 25 (14.6)         | 1 (1.1)        | 13.4 (7.7, 19.1)                   | <0.0001      |
-| ≥ 50% reduction from baseline in RBC units from Week 13 through Week 48                                                                                       | 13 (7.6)          | 1 (1.1)        | 6.4 (1.9, 10.9)                    | 0.0056       |
+| Primary endpoint                                                                                                                                             | Pyrukynd N= 171 - n (%)   | Placebo N=87 - n (%)   | Difference - Adjusted difference 2 (%) (95% CI)   | Difference - p-value 1   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------------------|---------------------------------------------------|--------------------------|
+| TRR: ≥ 50% reduction in RBC units transfused with a reduction of ≥2 RBC units transfused, in any consecutive 12 weeks through Week 48 compared with baseline | 52 (30.4)                 | 11 (12.6)              | 17.6 (8.0, 27.2)                                  | 0.0003                   |
+| Secondary endpoints                                                                                                                                          | n (%)                     | n (%)                  | Adjusted difference 2 (%) (95% CI)                | p-value 1                |
+| ≥ 50% reduction from baseline in RBC units transfused in any consecutive 24 weeks                                                                            | 23 (13.5)                 | 2 (2.3)                | 11.1 (5.1, 17.0)                                  | 0.0003                   |
+| ≥ 33% reduction from baseline in RBC units from Week 13 through Week 48                                                                                      | 25 (14.6)                 | 1 (1.1)                | 13.4 (7.7, 19.1)                                  | <0.0001                  |
+| ≥ 50% reduction from baseline in RBC units from Week 13 through Week 48                                                                                      | 13 (7.6)                  | 1 (1.1)                | 6.4 (1.9, 10.9)                                   | 0.0056                   |
 
 CI: confidence interval, RBC: red blood cell, TRR: transfusion reduction response
 
 1 All p-values are 2-sided and all results are statistically significant.
 
-2   The difference is adjusted for randomization stratification factors, which included geographical region (North America and Europe vs Asia-Pacific vs Rest of World) and thalassa emia genotype (β 0 /β 0 vs nonβ 0 /β 0 ). The two-sided p-value is based on the Mantel-Haenszel stratum weighted method adjusting for the randomization stratification factors.
+2 The difference is adjusted for randomization stratification factors, which included geographical region (North America and Europe vs Asia-Pacific vs Rest of World) and thalassaemia genotype (β 0 /β 0 vs non-β 0 /β 0 ). The two-sided p-value is based on the Mantel-Haenszel stratum weighted method adjusting for the randomization stratification factors.
 
 During the double-blind period, 17 (9.9%) patients in the Pyrukynd arm and 1 (1.1%) patient in the placebo arm achieved transfusion independence, defined as transfusion-free for at least 8 consecutive weeks through Week 48. Three patients in the Pyrukynd arm did not receive any transfusions during the 48-week double-blind period. At the end of the double-blind period, 4 patients in the Pyrukynd arm had remained transfusion free for &gt; 40 weeks, including 1 patient for 59.9 weeks. With continued exposure to Pyrukynd in the open-label extension period up to a total of 99.3 weeks, 3 patients in the Pyrukynd arm had remained transfusion free for 64.3, 75.0, and 77.1 weeks.
 
@@ -1110,7 +1109,7 @@ Mitapivat is highly protein bound (97.7%) in plasma with low RBC distribution. T
 
 In vitro studies showed that mitapivat is primarily metabolised by CYP3A4. Following a single oral dose of 120 mg of radiolabelled mitapivat to healthy subjects, unchanged mitapivat was the major circulating component.
 
-In vitro drug interaction studies
+## In vitro drug interaction studies
 
 ## Metabolic pathways
 
@@ -1134,11 +1133,11 @@ No clinically meaningful effects on the pharmacokinetics of mitapivat were obser
 
 ## Elderly
 
-There were 7 patients 65 years of age or older who received mitapivat in the clinical studies ENERGIZE and ENERGIZE-T . No differences in the pharmacokinetics were observed in these patients compared to younger patients.
+There were 7 patients 65 years of age or older who received mitapivat in the clinical studies ENERGIZE and ENERGIZE-T. No differences in the pharmacokinetics were observed in these patients compared to younger patients.
 
 ## Hepatic impairment
 
-The pharmacokinetics of mitapivat were studied in adult subjects with moderate hepatic impairment (Child-Pugh Class B). After a single oral administration of 50 mg mitapivat, subjects with moderate hepatic impairment demonstrated 36% greater exposure (AUC ∞ ) to mitapivat, compared to subjects with normal hepatic function. This difference in exposure is not considered to be clinically meaningful. Geometric mean Cmax values were similar between the groups. There were no major changes to plasma protein binding or elimination half-life in subjects with moderate hepatic impairment relative to healthy controls. Mitapivat has not been studied in subjects with severe hepatic impairment (Child-Pugh Class C).
+The pharmacokinetics of mitapivat were studied in adult subjects with moderate hepatic impairment (Child-Pugh Class B). After a single oral administration of 50 mg mitapivat, subjects with moderate hepatic impairment demonstrated 36% greater exposure (AUC∞) to mitapivat, compared to subjects with normal hepatic function. This difference in exposure is not considered to be clinically meaningful. Geometric mean Cmax values were similar between the groups. There were no major changes to plasma protein binding or elimination half-life in subjects with moderate hepatic impairment relative to healthy controls. Mitapivat has not been studied in subjects with severe hepatic impairment (Child-Pugh Class C).
 
 ## Renal impairment
 
@@ -1170,7 +1169,7 @@ In a fertility and early embryonic development study, oral administration of mit
 
 In repeat dose toxicity studies in male and female rats, reproductive organ changes were observed and were attributable to aromatase inhibition. In males, lower accessory sex gland weights and higher testis weights, as well as microscopic findings in the testis and accessory sex glands were seen at AUC0-12hr values ≥ 3.5 fold the human exposure at the MRHD. In females, higher ovarian weights and lower uterus weights, and microscopic findings in the ovary and vagina occurred at AUC0-12hr values 2.3-fold the human exposure. All findings were reversible.
 
-In a juvenile toxicology study initiated in rats aged 7 days and treated up to sexual maturity, most treatment-related findings were considered related to aromatase inhibition. In males, microscopic findings in the testis were observed from the low-dose level of 30 mg/kg/day (1.1-fold the human AUC0-12hr at the MRHD) and delayed sexual maturity, abnormal sperm evaluation findings, and mating and fertility changes were observed at ≥ 150 mg/kg/day (≥ 17-fold the human AUC0-12hr at the MRHD). In females, oestrous cycle changes were observed at the high-dose level of 200 mg/kg/day (45-fold the human AUC0-12hr at the MRHD). All evaluable reproductive changes were reversible or partially reversible. Treatment-related decrease and increase in body weights were observed in males and females, respectively, at ≥ 15-fold the human AUC0-12hr at the MRHD and were not reversed in females. Bone changes, including lower bone density and mass, were observed at ≥ 1.1and ≥ 15-fold the human exposure in males and females, respectively. These changes were fully reversible in females; in males, they were fully reversible at 1.1-fold the human exposure and partially reversible at higher exposure levels.
+In a juvenile toxicology study initiated in rats aged 7 days and treated up to sexual maturity, most treatment-related findings were considered related to aromatase inhibition. In males, microscopic findings in the testis were observed from the low-dose level of 30 mg/kg/day (1.1-fold the human AUC0-12hr at the MRHD) and delayed sexual maturity, abnormal sperm evaluation findings, and mating and fertility changes were observed at ≥ 150 mg/kg/day (≥ 17-fold the human AUC0-12hr at the MRHD). In females, oestrous cycle changes were observed at the high-dose level of 200 mg/kg/day (45-fold the human AUC0-12hr at the MRHD). All evaluable reproductive changes were reversible or partially reversible. Treatment-related decrease and increase in body weights were observed in males and females, respectively, at ≥ 15-fold the human AUC0-12hr at the MRHD and were not reversed in females. Bone changes, including lower bone density and mass, were observed at ≥ 1.1- and ≥ 15-fold the human exposure in males and females, respectively. These changes were fully reversible in females; in males, they were fully reversible at 1.1-fold the human exposure and partially reversible at higher exposure levels.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1188,7 +1187,7 @@ Sodium stearyl fumarate
 
 Hypromellose (E464) Titanium dioxide (E171) Lactose monohydrate Triacetin Indigo carmine aluminium lake (E132) Macrogol (polyethylene glycol) (E1521)
 
-## Printing ink
+Printing ink
 
 Shellac (E904) FD&amp;C Blue #1/Brilliant Blue FCF Aluminium Lake (E133) Titanium dioxide (E171) Ammonium hydroxide (E527)
 
@@ -1198,7 +1197,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -1218,7 +1217,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
+Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
+
+The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1290,9 +1291,7 @@ OUTER CARTON (pack of 56 × 5 mg film-coated tablets)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pyrukynd 5 mg film-coated tablets
-
-mitapivat
+Pyrukynd 5 mg film-coated tablets mitapivat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1334,35 +1333,37 @@ Store below 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
 
 The Netherlands
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1662/002
 
-## 13.  BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14.  GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15.  INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16.  INFORMATION IN BRAILLE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Pyrukynd 5 mg
 
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN
 
@@ -1408,6 +1409,8 @@ Do not split, crush, chew, or dissolve the tablets. Read the package leaflet bef
 
 <!-- image -->
 
+(月)
+
 ## 3. Push tablet through the foil
 
 <div style=\"page-break-after: always\"></div>
@@ -1416,43 +1419,39 @@ PUSH PEEL
 
 <!-- image -->
 
-SUN
-
-MON
-
-TUE
-
-WED
-
-THU
-
-FRI
+SUN MON TUE WED THU FRI
 
 SAT
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7. OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|---------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 25 °C.
 
-## 10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Agios Netherlands B.V. Zuidplein 36, Regus Amsterdam WTC
 
 1077XV Amsterdam, The Netherlands
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/22/1662/002
 
@@ -1479,6 +1478,8 @@ Pyrukynd 5 mg
 
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
+
+45
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1532,33 +1533,43 @@ Store below 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
+Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+The Netherlands
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/22/1662/001
 
-## 13.  BATCH NUMBER
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-15.  INSTRUCTIONS ON USE
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
-## 16.  INFORMATION IN BRAILLE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Pyrukynd 5 mg
 
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN
 
@@ -1586,35 +1597,36 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 7 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Do not split, crush, chew or dissolve the tablets. Read the package leaflet before use.
+Do not split, crush, chew or dissolve the tablets.
+
+Read the package leaflet before use.
 
 For oral use.
 
 ## OPENING INSTRUCTIONS
 
-1. Use thumb to PUSH
+## 1. Use thumb to PUSH
 
 <!-- image -->
 
-## 2. Turn package over, PEEL the raised tab on the back
+A
 
-<!-- image -->
-
+2. Turn package over, PEEL the raised tab on the back
 3. Push tablet through the foil
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
 One tablet per day
 
-PUSH
-
-PEEL
+PUSH PEEL
 
 ## Week 1/Week 2
 
@@ -1660,35 +1672,39 @@ EXP
 
 Store below 25 °C.
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Agios Netherlands B.V. Zuidplein 36, Regus Amsterdam WTC 1077XV Amsterdam, The Netherlands
+Agios Netherlands B.V.
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+Zuidplein 36, Regus Amsterdam WTC
 
-EU/1/22/1662/001 7 film-coated tablets (7
+1077XV Amsterdam, The Netherlands
 
-× 5 mg film-coated tablets)
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/22/1662/001 7 film-coated tablets (7 × 5 mg film-coated tablets)
 
 EU/1/22/1662/003 14 film-coated tablets (7 × 5 mg + 7 × 20 mg film-coated tablets)
 
-## 13.  BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-15.  INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16.  INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Pyrukynd 5 mg
 
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1741,7 +1757,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 56 film-coated tablets
 
@@ -1769,33 +1785,39 @@ Store below 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
+Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+The Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1662/004
 
-## 13.  BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-15.  INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16.  INFORMATION IN BRAILLE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Pyrukynd 20 mg
 
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN
 
@@ -1823,7 +1845,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 14 film-coated tablets
 
@@ -1831,9 +1853,7 @@ See leaflet for further information.
 
 Do not split, crush, chew, or dissolve the tablets.
 
-Read the package leaflet before use.
-
-For oral use.
+Read the package leaflet before use. For oral use.
 
 ## OPENING INSTRUCTIONS
 
@@ -1852,6 +1872,8 @@ For oral use.
 PUSH PEEL
 
 <!-- image -->
+
+总
 
 SUN
 
@@ -1881,39 +1903,32 @@ EXP
 
 Store below 25 °C.
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Agios Netherlands B.V.
+Agios Netherlands B.V. Zuidplein 36, Regus Amsterdam WTC 1077XV Amsterdam, The Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
-
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
-
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1662/004
 
-13.  BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14.  GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
-15.  INSTRUCTIONS ON USE
-
-## 16.  INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Pyrukynd 20 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1973,18 +1988,18 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 25 °C.
 
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
-
-The Netherlands
+Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -2005,20 +2020,19 @@ Lot
 | 16. INFORMATION IN BRAILLE   |
 |------------------------------|
 
-Pyrukynd 20 mg
+Pyrukynd 20 mg Pyrukynd 5 mg
 
-Pyrukynd 5 mg
-
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+<div style=\"page-break-after: always\"></div>
 
-PC SN
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2048,11 +2062,7 @@ See leaflet for further information.
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Do not split, crush, chew, or dissolve the tablets.
-
-Read the package leaflet before use.
-
-For oral use.
+Do not split, crush, chew, or dissolve the tablets. Read the package leaflet before use. For oral use.
 
 ## OPENING INSTRUCTIONS
 
@@ -2060,7 +2070,9 @@ For oral use.
 
 <!-- image -->
 
-## 2. Turn package over, PEEL the raised tab on the back
+A
+
+2. Turn package over, PEEL the raised tab on the back
 
 <!-- image -->
 
@@ -2070,9 +2082,7 @@ For oral use.
 
 One tablet per day
 
-PUSH
-
-PEEL
+PUSH PEEL
 
 ## Week 1/Week 2
 
@@ -2118,38 +2128,44 @@ EXP
 
 Store below 25 °C.
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Agios Netherlands B.V. Zuidplein 36, Regus Amsterdam WTC
 
 1077XV Amsterdam, The Netherlands
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/22/1662/003 14 film-coated tablets (7 × 5 mg + 7 × 20 mg film-coated tablets) EU/1/22/1662/005 14 film-coated tablets (7 × 20 mg + 7 × 50 mg film-coated tablets)
+EU/1/22/1662/003 14 film-coated tablets (7 × 5 mg + 7 × 20 mg film-coated tablets)
 
-## 13.  BATCH NUMBER
+EU/1/22/1662/005 14 film-coated tablets (7 × 20 mg + 7 × 50 mg film-coated tablets)
+
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-14.  GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-15.  INSTRUCTIONS ON USE
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
-## 16.  INFORMATION IN BRAILLE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Pyrukynd 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2200,7 +2216,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 56 film-coated tablets
 
@@ -2228,33 +2244,34 @@ Store below 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1662/006
 
-## 13.  BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15.  INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16.  INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Pyrukynd 50 mg
 
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN
 
@@ -2282,17 +2299,13 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 14 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Do not split, crush, chew, or dissolve the tablets.
-
-Read the package leaflet before use.
-
-For oral use.
+Do not split, crush, chew, or dissolve the tablets. Read the package leaflet before use. For oral use.
 
 ## OPENING INSTRUCTIONS
 
@@ -2308,6 +2321,8 @@ For oral use.
 <div style=\"page-break-after: always\"></div>
 
 PUSH PEEL
+
+<!-- image -->
 
 SUN
 
@@ -2337,26 +2352,26 @@ EXP
 
 Store below 25 °C.
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Agios Netherlands B.V. Zuidplein 36, Regus Amsterdam WTC
 
 1077XV Amsterdam, The Netherlands
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1662/006
 
-## 13.  BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot Pyrukynd 50 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 | 15. INSTRUCTIONS ON USE   |
 |---------------------------|
@@ -2428,45 +2443,51 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 25 °C.
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
+Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
 
-The Netherlands
-
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/22/1662/005
 
-## 13.  BATCH NUMBER
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-## 15.  INSTRUCTIONS ON USE
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
-## 16.  INFORMATION IN BRAILLE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
-Pyrukynd 50 mg
+Pyrukynd 50 mg Pyrukynd 20 mg
 
-Pyrukynd 20 mg
-
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC SN
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2490,13 +2511,17 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablet
+Film-coated tablet
 
 7 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Do not split, crush, chew or dissolve the tablets. Read the package leaflet before use. For oral use.
+Do not split, crush, chew or dissolve the tablets.
+
+Read the package leaflet before use.
+
+For oral use.
 
 ## OPENING INSTRUCTIONS
 
@@ -2504,7 +2529,7 @@ Do not split, crush, chew or dissolve the tablets. Read the package leaflet befo
 
 <!-- image -->
 
-## 2. Turn package over, PEEL the raised tab on the back
+2. Turn package over, PEEL the raised tab on the back
 
 <!-- image -->
 
@@ -2534,35 +2559,42 @@ Day 6
 
 Day 7
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7. OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|---------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 25 °C.
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Agios Netherlands B.V. Zuidplein 36, Regus Amsterdam WTC
 
 1077XV Amsterdam, The Netherlands
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/22/1662/005
 
-## 13.  BATCH NUMBER
-
 <div style=\"page-break-after: always\"></div>
+
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
@@ -2583,6 +2615,8 @@ Pyrukynd 50 mg
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
+74
+
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
@@ -2592,41 +2626,23 @@ Pyrukynd 50 mg
 | 1. NAME OF THE MEDICINAL PRODUCT   |
 |------------------------------------|
 
+Pyrukynd 50 mg mitapivat
+
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
+EXP
+
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTERS (50 mg film-coated tablets)
-
-1. NAME OF THE MEDICINAL PRODUCT
-
-Pyrukynd 50 mg mitapivat
-
-2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-3.
-
-EXPIRY DATE
-
-EXP
-
-4. BATCH NUMBER
-
 Lot
 
-5.
-
-OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2678,43 +2694,44 @@ Store in a refrigerator.
 
 Can be stored at room temperature (below 25 °C) for a single period of up to 3 months, after which it should be discarded.
 
-Date removed from refrigerator:
+Date removed from refrigerator: \\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_.
 
-\\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_.
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam
 
-Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands
+The Netherlands
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1662/007
 
-## 13.  BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14.  GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15.  INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-16.  INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Pyrukynd 100 mg
 
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2756,7 +2773,13 @@ Do not split, crush, chew, or dissolve the tablets. Read the package leaflet bef
 
 <!-- image -->
 
-3. Push tablet through the foil PUSH PEEL
+<div style=\"page-break-after: always\"></div>
+
+3. Push tablet through the foil PUSH
+
+PEEL
+
+<!-- image -->
 
 SUN
 
@@ -2777,7 +2800,6 @@ SAT
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
@@ -2788,15 +2810,11 @@ Store in a refrigerator.
 
 Can be stored at room temperature (below 25 °C) for a single period of up to 3 months, after which it should be discarded.
 
-Date removed from refrigerator:
+Date removed from refrigerator: \\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_.
 
-\\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_/\\_\\_\\_\\_\\_.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-10.   SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Netherlands EU/1/22/1662/007
 
@@ -2816,10 +2834,10 @@ Lot
 | 15. INSTRUCTIONS ON USE   |
 |---------------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
-Pyrukynd 100 mg
+Pyrukynd 100 mg Pyrukynd 100 mg mitapivat EXP
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -2845,28 +2863,10 @@ Pyrukynd 100 mg
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTERS (100 mg film-coated tablets)
-
-1. NAME OF THE MEDICINAL PRODUCT
-
-Pyrukynd 100 mg mitapivat
-
-2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2886,10 +2886,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3041,7 +3041,7 @@ The image above shows the inside of the blister wallet.
 
 The image above shows the back of the blister wallet.
 
-## 3. Push tablet through the foil.
+3. Push tablet through the foil.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3082,8 +3082,8 @@ Very common (may affect more than 1 in 10 people):
 Common (may affect up to 1 in 10 people):
 
 - Hot flush
-- Increased levels of the hormone testosterone -seen in blood tests in men
-- Decreased levels of the hormone oestradiol -seen in blood tests in men
+- Increased levels of the hormone testosterone - seen in blood tests in men
+- Decreased levels of the hormone oestradiol - seen in blood tests in men
 
 ## Side effects that may occur if you suddenly stop taking Pyrukynd
 
@@ -3130,25 +3130,25 @@ Pyrukynd 50 mg film-coated tablets
 
 Each film-coated tablet contains 50 mg of mitapivat (as sulfate).
 
-## Pyrukynd 5 mg, 20 mg and 50 mg film-coated tablets
+Pyrukynd 5 mg, 20 mg and 50 mg film-coated tablets
 
 The other ingredients are:
 
-- Tablet core : microcrystalline cellulose, croscarmellose sodium, mannitol (E421) and sodium stearyl fumarate.
+- Tablet core: microcrystalline cellulose, croscarmellose sodium, mannitol (E421) and sodium stearyl fumarate.
 
-- Film-coating : hypromellose (E464), titanium dioxide (E171), lactose monohydrate, triacetin, indigo carmine aluminium lake (E132).
+- Film-coating: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, triacetin, indigo carmine aluminium lake (E132).
 
-- Printing ink : shellac (E904), black iron oxide (E172) and ammonium hydroxide (E527).
+- Printing ink: shellac (E904), black iron oxide (E172) and ammonium hydroxide (E527).
 
-See section 2 'Pyrukynd contains lactose and sodium'.
+See section 2 \"Pyrukynd contains lactose and sodium\".
 
 ## What Pyrukynd looks like and contents of the pack
 
-Pyrukynd 5 mg film-coated tablets are round, blue, film-coated tablets of approximately 5 mm in diameter with 'M5' printed in black ink on one side and plain on the reverse.
+Pyrukynd 5 mg film-coated tablets are round, blue, film-coated tablets of approximately 5 mm in diameter with \"M5\" printed in black ink on one side and plain on the reverse.
 
-Pyrukynd 20 mg film-coated tablets are round, blue, film-coated tablets of approximately 8 mm in diameter with 'M20' printed in black ink on one side and plain on the reverse.
+Pyrukynd 20 mg film-coated tablets are round, blue, film-coated tablets of approximately 8 mm in diameter with \"M20\" printed in black ink on one side and plain on the reverse.
 
-Pyrukynd 50 mg film-coated tablets are oblong shaped, blue, film-coated tablets of approximately 16 mm x 6.8 mm size with 'M50' printed in black ink on one side and plain on the reverse.
+Pyrukynd 50 mg film-coated tablets are oblong shaped, blue, film-coated tablets of approximately 16 mm x 6.8 mm size with \"M50\" printed in black ink on one side and plain on the reverse.
 
 ## Packs for starting and continuing treatment
 
@@ -3174,6 +3174,20 @@ Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Net
 
 Almac Pharma Services Limited Seagoe Industrial Estate Portadown Craigavon, County Armagh BT63 5UA United Kingdom (Northern Ireland)
 
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / LT / LU / LV / MT / NL / NO / PL / PT / RO / SE / SI / SK
+
+[Avanzanite Bioscience B.V. medinfo@avanzanite.com](mailto:medinfo@avanzanite.com)
+
+## Ελλάδα
+
+Avanzanite Bioscience Hellas SA Τηλ: + 30 211 19 87 576
+
+## Italia
+
+Avanzanite Bioscience Italia S.r.l. medinfo@avanzanite.com
+
 ## This leaflet was last revised in
 
 ## Other sources of information
@@ -3182,18 +3196,22 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-## Pyrukynd 100 mg film-coated tablets mitapivat
+## Pyrukynd 100 mg film-coated tablets
+
+## mitapivat
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3331,7 +3349,7 @@ The following pictures show how to take the tablet out of the blister.
 
 Find the correct blister pocket indicated by the day of the week and, if applicable, time of the day (morning or evening dose, as shown on the blister by sun and moon symbols). At the corresponding tab:
 
-## 1. Use thumb to PUSH.
+1. Use thumb to PUSH.
 
 <!-- image -->
 
@@ -3373,7 +3391,7 @@ Very common (may affect more than 1 in 10 people):
 - Difficulty sleeping (insomnia)
 - Headache
 - Decreased levels of the hormones oestrone and oestradiol - seen in blood tests in men
-- Increased levels of the hormone testosterone -seen in blood tests in men
+- Increased levels of the hormone testosterone - seen in blood tests in men
 
 Common (may affect up to 1 in 10 people):
 
@@ -3420,18 +3438,16 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Pyrukynd contains
 
-- -The active substance is mitapivat. Each film-coated tablet contains 100 mg of mitapivat (as sulfate).
-- -
+- The active substance is mitapivat. Each film-coated tablet contains 100 mg of mitapivat (as sulfate).
+- The other ingredients are: Tablet core: microcrystalline cellulose, croscarmellose sodium, mannitol (E421) and sodium stearyl fumarate.
 
-Film-coating indigo carmine aluminium lake (E132), and macrogol (polyethylene glycol) (E1521). Printing ink : shellac (E904), FD&amp;C Blue #1/Brilliant Blue FCF Aluminium Lake (E133), titanium dioxide (E171), and ammonium hydroxide (E527).
+Film-coating: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, triacetin, indigo carmine aluminium lake (E132), and macrogol (polyethylene glycol) (E1521). Printing ink: shellac (E904), FD&amp;C Blue #1/Brilliant Blue FCF Aluminium Lake (E133), titanium dioxide (E171), and ammonium hydroxide (E527).
 
-The other ingredients are: Tablet core : microcrystalline cellulose, croscarmellose sodium, mannitol (E421) and sodium stearyl fumarate. : hypromellose (E464), titanium dioxide (E171), lactose monohydrate, triacetin,
-
-See section 2 'Pyrukynd contains lactose and sodium'.
+See section 2 \"Pyrukynd contains lactose and sodium\".
 
 ## What Pyrukynd looks like and contents of the pack
 
-Pyrukynd 100 mg film-coated tablets are oblong shaped, blue, film-coated tablets of approximately 16 mm x 6.8 mm size with 'M100' printed in blue ink on both sides.
+Pyrukynd 100 mg film-coated tablets are oblong shaped, blue, film-coated tablets of approximately 16 mm x 6.8 mm size with \"M100\" printed in blue ink on both sides.
 
 Pyrukynd 100 mg film-coated tablets are available in 4 blister wallets, each containing 14 film-coated tablets. Each carton contains 56 film-coated tablets.
 
@@ -3443,24 +3459,24 @@ Agios Netherlands B.V. Zuidplein 36 Regus Amsterdam WTC 1077XV Amsterdam The Net
 
 Almac Pharma Services Limited Seagoe Industrial Estate Portadown Craigavon, County Armagh BT63 5UA United Kingdom (Northern Ireland)
 
-## This leaflet was last revised in
-
 <div style=\"page-break-after: always\"></div>
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / LT / LU / LV / MT / NL / NO / PL / PT / RO / SE / SI / SK
+
+[Avanzanite Bioscience B.V. medinfo@avanzanite.com](mailto:medinfo@avanzanite.com)
+
+## Ελλάδα
+
+Avanzanite Bioscience Hellas SA Τηλ: + 30 211 19 87 576
+
+## Italia
+
+Avanzanite Bioscience Italia S.r.l. medinfo@avanzanite.com
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-Conclusions on the request for one-year presented by the European Medicines Agency
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · one-year data exclusivity
-
-The CHMP reviewed the data submitted by the marketing authorisation holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.

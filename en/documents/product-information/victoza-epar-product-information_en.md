@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-20 16:01:06
-document_pages: 39
+document_datetime: 2026-10-20 12:12:22
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/victoza-epar-product-information_en.pdf
 document_name: victoza-epar-product-information_en.pdf
 version: success
-processing_time: 10.658261
-conversion_datetime: 2025-12-22 11:10:27.202685
+processing_time: 21.8239107
+conversion_datetime: 2026-10-22 23:05:45.609478
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -147,11 +147,9 @@ Liraglutide did not change the overall exposure of paracetamol following a singl
 
 ## Atorvastatin
 
-Liraglutide did not change the overall exposure of atorvastatin to a clinically relevant degree following single dose administration of atorvastatin 40 mg. Therefore, no dose adjustment of atorvastatin is required when given with liraglutide. Atorvastatin Cmax was decreased by 38% and median tmax was
+Liraglutide did not change the overall exposure of atorvastatin to a clinically relevant degree following single dose administration of atorvastatin 40 mg. Therefore, no dose adjustment of atorvastatin is required when given with liraglutide. Atorvastatin Cmax was decreased by 38% and median tmax was delayed from 1 h to 3 h with liraglutide.
 
 <div style=\"page-break-after: always\"></div>
-
-delayed from 1 h to 3 h with liraglutide.
 
 ## Griseofulvin
 
@@ -209,9 +207,9 @@ The most frequently reported adverse reactions during clinical trials were gastr
 
 ## Tabulated list of adverse reactions
 
-Table 1 lists adverse reactions reported in long-term phase 3a controlled trials, the LEADER trial (a events have been calculated based on their incidence in phase 3a clinical trials.
+Table 1 lists adverse reactions reported in long-term phase 3a controlled trials, the LEADER trial (a long-term cardiovascular outcome trial) and spontaneous (post-marketing) reports. Frequencies for all events have been calculated based on their incidence in phase 3a clinical trials.
 
-long-term cardiovascular outcome trial) and spontaneous (post-marketing) reports. Frequencies for all Frequencies are defined as: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Frequencies are defined as: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Adverse reactions from long-term controlled phase 3a trials, the long-term cardiovascular outcome trial (LEADER) and spontaneous (post-marketing) reports
 
@@ -242,11 +240,9 @@ In a clinical trial with liraglutide as monotherapy, rates of hypoglycaemia repo
 
 ## Hypoglycaemia
 
-Most episodes of confirmed hypoglycaemia in clinical trials were minor. No episodes of severe hypoglycaemia were observed in the trial with liraglutide used as monotherapy. Severe hypoglycaemia may occur uncommonly and has primarily been observed when liraglutide is combined with a sulfonylurea (0.02 events/patient year). Very few episodes (0.001 events/patient year) were observed with administration of liraglutide in combination with oral antidiabetics other than sulfonylureas. The risk of hypoglycaemia is low with combined use of basal insulin and liraglutide (1.0 events per patient year, see section 5.1). In the LEADER trial, severe hypoglycaemic episodes were reported at a lower rate with liraglutide vs placebo (1.0 vs 1.5 events per 100 patient years; estimated rate ratio 0.69 [0.51 to 0.93]) (see section 5.1). For patients treated with premix insulin at baseline and at least for the following 26 weeks, the rate of severe hypoglycaemia for both liraglutide and placebo was 2.2 events
+Most episodes of confirmed hypoglycaemia in clinical trials were minor. No episodes of severe hypoglycaemia were observed in the trial with liraglutide used as monotherapy. Severe hypoglycaemia may occur uncommonly and has primarily been observed when liraglutide is combined with a sulfonylurea (0.02 events/patient year). Very few episodes (0.001 events/patient year) were observed with administration of liraglutide in combination with oral antidiabetics other than sulfonylureas. The risk of hypoglycaemia is low with combined use of basal insulin and liraglutide (1.0 events per patient year, see section 5.1). In the LEADER trial, severe hypoglycaemic episodes were reported at a lower rate with liraglutide vs placebo (1.0 vs 1.5 events per 100 patient years; estimated rate ratio 0.69 [0.51 to 0.93]) (see section 5.1). For patients treated with premix insulin at baseline and at least for the following 26 weeks, the rate of severe hypoglycaemia for both liraglutide and placebo was 2.2 events per 100 patient years.
 
 <div style=\"page-break-after: always\"></div>
-
-per 100 patient years.
 
 ## Gastrointestinal adverse reactions
 
@@ -260,7 +256,7 @@ Few cases of cholelithiasis (0.4%) and cholecystitis (0.1%) have been reported d
 
 ## Cutaneous amyloidosis
 
-Cutaneous amyloidosis may occur at the injection site (See section 4.2)'
+Cutaneous amyloidosis may occur at the injection site (See section 4.2)\"
 
 ## Withdrawal
 
@@ -272,7 +268,7 @@ Injection site reactions have been reported in approximately 2% of patients rece
 
 ## Pancreatitis
 
-Few cases of acute pancreatitis (&lt; 0.2%) have been reported during long-term, controlled phase 3 clinical trials with Victoza. Pancreatitis was also reported from marketed use. In the LEADER trial, the frequency of acute pancreatitis confirmed by adjudication was 0.4% for liraglutide and 0.5% for placebo, respectively (see sections 4.4 and 5.1).
+Few cases of acute pancreatitis (&lt;0.2%) have been reported during long-term, controlled phase 3 clinical trials with Victoza. Pancreatitis was also reported from marketed use. In the LEADER trial, the frequency of acute pancreatitis confirmed by adjudication was 0.4% for liraglutide and 0.5% for placebo, respectively (see sections 4.4 and 5.1).
 
 ## Allergic reactions
 
@@ -324,7 +320,7 @@ Both improvement of glycaemic control and reduction of cardiovascular morbidity 
 
 Five double-blind, randomised, controlled clinical phase 3a adult trials were conducted to evaluate the effects of liraglutide on glycaemic control (Table 2). Treatment with liraglutide produced clinically and statistically significant improvements in glycosylated haemoglobin A1c (HbA1c), fasting plasma glucose and postprandial glucose compared with placebo.
 
-These trials included 3,978 exposed patients with type 2 diabetes mellitus (2,501 patients treated with liraglutide), 53.7% men and 46.3% women, 797 patients (508 treated with liraglutide ) were ≥65 years of age and 113 patients (66 treated with liraglutide ) were ≥75 years of age.
+These trials included 3,978 exposed patients with type 2 diabetes mellitus (2,501 patients treated with liraglutide), 53.7% men and 46.3% women, 797 patients (508 treated with liraglutide) were ≥65 years of age and 113 patients (66 treated with liraglutide) were ≥75 years of age.
 
 Additional trials were conducted with liraglutide that included 1,901 patients in four unblinded, randomised, controlled clinical trials (including 464, 658, 323 and 177 patients per trial) and one double-blind, randomised, controlled clinical trial in patients with type 2 diabetes mellitus and moderate renal impairment (279 patients).
 
@@ -338,29 +334,28 @@ Liraglutide monotherapy for 52 weeks resulted in statistically significant and s
 
 ## Combination with oral antidiabetics
 
-Liraglutide in combination therapy, for 26 weeks, with metformin, glimepiride or metformin and rosiglitazone or SGLT2i ± metformin resulted in statistically significant  and sustained reductions in HbA1c compared with patients receiving placebo (Table 2).
+Liraglutide in combination therapy, for 26 weeks, with metformin, glimepiride or metformin and rosiglitazone or SGLT2i ± metformin resulted in statistically significant and sustained reductions in HbA1c compared with patients receiving placebo (Table 2).
 
 ## Table 2 Liraglutide clinical phase 3 trials in monotherapy (52 weeks) and in combination with oral antidiabetics (26 weeks)
 
-|                                    | N                                  | Mean baseline HbA 1c (%)           | Mean HbA 1c change from baseline (%)   | Patients (%) achieving HbA 1c <7%   | Mean baseline weight (kg)          | Mean weight change from baseline (kg)   |
-|------------------------------------|------------------------------------|------------------------------------|----------------------------------------|-------------------------------------|------------------------------------|-----------------------------------------|
-| Monotherapy                        |                                    |                                    |                                        |                                     |                                    |                                         |
-| Liraglutide 1.2 mg                 | 251                                | 8.18                               | -0.84 *                                | 42.8 1 , 58.3 3                     | 92.1                               | -2.05 **                                |
-| Liraglutide 1.8 mg                 | 246                                | 8.19                               | -1.14 **                               | 50.9 1 , 62.0 3 1 3                 | 92.6                               | -2.45 **                                |
-| Glimepiride 8 mg/day               | 248                                | 8.23                               | -0.51                                  | 27.8 , 30.8                         | 93.3                               | 1.12                                    |
-| Add-on to metformin (2,000 mg/day) | Add-on to metformin (2,000 mg/day) | Add-on to metformin (2,000 mg/day) | Add-on to metformin (2,000 mg/day)     | Add-on to metformin (2,000 mg/day)  | Add-on to metformin (2,000 mg/day) | Add-on to metformin (2,000 mg/day)      |
-| Liraglutide 1.2 mg                 | 240                                | 8.3                                | -0.97 †                                | 35.3 1 , 52.8 2                     | 88.5                               | -2.58 **                                |
-| Liraglutide 1.8 mg                 | 242                                | 8.4                                | -1.00 †                                | 42.4 1 , 66.3 2                     | 88.0                               | -2.79 **                                |
-| Placebo                            | 121                                | 8.4                                | 0.09                                   | 10.8 1 , 22.5 2                     | 91.0                               | -1.51                                   |
-| Glimepiride 4 mg/day               | 242                                | 8.4                                | -0.98                                  | 36.3 1 , 56.0 2                     | 89.0                               | 0.95                                    |
-| Add-on to glimepiride (4 mg/day)   | Add-on to glimepiride (4 mg/day)   | Add-on to glimepiride (4 mg/day)   | Add-on to glimepiride (4 mg/day)       | Add-on to glimepiride (4 mg/day)    | Add-on to glimepiride (4 mg/day)   | Add-on to glimepiride (4 mg/day)        |
-| Liraglutide 1.2 mg                 | 228                                | 8.5                                | -1.08 **                               | 34.5 1 , 57.4 2                     | 80.0                               | 0.32 **                                 |
+|                            |   N | Mean baseline HbA1c (%)   | Mean HbA1c change from baseline (%)   | Patients (%) achieving HbA1c<7%   |   Mean baseline weight (kg) | Mean weight change from baseline (kg)   |
+|----------------------------|-----|---------------------------|---------------------------------------|-----------------------------------|-----------------------------|-----------------------------------------|
+| Monotherapy                |     |                           |                                       |                                   |                             |                                         |
+| Liraglutide 1.2 mg         | 251 | 8.18                      | -0.84 *                               | 42.8 1 , 58.3 3                   |                        92.1 | -2.05 **                                |
+| Liraglutide 1.8 mg         | 246 | 8.19                      | -1.14 **                              | 50.9 1 , 62.0 3                   |                        92.6 | -2.45 **                                |
+| Glimepiride 8 mg/day       | 248 | 8.23                      | -0.51                                 | 27.8 1 , 30.8 3                   |                        93.3 | 1.12                                    |
+| Add-on to metformin (2,000 |     | mg/day)                   |                                       |                                   |                             |                                         |
+| Liraglutide 1.2 mg         | 240 | 8.3                       | -0.97 †                               | 35.3 1 , 52.8 2                   |                        88.5 | -2.58 **                                |
+| Liraglutide 1.8 mg         | 242 | 8.4                       | -1.00 †                               | 42.4 1 , 66.3 2                   |                        88.0 | -2.79 **                                |
+| Placebo                    | 121 | 8.4                       | 0.09                                  | 10.8 1 , 22.5 2                   |                        91.0 | -1.51                                   |
+| Glimepiride 4 mg/day       | 242 | 8.4                       | -0.98                                 | 36.3 1 , 56.0 2                   |                        89.0 | 0.95                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                       | N                                                                     | Mean baseline HbA 1c (%)                                              | Mean HbA 1c change from baseline (%)                                  | Patients (%) achieving HbA 1c <7%                                     | Mean baseline weight (kg)                                             | Mean weight change from baseline (kg)                                 |
+|                                                                       | N                                                                     | Mean baseline HbA1c (%)                                               | Mean HbA1c change from baseline (%)                                   | Patients (%) achieving HbA1c<7%                                       | Mean baseline weight (kg)                                             | Mean weight change from baseline (kg)                                 |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Liraglutide 1.8 mg Placebo Rosiglitazone 4 mg/day                     | 234 114 231                                                           | 8.5 8.4 8.4                                                           | -1.13 ** 0.23 -0.44                                                   | 41.6 1 , 55.9 2 7.5 1 , 11.8 2 21.9 1 , 36.1 2                        | 83.0 81.9 80.6                                                        | -0.23 ** -0.10 2.11                                                   |
+| Add-on to glimepiride (4 mg/day)                                      | Add-on to glimepiride (4 mg/day)                                      | Add-on to glimepiride (4 mg/day)                                      | Add-on to glimepiride (4 mg/day)                                      | Add-on to glimepiride (4 mg/day)                                      | Add-on to glimepiride (4 mg/day)                                      | Add-on to glimepiride (4 mg/day)                                      |
+| Liraglutide 1.2 mg Liraglutide 1.8 mg Placebo Rosiglitazone 4 mg/day  | 228 234 114 231                                                       | 8.5 8.5 8.4 8.4                                                       | -1.08 ** -1.13 ** 0.23 -0.44                                          | 34.5 1 , 57.4 2 41.6 1 , 55.9 2 7.5 1 , 11.8 2 21.9 1 , 36.1 2        | 80.0 83.0 81.9 80.6                                                   | 0.32 ** -0.23 ** -0.10 2.11                                           |
 | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) | Add-on to metformin (2,000 mg/day) + rosiglitazone (4 mg twice daily) |
 | Liraglutide 1.2 mg Liraglutide 1.8 mg Placebo                         | 177 178 175                                                           | 8.48 8.56 8.42                                                        | -1.48 -1.48 -0.54                                                     | 57.5 1 53.7 1 28.1 1                                                  | 95.3 94.9 98.5                                                        | -1.02 -2.02 0.60                                                      |
 | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day)           | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day)           | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day)           | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day)           | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day)           | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day)           | Add-on to metformin (2,000 mg/day) + glimepiride (4 mg/day)           |
@@ -369,9 +364,7 @@ Liraglutide in combination therapy, for 26 weeks, with metformin, glimepiride or
 | Liraglutide 1.8 mg                                                    | 203                                                                   | 8.00                                                                  | -1.02***                                                              | 54.8***                                                               | 91.0                                                                  | -2.92                                                                 |
 | Placebo                                                               | 100                                                                   | 7.96                                                                  | -0.28                                                                 | 13.9                                                                  | 91.4                                                                  | -2.06                                                                 |
 
-* Superiority (p&lt;0.01 ) vs active comparator; ** Superiority (p&lt;0. 0001) vs active comparator; ***Superiority (p&lt;0.001) vs active comparator, † Noninferiority (p&lt;0.0001) vs active comparator
-
-1 all patients; 2 previous OAD monotherapy;  3 previous diet treated patients
+* Superiority (p&lt;0.01) vs active comparator; **Superiority (p&lt;0.0001) vs active comparator; ***Superiority (p&lt;0.001) vs active comparator, † Non-inferiority (p&lt;0.0001) vs active comparator 1 all patients; 2 previous OAD monotherapy; 3 previous diet treated patients
 
 5 Victoza add-on to SGLT2i was investigated at all approved doses of SGLT2i
 
@@ -379,11 +372,11 @@ Liraglutide in combination therapy, for 26 weeks, with metformin, glimepiride or
 
 ## Guideline for titration of insulin glargine
 
-| Self-measured FPG                           | Increase in insulin glargine dose (IU)   |
-|---------------------------------------------|------------------------------------------|
-| ≤5.5 mmol/l (≤100 mg/dl) Target             | No adjustment                            |
-| >5.5 and < 6.7 mmol/l (>100 and <120 mg/dl) | 0-2 IU a                                 |
-| ≥6.7 mmol/l (≥120 mg/dl)                    | 2 IU                                     |
+| Self-measured FPG                          | Increase in insulin glargine dose (IU)   |
+|--------------------------------------------|------------------------------------------|
+| ≤5.5 mmol/l (≤100 mg/dl) Target            | No adjustment                            |
+| >5.5 and <6.7 mmol/l (>100 and <120 mg/dl) | 0-2 IU a                                 |
+| ≥6.7 mmol/l (≥120 mg/dl)                   | 2 IU                                     |
 
 a According to the individualised recommendation by the investigator at the previous visit, for example depending on whether the patient has experienced hypoglycaemia.
 
@@ -437,35 +430,38 @@ The primary endpoint was the time from randomisation to first occurrence of any 
 
 Liraglutide also significantly reduced the risk of expanded MACE (primary MACE, unstable angina pectoris leading to hospitalisation, coronary revascularisation, or hospitalisation due to heart failure) and other secondary endpoints (Figure 2).
 
+<!-- image -->
+
+FAS: full analysis set.
+
 Figure 1: Kaplan Meier plot of time to first MACE - FAS population
 
-<!-- image -->
+|                                                                                                                   | Hazard Ratio (95% CI)           | Victoza N (%)   | Placebo N (%)   |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----------------|-----------------|
+| FAS                                                                                                               |                                 | 4668 (100)      | 4672 (100)      |
+| Primary endpoint - MACE                                                                                           | 0.87 (0.78-0.97)                | 608 (13.0)      | 694 (14.9)      |
+| Components of MACE:                                                                                               |                                 |                 |                 |
+| Cardiovascular death                                                                                              | 0.78 (0.66-0.93)                | 219 (4.7)       | 278 (6.0)       |
+| Non-fatal stroke                                                                                                  | 0.89 (0.72-1.11)                | 159 (3.4)       | 177 (3.8)       |
+| Non-fatal myocardial infarction                                                                                   | 0.88 (0.75-1.03)                | 281 (6.0)       | 317 (6.8)       |
+| Expanded MACE                                                                                                     | 0.88 (0.81-0.96)                | 948 (20.3)      | 1062 (22.7)     |
+| Additional components in expanded MACE:                                                                           |                                 |                 |                 |
+| Unstable angina pectoris (hospitalisation)                                                                        | 0.98 (0.76-1.26)                | 122 (2.6)       | 124 (2.7)       |
+| Coronary revascularisation                                                                                        | 0.91 (0.80-1.04)                | 405 (8.7)       | 441 (9.4)       |
+| Heart failure (hospitalisation)                                                                                   | 0.87 (0.73-1.05)                | 218 (4.7)       | 248 (5.3)       |
+| Other secondary endpoints:                                                                                        |                                 |                 |                 |
+| All cause death                                                                                                   | 0.85 (0.74-0.97)                | 381 (8.2)       | 447 (9.6)       |
+| Non-cardiovascular death                                                                                          | 0.95 (0.77-1.18)                | 162 (3.5)       | 169 (3.6)       |
+| FAS: full analysis set CI: confidence interval                                                                    | 0.7 0.8 0.9 1.1 1.2 1           |                 |                 |
+| MACE: major adverse cardiovascular event %: proportion in percent of subjects with an event N: number of subjects | Favours Victoza Favours Placebo |                 |                 |
 
 Figure 2: Forest plot of analyses of individual cardiovascular event types - FAS population
 
-<!-- image -->
-
-|                                                                                                                                                                  |                                           | Hazard Ratio (95% CI) Victoza N (%)   |            | Placebo N (%)   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------|------------|-----------------|
-| FAS                                                                                                                                                              |                                           |                                       | 4668 (100) | 4672 (100)      |
-| Primary endpoint -MACE                                                                                                                                           |                                           | 0.87 (0.78-0.97)                      | 608 (13.0) | 694 (14.9)      |
-| Components of MACE:                                                                                                                                              |                                           |                                       |            |                 |
-| Cardiovascular death                                                                                                                                             |                                           | 0.78 (0.66-0.93)                      | 219 (4.7)  | 278 (6.0)       |
-| Non-fatal stroke                                                                                                                                                 |                                           | 0.89 (0.72-1.11)                      | 159 (3.4)  | 177 (3.8)       |
-| Non-fatal myocardial infarction                                                                                                                                  |                                           | 0.88 (0.75-1.03)                      | 281 (6.0)  | 317 (6.8)       |
-| Expanded MACE                                                                                                                                                    |                                           | 0.88 (0.81-0.96)                      | 948 (20.3) | 1062 (22.7)     |
-| Additional components in expanded MACE:                                                                                                                          |                                           |                                       |            |                 |
-| Unstable angina pectoris (hospitalisation)                                                                                                                       |                                           | 0.98 (0.76-1.26)                      | 122 (2.6)  | 124 (2.7)       |
-| Coronary revascularisation                                                                                                                                       |                                           | 0.91 (0.80-1.04)                      | 405 (8.7)  | 441 (9.4)       |
-| Heart failure (hospitalisation)                                                                                                                                  |                                           | 0.87 (0.73-1.05)                      | 218 (4.7)  | 248 (5.3)       |
-| Other secondary endpoints:                                                                                                                                       |                                           |                                       |            |                 |
-| All cause death                                                                                                                                                  |                                           | 0.85 (0.74-0.97)                      | 381 (8.2)  | 447 (9.6)       |
-| Non-cardiovascular death                                                                                                                                         |                                           | 0.95 (0.77-1.18)                      | 162 (3.5)  | 169 (3.6)       |
-| FAS: full analysis set CI: confidence interval MACE: major adverse cardiovascular event %: proportion in percent of subjects with an event N: number of subjects | Favours Victoza Favours 0.7 0.8 0.9 1.1 1 |                                       |            |                 |
-
-A significant and sustained reduction in HbA1c from baseline to month 36 was observed with liraglutide vs placebo, in addition to standard of care (-1.16% vs -0.77%; estimated treatment difference [ETD] -0.40% [-0.45; -0.34]). The need for treatment intensification with insulin was reduced by 48% with liraglutide vs placebo in insulin-naive patients at baseline (HR 0.52 [0.48; 0.57]).
+A significant and sustained reduction in HbA1c from baseline to month 36 was observed with liraglutide vs placebo, in addition to standard of care (-1.16% vs -0.77%; estimated treatment difference [ETD] -0.40% [-0.45; -0.34]). The need for treatment intensification with insulin was reduced by 48% with liraglutide vs placebo in insulin-naive patients at baseline (HR 0.52 [0.48;
 
 <div style=\"page-break-after: always\"></div>
+
+0.57]).
 
 ## · Blood pressure and heart rate
 
@@ -487,21 +483,19 @@ The efficacy and safety profile of Victoza was comparable to that observed in th
 
 ## Other clinical data
 
-In an open label trial comparing the efficacy and safety of liraglutide (1.2 mg and 1.8 mg) and sitagliptin (a DPP-4 inhibitor, 100 mg) in patients inadequately controlled on metformin therapy (mean HbA1c 8.5%), liraglutide at both doses was statistically superior to sitagliptin treatment in reducing HbA1c after 26 weeks (-1.24%, -1.50% vs 0.90%, p&lt;0.0001). Patients treated with liraglutide had a significant decrease in body weight compared to that of patients treated with sitagliptin (-2.9 kg and -3.4 kg vs -1.0 kg, p &lt; 0.0001). Greater proportions of patients treated with liraglutide experienced transient nausea vs patients treated with sitagliptin (20.8% and 27.1% for liraglutide vs 4.6% for sitagliptin). The reductions in HbA1c and superiority vs sitagliptin observed after 26 weeks of liraglutide treatment (1.2 mg and 1.8 mg) were sustained after 52 weeks of treatment (-1.29% and -1.51% vs -0.88%, p &lt; 0.0001). Switching patients from sitagliptin to liraglutide after 52 weeks of treatment resulted in additional and statistically significant reduction in HbA1c (-0.24% and -0.45%, 95% CI: -0.41 to -0.07 and -0.67 to -0.23) at week 78, but a formal control group was not available.
+In an open label trial comparing the efficacy and safety of liraglutide (1.2 mg and 1.8 mg) and sitagliptin (a DPP-4 inhibitor, 100 mg) in patients inadequately controlled on metformin therapy (mean HbA1c 8.5%), liraglutide at both doses was statistically superior to sitagliptin treatment in reducing HbA1c after 26 weeks (-1.24%, -1.50% vs -0.90%, p&lt;0.0001). Patients treated with liraglutide had a significant decrease in body weight compared to that of patients treated with sitagliptin (-2.9 kg and -3.4 kg vs -1.0 kg, p&lt;0.0001). Greater proportions of patients treated with liraglutide experienced transient nausea vs patients treated with sitagliptin (20.8% and 27.1% for liraglutide vs 4.6% for sitagliptin). The reductions in HbA1c and superiority vs sitagliptin observed after 26 weeks of liraglutide treatment (1.2 mg and 1.8 mg) were sustained after 52 weeks of treatment (-1.29% and -1.51% vs -0.88%, p&lt;0.0001). Switching patients from sitagliptin to liraglutide after 52 weeks of treatment resulted in additional and statistically significant reduction in HbA1c (-0.24% and -0.45%, 95% CI: -0.41 to -0.07 and -0.67 to -0.23) at week 78, but a formal control group was not available.
 
-In an open label trial comparing the efficacy and safety of liraglutide 1.8 mg once daily and exenatide 10 mcg twice daily in patients inadequately controlled on metformin and/or sulfonylurea therapy (mean HbA1c 8.3%), liraglutide was statistically superior to exenatide treatment in reducing HbA1c after 26 weeks (-1.12% vs -0.79%; estimated treatment difference: -0.33; 95% CI: -0.47 to -0.18). Significantly more patients achieved HbA1c below 7% with liraglutide compared with exenatide (54.2% vs 43.4%, p=0.0015). Both treatments resulted in mean body weight loss of approximately 3 kg. Switching patients from exenatide to liraglutide after 26 weeks of treatment resulted in an additional and statistically significant reduction in HbA1c (-0.32%, 95% CI: -0.41 to -0.24) at week 40, but a formal control group was not available. During the 26 weeks, there were 12 serious events in 235
+In an open label trial comparing the efficacy and safety of liraglutide 1.8 mg once daily and exenatide 10 mcg twice daily in patients inadequately controlled on metformin and/or sulfonylurea therapy (mean HbA1c 8.3%), liraglutide was statistically superior to exenatide treatment in reducing HbA1c after 26 weeks (-1.12% vs -0.79%; estimated treatment difference: -0.33; 95% CI: -0.47 to -0.18). Significantly more patients achieved HbA1c below 7% with liraglutide compared with exenatide (54.2% vs 43.4%, p=0.0015). Both treatments resulted in mean body weight loss of approximately 3 kg. Switching patients from exenatide to liraglutide after 26 weeks of treatment resulted in an additional and statistically significant reduction in HbA1c (-0.32%, 95% CI: -0.41 to -0.24) at week 40, but a formal control group was not available. During the 26 weeks, there were 12 serious events in 235 patients (5.1%) using liraglutide, whereas there were 6 serious adverse events in 232 patients (2.6%) using exenatide. There was no consistent pattern with respect to system organ class of events.
 
 <div style=\"page-break-after: always\"></div>
 
-patients (5.1%) using liraglutide, whereas there were 6 serious adverse events in 232 patients (2.6%) using exenatide. There was no consistent pattern with respect to system organ class of events.
-
-In an open label trial comparing the efficacy and safety of liraglutide 1.8 mg with lixisenatide 20 mcg in 404 patients inadequately controlled on metformin therapy (mean HbA1c 8.4%), liraglutide was superior to lixisenatide in reducing HbA1c after 26 weeks of treatment (-1.83% vs 1.21%, p&lt;0.0001). Significantly more patients achieved HbA1c below 7% with liraglutide compared to lixisenatide (74.2% vs 45.5%, p&lt;0.0001), as well as the HbA 1c target below or equal 6.5% (54.6% vs 26.2%, p&lt;0.0001). Body weight l oss was observed in both treatment arms (-4.3 kg with liraglutide and -3.7 kg with lixisenatide). Gastrointestinal adverse events were more frequently reported with liraglutide treatment (43.6% vs 37.1%).
+In an open label trial comparing the efficacy and safety of liraglutide 1.8 mg with lixisenatide 20 mcg in 404 patients inadequately controlled on metformin therapy (mean HbA1c 8.4%), liraglutide was superior to lixisenatide in reducing HbA1c after 26 weeks of treatment (-1.83% vs -1.21%, p&lt;0.0001). Significantly more patients achieved HbA1c below 7% with liraglutide compared to lixisenatide (74.2% vs 45.5%, p&lt;0.0001), as well as the HbA1c target below or equal 6.5% (54.6% vs 26.2%, p&lt;0.0001). Body weight loss was observed in both treatment arms (-4.3 kg with liraglutide and -3.7 kg with lixisenatide). Gastrointestinal adverse events were more frequently reported with liraglutide treatment (43.6% vs 37.1%).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-The absorption of liraglutide following subcutaneous administration is slow, reaching maximum concentration 8-12 hours post dosing. Estimated maximum liraglutide concentration was 9.4 nmol/l (mean body weight approximately 73 kg) for a subcutaneous single dose of liraglutide 0.6 mg. At 1.8 mg liraglutide, the average steady state concentration of liraglutide (AUC τ/24 ) reached approximately 34 nmol/l (mean body weight approximately 76 kg). The exposure of liraglutide decreases with increasing body weight. Liraglutide exposure increased proportionally with dose. The intra-subject coefficient of variation for liraglutide AUC was 11% following single dose administration.
+The absorption of liraglutide following subcutaneous administration is slow, reaching maximum concentration 8-12 hours post dosing. Estimated maximum liraglutide concentration was 9.4 nmol/l (mean body weight approximately 73 kg) for a subcutaneous single dose of liraglutide 0.6 mg. At 1.8 mg liraglutide, the average steady state concentration of liraglutide (AUCτ/24) reached approximately 34 nmol/l (mean body weight approximately 76 kg). The exposure of liraglutide decreases with increasing body weight. Liraglutide exposure increased proportionally with dose. The intra-subject coefficient of variation for liraglutide AUC was 11% following single dose administration.
 
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
 
@@ -569,7 +563,7 @@ Animal studies did not indicate direct harmful effects with respect to fertility
 
 ## 6.1 List of excipients
 
-Disodium phosphate dihydrate Propylene glycol Phenol Water for injections
+Disodium phosphate dihydrate Propylene glycol Phenol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -583,7 +577,11 @@ After first use: 1 month.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C-8°C). Do not freeze. Store away from the freezer compartment.
+Store in a refrigerator (2°C-8°C).
+
+Do not freeze.
+
+Store away from the freezer compartment.
 
 After first use: Store below 30°C or store in a refrigerator (2°C-8°C). Do not freeze.
 
@@ -603,35 +601,31 @@ Not all pack sizes may be marketed.
 
 Victoza should not be used if it does not appear clear and colourless or almost colourless. Victoza should not be used if it has been frozen.
 
-Victoza can be administered with needles up to a length of 8 mm and as thin as 32G. The pen is designed to be used with NovoFine or NovoTwist disposable needles. Needles are not included.
+Victoza can be administered with needles up to a length of 8 mm and as thin as 32G. The pen is designed to be used with NovoFine or NovoTwist disposable needles.
 
-The patient should be advised to discard the injection needle in accordance with local requirements after each injection and store the pen without an injection needle attached. This prevents contamination, infection and leakage. It also ensures that the dosing is accurate.
+Needles are not included.
 
 <div style=\"page-break-after: always\"></div>
 
-7.
+The patient should be advised to discard the injection needle in accordance with local requirements after each injection and store the pen without an injection needle attached. This prevents contamination, infection and leakage. It also ensures that the dosing is accurate.
 
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
-Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Denmark
+Novo Nordisk A/S Novo Allé DK-2880 Bagsværd
 
-8.
+Denmark
 
-MARKETING AUTHORISATION NUMBERS
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/09/529/001-005
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 30 June 2009
 
 Date of last renewal: 11 April 2014
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -652,7 +646,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Novo Nordisk A/S Hallas Allé DK-4400 Kalundborg Denmark
+Novo Nordisk A/S Hallas Allé DK-4400 Kalundborg
+
+Denmark
 
 Name and address of the manufacturer responsible for batch release
 
@@ -664,13 +660,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan
+- Risk management plan
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed Risk Management Plan (RMP) presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -705,7 +701,7 @@ Victoza 6 mg/ml solution for injection in pre-filled pen liraglutide
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, propylene glycol, phenol, water for injections
+Disodium phosphate dihydrate, propylene glycol, phenol, hydrochloric acid, sodium hydroxide and water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -771,15 +767,15 @@ Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/09/529/001   1 x 3 ml
+EU/1/09/529/001 1 x 3 ml
 
-EU/1/09/529/002   2 x 3 ml
+EU/1/09/529/002 2 x 3 ml
 
-EU/1/09/529/003   3 x 3 ml
+EU/1/09/529/003 3 x 3 ml
 
-EU/1/09/529/004   5 x 3 ml
+EU/1/09/529/004 5 x 3 ml
 
-EU/1/09/529/005   10 x 3 ml
+EU/1/09/529/005 10 x 3 ml
 
 ## 13. BATCH NUMBER
 
@@ -795,39 +791,47 @@ Victoza
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+PRE-FILLED PEN LABEL
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Victoza 6 mg/ml injection liraglutide Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Novo Nordisk A/S
 
@@ -839,14 +843,17 @@ Novo Nordisk A/S
 
 ## Package leaflet: Information for the user
 
-## Victoza 6 mg/ml solution for injection in pre-filled pen liraglutide
+## Victoza 6 mg/ml solution for injection in pre-filled pen
+
+## liraglutide
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+-
+
+-
+
+- Keep this leaflet. You may need to read it again. If you have any further questions, ask your doctor, pharmacist or nurse. - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours. If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -871,7 +878,9 @@ Victoza is used with other medicines for diabetes when they are not enough to co
 
 ## Do not use Victoza
 
-- -if you are allergic to liraglutide or any of the other ingredients of this medicine (listed in section 6).
+-
+
+if you are allergic to liraglutide or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -976,12 +985,12 @@ Common: may affect up to 1 in 10 people
 
 <div style=\"page-break-after: always\"></div>
 
-## Rare: may affect up to 1 in 1,000 people
+Rare: may affect up to 1 in 1,000 people
 
 - A severe form of allergic reaction (anaphylactic reaction) with additional symptoms such as breathing problems, swelling of throat and face, fast heartbeat, etc. If you experience these symptoms you should seek immediate medical help and inform your doctor as soon as possible.
 - Bowel obstruction. A severe form of constipation with additional symptoms such as stomach ache, bloating, vomiting etc.
 
-## Very rare: may affect up to 1 in 10,000 people
+Very rare: may affect up to 1 in 10,000 people
 
 - Cases of inflammation of the pancreas (pancreatitis). Pancreatitis can be a serious, potentially life-threatening medical condition. Stop taking Victoza and contact a doctor immediately if you notice any of the following serious side effects:
 
@@ -1032,7 +1041,7 @@ Uncommon: may affect up to 1 in 100 people
 
 Not known: frequency cannot be estimated from the available data
 
-- Lumps under the skin may be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known).
+· Lumps under the skin may be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known).
 
 ## Reporting of side effects
 
@@ -1046,11 +1055,11 @@ Do not use this medicine after the expiry date which is stated on the pen label 
 
 ## Before opening:
 
-Store in a refrigerator (2˚C -8˚C). Do not freeze. Keep away from the freezer compartment.
+Store in a refrigerator (2˚C-8˚C). Do not freeze. Keep away from the freezer compartment.
 
 ## During use:
 
-You can keep the pen for 1 month when stored at a temperature below 30˚C or in a refrigerator (2˚C -8˚C), away from the freezer compartment. Do not freeze.
+You can keep the pen for 1 month when stored at a temperature below 30˚C or in a refrigerator (2˚C8˚C), away from the freezer compartment. Do not freeze.
 
 When you are not using the pen, keep the pen cap on in order to protect from light.
 
@@ -1062,8 +1071,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Victoza contains
 
-- -The active substance is liraglutide. 1 ml solution for injection contains 6 mg liraglutide. One pre-filled pen contains 18 mg liraglutide.
-- -The other ingredients are disodium phosphate dihydrate, propylene glycol, phenol and water for injections.
+- The active substance is liraglutide. 1 ml solution for injection contains 6 mg liraglutide. One pre-filled pen contains 18 mg liraglutide.
+
+- The other ingredients are disodium phosphate dihydrate, propylene glycol, phenol, hydrochloric acid (for pH adjustment), sodium hydroxide (for pH adjustment) and water for injections.
 
 ## What Victoza looks like and contents of the pack
 
@@ -1133,7 +1143,7 @@ Pull off the inner needle cap and dispose of it.
 
 - Do not share your pen or needles with anyone else.
 - Keep your pen out of the reach of others, especially children.
--         Change the place where you inject each day to reduce the risk of developing lumps.
+- Change the place where you inject each day to reduce the risk of developing lumps.
 
 ## With each new pen, check the flow
 
@@ -1183,11 +1193,15 @@ You may only split your dose between your current pen and a new pen if trained o
 
 If the dose selector stops before 0.6 mg lines up with the pointer, prepare a new pen and inject the full dose with the new pen.
 
-Do not try to select other doses than 0.6 mg, 1.2 mg or 1.8 mg. The numbers in the display must line up precisely with the pointer to ensure that you get the correct dose. The dose selector clicks when you turn it. Do not use these clicks to select your dose. Do not use the cartridge scale to measure how much liraglutide to inject - it is not accurate enough.
+- Do not try to select other doses than 0.6 mg, 1.2 mg or 1.8 mg. The numbers in the display must line up precisely with the pointer to ensure that you get the correct dose.
+
+The dose selector clicks when you turn it. Do not use these clicks to select your dose.
+
+Do not use the cartridge scale to measure how much liraglutide to inject - it is not accurate enough.
 
 ## Inject your dose
 
-Insert the needle into your skin using the injection technique shown by your doctor or nurse. Then follow the instructions below:
+## Insert the needle into your skin using the injection technique shown by your doctor or nurse. Then follow the instructions below:
 
 Press the dose button to inject until 0 mg lines up with the pointer. Be careful not to touch the display with your other fingers or press the dose selector sideways when you inject. This is because it may block the injection. Keep the dose button pressed down and leave the needle under the skin for at least 6 seconds. This is to make sure that you get your full dose.
 
@@ -1197,36 +1211,24 @@ Press the dose button to inject until 0 mg lines up with the pointer. Be careful
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+Pull out the needle.
+
+After that, you may see a drop liraglutide at the needle tip.
+
+This is normal and does not affect your dose.
+
+Guide the needle tip into the outer needle cap without touching the needle or the outer needle cap.
+
+When the needle is covered, carefully push the outer needle cap completely on. Then unscrew the needle. Dispose of it carefully and put the pen cap back on.
+
+When the pen is empty, carefully dispose of it without a needle attached. Please dispose of the pen and needle in accordance with local requirements.
 
 <!-- image -->
 
 <!-- image -->
 
-| Pull out the needle. After that, you may see a drop liraglutide at the needle tip. This is normal and does not affect your dose.                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Guide the needle tip into the outer needle cap without touching the needle or the outer needle cap.                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                           |
-| When the needle is covered, carefully push the outer needle cap completely on. Then unscrew the needle. Dispose of it carefully and put the pen cap back on. When the pen is empty, carefully dispose of it without a needle attached. Please dispose of the pen and needle in requirements.                              | accordance with local                                                                                                                                                                                                                                                                                                     |
-| Always remove the needle after each injection, and store your pen without a needle attached. This reduces the risk of contamination, infection, leakage of liraglutide, blocked needles and inaccurate dosing. Caregivers must be very careful when handling used needles - to prevent needle injury and cross-infection. | Always remove the needle after each injection, and store your pen without a needle attached. This reduces the risk of contamination, infection, leakage of liraglutide, blocked needles and inaccurate dosing. Caregivers must be very careful when handling used needles - to prevent needle injury and cross-infection. |
+<!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for liraglutide, the scientific conclusions of PRAC are as follows:
-
-In view of available data on cutaneous amyloidosis from literature, spontaneous reports including in some cases a close temporal relationship, a positive biopsy and in view of a plausible mechanism of action, the PRAC considers a causal relationship between liraglutide and cutaneous amyloidosis is at least a reasonable possibility. The PRAC concluded that the product information of products containing liraglutide should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for liraglutide the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing liraglutide is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+- Always remove the needle after each injection, and store your pen without a needle attached.
+- This reduces the risk of contamination, infection, leakage of liraglutide, blocked needles and inaccurate dosing.
+- Caregivers must be very careful when handling used needles - to prevent needle injury and cross-infection.

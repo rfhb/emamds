@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 12:38:17
-document_pages: 29
+document_datetime: 2026-10-19 16:33:50
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mnexspike-epar-product-information_en.pdf
 document_name: mnexspike-epar-product-information_en.pdf
 version: success
-processing_time: 7.0505005
-conversion_datetime: 2026-03-09 13:13:15.432922
+processing_time: 8.9194298
+conversion_datetime: 2026-10-22 22:53:37.733364
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.77.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.5.0
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,7 +42,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Dispersion for injection White to off-white dispersion (pH: 7.1 - 7.8).
+Dispersion for injection
+
+White to off-white dispersion (pH: 7.1 - 7.8).
 
 ## 4. CLINICAL PARTICULARS
 
@@ -62,7 +64,7 @@ If previously vaccinated with a COVID-19 vaccine, mNEXSPIKE should be administer
 
 ## Elderly
 
-No dose adjustment is required in elderly individuals ≥65 years of age .
+No dose adjustment is required in elderly individuals ≥65 years of age.
 
 ## Paediatric population
 
@@ -174,7 +176,7 @@ The safety of mNEXSPIKE was evaluated in one Phase 3 clinical study. Study 1 (EU
 
 The safety profile and the frequencies of adverse reactions presented below are based on data of 5 706 individuals ≥12 years of age. Age-stratified analysis indicates a trend of decreasing reactogenicity with increasing age.
 
-Adverse reactions reported are listed according to the following frequency convention: very common (≥1/10) , c ommon (≥1/100 to &lt;1/10), u ncommon (≥1/1 000 to &lt;1/100), r are (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness (Table 1).
+Adverse reactions reported are listed according to the following frequency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness (Table 1).
 
 Table 1. Adverse reactions
 
@@ -182,10 +184,10 @@ Table 1. Adverse reactions
 |------------------------------------------------------|-------------|--------------------------------------------------------------------------------|
 | Blood and lymphatic system disorders                 | Very common | Lymphadenopathy (ipsilateral axillary swelling or tenderness)                  |
 | Blood and lymphatic system disorders                 | Rare        | Lymphadenopathy (e.g. supraclavicular)                                         |
-| Nervous system disorders                             | Very common | Headache                                                                       |
-| Nervous system disorders                             | Rare        | Hypoaesthesia                                                                  |
 | Immune system disorders                              | Uncommon    | Hypersensitivity reactions (e.g. urticaria, chronic urticaria, rash, pruritus) |
 | Immune system disorders                              | Not known   | Anaphylactic reaction                                                          |
+| Nervous system disorders                             | Very common | Headache                                                                       |
+| Nervous system disorders                             | Rare        | Hypoaesthesia                                                                  |
 | Gastrointestinal disorders                           | Very common | Nausea/vomiting                                                                |
 | Gastrointestinal disorders                           | Rare        | Diarrhoea                                                                      |
 | Skin and subcutaneous tissue disorders               | Very rare   | Rash                                                                           |
@@ -232,7 +234,7 @@ Study 1 was a Phase 3 randomised, observer-blind, active-controlled clinical tri
 
 <div style=\"page-break-after: always\"></div>
 
-In Study 1, the median age of the safety population was 56 years (range 12-96 years); 8.7% of participants were 12 years through 17 years, 62.6% were 18 years through 64 years, 28.7% were 65 years and older and 5.2% were over 75 years old. Overall, 45.7% of the participants were male, 54.3% were female, 13.2% were Hispanic or Latino, 82.2% were White, 11.2% were Black or African American, 3.6% were Asian, and 2.4% reported 'Other'. Demographic characteristics were similar between participants who received mNEXSPIKE and those who received elasomeran/davesomeran.
+In Study 1, the median age of the safety population was 56 years (range 12-96 years); 8.7% of participants were 12 years through 17 years, 62.6% were 18 years through 64 years, 28.7% were 65 years and older and 5.2% were over 75 years old. Overall, 45.7% of the participants were male, 54.3% were female, 13.2% were Hispanic or Latino, 82.2% were White, 11.2% were Black or African American, 3.6% were Asian, and 2.4% reported \"Other\". Demographic characteristics were similar between participants who received mNEXSPIKE and those who received elasomeran/davesomeran.
 
 The primary efficacy analysis population (referred to as the Per-Protocol Set for Efficacy) demographics were similar to those in the safety population and included 11 366 participants who received either mNEXSPIKE (SARS-CoV-2 mRNA) (n=5 679) or elasomeran/davesomeran (n=5 687). There were no notable differences in demographics between participants who received mNEXSPIKE and those who received elasomeran/davesomeran.
 
@@ -242,10 +244,9 @@ The primary efficacy objective in this study was to demonstrate the non-inferior
 
 Table 2. Relative vaccine efficacy against COVID-19* in participants 12 years of age and older starting 14 days after a single dose of mNEXSPIKE or elasomeran/davesomeran - Per-Protocol Set for efficacy
 
-|                  | mNEXSPIKE a      | mNEXSPIKE a        | mNEXSPIKE a                                        | elasomeran/davesomeran b   | elasomeran/davesomeran b   | elasomeran/davesomeran b                          |                                          |
-|------------------|------------------|--------------------|----------------------------------------------------|----------------------------|----------------------------|---------------------------------------------------|------------------------------------------|
-| Age              | Participants (N) | COVID-19 cases (n) | Incidence rate of COVID- 19 per 100 person- months | Participants (N)           | COVID-19 cases (n)         | Incidence rate of COVID-19 per 100 person- months | % Relative vaccine efficacy (99.4% CI) c |
-| All participants | 5 679            | 560                | 1.4                                                | 5 687                      | 617                        | 1.5                                               | 9.3 (-6.6, 22.8)                         |
+| Age              | mNEXSPIKE a - Participants (N)   |   mNEXSPIKE a - COVID-19 cases (n) |   mNEXSPIKE a - Incidence rate of COVID- 19 per 100 person- months | elasomeran/davesomeran b - Participants (N)   |   elasomeran/davesomeran b - COVID-19 cases (n) |   elasomeran/davesomeran b - Incidence rate of COVID-19 per 100 person- months | % Relative vaccine efficacy (99.4% CI) c   |
+|------------------|----------------------------------|------------------------------------|--------------------------------------------------------------------|-----------------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------|
+| All participants | 5 679                            |                                560 |                                                                1.4 | 5 687                                         |                                             617 |                                                                            1.5 | 9.3 (-6.6, 22.8)                           |
 
 The primary immunogenicity analysis population included 621 participants who received mNEXSPIKE and 568 participants who received elasomeran/davesomeran. The baseline characteristics were similar to the safety population/ Per-Protocol Set for Efficacy, as described further above.
 
@@ -255,7 +256,7 @@ A comparison of neutralising antibody concentrations against a pseudovirus expre
 
 Table 3. Comparison of GMC and SRR 28 days after a single dose of mNEXSPIKE versus 28 days after a single dose of elasomeran/davesomeran - Per-Protocol immunogenicity subset*
 
-| Assay                       | mNEXSPIKE a GMC N=621 (95% CI) b              | elasomeran/ davesomeran c GMC N=568 (95% CI) b           | GMCratio (mNEXSPIKE / elasomeran/davesomeran) (95% CI) b            |
+| Assay                       | mNEXSPIKE a GMC N=621 (95% CI) b              | elasomeran/ davesomeran c GMC N=568 (95% CI) b           | GMC ratio (mNEXSPIKE / elasomeran/davesomeran) (95% CI) b           |
 |-----------------------------|-----------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------|
 | Omicron BA.4/BA.5           | 2340.9 (2167.0, 2528.8)                       | 1753.8 (1618.2, 1900.7)                                  | 1.3 (1.2, 1.5)                                                      |
 | Original SARS-CoV-2 (D614G) | 10631.9 (9960.2, 11348.9)                     | 8576.5 (8012.5, 9180.1)                                  | 1.2 (1.1, 1.4)                                                      |
@@ -267,13 +268,13 @@ N=Number of participants with non-missing data at the corresponding timepoint(s)
 
 * Per-Protocol Immunogenicity Subset included a randomly selected subset of subjects who received study vaccine and did not have a major protocol deviation that impacted immune response and had both pre-dose and post-dose immunogenicity assessment at timepoint of primary interest (28 days post-dose).
 
-a  Dosing was a single dose (10 micrograms of SARS-CoV-2 mRNA).
+a Dosing was a single dose (10 micrograms of SARS-CoV-2 mRNA).
 
-b  The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (mNEXSPIKE vs. elasomeran/davesomeran) as fixed effect, adjusted by SARS-CoV-2 status at baseline, randomisation age group, number of prior COVID-19 boosters (0, 1, 2, ≥ 3), and type of last prior COVID-19 vaccine. Coefficients for Least Square (LS) Means use margins by level. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
+b The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (mNEXSPIKE vs. elasomeran/davesomeran) as fixed effect, adjusted by SARS-CoV-2 status at baseline, randomisation age group, number of prior COVID-19 boosters (0, 1, 2, ≥3), and type of last prior COVID-19 vaccine. Coefficients for Least Square (LS) Means use margins by level. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
 
-c  Elasomeran/davesomeran dosing was a single dose (50 micrograms mRNA).
+c Elasomeran/davesomeran dosing was a single dose (50 micrograms mRNA).
 
-d  Seroresponse is defined as an antibody value change from baseline below the LLOQ to ≥4 × LLOQ, or at least a 4fold rise if baseline is ≥ LLOQ and &lt;4 × LLOQ, or at least a 2 -fold rise if baseline is ≥4 × LLOQ, where baseline refers to pre-dose.
+d Seroresponse is defined as an antibody value change from baseline below the LLOQ to ≥4 × LLOQ, or at least a 4-fold rise if baseline is ≥ LLOQ and &lt;4 × LLOQ, or at least a 2-fold rise if baseline is ≥4 × LLOQ, where baseline refers to pre-dose.
 
 e 95% CI is calculated using the Clopper-Pearson method.
 
@@ -295,23 +296,23 @@ A comparison of neutralising antibody concentrations against a pseudovirus expre
 
 Table 4. Comparison of GMC and SRR 28 days after a single dose of mNEXSPIKE versus 28 days after a single dose of andusomeran - Per-Protocol immunogenicity set*
 
-| Assay           | mNEXSPIKE a GMC (95% CI) b N=334   | andusomeran c GMC (95% CI) b N=334   | GMCratio (mNEXSPIKE/ andusomeran) (95% CI) b   |
-|-----------------|------------------------------------|--------------------------------------|------------------------------------------------|
-| Omicron XBB.1.5 | 1757.2 (1580.1, 1954.3)            | 1470.4 (1322.4, 1635.0)              | 1.20 (1.03, 1.39) Difference in                |
-| Omicron XBB.1.5 | 92.2 (88.8, 94.9)                  | 86.8 (82.7, 90.3)                    | 5.4 (0.8,                                      |
-| Omicron XBB.1.5 |                                    |                                      | 10.2)                                          |
+| Assay           | mNEXSPIKE a GMC (95% CI) b N=334                     | andusomeran c GMC (95% CI) b N=334                     | GMC ratio (mNEXSPIKE/ andusomeran) (95% CI) b                |
+|-----------------|------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------|
+| Omicron XBB.1.5 | 1757.2 (1580.1, 1954.3) mNEXSPIKE a seroresponse d % | 1470.4 (1322.4, 1635.0) andusomeran c seroresponse d % | 1.20 (1.03, 1.39) Difference in SRR (mNEXSPIKE- andusomeran) |
+| Omicron XBB.1.5 | (95% CI) e N=334 92.2 (88.8, 94.9)                   | (95% CI) e N=334 86.8 (82.7, 90.3)                     | % (95% CI) f 5.4 (0.8,                                       |
+| Omicron XBB.1.5 |                                                      |                                                        | 10.2)                                                        |
 
 N=Number of participants with non-missing data at baseline and the corresponding timepoint(s).
 
 * Per-Protocol immunogenicity set included subjects who received study vaccine, did not have a major protocol deviation that impacted immune response, and had both pre-dose and post-dose immunogenicity assessment at timepoint of primary interest (28 days post-dose).
 
-a  mNEXSPIKE dosing was a single dose (10 micrograms of SARS-CoV-2 mRNA).
+a mNEXSPIKE dosing was a single dose (10 micrograms of SARS-CoV-2 mRNA).
 
-b  The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (mNEXSPIKE vs. andusomeran) as fixed effect, adjusted by SARS-CoV-2 status at baseline, randomisation age group, number of prior boosters (0, 1, 2, ≥ 3), and type of last prior COVID-19 vaccine. LS means are based on observed margin. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
+b The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (mNEXSPIKE vs. andusomeran) as fixed effect, adjusted by SARS-CoV-2 status at baseline, randomisation age group, number of prior boosters (0, 1, 2, ≥3), and type of last prior COVID-19 vaccine. LS means are based on observed margin. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
 
 c single dose.
 
-d Seroresponse is defined as an antibody value change from baseline below the LLOQ to ≥4 × LLOQ, or at least a 4fold rise if baseline is ≥ LLOQ and &lt;4 × LLOQ, or at least a 2 -fold rise if baseline is ≥4 × LLOQ, where baseline refers to pre-dose.
+d Seroresponse is defined as an antibody value change from baseline below the LLOQ to ≥4 × LLOQ, or at least a 4-fold rise if baseline is ≥ LLOQ and &lt;4 × LLOQ, or at least a 2-fold rise if baseline is ≥4 × LLOQ, where baseline refers to pre-dose.
 
 e 95% CI is calculated using the Clopper-Pearson method.
 
@@ -347,7 +348,9 @@ Reproductive and developmental studies in rats with mNEXSPIKE vaccine did not re
 
 ## 6.1 List of excipients
 
-Heptadecan-9-yl 8-{(2-hydroxyethyl)[6-oxo-6-(undecyloxy)hexyl]amino}octanoate (SM-102) Cholesterol
+Heptadecan-9-yl 8-{(2-hydroxyethyl)[6-oxo-6-(undecyloxy)hexyl]amino}octanoate (SM-102)
+
+Cholesterol
 
 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC)
 
@@ -377,7 +380,7 @@ Once thawed, the vaccine should not be refrozen.
 
 Upon moving the vaccine to 2 °C to 8 °C storage, the outer carton should be marked with the new expiry date at 2 °C to 8 °C.
 
-Pre-filled syringes may be stored at 8 °C to 25 °C for up to 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
+Pre-filled syringes may be stored at 8 °C to 25 °C for up to 12 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
 
 ## 6.4 Special precautions for storage
 
@@ -386,6 +389,10 @@ Store in a freezer at -40 ºC to -15 ºC.
 Once thawed, store in a refrigerator (2 °C to 8 °C) and do not refreeze. Keep the pre-filled syringes in the outer carton in order to protect from light. For storage conditions after thawing of the vaccine, see section 6.3.
 
 After thawing, pre-filled syringes may be stored refrigerated between 2 °C to 8 °C for up to 30 days prior to use.
+
+## Transportation of thawed pre-filled syringes in liquid state at 2°C to 8°C
+
+Thawed pre-filled syringes can be transported at 2°C to 8°C (within the 12-month shelf life). Once thawed and transported at 2°C to 8°C, pre-filled syringes should not be refrozen and should be stored at 2°C to 8°C until use.
 
 ## 6.5 Nature and contents of container
 
@@ -415,36 +422,33 @@ One (1) dose of 0.2 mL can be administered from each pre-filled syringe.
 
 mNEXSPIKE is shipped and supplied as a frozen pre-filled syringe (see section 6.4). If the vaccine is frozen, it must be completely thawed before use. Thaw each pre-filled syringe before use, either in the refrigerator or at room temperature, following the instructions in Table 5.
 
-Prior to immediate use, single syringes may be removed from a carton of 1, 2, or 10 pre-filled syringes and thawed either in the refrigerator or at room temperature. The remaining syringes must continue to be stored in their original carton in the freezer or refrigerator.
-
-If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
-
 <div style=\"page-break-after: always\"></div>
 
-The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
+Prior to immediate use, single syringes may be removed from a carton of 1, 2, or 10 pre-filled syringes and thawed either in the refrigerator or at room temperature. The remaining syringes must continue to be stored in their original carton in the freezer or refrigerator.
+
+If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature. The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 12 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
 
 Thaw each pre-filled syringe before use following the instructions below. Pre-filled syringes may be thawed outside the carton or in the carton itself, either in the refrigerator or at room temperature (Table 5).
 
 Table 5. Thawing instructions for pre-filled syringes and cartons before use
 
-|                                                                   | Thaw instructions and duration            | Thaw instructions and duration   | Thaw instructions and duration              | Thaw instructions and duration   |
-|-------------------------------------------------------------------|-------------------------------------------|----------------------------------|---------------------------------------------|----------------------------------|
-| Configuration                                                     | Thaw temperature (in a refrigerator) (°C) | Thaw duration (minutes)          | Thaw temperature (at room temperature) (°C) | Thaw duration (minutes)          |
-| One pre-filled syringe or a carton of 1 or 2 pre- filled syringes | 2 - 8                                     | 100                              | 15 - 25                                     | 40                               |
-| Carton of 10 pre-filled syringes                                  | 2 - 8                                     | 160                              | 15 - 25                                     | 80                               |
+| Configuration                                                     | Thaw instructions and duration - Thaw temperature (in a refrigerator) (°C)   |   Thaw instructions and duration - Thaw duration (minutes) | Thaw instructions and duration - Thaw temperature (at room temperature) (°C)   |   Thaw instructions and duration - Thaw duration (minutes) |
+|-------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|
+| One pre-filled syringe or a carton of 1 or 2 pre- filled syringes | 2 - 8                                                                        |                                                        100 | 15 - 25                                                                        |                                                         40 |
+| Carton of 10 pre-filled syringes                                  | 2 - 8                                                                        |                                                        160 | 15 - 25                                                                        |                                                         80 |
 
 ## Administration
 
-- -Pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
-- -Do not administer if vaccine is discoloured or contains other particulate matter.
-- -Needles are not included in the pre-filled syringe cartons.
-- -Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
-- -With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
-- -Attach the needle by twisting in a clockwise direction until the needle fits securely on the syringe.
-- -Uncap the needle when ready for administration.
-- -The vaccine should be administered immediately after uncapping.
-- -Administer the entire dose intramuscularly.
-- -Discard the pre-filled syringe after single use.
+- Pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
+- Do not administer if vaccine is discoloured or contains other particulate matter.
+- Needles are not included in the pre-filled syringe cartons.
+- Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
+- With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
+- Attach the needle by twisting in a clockwise direction until the needle fits securely on the syringe.
+- Uncap the needle when ready for administration.
+- The vaccine should be administered immediately after uncapping.
+- Administer the entire dose intramuscularly.
+- Discard the pre-filled syringe after single use.
 
 ## Disposal
 
@@ -454,15 +458,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 MODERNA BIOTECH SPAIN, S.L. C/ Julián Camarillo nº 31 28037 Madrid Spain
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/25/2010/001 EU/1/25/2010/002
-
 <div style=\"page-break-after: always\"></div>
 
-EU/1/25/2010/003 EU/1/25/2010/004 EU/1/25/2010/005
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/2010/006
+EU/1/25/2010/001 EU/1/25/2010/002 EU/1/25/2010/003 EU/1/25/2010/004 EU/1/25/2010/005 EU/1/25/2010/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -532,11 +532,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-mNEXSPIKE dispersion for injection in pre-filled syringe COVID-19 mRNA Vaccine
+mNEXSPIKE dispersion for injection in pre-filled syringe
+
+COVID-19 mRNA Vaccine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -636,33 +638,41 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-## PC SN NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 mNEXSPIKE dispersion for injection COVID-19 mRNA Vaccine IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Intramuscular use
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.2 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -680,9 +690,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -709,26 +719,26 @@ The vaccine must not be given if you are allergic to the active substance or any
 
 Talk to your doctor, pharmacist or nurse before you are given mNEXSPIKE if:
 
-- -you have previously had a severe, life-threatening allergic reaction after any other vaccine injection or after you were given a COVID-19 mRNA vaccine in the past.
-- -you have a very weak or compromised immune system.
-- -you have a bleeding disorder.
-- -you have a high fever or severe infection. If this is the case, then vaccination will be postponed. However, you can have your vaccination if you have a mild fever or upper airway infection like a cold. Talk to your doctor first.
+- you have previously had a severe, life-threatening allergic reaction after any other vaccine injection or after you were given a COVID-19 mRNA vaccine in the past.
+- you have a very weak or compromised immune system.
+- you have a bleeding disorder.
+- you have a high fever or severe infection. If this is the case, then vaccination will be postponed. However, you can have your vaccination if you have a mild fever or upper airway infection like a cold. Talk to your doctor first.
 
 <div style=\"page-break-after: always\"></div>
 
-- -you have any serious illness.
-- -you have anxiety related to injections.
+- you have any serious illness.
+- you have anxiety related to injections.
 
 Get urgent medical attention if you get any of the following signs and symptoms of an allergic reaction following your vaccine:
 
-- -feeling faint or light-headed;
-- -changes in your heartbeat;
-- -shortness of breath;
-- -wheezing;
-- -swelling of your lips, face, or throat;
-- -hives or rash;
-- -nausea or vomiting;
-- -stomach pain.
+- feeling faint or light-headed;
+- changes in your heartbeat;
+- shortness of breath;
+- wheezing;
+- swelling of your lips, face, or throat;
+- hives or rash;
+- nausea or vomiting;
+- stomach pain.
 
 Cases of myocarditis and pericarditis (inflammation of the heart muscle or the membrane around the heart) have been reported for some other COVID-19 vaccines.
 
@@ -786,40 +796,40 @@ Talk to your doctor or nurse if you develop any side effects. These can include:
 
 Very common (may affect more than 1 in 10 people)
 
-- -swelling/tenderness in the underarm (lymphadenopathy)
-- -headache
-- -feeling sick (nausea)/vomiting
-- -muscle ache (myalgia)
-- -joint aches (arthralgia)
-- -pain at the injection site
-- -feeling tired (fatigue)
-- -chills
+- swelling/tenderness in the underarm (lymphadenopathy)
+- headache
+- feeling sick (nausea)/vomiting
+- muscle ache (myalgia)
+- joint aches (arthralgia)
+- pain at the injection site
+- feeling tired (fatigue)
+- chills
 
 Common (may affect up to 1 in 10 people)
 
-- -fever (pyrexia)
-- -swelling at the injection site
-- -redness (erythema) at the injection site
+- fever (pyrexia)
+- swelling at the injection site
+- redness (erythema) at the injection site
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -reaction of increased sensitivity or intolerance by the immune system (hypersensitivity)
+- reaction of increased sensitivity or intolerance by the immune system (hypersensitivity)
 
 Rare (may affect up to 1 in 1 000 people)
 
-- -swelling/tenderness above the collarbone (lymphadenopathy)
-- -decreased sense of touch or sensation
-- -diarrhoea
-- -itchiness at the injection site
-- -bruising at the injection site
+- swelling/tenderness above the collarbone (lymphadenopathy)
+- decreased sense of touch or sensation
+- diarrhoea
+- itchiness at the injection site
+- bruising at the injection site
 
 Very rare (may affect up to 1 in 10 000 people)
 
-- -rash
+- rash
 
 ## Frequency not known
 
-- -severe allergic reactions with breathing difficulties (anaphylactic reaction)
+- severe allergic reactions with breathing difficulties (anaphylactic reaction)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -837,7 +847,11 @@ Do not use this vaccine after the expiry date which is stated on the carton and 
 
 Keep this vaccine out of the sight and reach of children.
 
-Frozen vaccine Store in a freezer between -40 °C to -15 °C up to 1 year. Keep the pre-filled syringes in the outer carton in order to protect from light.
+## Frozen vaccine
+
+Store in a freezer between -40 °C to -15 °C up to 1 year.
+
+Keep the pre-filled syringes in the outer carton in order to protect from light.
 
 ## Thawed vaccine
 
@@ -845,7 +859,11 @@ Within the shelf life of 1 year, the vaccine is stable for 30 days when stored a
 
 Once thawed, the vaccine should not be refrozen.
 
-The pre-filled syringes may be stored at 8 °C to 25 °C for up to 24 hours after removal from the refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
+The pre-filled syringes may be stored at 8 °C to 25 °C for up to 12 hours after removal from the refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
+
+## Transportation of thawed pre-filled syringes in liquid state at 2°C to 8°C
+
+Thawed pre-filled syringes can be transported at 2°C to 8°C (within the 12-month shelf life). Once thawed and transported at 2°C to 8°C, pre-filled syringes should not be refrozen and should be stored at 2°C to 8°C until use.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -857,9 +875,9 @@ The active substance is a single-stranded, 5'-capped messenger RNA (mRNA) produc
 
 Each pre-filled syringe contains one dose of 0.2 mL. One dose contains 10 micrograms of SARS-CoV-2 mRNA.
 
-The other ingredients are heptadecan-9-yl 8-{(2-hydroxyethyl)[6-oxo-6(undecyloxy)hexyl]amino}octanoate (SM-102), cholesterol, 1,2-distearoyl-sn-glycero-3phosphocholine (DSPC), 1,2-Dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000 (PEG2000-DMG), trometamol, trometamol hydrochloride, sucrose, water for injections.
-
 <div style=\"page-break-after: always\"></div>
+
+The other ingredients are heptadecan-9-yl 8-{(2-hydroxyethyl)[6-oxo-6(undecyloxy)hexyl]amino}octanoate (SM-102), cholesterol, 1,2-distearoyl-sn-glycero-3phosphocholine (DSPC), 1,2-Dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000 (PEG2000-DMG), trometamol, trometamol hydrochloride, sucrose, water for injections.
 
 ## What mNEXSPIKE looks like and contents of the pack
 
@@ -879,121 +897,121 @@ For any information about this vaccine, please contact the local representative 
 
 Tél/Tel: 0800 81 460
 
-## Lietuva
-
-Tel.: 88 003 1114
-
 ## България
 
 Teл: 0800 115 4477
-
-## Luxembourg/Luxemburg
-
-Tél/Tel: 800 85 499
 
 ## Česká republika
 
 Tel: 800 050 719
 
-## Magyarország
-
-Tel.: 06 809 87488
-
 ## Danmark
 
 Tlf.: 80 81 06 53
-
-## Malta
-
-Tel: 8006 5066
 
 ## Deutschland
 
 Tel.: 0800 100 9632
 
-## Nederland
-
-Tel: 0800 409 0001
-
 ## Eesti
 
 Tel: 800 0044 702
-
-## Norge
-
-Tlf: 800 31 401
 
 ## Ελλάδα
 
 Τηλ: +30 800 000 0030
 
-## Österreich
-
-Tel: 0800 909636
-
 ## España
 
 Tel: 900 031 015
-
-## Polska
-
-Tel.: 800 702 406
 
 ## France
 
 Tél: 0805 54 30 16
 
-## Portugal
-
-Tel: 800 210 256
-
 ## Hrvatska
 
 Tel: 08009614
-
-## România
-
-Tel: 0800 400 625
 
 ## Ireland
 
 Tel: 1800 800 354
 
+## Ísland
+
+## Lietuva
+
+Tel.: +370 800 31 114
+
+## Luxembourg/Luxemburg
+
+Tél/Tel: 800 85 499
+
+## Magyarország
+
+Tel.: 06 809 87488
+
+## Malta
+
+Tel: 8006 5066
+
+## Nederland
+
+Tel: 0800 409 0001
+
+## Norge
+
+Tlf: 800 31 401
+
+## Österreich
+
+Tel: 0800 909636
+
+## Polska
+
+Tel.: 800 702 406
+
+## Portugal
+
+Tel: 800 210 256
+
+## România
+
+Tel: 0800 400 625
+
 ## Slovenija
 
 Tel: 080 083082
 
-## Ísland
-
-Sími: 800 4382
-
 ## Slovenská republika
 
-Tel: 0800 191 647
+Sími: 800 4382
 
 ## Italia
 
 Tel: 800 928 007
 
-## Suomi/Finland
+Κύπρος
+
+Τηλ: 80091080
+
+Tel: 0800 191 647
+
+Suomi/Finland
 
 Puh/Tel: 0800 774198
 
-## Κύπρος
-
 Sverige
 
-Τηλ:
-
-80091080
-
-Latvija
+Tel: 020 10 92 13
 
 <div style=\"page-break-after: always\"></div>
 
+Latvija
+
 Tel: 80 005 898
 
-## This leaflet was last revised in .
+## This leaflet was last revised in.
 
 ## Other sources of information
 
@@ -1025,34 +1043,32 @@ Prior to immediate use, single syringes may be removed from a carton of 1, 2 or 
 
 If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
 
-The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
+The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 12 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
 
 Thaw each pre-filled syringe before use following the instructions below. Pre-filled syringes may be thawed outside the carton or in the carton itself, either in the refrigerator or at room temperature (Table 1).
-
-## Tel: 020 10 92 13
 
 <div style=\"page-break-after: always\"></div>
 
 Table 1. Thawing instructions for mNEXSPIKE pre-filled syringes and cartons before use
 
-|                                            | Thaw instructions and duration            | Thaw instructions and duration   | Thaw instructions and duration              | Thaw instructions and duration   |
-|--------------------------------------------|-------------------------------------------|----------------------------------|---------------------------------------------|----------------------------------|
-| Configuration                              | Thaw temperature (in a refrigerator) (°C) | Thaw duration (minutes)          | Thaw temperature (at room temperature) (°C) | Thaw duration (minutes)          |
-| One syringe or a carton of 1 or 2 syringes | 2 - 8                                     | 100                              | 15 - 25                                     | 40                               |
-| Carton of 10 syringes                      | 2 - 8                                     | 160                              | 15 - 25                                     | 80                               |
+| Configuration                              | Thaw instructions and duration - Thaw temperature (in a refrigerator) (°C)   |   Thaw instructions and duration - Thaw duration (minutes) | Thaw instructions and duration - Thaw temperature (at room temperature) (°C)   |   Thaw instructions and duration - Thaw duration (minutes) |
+|--------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|
+| One syringe or a carton of 1 or 2 syringes | 2 - 8                                                                        |                                                        100 | 15 - 25                                                                        |                                                         40 |
+| Carton of 10 syringes                      | 2 - 8                                                                        |                                                        160 | 15 - 25                                                                        |                                                         80 |
 
 ## Administration
 
-- -Pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
-- -Do not administer if vaccine is discoloured or contains other particulate matter.
-- -Needles are not included in the pre-filled syringe cartons.
-- -Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
-- -With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
-- -Attach the needle by twisting in a clockwise direction until the needle fits securely on the syringe.
-- -Uncap the needle when ready for administration.
-- -The vaccine should be administered immediately after uncapping.
-- -Administer the entire dose intramuscularly.
-- -Discard after single use.
+- Pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
+- Do not administer if vaccine is discoloured or contains other particulate matter.
+- Needles are not included in the pre-filled syringe cartons.
+- Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
+- With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases.
+- Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
+- Attach the needle by twisting in a clockwise direction until the needle fits securely on the syringe.
+- Uncap the needle when ready for administration.
+- The vaccine should be administered immediately after uncapping.
+- Administer the entire dose intramuscularly.
+- Discard after single use.
 
 ## Disposal
 

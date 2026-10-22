@@ -1,25 +1,21 @@
 ---
-document_datetime: 2026-05-27 11:38:29
-document_pages: 48
+document_datetime: 2026-10-20 11:23:53
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/polivy-epar-product-information_en.pdf
 document_name: polivy-epar-product-information_en.pdf
 version: success
-processing_time: 17.756448
-conversion_datetime: 2026-06-01 17:10:06.015129
+processing_time: 19.8499987
+conversion_datetime: 2026-10-22 22:59:56.64687
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-This document is the approved product information for Polivy, with the changes since the previous procedure affecting the product information (EMA/VR/0000295634) tracked.
-
-For more information, see the European Medicines Agency's website: https://www.ema.europa.eu/en/medicines/human/EPAR/polivy
-
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
@@ -28,7 +24,9 @@ For more information, see the European Medicines Agency's website: https://www.e
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Polivy 30 mg powder for concentrate for solution for infusion. Polivy 140 mg powder for concentrate for solution for infusion.
+Polivy 30 mg powder for concentrate for solution for infusion.
+
+Polivy 140 mg powder for concentrate for solution for infusion.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -38,23 +36,21 @@ Each vial of powder for concentrate for solution for infusion contains 30 mg of 
 
 After reconstitution, each mL contains 20 mg of polatuzumab vedotin.
 
-## Polivy 140 mg powder for concentrate for solution for infusion
+Polivy 140 mg powder for concentrate for solution for infusion
 
 Each vial of powder for concentrate for solution for infusion contains 140 mg of polatuzumab vedotin.
 
 After reconstitution, each mL contains 20 mg of polatuzumab vedotin.
 
-Polatuzumab vedotin is an antibody-drug conjugate composed of the anti-mitotic agent monomethyl auristatin E (MMAE) covalently conjugated to a CD79b-directed monoclonal antibody (recombinant humanized immunoglobulin G1 [IgG1], produced in Chinese Hamster Ovary cells by recombinant DNA technology).
+Polatuzumab vedotin is an antibody-drug conjugate composed of the anti-mitotic agent monomethyl auristatin E (MMAE) covalently conjugated to a CD79b-directed monoclonal antibody (recombinant humanised immunoglobulin G1 [IgG1], produced in Chinese Hamster Ovary cells by recombinant DNA technology).
 
-## Excipient with known effect
-
-Each 30 mg vial of Polivy contains 1.8 mg of polysorbate 20. Each 140 mg vial of Polivy contains 8.4 mg of polysorbate 20. For the full list of excipients, see section 6.1.
+Excipient with known effect Each 30 mg vial of Polivy contains 1.8 mg of polysorbate 20. Each 140 mg vial of Polivy contains 8.4 mg of polysorbate 20. For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
 Powder for concentrate for solution for infusion (powder for concentrate).
 
-White to greyish-white lyophilized cake.
+White to greyish-white lyophilised cake.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -68,9 +64,9 @@ Polivy in combination with bendamustine and rituximab is indicated for the treat
 
 Polivy must only be administered under the supervision of a healthcare professional experienced in the diagnosis and treatment of cancer patients.
 
-## Posology
-
 <div style=\"page-break-after: always\"></div>
+
+## Posology
 
 ## Diffuse large B-cell lymphoma
 
@@ -82,7 +78,7 @@ Refer to the summary of product characteristics (SmPC) of chemotherapy agents gi
 
 ## Relapsed or refractory patients
 
-The recommended dose of Polivy is 1.8 mg/kg, given as an intravenous infusion every 21 days in combination with bendamustine and rituximab for 6 cycles. Polivy, bendamustine and rituximab can be administered in any order on Day 1 of each cycle. When administered with Polivy, the recommended dose of bendamustine is 90 mg/m 2 /day on Day 1 and Day 2 of each cycle and the recommended dose of rituximab is 375 mg/m 2  on Day 1 of each cycle. Due to limited clinical experience in patients treated with 1.8 mg/kg Polivy at a total dose  240 mg, it is recommended not to exceed the dose 240 mg/cycle.
+The recommended dose of Polivy is 1.8 mg/kg, given as an intravenous infusion every 21 days in combination with bendamustine and rituximab for 6 cycles. Polivy, bendamustine and rituximab can be administered in any order on Day 1 of each cycle. When administered with Polivy, the recommended dose of bendamustine is 90 mg/m 2 /day on Day 1 and Day 2 of each cycle and the recommended dose of rituximab is 375 mg/m 2 on Day 1 of each cycle. Due to limited clinical experience in patients treated with 1.8 mg/kg Polivy at a total dose 240 mg, it is recommended not to exceed the dose 240 mg/cycle.
 
 ## Previously untreated and relapsed or refractory patients
 
@@ -102,17 +98,17 @@ For dose modifications to manage peripheral neuropathy (section 4.4) see Table 1
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 1 Polivy dose modifications for peripheral neuropathy (PN)
+Table 1 Polivy dose modifications for peripheral neuropathy (PN)
 
-| Indication                 | Severity of PN on Day 1 of any cycle   | Dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|----------------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Previously untreated DLBCL | Grade 2 a                              | Sensory neuropathy:  Reduce Polivy to 1.4 mg/kg.  If Grade 2 persists or recurs at Day 1 of a future cycle, reduce Polivy to 1.0 mg/kg.  If already at 1.0 mg/kg and Grade 2 occurs at Day 1 of a future cycle, discontinue Polivy. Motor neuropathy:  Withhold Polivy dosing until improvement to Grade ≤ 1.  Restart Polivy at the next cycle at 1.4 mg/kg.  If already at 1.4 mg/kg and Grade 2 occurs at Day 1 of a future cycle, withhold Polivy dosing until improvement to Grade ≤ 1. Restart Polivy at 1.0 mg/kg.  If already at 1.0 mg/kg and Grade 2 occurs at Day 1 of a future cycle, discontinue Polivy. If concurrent sensory and motor neuropathy, follow the most severe restriction recommendation above. |
-|                            | Grade 3 a                              | Sensory neuropathy:  Withhold Polivy dosing until improvement to Grade ≤ 2.  Reduce Polivy to 1.4 mg/kg.  If already at 1.4 mg/kg, reduce Polivy to 1.0 mg/kg. If already at 1.0 mg/kg, discontinue Polivy. Motor neuropathy:  Withhold Polivy dosing until improvement to Grade ≤ 1.  Restart Polivy at the next cycle at 1.4 mg/kg.  If already at 1.4 mg/kg and Grade 2-3 occurs, withhold Polivy dosing until improvement to Grade ≤ 1. Restart Polivy at 1.0 mg/kg.  If already at 1.0 mg/kg and Grade 2-3 occurs, discontinue Polivy. If concurrent sensory and motor neuropathy, follow the most severe restriction recommendation above.                                                                           |
-|                            | Grade 4                                | Discontinue Polivy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| R/R DLBCL                  | Grade 2-3                              | Withhold Polivy dosing until improvement to ≤ Grade 1. If recovered to Grade ≤ 1 on or before Day 14, restart Polivy at a permanently reduced dose of 1.4 mg/kg. If a prior dose reduction to 1.4 mg/kg has occurred, discontinue Polivy. If not recovered to Grade ≤ 1 on or before Day 14, discontinue Polivy.                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                            | Grade 4                                | Discontinue Polivy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Indication                 | Severity of PN on Day 1 of any cycle   | Dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|----------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Previously untreated DLBCL | Grade 2 a                              | Sensory neuropathy:  Reduce Polivy to 1.4 mg/kg.  If Grade 2 persists or recurs at Day 1 of a future cycle, reduce Polivy to 1.0 mg/kg.  If already at 1.0 mg/kg and Grade 2 occurs at Day 1 of a future cycle, discontinue Polivy. Motor neuropathy:  Withhold Polivy dosing until improvement to Grade ≤1.  Restart Polivy at the next cycle at 1.4 mg/kg.  If already at 1.4 mg/kg and Grade 2 occurs at Day 1 of a future cycle, withhold Polivy dosing until improvement to Grade ≤ 1. Restart Polivy at 1.0 mg/kg.  If already at 1.0 mg/kg and Grade 2 occurs at Day 1 of a future cycle, discontinue Polivy. If concurrent sensory and motor neuropathy, follow the most severe restriction recommendation above. |
+|                            | Grade 3 a                              | Sensory neuropathy:  Withhold Polivy dosing until improvement to Grade ≤ 2.  Reduce Polivy to 1.4 mg/kg.  If already at 1.4 mg/kg, reduce Polivy to 1.0 mg/kg. If already at 1.0 mg/kg, discontinue Polivy. Motor neuropathy:  Withhold Polivy dosing until improvement to Grade ≤ 1.  Restart Polivy at the next cycle at 1.4 mg/kg.  If already at 1.4 mg/kg and Grade 2-3 occurs, withhold Polivy dosing until improvement to Grade ≤ 1. Restart Polivy at 1.0 mg/kg.  If already at 1.0 mg/kg and Grade 2-3 occurs, discontinue Polivy. If concurrent sensory and motor neuropathy, follow the most severe restriction recommendation above.                                                                          |
+|                            | Grade 4                                | Discontinue Polivy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| R/R DLBCL                  | Grade 2-3                              | Withhold Polivy dosing until improvement to ≤ Grade 1. If recovered to Grade ≤ 1 on or before Day 14, restart Polivy at a permanently reduced dose of 1.4 mg/kg. If a prior dose reduction to 1.4 mg/kg has occurred, discontinue Polivy. If not recovered to Grade ≤ 1 on or before Day 14, discontinue Polivy.                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                            | Grade 4                                | Discontinue Polivy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-a  R-CHP may continue to be administered.
+a R-CHP may continue to be administered.
 
 For dose modifications to manage myelosuppression (section 4.4) see Table 2 below.
 
@@ -139,7 +135,7 @@ Table 3 Polivy dose modifications for Infusion-related reactions (IRRs)
 
 | Indication                         | Severity of IRR on Day 1 of any cycle   | Dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Previously untreated and R/R DLBCL | Grade 1-3 IRR                           | Interrupt Polivy infusion and give supportive treatment. For the first instance of Grade 3 wheezing, bronchospasm, or generalized urticaria, permanently discontinue Polivy. For recurrent Grade 2 wheezing or urticaria, or for recurrence of any Grade 3 symptoms, permanently discontinue Polivy. Otherwise, upon complete resolution of symptoms, infusion may be resumed at 50% of the rate achieved prior to interruption. In the absence of infusion-related symptoms, the rate of infusion may be escalated in increments of 50 mg/hour every 30 minutes. For the next cycle, infuse Polivy over 90 minutes. If no infusion-related reaction occurs, subsequent infusions may be administered over 30 minutes. Administer premedication for all cycles. |
+| Previously untreated and R/R DLBCL | Grade 1-3 IRR                           | Interrupt Polivy infusion and give supportive treatment. For the first instance of Grade 3 wheezing, bronchospasm, or generalised urticaria, permanently discontinue Polivy. For recurrent Grade 2 wheezing or urticaria, or for recurrence of any Grade 3 symptoms, permanently discontinue Polivy. Otherwise, upon complete resolution of symptoms, infusion may be resumed at 50% of the rate achieved prior to interruption. In the absence of infusion-related symptoms, the rate of infusion may be escalated in increments of 50 mg/hour every 30 minutes. For the next cycle, infuse Polivy over 90 minutes. If no infusion-related reaction occurs, subsequent infusions may be administered over 30 minutes. Administer premedication for all cycles. |
 | Previously untreated and R/R DLBCL | Grade 4 IRR                             | Stop Polivy infusion immediately. Give supportive treatment. Permanently discontinue Polivy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Special populations
@@ -150,7 +146,7 @@ No dose adjustment of Polivy is required in patients ≥ 65 years of age (see se
 
 ## Renal impairment
 
-No dose adjustment of Polivy is required in patients with creatinine clearance (CrCL) ≥ 30 mL/min. A recommended dose has not been determined for patients with CrCL &lt; 30mL/min due to limited data.
+No dose adjustment of Polivy is required in patients with creatinine clearance (CrCL) ≥ 30 mL/min. A recommended dose has not been determined for patients with CrCL &lt; 30 mL/min due to limited data.
 
 ## Hepatic impairment
 
@@ -168,9 +164,9 @@ The safety and efficacy in children and adolescents less than 18 years have not 
 
 ## Polivy is for intravenous use.
 
-The initial dose of Polivy should be administered as a 90-minute intravenous infusion. Patients should be monitored for IRRs/hypersensitivity reactions during the infusion and for at least 90 minutes following completion of the initial dose.
-
 <div style=\"page-break-after: always\"></div>
+
+The initial dose of Polivy should be administered as a 90-minute intravenous infusion. Patients should be monitored for IRRs/hypersensitivity reactions during the infusion and for at least 90 minutes following completion of the initial dose.
 
 If the prior infusion was well tolerated, the subsequent dose of Polivy may be administered as a 30-minute infusion and patients should be monitored during the infusion and for at least 30 minutes after completion of the infusion.
 
@@ -210,7 +206,7 @@ Serious, life threatening or fatal infections, including opportunistic infection
 
 Polivy has not been evaluated in patients with HIV. With regard to co-administration of CYP3A-inhibitors see section 4.5.
 
-## Immunization
+## Immunisation
 
 Live or live-attenuated vaccines should not be given concurrently with the treatment. Studies have not been conducted in patients who recently received live vaccines.
 
@@ -238,9 +234,9 @@ In non-clinical studies, polatuzumab vedotin has resulted in testicular toxicity
 
 ## Elderly
 
-Among 435 previously untreated DLBCL patients treated with Polivy in combination with R-CHP in Study GO39942, 227 (52.2%) were ≥ 65 years of age. Patients aged ≥ 65 had an incidence of serious adverse reactions of 39.2% and 28.4% in patients aged &lt; 65. A similar incidence of serious adverse reactions was seen in elderly patients in the R-CHOP treatment arm.
-
 <div style=\"page-break-after: always\"></div>
+
+Among 435 previously untreated DLBCL patients treated with Polivy in combination with R-CHP in Study GO39942, 227 (52.2%) were ≥ 65 years of age. Patients aged ≥ 65 had an incidence of serious adverse reactions of 39.2% and 28.4% in patients aged &lt; 65. A similar incidence of serious adverse reactions was seen in elderly patients in the R-CHOP treatment arm.
 
 Among 151 previously treated DLBCL patients treated with Polivy in combination with bendamustine and rituximab (BR) in Study GO29365, 103 (68%) were ≥ 65 years of age. Patients aged ≥ 65 had a similar incidence of serious adverse reactions (55%) to patients aged &lt; 65 (56%). Clinical studies of Polivy did not include sufficient numbers of patients aged ≥ 65 to determine whether they respond differently from younger patients.
 
@@ -258,7 +254,7 @@ Based on clinical decision the remaining dose may be administered in an alternat
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
-This medicinal product contains polysorbate 20. Each vial of Polivy 30 mg powder for concentrate for solution for infusion contains 1.8 mg of polysorbate 20. Each vial of Polivy 140 mg powder for concentrate for solution for infusion contains 8.4 mg of polysorbate 20, which is equivalent to 1.2 mg/ml. Polysorbate 20 may cause allergic reactions.
+This medicinal product contains polysorbate 20. Each vial of Polivy 30 mg powder for concentrate for solution for infusion contains 1.8 mg of polysorbate 20. Each vial of Polivy 140 mg powder for concentrate for solution for infusion contains 8.4 mg of polysorbate 20, which is equivalent to 1.2 mg/mL. Polysorbate 20 may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -270,9 +266,9 @@ Based on physiological-based pharmacokinetic (PBPK) model simulations of MMAE re
 
 Unconjugated MMAE is not predicted to alter the AUC of concomitant medicines that are CYP3A4 substrates (e.g., midazolam).
 
-Strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenobarbital, phenytoin, St John's wort [ Hypericum perforatum ]) may decrease the exposure of unconjugated MMAE.
-
 <div style=\"page-break-after: always\"></div>
+
+Strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenobarbital, phenytoin, St John's wort [Hypericum perforatum]) may decrease the exposure of unconjugated MMAE.
 
 Drug interactions of rituximab, bendamustine, cyclophosphamide, and doxorubicin in combination with polatuzumab vedotin
 
@@ -310,51 +306,51 @@ Therefore, men being treated with this medicine are advised to have sperm sample
 
 Polivy has minor influence on the ability to drive and use machines. IRRs, PN, fatigue, and dizziness may occur during treatment with Polivy (see sections 4.4 and 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
-
-<div style=\"page-break-after: always\"></div>
 
 The safety of Polivy has been evaluated in 435 patients in Study GO39942 (POLARIX). The ADRs described in section 4.8 were identified:
 
 -  during treatment and follow-up of previously untreated DLBCL patients from the pivotal clinical trial GO39942 (POLARIX), who received Polivy plus R-CHP (n=435) or R-CHOP (n=438). In the Polivy plus R-CHP group, 91.7% received 6 cycles of Polivy versus 88.5% of patients who received 6 cycles of vincristine in the R-CHOP group.
 
-## In previously untreated DLBCL patients treated with Polivy plus R-CHP:
+In previously untreated DLBCL patients treated with Polivy plus R-CHP:
 
--  The most frequently-reported ( ≥ 30%) adverse drug reactions (ADRs) in patients treated with Polivy plus R-CHP for previously untreated DLBCL were neuropathy peripheral (52.9%), nausea (41.6%), neutropenia (38.4%), and diarrhoea (30.8%).
+-  The most frequently-reported (≥ 30%) adverse drug reactions (ADRs) in patients treated with Polivy plus R-CHP for previously untreated DLBCL were neuropathy peripheral (52.9%), nausea (41.6%), neutropenia (38.4%), and diarrhoea (30.8%).
 -  Serious adverse reactions were reported in 24.1% of Polivy plus R-CHP treated patients.
 -  The most common serious adverse reactions reported in ≥ 5% of patients were febrile neutropenia (10.6%) and pneumonia (5.3%).
 -  The ADRs leading to treatment regimen discontinuation in &gt; 1% of patients treated with Polivy plus R-CHP was pneumonia (1.1%).
 
 The safety of Polivy has been evaluated in 151 patients in Study GO29365. The ADRs described in section 4.8 were identified:
 
--  during treatment and follow-up of previously treated DLBCL patients (n=151) from the pivotal clinical trial GO29365. This includes run-in phase patients (n=6), randomized patients (n=39), and extension cohort patients (n=106) who received Polivy plus BR compared to randomized patients (n=39) who received BR alone. Patients in the treatment arms received a median of 5 cycles of treatment while randomized patients in the comparator arm received a median of 3 cycles of treatment.
+-  during treatment and follow-up of previously treated DLBCL patients (n=151) from the pivotal clinical trial GO29365. This includes run-in phase patients (n=6), randomised patients (n=39), and extension cohort patients (n=106) who received Polivy plus BR compared to randomised patients (n=39) who received BR alone. Patients in the treatment arms received a median of 5 cycles of treatment while randomised patients in the comparator arm received a median of 3 cycles of treatment.
 
-## In previously treated DLBCL patients treated with Polivy plus BR:
+In previously treated DLBCL patients treated with Polivy plus BR:
 
--  The most frequently reported ( ≥ 30%) ADRs (all grades) in patients treated with Polivy plus BR in previously treated DLBCL were neutropenia (45.7%), diarrhoea (35.8%), nausea (33.1%), thrombocytopenia (32.5%), anaemia (31.8%) and neuropathy peripheral (30.5%).
+-  The most frequently reported (≥ 30%) ADRs (all grades) in patients treated with Polivy plus BR in previously treated DLBCL were neutropenia (45.7%), diarrhoea (35.8%), nausea (33.1%), thrombocytopenia (32.5%), anaemia (31.8%) and neuropathy peripheral (30.5%).
 -  Serious adverse reactions were reported in 41.7% of Polivy plus BR treated patients.
 -  The most common serious adverse reactions reported in ≥ 5% of patients were: febrile neutropenia (10.6%), sepsis (9.9%), pneumonia (8.6%) and pyrexia (7.9%).
 -  The ADR leading to treatment regimen discontinuation in &gt; 5% of patients treated with Polivy plus BR was thrombocytopenia (7.9%).
 
 ## Tabulated list of ADRs from clinical trials
 
-The ADRs in 586 patients treated with Polivy are presented in Table 4. The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency. The corresponding frequency category for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+The ADRs in 586 patients treated with Polivy are presented in Table 4. The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency. The corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 ## Table 4 Tabulated list of ADRs in patients treated with Polivy in clinical trials
 
-| Infections and infestations          | Infections and infestations                                                                |
-|--------------------------------------|--------------------------------------------------------------------------------------------|
-| Very common                          | pneumonia a , upper respiratory tract infection                                            |
-| Common                               | sepsis a , herpes virus infection a , cytomegalovirus infection, urinary tract infection c |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                       |
-| Very common                          | febrile neutropenia, neutropenia, thrombocytopenia, anaemia, leukopenia                    |
+| Infections and infestations   | Infections and infestations                                                                |
+|-------------------------------|--------------------------------------------------------------------------------------------|
+| Very common                   | pneumonia a , upper respiratory tract infection                                            |
+| Common                        | sepsis a , herpes virus infection a , cytomegalovirus infection, urinary tract infection c |
 
 <div style=\"page-break-after: always\"></div>
 
-| Common                                               | lymphopenia, pancytopenia                                               |
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                    |
 |------------------------------------------------------|-------------------------------------------------------------------------|
+| Very common                                          | febrile neutropenia, neutropenia, thrombocytopenia, anaemia, leukopenia |
+| Common                                               | lymphopenia, pancytopenia                                               |
 | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                      |
 | Very common                                          | hypokalaemia, decreased appetite                                        |
 | Common                                               | hypocalcaemia, hypoalbuminemia                                          |
@@ -368,10 +364,12 @@ The ADRs in 586 patients treated with Polivy are presented in Table 4. The ADRs 
 | Common                                               | pneumonitis, dyspnoea c                                                 |
 | Gastrointestinal disorders                           | Gastrointestinal disorders                                              |
 | Very common                                          | diarrhoea, nausea, constipation, vomiting, mucositis c , abdominal pain |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                 |
+| Common                                               | transaminases increased                                                 |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                  |
 | Very common                                          | alopecia c                                                              |
 | Common                                               | pruritus, skin infections c , rash c , dry skin c                       |
-| Musculoskeletal disorders                            | Musculoskeletal disorders                                               |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                         |
 | Common                                               | arthralgia, myalgia c                                                   |
 | General disorders and administration site conditions | General disorders and administration site conditions                    |
 | Very common                                          | pyrexia, fatigue, asthenia                                              |
@@ -380,16 +378,20 @@ The ADRs in 586 patients treated with Polivy are presented in Table 4. The ADRs 
 | Investigations                                       | Investigations                                                          |
 | Very common                                          | weight decreased                                                        |
 | Common                                               | lipase increase b , hypophosphataemia                                   |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                 |
-| Common                                               | transaminases increased                                                 |
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                          |
 | Very Common                                          | infusion related reaction                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+a ADR associated with fatal outcome
+
+b ADRs observed in relapsed or refractory DLBCL only.
+
+c ADRs observed in previously untreated DLBCL only.
 
 The listed ADRs were observed in both previously untreated DLBCL and relapsed or refractory DLBCL except where indicated with footnotes.
 
 Rare and very rare ADRs: none
-
-<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse drug reactions
 
@@ -409,9 +411,9 @@ In an open-label study GO29365, in the Polivy plus BR arms, Grade 1 PN and Grade
 
 In a placebo-controlled study GO39942 (POLARIX), infections, including pneumonia and other types of infections, were reported in 49.7% of patients in the Polivy plus R-CHP arm and 42.7% of patients in the R-CHOP arm. Grade 3-4 infections occurred in 14.0% of patients in the Polivy plus R-CHP arm and 11.2% of patients in the R-CHOP arm. In the Polivy plus R-CHP arm, serious infections were reported in 14.0% of patients and fatal infections were reported in 1.1% of patients. In the R-CHOP arm, serious infections were reported in 10.3% of patients and fatal infections were reported in 1.4% of patients. 7 patients (1.6%) in the Polivy plus R-CHP arm discontinued treatment due to infection compared to 10 patients (2.3%) in the R-CHOP arm.
 
-In an open-label study GO29365, infections, including pneumonia and other types of infections, were reported in 48.3% of patients in the Polivy plus BR arms and 51.3% of patients in the BR arm. In the Polivy plus BR arms, serious infections were reported in 27.2% of patients and fatal infections were reported in 6.6% of patients. In the BR arm, serious infections were reported in 30.8% of patients and fatal infections were reported in 10.3% of patients. Four patients (2.6%) in the Polivy plus BR arms discontinued treatment due to infection compared to 2 patients (5.1%) in the BR arm.
-
 <div style=\"page-break-after: always\"></div>
+
+In an open-label study GO29365, infections, including pneumonia and other types of infections, were reported in 48.3% of patients in the Polivy plus BR arms and 51.3% of patients in the BR arm. In the Polivy plus BR arms, serious infections were reported in 27.2% of patients and fatal infections were reported in 6.6% of patients. In the BR arm, serious infections were reported in 30.8% of patients and fatal infections were reported in 10.3% of patients. Four patients (2.6%) in the Polivy plus BR arms discontinued treatment due to infection compared to 2 patients (5.1%) in the BR arm.
 
 ## Progressive multifocal leukoencephalopathy (PML)
 
@@ -421,13 +423,13 @@ In an open-label study GO29365, one case of PML, which was fatal, occurred in on
 
 ## Hepatic toxicity
 
-In a placebo-controlled study GO39942 (POLARIX), hepatic toxicity was reported in 10.6% of patients in the Polivy plus R-CHP arm and 7.3% of patients in the R-CHOP arm. In the Polivy plus RCHP arm, most events were Grade 1  2 (8.7%); Grade 3 events were reported in 1.8% of patients. There were no Grade 4 or 5 events. Serious hepatic toxicity events were reported in 1 patient (0.2%) and were reversible.
+In a placebo-controlled study GO39942 (POLARIX), hepatic toxicity was reported in 10.6% of patients in the Polivy plus R-CHP arm and 7.3% of patients in the R-CHOP arm. In the Polivy plus RCHP arm, most events were Grade 12 (8.7%); Grade 3 events were reported in 1.8% of patients. There were no Grade 4 or 5 events. Serious hepatic toxicity events were reported in 1 patient (0.2%) and were reversible.
 
 In another study, two cases of serious hepatic toxicity (hepatocellular injury and hepatic steatosis) were reported and were reversible.
 
 ## Gastrointestinal toxicity
 
-In a placebo-controlled study GO39942 (POLARIX), gastrointestinal toxicity events were reported in 76.1% of patients in the Polivy plus R-CHP arm compared to 71.9% of patients in the R-CHOP arm. Most events were Grade 1-2, and Grade  3 events were reported in 9.7% of patients in the Polivy plus R-CHP arm compared to 8.2% of patients in the R-CHOP arm. The most common gastrointestinal toxicity events were nausea and diarrhoea.
+In a placebo-controlled study GO39942 (POLARIX), gastrointestinal toxicity events were reported in 76.1% of patients in the Polivy plus R-CHP arm compared to 71.9% of patients in the R-CHOP arm. Most events were Grade 1-2, and Grade 3 events were reported in 9.7% of patients in the Polivy plus R-CHP arm compared to 8.2% of patients in the R-CHOP arm. The most common gastrointestinal toxicity events were nausea and diarrhoea.
 
 In an open-label study GO29365, gastrointestinal toxicity events were reported in 72.8% of patients in the Polivy plus BR arms compared to 66.7% of patients in the BR arm. Most events were Grade 1-2, and Grade 3-4 events were reported in 16.5% of patients in the Polivy plus BR arms compared to 12.9% of patients in the BR arm. The most common gastrointestinal toxicity events were diarrhoea and nausea.
 
@@ -443,13 +445,15 @@ There is no experience with overdose in human clinical trials. The highest dose 
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents; other antineoplastic agents; monoclonal antibodies ATC code: L01FX14
+<div style=\"page-break-after: always\"></div>
+
+Pharmacotherapeutic group: antineoplastic agents; Other monoclonal antibodies and antibody drug conjugates
+
+## ATC code: L01FX14
 
 ## Mechanism of action
 
-Polatuzumab vedotin is a CD79b-targeted antibody-drug conjugate that preferentially delivers a potent anti-mitotic agent (monomethyl auristatin E, or MMAE) to B-cells, which results in the killing of malignant B-cells. The polatuzumab vedotin molecule consists of MMAE covalently attached to a humanized immunoglobulin G1 monoclonal antibody via a cleavable linker. The monoclonal antibody binds with high affinity and selectivity to CD79b, a cell surface component of the B-cell receptor. CD79b expression is restricted to normal cells within the B-cell lineage (with the exception of plasma cells) and malignant B-cells; it is expressed in  95% of diffuse large B-cell lymphoma. Upon binding CD79b, polatuzumab vedotin is rapidly internalized and the linker is cleaved by lysosomal proteases to enable intracellular delivery of MMAE. MMAE binds to microtubules and kills dividing cells by inhibiting cell division and inducing apoptosis.
-
-<div style=\"page-break-after: always\"></div>
+Polatuzumab vedotin is a CD79b-targeted antibody-drug conjugate that preferentially delivers a potent anti-mitotic agent (monomethyl auristatin E, or MMAE) to B-cells, which results in the killing of malignant B-cells. The polatuzumab vedotin molecule consists of MMAE covalently attached to a humanised immunoglobulin G1 monoclonal antibody via a cleavable linker. The monoclonal antibody binds with high affinity and selectivity to CD79b, a cell surface component of the B-cell receptor. CD79b expression is restricted to normal cells within the B-cell lineage (with the exception of plasma cells) and malignant B-cells; it is expressed in  95% of diffuse large B-cell lymphoma. Upon binding CD79b, polatuzumab vedotin is rapidly internalised and the linker is cleaved by lysosomal proteases to enable intracellular delivery of MMAE. MMAE binds to microtubules and kills dividing cells by inhibiting cell division and inducing apoptosis.
 
 ## Pharmacodynamic effects
 
@@ -461,11 +465,11 @@ Polatuzumab vedotin did not prolong the mean QTc interval to any clinically rele
 
 ## Previously untreated DLBCL
 
-The efficacy of Polivy was evaluated in an international, multicenter, randomized double-blind, placebo-controlled study (POLARIX, GO39942) in 879 patients with previously untreated DLBCL.
+The efficacy of Polivy was evaluated in an international, multicentre, randomised double-blind, placebo-controlled study (POLARIX, GO39942) in 879 patients with previously untreated DLBCL.
 
 Eligible patients were age 18-80, and had IPI score 2-5, and ECOG Performance Status 0-2. Histologies included DLBCL (not otherwise specified (NOS), activated B-cell (ABC), germinal center B-cell (GCB)), HGBL (NOS, double-hit, triple-hit), and other large B-cell lymphoma subtypes (EBV positive, T-cell rich/histiocyte rich). Patients did not have known CNS lymphoma or peripheral neuropathy &gt; Grade 1.
 
-Patients were randomized 1:1 to receive Polivy plus R-CHP or R-CHOP for six 21-day cycles followed by two additional cycles of rituximab alone in both arms. Patients were stratified by IPI score (2 vs 3-5), presence or absence of bulky disease (lesion ≥ 7.5 cm), and geographical region.
+Patients were randomised 1:1 to receive Polivy plus R-CHP or R-CHOP for six 21-day cycles followed by two additional cycles of rituximab alone in both arms. Patients were stratified by IPI score (2 vs 3-5), presence or absence of bulky disease (lesion ≥ 7.5 cm), and geographical region.
 
 Polivy was administered intravenously at 1.8 mg/kg on Day 1 of Cycles 1-6. R-CHP or R-CHOP were administered starting on Day 1 of Cycles 1-6 followed by rituximab alone on Day 1 of Cycles 7-8. Dosing in each treatment arm was administered according to the following:
 
@@ -476,9 +480,9 @@ The two treatment groups were generally balanced with respect to baseline demogr
 
 211 patients did not have a cell of origin (COO) result reported. Of the COO evaluable population (n=668), 33.1% of patients had ABC like DLBCL and 52.7% of patients had GCB like DLBCL, by gene expression profiling.
 
-The primary endpoint of the study was investigator-assessed progression free survival. The median duration of follow up was 28.2 months. Efficacy results are summarized in Table 5 and in Figure 1.
-
 <div style=\"page-break-after: always\"></div>
+
+The primary endpoint of the study was investigator-assessed progression free survival. The median duration of follow up was 28.2 months. Efficacy results are summarised in Table 5 and in Figure 1.
 
 Table 5 Summary of efficacy in patients with previously untreated DLBCL from Study GO39942 (POLARIX)
 
@@ -492,7 +496,7 @@ Table 5 Summary of efficacy in patients with previously untreated DLBCL from Stu
 | 2-year PFS estimate (%)                             | 76.7                   | 70.2               |
 | [95% CI]                                            | [72.65, 80.76]         | [65.80, 74.61]     |
 | Key secondary endpoints                             |                        |                    |
-| Event-free survival (EFS eff ) 1                    |                        |                    |
+| Event-free survival (EFSeff) 1                      |                        |                    |
 | Number (%) of patients with event                   | 112 (25.5%)            | 138 (31.4%)        |
 | HR [95% CI]                                         | 0.75 [0.58, 0.96]      | 0.75 [0.58, 0.96]  |
 | p-value 3, **                                       | 0.0244                 | 0.0244             |
@@ -505,12 +509,15 @@ Table 5 Summary of efficacy in patients with previously untreated DLBCL from Stu
 | Partial response (%) (PR)                           | 33 (7.5%)              | 43 (9.8%)          |
 | 95% CI Clopper-Pearson                              | [5.22, 10.37]          | [7.18, 12.97]      |
 
-INV: Investigator; BICR: Blinded independent central review; CI: Confidence interval; HR: Hazard ratio; PFS: Progression free survival; EFSeff: Event free survival efficacy: used to reflect EFS events that are due to efficacy and defined as time from date of randomization to the earliest occurrence of any of the following: disease progression/relapse, death due to any cause, the primary efficacy reason determined by the investigator, other than disease progression/relapse, that led to initiation of any non-protocol specified anti-lymphoma treatment (NALT), if biopsy was obtained after treatment completion and was positive for residual disease regardless of whether NALT was initiated or not; CMH: Cochran-Mantel-Haenszel
+INV: Investigator; BICR: Blinded independent central review; CI: Confidence interval; HR: Hazard ratio; PFS: Progression free survival; EFSeff: Event free survival efficacy: used to reflect EFS events that are due to efficacy and defined as time from date of randomisation to the earliest occurrence of any of the following: disease progression/relapse, death due to any cause, the primary efficacy reason determined by the investigator, other than disease progression/relapse, that led to initiation of any non-protocol specified anti-lymphoma treatment (NALT), if biopsy was obtained after treatment completion and was positive for residual disease regardless of whether NALT was initiated or not; CMH: Cochran-Mantel-Haenszel
 
-- 1) INV-assessed
-- 2) BICR-assessed
-- 3) Log-rank test, stratified
-4. *Per Lugano 2014 Response Criteria
+1 INV-assessed
+
+2 BICR-assessed
+
+3 Log-rank test, stratified
+
+*Per Lugano 2014 Response Criteria
 
 **Stratified by IPI (2 vs 3-5), presence or absence of bulky disease, geography
 
@@ -524,37 +531,47 @@ Figure 1 Kaplan Meier curve of INV-assessed progression-free survival (PFS) in S
 
 ## Relapsed or refractory DLBCL
 
-The efficacy of Polivy was evaluated in an international, multicentre, open-label study (GO29365) which included a randomized cohort of 80 patients with previously treated DLBCL. Patients were randomized 1:1 to receive Polivy plus BR or BR alone for six 21-day cycles. Patients were stratified by duration of response to last prior treatment of ≤ 12 months or &gt; 12 months.
+The efficacy of Polivy was evaluated in an international, multicentre, open-label study (GO29365) which included a randomised cohort of 80 patients with previously treated DLBCL. Patients were randomised 1:1 to receive Polivy plus BR or BR alone for six 21-day cycles. Patients were stratified by duration of response to last prior treatment of ≤ 12 months or &gt; 12 months.
 
 Eligible patients were not candidates for autologous haematopoietic stem cell transplant (HSCT) and had relapsed or refractory disease after receiving at least one prior systemic chemotherapy regimen. The study excluded patients with prior allogeneic HSCT, central nervous system lymphoma, transformed indolent lymphoma, grade 3b FL, significant cardiovascular or pulmonary disease, active infections, AST or alanine transaminase (ALT) &gt; 2.5  ULN or total bilirubin ≥ 1.5  ULN, creatinine &gt; 1.5  ULN (or CrCl &lt; 40 mL/min) unless due to underlying lymphoma.
 
-Polivy was given intravenously at 1.8 mg/kg administered on Day 2 of Cycle 1 and on Day 1 of Cycles 2-6. Bendamustine was administered at 90 mg/m 2  intravenously daily on Days 2 and 3 of Cycle 1 and on Days 1 and 2 of Cycles 2-6. Rituximab was administered at 375 mg/m 2 on Day 1 of Cycles 1-6.
+Polivy was given intravenously at 1.8 mg/kg administered on Day 2 of Cycle 1 and on Day 1 of Cycles 2-6. Bendamustine was administered at 90 mg/m 2 intravenously daily on Days 2 and 3 of Cycle 1 and on Days 1 and 2 of Cycles 2-6. Rituximab was administered at 375 mg/m 2 on Day 1 of Cycles 1-6.
 
-Among the 80 patients who were randomized to receive Polivy plus BR (n=40) or BR alone (n=40) the majority were white (71%) and male (66%). The median age was 69 years (range: 30-86 years). Sixty-four out of 80 patients (80%) had ECOG performance status (PS) of 0-1 and 14 out of 80 patients (18%) had ECOG PS of 2. The majority of patients (98%) had DLBCL not otherwise specified (NOS). Overall, 48% of patients had activated B-cell (ABC) DLBCL and 40% had germinal center B-cell like (GCB) DLBCL. Primary reasons patients were not candidates for HSCT included age (40%), insufficient response to salvage therapy (26%) and prior transplant failure (20%). The median number of prior therapies was 2 (range: 1-7), with 29% (n=23) receiving one prior therapy, 25% (n=20) receiving 2 prior therapies, and 46% (n=37) receiving 3 or more prior therapies. All except one patient in the pola+BR arm of the randomized Phase II were naïve to bendamustine treatment. 80% of patients had refractory disease. For patients who received polatuzumab vedotin plus BR and had CD3+ lymphocyte count evaluated, the absolute CD3+ lymphocyte count was
+Among the 80 patients who were randomised to receive Polivy plus BR (n=40) or BR alone (n=40) the majority were white (71%) and male (66%). The median age was 69 years (range: 30-86 years). Sixtyfour out of 80 patients (80%) had ECOG performance status (PS) of 0-1 and 14 out of 80 patients (18%) had ECOG PS of 2. The majority of patients (98%) had DLBCL not otherwise specified (NOS). Overall, 48% of patients had activated B-cell (ABC) DLBCL and 40% had germinal center B-cell like (GCB) DLBCL. Primary reasons patients were not candidates for HSCT included age (40%), insufficient response to salvage therapy (26%) and prior transplant failure (20%). The median number of prior therapies was 2 (range: 1-7), with 29% (n=23) receiving one prior therapy, 25% (n=20) receiving 2 prior therapies, and 46% (n=37) receiving 3 or more prior therapies. All except one patient in the pola+BR arm of the randomised Phase II were naïve to bendamustine treatment. 80% of patients had refractory disease. For patients who received polatuzumab vedotin plus BR and had CD3+ lymphocyte count evaluated, the absolute CD3+ lymphocyte count was &gt; 200 cells/µL in 95%, 79%
 
 <div style=\"page-break-after: always\"></div>
 
-&gt; 200 cells/ μ L in 95%, 79% and 83% of patients analyzed at prior to therapy (n=134), end of treatment (n=72) and 6 months after end of treatment (n=18), respectively.
+and 83% of patients analysed at prior to therapy (n=134), end of treatment (n=72) and 6 months after end of treatment (n=18), respectively.
 
 The primary endpoint of the study was complete response (CR) rate at end of treatment (6-8 weeks after Day 1 of Cycle 6 or last study treatment) as assessed by PET-CT by an Independent Review Committee (IRC).
 
 Table 6 Summary of efficacy in patients with previously treated DLBCL from study GO29365
 
-|                                                                                                                                                                                             | Polivy + bendamustine + rituximab N=40         | Bendamustine + rituximab N=40        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------|
-|                                                                                                                                                                                             | Median observation time 22 months              | Median observation time 22 months    |
-| Primary endpoint                                                                                                                                                                            |                                                |                                      |
-| Complete Response Rate* (IRC-assessed) at End of treatment** Responders (%) Difference in response rate (%) [95% CI] p-value (CMH chi-squared test***)                                      | 16 (40.0) 7 (17.5) 22.5 [2.6, 40.2] 0.0261     |                                      |
-| Key secondary and exploratory endpoints                                                                                                                                                     |                                                |                                      |
-| Duration of response (INV-assessed) Number of patients included in analysis Number (%) of patients with event Median DOR(95% CI), months HR [95% CI] p-value (Log-Rank test, stratified***) | 28 17 (60.7) 10.3 (5.6, NE) 0.44 [0.20, 0.0321 | 13 11 (84.6) 4.1 (2.6, 12.7) 0.95]   |
-| Overall Response Rate* (INV-assessed) at End of Treatment**                                                                                                                                 |                                                |                                      |
-| Responders (%) (CR, PR) Difference in response rate (%) [95% CI] p-value (CMH chi-squared test***)                                                                                          | 19 (47.5) 30.0 [9.5,                           | 7 (17.5) 47.4]                       |
-| Complete Response (%) (CR) Difference in response rate (%) [95% CI]                                                                                                                         | 0.0036 17 (42.5) 27.5 [7.7,                    | 6 (15.0) 44.7]                       |
-| p-value (CMH chi-squared test***) Partial Response (%) (PR) 95% CI Clopper-Pearson                                                                                                          | 0.0061 2 (5.0) [0.6, 16.9]                     | 1 (2.5) [0.06, 13.2]                 |
-| Best Overall Response Rate * (INV-assessed) Responders (%) (CR, PR) Difference in response rate (%) [95% CI] Complete Response (%) (CR) 95% CI Clopper-Pearson                              | 28 (70.0) 37.5 [15.6, 23 (57.5) [40.9, 73.0]   | 13 (32.5) 54.7] 8 (20.0) [9.1, 35.7] |
-| Partial Response (%) (PR)                                                                                                                                                                   |                                                | 5 (12.5)                             |
-|                                                                                                                                                                                             | 5 (12.5)                                       |                                      |
-| 95% CI Clopper-Pearson                                                                                                                                                                      | [4.2, 26.8]                                    | [4.2, 26.8]                          |
+|                                                                                                      | Polivy + bendamustine + rituximab N=40 - Median observation time 22 months   | Bendamustine + rituximab N=40 - Median observation time 22 months   |
+|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Primary endpoint                                                                                     |                                                                              |                                                                     |
+| Complete Response Rate* (IRC-assessed) at End of treatment**                                         |                                                                              |                                                                     |
+| Responders (%)                                                                                       | 16 (40.0)                                                                    | 7 (17.5)                                                            |
+| Difference in response rate (%) [95%CI] p-value (CMH chi-squared test***)                            | 22.5 [2.6, 40.2] 0.0261                                                      | 22.5 [2.6, 40.2] 0.0261                                             |
+| Key secondary and exploratory endpoints                                                              |                                                                              |                                                                     |
+| Duration of response (INV-assessed)                                                                  |                                                                              |                                                                     |
+| Number of patients included in analysis Number (%) of patients with event Median DOR (95%CI), months | 28 17 (60.7) 10.3 (5.6, NE)                                                  | 13 11 (84.6) 4.1 (2.6, 12.7)                                        |
+|                                                                                                      | 0.44 [0.20, 0.95]                                                            | 0.44 [0.20, 0.95]                                                   |
+| HR [95% CI] p-value (Log-Rank test, stratified***)                                                   | 0.0321                                                                       | 0.0321                                                              |
+| Overall Response Rate* (INV-assessed) at End of Treatment**                                          |                                                                              |                                                                     |
+| Responders (%) (CR, PR)                                                                              | 19 (47.5)                                                                    | 7 (17.5)                                                            |
+| Difference in response rate (%) [95% CI]                                                             | 30.0 [9.5, 47.4]                                                             | 30.0 [9.5, 47.4]                                                    |
+| p-value (CMH chi-squared test***) Complete Response (%) (CR)                                         | 0.0036 17 (42.5)                                                             | 6 (15.0)                                                            |
+| Difference in response rate (%) [95% CI]                                                             | 27.5 [7.7, 44.7]                                                             | 27.5 [7.7, 44.7]                                                    |
+| p-value (CMH chi-squared test***) Partial Response (%) (PR)                                          | 0.0061 2 (5.0)                                                               | 1 (2.5)                                                             |
+| 95% CI Clopper-Pearson                                                                               | [0.6, 16.9]                                                                  | [0.06, 13.2]                                                        |
+| Best Overall Response Rate * (INV-assessed)                                                          |                                                                              |                                                                     |
+| Responders (%) (CR, PR)                                                                              | 28 (70.0)                                                                    | 13 (32.5)                                                           |
+| Difference in response rate (%) [95% CI]                                                             | 37.5 [15.6, 54.7]                                                            | 37.5 [15.6, 54.7]                                                   |
+| Complete Response (%) (CR)                                                                           | 23 (57.5)                                                                    | 8 (20.0)                                                            |
+| 95% CI Clopper-Pearson Partial Response (%) (PR)                                                     | [40.9, 73.0] 5 (12.5)                                                        | [9.1, 35.7] 5 (12.5)                                                |
+| 95% CI Clopper-Pearson                                                                               | [4.2, 26.8]                                                                  | [4.2,                                                               |
+|                                                                                                      |                                                                              | 26.8]                                                               |
 
 Response; HR: Hazard Ratio; INV: Investigator; IRC: Independent Review Committee; NE: Not evaluable; PR: Partial Response Overall survival (OS) was an exploratory endpoint which was not type 1 error controlled. The median OS in the Polivy plus BR arm was 12.4 months (95% CI: 9.0, NE) vs 4.7 months (95% CI: 3.7, 8.3) in the control arm. The unadjusted estimate for OS HR was 0.42. When accounting for the influence of baseline covariates the OS HR was adjusted to 0.59. Covariates included primary refractory status, number of prior lines of therapy, IPI, and prior stem cell transplant.
 
@@ -562,7 +579,7 @@ Response; HR: Hazard Ratio; INV: Investigator; IRC: Independent Review Committee
 
 **6-8 weeks after Day 1 of Cycle 6 or last study treatment
 
-*** Stratification by duration of response to prior therapy ( ≤ 12 months vs &gt; 12 months)
+*** Stratification by duration of response to prior therapy (≤ 12 months vs &gt; 12 months)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -580,7 +597,7 @@ The European Medicines Agency has waived the obligation to submit results of stu
 
 ## 5.2 Pharmacokinetic properties
 
-Antibody-conjugated MMAE (acMMAE) plasma exposure increased dose-proportionally over the 0.1 to 2.4 mg/kg polatuzumab vedotin dose range. After the first 1.8 mg/kg polatuzumab vedotin dose, the acMMAE mean maximum concentration (Cmax) was 803 (±233) ng/mL and the area under the concentration-time curve from time zero to infinity (AUCinf) was 1860 (±966) day·ng/mL. Based on the population PK analysis, Cycle 3 acMMAE AUC increased by approximately 30% over Cycle 1 AUC, and achieved more than 90% of the Cycle 6 AUC. The terminal half-life at Cycle 6 was approximately 12 days (95% CI of 8.1-19.5 days) for acMMAE. Based on population PK analysis, the predicted acMMAE concentration at the end of Cycle 6 is approximately 80% of the theoretical steady-state value. Exposures of unconjugated MMAE, the cytotoxic component of polatuzumab vedotin, increased dose proportionally over the 0.1 to 2.4 mg/kg polatuzumab vedotin dose range. MMAE plasma concentrations followed formation rate limited kinetics. After the first 1.8 mg/kg polatuzumab vedotin dose, the Cmax was 6.82 (±4.73) ng/mL, the time to maximum plasma concentration is approximately 2.5 days, and the terminal half-life is approximately 4 days. Plasma exposures of unconjugated MMAE are &lt; 3% of acMMAE exposures. Based on the population PK analysis there is a decrease of plasma unconjugated MMAE exposure (AUC) after repeated everythree-week dosing.
+Antibody-conjugated MMAE (acMMAE) plasma exposure increased dose-proportionally over the 0.1 to 2.4 mg/kg polatuzumab vedotin dose range. After the first 1.8 mg/kg polatuzumab vedotin dose, the acMMAE mean maximum concentration (Cmax) was 803 (±233) ng/mL and the area under the concentration-time curve from time zero to infinity (AUCinf) was 1860 (±966) day ng/mL. Based on the population PK analysis, Cycle 3 acMMAE AUC increased by approximately 30% over Cycle 1 AUC, and achieved more than 90% of the Cycle 6 AUC. The terminal half-life at Cycle 6 was approximately 12 days (95% CI of 8.1-19.5 days) for acMMAE. Based on population PK analysis, the predicted acMMAE concentration at the end of Cycle 6 is approximately 80% of the theoretical steady-state value. Exposures of unconjugated MMAE, the cytotoxic component of polatuzumab vedotin, increased dose proportionally over the 0.1 to 2.4 mg/kg polatuzumab vedotin dose range. MMAE plasma concentrations followed formation rate limited kinetics. After the first 1.8 mg/kg polatuzumab vedotin dose, the Cmax was 6.82 (±4.73) ng/mL, the time to maximum plasma concentration is approximately 2.5 days, and the terminal half-life is approximately 4 days. Plasma exposures of unconjugated MMAE are &lt; 3% of acMMAE exposures. Based on the population PK analysis there is a decrease of plasma unconjugated MMAE exposure (AUC) after repeated everythree-week dosing.
 
 Based on population pharmacokinetics simulations, a post-hoc analysis predicted exposure to unconjugated MMAE for patients with bodyweight over 100 kg to be increased by not more than 55%.
 
@@ -592,7 +609,7 @@ Polivy is administered as an intravenous infusion. There have been no studies pe
 
 ## Distribution
 
-The population estimate of central volume of distribution for acMMAE was 3.15 L, which approximated plasma volume. In vitro , MMAE is moderately bound (71%-77%) to human plasma proteins. MMAE does not significantly partition into human red blood cells in vitro ; the blood to plasma ratio is 0.79 to 0.98.
+The population estimate of central volume of distribution for acMMAE was 3.15 L, which approximated plasma volume. In vitro, MMAE is moderately bound (71%-77%) to human plasma proteins. MMAE does not significantly partition into human red blood cells in vitro; the blood to plasma ratio is 0.79 to 0.98.
 
 In vitro data indicate that MMAE is a P-gp substrate but does not inhibit P-gp at clinically relevant concentrations.
 
@@ -672,19 +689,39 @@ Unopened vial
 
 ## Reconstituted solution
 
-From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C-8 °C), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 72 hours refrigerated (2 °C-8 °C) and up to 24 hours at room temperature (9 °C-25 °C).
+From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C-8 °C), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical stability of the prepared reconstituted solution has been demonstrated for the durations listed in Table 7. The reconstituted vial must be discarded if storage time exceeds the limits specified in Table 7.
+
+Table 7 Durations for which chemical and physical stability of the reconstituted solution have been demonstrated
+
+| Diluent used to prepare reconstituted solution   | Reconstituted solution storage conditions 1                                                     |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Sterile water for injection                      | Up to 168 hours refrigerated (2 °C  8 °C) or up to 24 hours at room temperature (9 °C  25 °C) |
+| 0.9% Bacteriostatic water for injection          | Up to 168 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C)  |
+| Sodium chloride 9 mg/mL (0.9%)                   | Up to 168 hours refrigerated (2 °C  8 °C) or up to 24 hours at room temperature (9 °C  25 °C) |
+| Sodium chloride 4.5 mg/mL (0.45%)                | Up to 168 hours refrigerated (2 °C  8 °C) or up to 24 hours at room temperature (9 °C  25 °C) |
 
 ## Diluted solution
 
-From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C-8 °C), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical stability of the prepared solution for infusion has been demonstrated for the durations listed in Table 7. The diluted solution must be discarded if storage time exceeds the limits specified in Table 7.
+From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C-8 °C), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical stability of the prepared solution for infusion has been demonstrated for the durations listed in Table 8. The diluted solution must be discarded if storage time exceeds the limits specified in Table 8.
 
-## Table 7 Durations for which chemical and physical stability of the prepared solution for infusion have been demonstrated
+Table 8 Durations for which chemical and physical stability of the prepared solution for infusion have been demonstrated
 
-| Diluent used to prepare solution for infusion   | Solution for infusion storage conditions 1                                                    |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Sodium chloride 9 mg/mL (0.9%)                  | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
-| Sodium chloride 4.5 mg/mL (0.45%)               | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
-| 5% glucose                                      | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
+| Diluent used to prepare reconstituted solution   | Diluent used to prepare solution for infusion   | Solution for infusion storage conditions 1                                                    |
+|--------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Sterile water for injection                      | Sodium chloride 9 mg/mL (0.9%)                  | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
+| Sterile water for injection                      | Sodium chloride 4.5 mg/mL (0.45%)               | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
+| Sterile water for injection                      | 5% glucose                                      | Up to 72 hours refrigerated (2 °C  8 °C) or                                                  |
+
+<div style=\"page-break-after: always\"></div>
+
+| Diluent used to prepare reconstituted solution                                                                 | Diluent used to prepare solution for infusion   | Solution for infusion storage conditions 1                                                    |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|                                                                                                                |                                                 | up to 8 hours at room temperature (9 °C  25 °C)                                              |
+| 0.9% Bacteriostatic water for injection or Sodium chloride 9 mg/mL (0.9%) or Sodium chloride 4.5 mg/mL (0.45%) | Sodium chloride 9 mg/mL (0.9%)                  | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
+| 0.9% Bacteriostatic water for injection or Sodium chloride 9 mg/mL (0.9%) or Sodium chloride 4.5 mg/mL (0.45%) | Sodium chloride 4.5 mg/mL (0.45%)               | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
+| 0.9% Bacteriostatic water for injection or Sodium chloride 9 mg/mL (0.9%) or Sodium chloride 4.5 mg/mL (0.45%) | 5% glucose                                      | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
+
+1 To ensure product stability, do not exceed specified storage durations.
 
 ## 6.4 Special precautions for storage
 
@@ -702,9 +739,7 @@ Polivy 30 mg powder for concentrate for solution for infusion:
 
 6 mL vial (colourless Type 1 glass) closed with a stopper (fluororesin laminate), with an aluminium seal with plastic flip-off cap containing 30 mg polatuzumab vedotin. Pack size of one vial.
 
-<div style=\"page-break-after: always\"></div>
-
-## Polivy 140 mg powder for concentrate for solution for infusion:
+Polivy 140 mg powder for concentrate for solution for infusion:
 
 20 mL vial (colourless Type 1 glass) closed with a stopper (fluororesin laminate), with an aluminium seal with plastic flip-off cap containing 140 mg polatuzumab vedotin. Pack size of one vial.
 
@@ -716,14 +751,16 @@ Polivy contains a cytotoxic component. To be administered under the supervision 
 
 The reconstituted product contains no preservative and is intended for single-dose only. Proper aseptic technique throughout the handling of this medicinal product should be followed.
 
-Polivy must be reconstituted using sterile water for injection and diluted into an intravenous infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection, or sodium chloride 4.5 mg/ml (0.45%) solution for injection, or 5% glucose prior to administration.
+Polivy must be reconstituted using sterile water for injection, or 0.9% bacteriostatic water for injection, or sodium chloride 9 mg/mL (0.9%), or sodium chloride 4.5 mg/mL (0.45%) and diluted into an intravenous infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection, or sodium chloride 4.5 mg/mL (0.45%) solution for injection, or 5% glucose prior to administration.
+
+<div style=\"page-break-after: always\"></div>
 
 The reconstituted solution and solution for infusion should not be frozen or exposed to direct sunlight.
 
 ## Instructions for reconstitution
 
--  Polivy 30 mg: Using a sterile syringe, slowly inject 1.8 mL of sterile water for injection into the 30 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilized cake.
--  Polivy 140 mg: Using a sterile syringe, slowly inject 7.2 mL of sterile water for injection into the 140 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilized cake.
+-  Polivy 30 mg: Using a sterile syringe, slowly inject 1.8 mL of sterile water for injection or 0.9% bacteriostatic water for injection, or sodium chloride 9 mg/mL (0.9%), or sodium chloride 4.5 mg/mL (0.45%) into the 30 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilised cake.
+-  Polivy 140 mg: Using a sterile syringe, slowly inject 7.2 mL of sterile water or 0.9% bacteriostatic water for injection, or sodium chloride 9 mg/mL (0.9%), or sodium chloride 4.5 mg/mL (0.45%) for injection into the 140 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilised cake.
 -  Swirl the vial gently until completely dissolved. Do not shake.
 -  Inspect the reconstituted solution for discoloration and particulate matter. The reconstituted solution should appear colourless to slightly brown, clear to slightly opalescent, and free of visible particulates. Do not use if the reconstituted solution is discoloured, is cloudy, or contains visible particulates.
 
@@ -742,8 +779,6 @@ Polivy dose (mg/kg) X patient's weight (kg) Reconstituted vial concentration (20
 
 Avoid transportation of the prepared solution for infusion as agitation stress can result in aggregation. If the prepared infusion will be transported, remove air from the infusion bag and limit transportation to 30 minutes room temperature (9°C  25°C) or 24 hours refrigerated (2°C  8°C). If air is removed, an infusion set with a vented spike is required to ensure accurate dosing during the infusion. The total storage plus transportation times of the diluted product should not exceed the storage duration specified in Table 7 (see section 6.3).
 
-<div style=\"page-break-after: always\"></div>
-
 Polivy must be administered using a dedicated infusion line equipped with sterile, non-pyrogenic, low-protein binding in-line or add-on filter (0.2 or 0.22 micrometer pore size) and catheter.
 
 Polivy is compatible with intravenous infusion bags with product contacting materials of polyvinyl chloride (PVC) or polyolefins such as polyethylene (PE) and polypropylene. In addition, no incompatibilities have been observed with infusion sets or infusion aids with product contacting materials of PVC, PE, polyurethane, polybutadiene, acrylonitrile butadiene styrene, polycarbonate, polyetherurethane, fluorinated ethylene propylene, or polytetrafluorethylene and with filter membranes composed of polyether sulfone or polysulfone.
@@ -754,13 +789,19 @@ Polivy is for single-use only.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen
+
+Germany
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/19/1388/001 EU/1/19/1388/002
+EU/1/19/1388/001
+
+EU/1/19/1388/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -774,14 +815,14 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer of the biological active substance
 
@@ -874,7 +915,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -888,15 +931,15 @@ EU/1/19/1388/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -904,35 +947,41 @@ Justification for not including Braille accepted
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Polivy 140 mg powder for concentrate polatuzumab vedotin Intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 IV after reconstitution and dilution
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 140 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Cytotoxic
 
@@ -964,9 +1013,7 @@ Powder for concentrate for solution for infusion 1 vial
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-For intravenous use after reconstitution and dilution
-
-Read the package leaflet before use
+For intravenous use after reconstitution and dilution Read the package leaflet before use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -981,6 +1028,8 @@ Do not shake
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1005,10 +1054,9 @@ EU/1/19/1388/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -1016,41 +1064,48 @@ Justification for not including Braille accepted
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+<div style=\"page-break-after: always\"></div>
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Polivy 30 mg powder for concentrate polatuzumab vedotin Intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 IV after reconstitution and dilution
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 30 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Cytotoxic
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1060,9 +1115,9 @@ Cytotoxic
 
 ## Package leaflet: Information for the patient
 
-## Polivy 30 mg powder for concentrate for solution for infusion
+## Polivy 30 mg powder for concentrate for solution for infusion Polivy 140 mg powder for concentrate for solution for infusion
 
-## Polivy 140 mg powder for concentrate for solution for infusion polatuzumab vedotin
+polatuzumab vedotin
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1083,37 +1138,37 @@ Cytotoxic
 
 ## What Polivy is
 
-Polivy is a cancer medicine that contains the active substance 'polatuzumab vedotin'.
+Polivy is a cancer medicine that contains the active substance \"polatuzumab vedotin\".
 
-It is always used together with other cancer medicines - see below 'What other medicines is Polivy given with'.
+It is always used together with other cancer medicines - see below \"What other medicines is Polivy given with\".
 
 ## What Polivy is used for
 
-Polivy is given to treat 'diffuse large B-cell lymphoma' that has never been treated before.
+Polivy is given to treat \"diffuse large B-cell lymphoma\" that has never been treated before.
 
-Polivy is also given to treat 'diffuse large B-cell lymphoma' that has come back or has not got better:
+Polivy is also given to treat \"diffuse large B-cell lymphoma\" that has come back or has not got better:
 
 -  after at least one previous therapy, and
 -  when you cannot receive a stem cell transplant.
 
-'Diffuse large B-cell lymphoma' is a cancer that comes from 'B lymphocytes' also called B-cells. These are a type of blood cells.
+\"Diffuse large B-cell lymphoma\" is a cancer that comes from \"B lymphocytes\" also called B-cells. These are a type of blood cells.
 
 ## How Polivy works
 
 Polivy contains something called a 'monoclonal antibody'and a substance that can kill cancer called 'MMAE'.
 
--  The 'monoclonal antibody' part of the medicine attaches to a target on B cells.
--  Once attached to B cells, the medicine releases 'MMAE' into the B cells and kills them.
+-  The \"monoclonal antibody\" part of the medicine attaches to a target on B cells.
+-  Once attached to B cells, the medicine releases \"MMAE\" into the B cells and kills them.
 
 ## What other medicines Polivy is given with
 
 Polivy is given in combination with other cancer medicines:
 
--  rituximab, cyclophosphamide, doxorubicin and prednisone for 'diffuse large B-cell lymphoma' that has never been treated before.
+-  rituximab, cyclophosphamide, doxorubicin and prednisone for \"diffuse large B-cell lymphoma\" that has never been treated before.
 
 <div style=\"page-break-after: always\"></div>
 
--  rituximab and bendamustine for 'diffuse large B-cell lymphoma' that has come back or has not got better, after at least one previous therapy - and when you cannot receive a stem cell transplant.
+-  rituximab and bendamustine for \"diffuse large B-cell lymphoma\" that has come back or has not got better, after at least one previous therapy - and when you cannot receive a stem cell transplant.
 
 ## 2. What you need to know before you are given Polivy
 
@@ -1129,11 +1184,11 @@ If the above applies to you, you must not be given Polivy. If you are not sure, 
 Talk to your doctor or nurse before you are given Polivy if any of the following apply to you (or you are not sure):
 
 -  you have ever had brain or nerve problems such as:
-- -memory problems
-- -difficulty moving or sensations in your body such as feeling pins and needles, burning, pain and discomfort even from slight touch
-- -eyesight problems
+- memory problems
+- difficulty moving or sensations in your body such as feeling pins and needles, burning, pain and discomfort even from slight touch
+- eyesight problems
 -  you have ever had liver problems
--  you think you have an infection or have had long-lasting or repeated infections such as herpes (see 'Infections' in section 4)
+-  you think you have an infection or have had long-lasting or repeated infections such as herpes (see \"Infections\" in section 4)
 -  you are due to have a vaccine or you know you may need to have one in the near future
 
 If any of the above apply to you (or you are not sure) talk to your doctor or nurse before you are given Polivy.
@@ -1156,9 +1211,9 @@ Tell your doctor or nurse straight away if you:
 -  look pale
 -  have unusual bleeding, bruising under the skin, bleeding longer than usual after your blood has been drawn, or bleeding from your gums.
 
-## Peripheral neuropathy
-
 <div style=\"page-break-after: always\"></div>
+
+## Peripheral neuropathy
 
 Tell your doctor or nurse straight away if you have any problems with a change in the sensitivity of your skin, especially in your hands or feet, such as:
 
@@ -1201,7 +1256,7 @@ If you had any of these symptoms before treatment with Polivy, tell your doctor 
 
 ## Tumour lysis syndrome
 
-Some people may develop unusual levels of some substances (such as potassium and uric acid) in the blood caused by the fast breakdown of cancer cells during treatment. This is called 'tumour lysis syndrome'. Your doctor, pharmacist or nurse will do blood tests to check for the condition.
+Some people may develop unusual levels of some substances (such as potassium and uric acid) in the blood caused by the fast breakdown of cancer cells during treatment. This is called \"tumour lysis syndrome\". Your doctor, pharmacist or nurse will do blood tests to check for the condition.
 
 ## Infusion-related reactions
 
@@ -1271,7 +1326,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 ## Polivy contains polysorbate
 
-Polivy 30 mg contains 1.8 mg of polysorbate 20 in each vial. Polivy 140 mg contains 8.4 mg of polysorbate 20 in each vial, equivalent to 1.2 mg/ml. Polysorbate may cause allergic reactions. Tell your doctor if you have any known allergies.
+Polivy 30 mg contains 1.8 mg of polysorbate 20 in each vial. Polivy 140 mg contains 8.4 mg of polysorbate 20 in each vial, equivalent to 1.2 mg/mL. Polysorbate may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How Polivy is given
 
@@ -1293,8 +1348,8 @@ The dose of this medicine depends on your body weight.
 
 ## What other medicines is Polivy given with?
 
--  rituximab, cyclophosphamide, doxorubicin and prednisone for 'diffuse large B-cell lymphoma' that has never been treated before or,
--  rituximab and bendamustine for 'diffuse large B-cell lymphoma' that has come back or has not got better, after at least one previous therapy - and when you cannot receive a stem cell transplant.
+-  rituximab, cyclophosphamide, doxorubicin and prednisone for \"diffuse large B-cell lymphoma\" that has never been treated before or,
+-  rituximab and bendamustine for \"diffuse large B-cell lymphoma\" that has come back or has not got better, after at least one previous therapy - and when you cannot receive a stem cell transplant.
 
 ## If you miss a dose of Polivy
 
@@ -1357,14 +1412,14 @@ Very common: may affect more than 1 in 10 people
 -  common cold
 -  hair loss
 -  changes in blood tests:
-- -low levels of all types of white blood cell (combined)
-- -low levels of neutrophils (a type of white blood cell) with or without fever
-- -low level of platelets (a type of blood cell that helps your blood to clot)
-- -low levels of red blood cells (anaemia)
+- low levels of all types of white blood cell (combined)
+- low levels of neutrophils (a type of white blood cell) with or without fever
+- low level of platelets (a type of blood cell that helps your blood to clot)
 
 <div style=\"page-break-after: always\"></div>
 
-- -low level of potassium in the blood (hypokalaemia)
+- low levels of red blood cells (anaemia)
+- low level of potassium in the blood (hypokalaemia)
 
 ## Common: may affect up to 1 in 10 people
 
@@ -1385,16 +1440,16 @@ Very common: may affect more than 1 in 10 people
 -  dry skin
 -  muscle pain
 -  changes shown in blood tests:
-- -decreased number of all blood cells (pancytopenia)
-- -low levels of lymphocytes (a type of white blood cells)
-- -low level of phosphate in the blood (hypophosphataemia)
-- -low level of calcium in the blood (hypocalcaemia)
-- -low level of albumin in the blood (hypoalbuminemia)
-- -high level of lipase enzyme in the blood
+- decreased number of all blood cells (pancytopenia)
+- low levels of lymphocytes (a type of white blood cells)
+- low level of phosphate in the blood (hypophosphataemia)
+- low level of calcium in the blood (hypocalcaemia)
+- low level of albumin in the blood (hypoalbuminemia)
+- high level of lipase enzyme in the blood
 
 ## Uncommon: may affect up to 1 in 100 people
 
--  blurred vision
+##  blurred vision
 
 Tell your doctor or nurse straight away if you notice any of the side effects listed above.
 
@@ -1408,7 +1463,7 @@ Polivy will be stored by the healthcare professionals at the hospital or clinic.
 
 -  Keep this medicine out of the sight and reach of children.
 -  Do not use this medicine after the expiry date which is stated on the carton and the vial after EXP. The expiry date refers to the last day of that month.
--  Store in a refrigerator (2 ℃ -8 ℃ ).
+-  Store in a refrigerator (2 ℃-8 ℃).
 -  Do not freeze.
 -  Keep the container in the outer carton in order to protect from light.
 
@@ -1424,7 +1479,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 -  Polivy 30 mg: Each vial contains 30 milligrams (mg) polatuzumab vedotin.
 -  Polivy 140 mg: Each vial contains 140 milligrams (mg) polatuzumab vedotin.
 -  After reconstitution each millilitre (mL) contains 20 mg polatuzumab vedotin.
--  The other ingredients are: succinic acid, sodium hydroxide, sucrose, polysorbate 20. See section 2 'Polivy contains sodium and polysorbates'.
+-  The other ingredients are: succinic acid, sodium hydroxide, sucrose, polysorbate 20. See section 2 \"Polivy contains sodium and polysorbate\".
 
 ## What Polivy looks like and contents of the pack
 
@@ -1442,39 +1497,21 @@ Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
+## België/Belgique/Belgien, Luxembourg/Luxemburg
 
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
 Рош България ЕООД
 
-Тел
+Тел: +359 2 474 5444
 
-: +359 2 474 5444
-
-## Lietuva
-
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
-
-## Č eská republika
+## Česká republika
 
 Roche s. r. o.
 
 Tel: +420 - 2 20382111
-
-## Magyarország
-
-Roche (Magyarország) Kft.
-
-Tel: +36 - 1 279 4500
 
 ## Danmark
 
@@ -1482,53 +1519,53 @@ Roche Pharmaceuticals A/S
 
 Tlf: +45 - 36 39 99 99
 
-## Nederland
-
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
-
 ## Deutschland
 
 Roche Pharma AG
 
-Tel: +49 (0) 7624 140
+## Latvija
+
+Roche Latvija SIA
+
+Tel: +371 - 6 7039831
+
+## Lietuva
+
+UAB \"Roche Lietuva\"
+
+Tel: +370 5 2546799
+
+## Magyarország
+
+Roche (Magyarország) Kft.
+
+Tel: +36 - 1 279 4500
+
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438000
 
 ## Norge
 
 Roche Norge AS
 
-Tlf: +47 - 22 78 90 00
+Tel: +49 (0) 7624 140
 
 <div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
-## Österreich
-
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-Roche Austria GmbH
+## Ελλάδα, Kύπρος
 
-Tel: +43 (0) 1 27739
+Roche (Hellas) A.E. Ελλάδα
 
-## Ελλάδα , K ύπρος
-
-Roche (Hellas) A.E.
-
-Ελλάδα
-
-Τηλ
-
-: +30 210 61 66 100
-
-## Polska
-
-Roche Polska Sp.z o.o.
-
-Tel: +48 - 22 345 18 88
+Τηλ: +30 210 61 66 100
 
 ## España
 
@@ -1536,23 +1573,11 @@ Roche Farma S.A.
 
 Tel: +34 - 91 324 81 00
 
-## Portugal
-
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
-
 ## France
 
-## Roche
+Roche
 
 Tél: +33 (0) 1 47 61 40 00
-
-## România
-
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
 
 ## Hrvatska
 
@@ -1560,17 +1585,59 @@ Roche d.o.o.
 
 Tel: +385 1 4722 333
 
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd.
+
+Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
+## Ísland
+
+Roche Pharmaceuticals A/S
+
+c/o Icepharma hf
+
+Sími: +354 540 8000
+
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
+Tlf: +47 - 22 78 90 00
+
+## Österreich
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
+
+## Polska
+
+Roche Polska Sp.z o.o.
+
+Tel: +48 - 22 345 18 88
+
+## Portugal
+
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
+
+## România
+
+Roche România S.R.L.
+
+Tel: +40 21 206 47 01
+
 ## Slovenija
 
 Roche farmacevtska družba d.o.o.
 
 Tel: +386 - 1 360 26 00
-
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd. Ireland/L-Irlanda
-
-Tel: +353 (0) 1 469 0700
 
 ## Slovenská republika
 
@@ -1578,23 +1645,11 @@ Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
 
-## Ísland
-
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
-
 ## Suomi/Finland
 
 Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
 
 ## Sverige
 
@@ -1618,8 +1673,8 @@ Procedures for proper handling and disposal of anticancer medicinal products sho
 
 ## Instructions for reconstitution
 
--  Polivy 30 mg: Using a sterile syringe, slowly inject 1.8 mL of sterile water for injection into the 30 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilized cake.
--  Polivy 140 mg: Using a sterile syringe, slowly inject 7.2 mL of sterile water for injection into the 140 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilized cake.
+-  Polivy 30 mg: Using a sterile syringe, slowly inject 1.8 mL of sterile water for injection or 0.9% bacteriostatic water for injection, or sodium chloride 9 mg/mL (0.9%), or sodium chloride 4.5 mg/mL (0.45%) into the 30 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilised cake.
+-  Polivy 140 mg: Using a sterile syringe, slowly inject 7.2 mL of sterile water for injection or 0.9% bacteriostatic water for injection, or sodium chloride 9 mg/mL (0.9%), or sodium chloride 4.5 mg/mL (0.45%) into the 140 mg Polivy vial to yield a single-dose solution containing 20 mg/mL polatuzumab vedotin. Direct the stream toward the wall of the vial and not directly on the lyophilised cake.
 -  Swirl the vial gently until completely dissolved. Do not shake.
 -  Inspect the reconstituted solution for discoloration and particulate matter. The reconstituted solution should appear colourless to slightly brown, clear to slightly opalescent, and free of visible particulates. Do not use if the reconstituted solution is discoloured, is cloudy, or contains visible particulates.
 
@@ -1630,48 +1685,42 @@ Procedures for proper handling and disposal of anticancer medicinal products sho
 
 Total Polivy dose (mL) to be further diluted =
 
-Polivy dose (mg/kg) X patient's weight (kg) Reconstituted vial concentration (20 mg/mL)
+Polivy dose (mg/kg) X patient's weight (kg)
 
-3. Withdraw the required volume of reconstituted solution from the Polivy vial using a sterile syringe and dilute into the intravenous infusion bag. Discard any unused portion left in the vial.
-4. Gently mix the intravenous bag by slowly inverting the bag. Do not shake.
+Reconstituted vial concentration (20 mg/mL)
+
+3. Withdraw the required volume of reconstituted solution from the Polivy vial using a sterile syringe and dilute into the intravenous infusion bag. Discard any unused portion left in the vial. 4. Gently mix the intravenous bag by slowly inverting the bag. Do not shake.
 5. Inspect the intravenous bag for particulates and discard if present.
 
 ## Reconstituted solution
 
-From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C  8 °C), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 72 hours refrigerated (2 °C  8 °C) and up to 24 hours at room temperature (9 °C  25 °C).
+From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C8 °C), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical stability of the prepared reconstituted solution has been demonstrated for the durations listed in Table 1. The reconstituted vial must be discarded if storage time exceeds the limits specified in Table 1.
+
+## Table 1 Durations for which chemical and physical stability of the reconstituted solution have been demonstrated
+
+| Diluent used to prepare reconstituted solution   | Reconstitued solution storage conditions 1                                                      |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Sterile water for injection                      | Up to 168 hours refrigerated (2 °C  8 °C) or up to 24 hours at room temperature (9 °C  25 °C) |
+| 0.9% Bacteriostatic water for injection          | Up to 168 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C)  |
+
+<div style=\"page-break-after: always\"></div>
+
+| Diluent used to prepare reconstituted solution   | Reconstitued solution storage conditions 1                                                      |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Sodium chloride 9 mg/mL (0.9%)                   | Up to 168 hours refrigerated (2 °C  8 °C) or up to 24 hours at room temperature (9 °C  25 °C) |
+| Sodium chloride 4.5 mg/mL (0.45%)                | Up to 168 hours refrigerated (2 °C  8 °C) or up to 24 hours at room temperature (9 °C  25 °C) |
 
 ## Diluted solution
 
-From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C  8 °C), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical stability of the prepared solution for infusion has been demonstrated for the durations listed in Table 1. Discard diluted Polivy solution if storage time exceeds the limits specified in Table 1.
+From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours refrigerated (2 °C8 °C), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical stability of the prepared solution for infusion has been demonstrated for the durations listed in Table 2. Discard diluted Polivy solution if storage time exceeds the limits specified in Table 2.
 
-<div style=\"page-break-after: always\"></div>
+Table 2 Durations for which chemical and physical stability of the prepared solution for infusion have been demonstrated
 
-Table 1 Durations for which chemical and physical stability of the prepared solution for infusion have been demonstrated
-
-| Diluent used to prepare solution for infusion   | Solution for infusion storage conditions 1                                                    |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Sodium chloride 9 mg/mL (0.9%)                  | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
-| Sodium chloride 4.5 mg/mL (0.45%)               | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
-| 5% glucose                                      | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for polatuzumab vedotin, the scientific conclusions of PRAC are as follows:
-
-In view of available data on risks from clinical trials, spontaneous reports, and the literature, including in 4 cases with a close temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between polatuzumab vedotin and adverse reaction `extravasation injury´ is at least a reasonable possibility. The PRAC concluded that the product information of products containing polatuzumab vedotin should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for polatuzumab vedotin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing polatuzumab vedotin is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+| Diluent used to prepare reconstituted solution                                                                 | Diluent used to prepare solution for infusion   | Solution for infusion storage conditions 1                                                    |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Sterile water for injection                                                                                    | Sodium chloride 9 mg/mL (0.9%)                  | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
+| Sterile water for injection                                                                                    | Sodium chloride 4.5 mg/mL (0.45%)               | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
+| Sterile water for injection                                                                                    | 5% glucose                                      | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
+| 0.9% Bacteriostatic water for injection or Sodium chloride 9 mg/mL (0.9%) or Sodium chloride 4.5 mg/mL (0.45%) | Sodium chloride 9 mg/mL (0.9%)                  | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
+| 0.9% Bacteriostatic water for injection or Sodium chloride 9 mg/mL (0.9%) or Sodium chloride 4.5 mg/mL (0.45%) | Sodium chloride 4.5 mg/mL (0.45%)               | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
+| 0.9% Bacteriostatic water for injection or Sodium chloride 9 mg/mL (0.9%) or Sodium chloride 4.5 mg/mL (0.45%) | 5% glucose                                      | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |

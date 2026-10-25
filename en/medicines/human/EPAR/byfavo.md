@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-26 10:10:00
+document_datetime: 2026-10-22 14:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/byfavo.html
 document_name: byfavo.html
 version: success
-processing_time: 0.1833738
-conversion_datetime: 2026-09-02 22:25:40.052716
+processing_time: 0.2128947
+conversion_datetime: 2026-10-25 15:12:56.098247
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Byfavo
 
 [RSS](/en/individual-human-medicine.xml/67397)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -125,7 +125,7 @@ English (EN) (126.39 KB - PDF)
 
 [View](/en/documents/overview/byfavo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-545)
+[Other languages (22)](#file-language-dropdown-320)
 
 български (BG) (152.02 KB - PDF)
 
@@ -277,7 +277,7 @@ English (EN) (626.72 KB - PDF)
 
 [View](/en/documents/product-information/byfavo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-520)
 
 български (BG) (963.42 KB - PDF)
 
@@ -450,7 +450,7 @@ English (EN) (43.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-266)
+[Other languages (24)](#file-language-dropdown-143)
 
 български (BG) (51.17 KB - PDF)
 
@@ -624,13 +624,16 @@ Remimazolam 50 mg is indicated in adults for intravenous induction and maintenan
 - **EMA product number**
     - EMEA/H/C/005246
 - **Marketing authorisation holder**
-    - Paion Pharma GmbH Heussstrasse 25  Brand  52078 Aachen  GERMANY
+    - Paion Pharma GmbH Heussstrasse 25  
+Brand  
+52078 Aachen  
+GERMANY
 - **Opinion adopted**
     - 10/12/2020
 - **Marketing authorisation issued**
     - 26/03/2021
 - **Revision**
-    - 10
+    - 11
 
 ## Assessment history
 
@@ -655,6 +658,16 @@ English (EN) (174.17 KB - PDF)
 **First published:** 28/04/2022 **Last updated:** 28/11/2025
 
 [View](/en/documents/procedural-steps-after/byfavo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Byfavo-H-C-PAM-0000356205 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3341764
+
+English (EN) (265.47 KB - PDF)
+
+**First published:** 22/10/2026
+
+[View](/en/documents/variation-report/byfavo-h-c-pam-0000356205-epar-assessment-report_en.pdf)
 
 Byfavo-H-C-005246-0000 : EPAR - Assessment report
 
@@ -736,7 +749,7 @@ English (EN) (177.79 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/byfavo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-33)
+[Other languages (24)](#file-language-dropdown-174)
 
 български (BG) (208.09 KB - DOCX)
 
@@ -888,6 +901,6 @@ norsk (NO) (165.78 KB - DOCX)
 
 **This page was last updated on**
 
-26/08/2026
+22/10/2026
 
 ## Share this page

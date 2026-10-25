@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-19 11:17:00
+document_datetime: 2026-10-19 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-viatris.html
 document_name: febuxostat-viatris.html
 version: success
-processing_time: 0.150563
-conversion_datetime: 2026-08-22 23:28:16.127076
+processing_time: 0.1732166
+conversion_datetime: 2026-10-25 15:18:30.142283
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Febuxostat Viatris (previously Febuxostat Mylan)
 
 [RSS](/en/individual-human-medicine.xml/66047)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -107,7 +107,7 @@ English (EN) (100.14 KB - PDF)
 
 [View](/en/documents/overview/febuxostat-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-187)
+[Other languages (22)](#file-language-dropdown-928)
 
 български (BG) (120.29 KB - PDF)
 
@@ -241,6 +241,14 @@ svenska (SV) (92.59 KB - PDF)
 
 [View](/sv/documents/overview/febuxostat-mylan-epar-summary-public_sv.pdf)
 
+Febuxostat Viatris : EPAR - Risk management plan
+
+English (EN) (221.58 KB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/rmp/febuxostat-viatris-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Febuxostat Viatris : EPAR - Product Information
@@ -251,7 +259,7 @@ English (EN) (559.12 KB - PDF)
 
 [View](/en/documents/product-information/febuxostat-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-308)
+[Other languages (24)](#file-language-dropdown-155)
 
 български (BG) (643.68 KB - PDF)
 
@@ -424,7 +432,7 @@ English (EN) (84.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-997)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (97.48 KB - PDF)
 
@@ -604,13 +612,15 @@ Febuxostat Viatris is indicated in adults.
 - **Generic**
     - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
 - **Marketing authorisation holder**
-    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
 - **Opinion adopted**
     - 21/04/2017
 - **Marketing authorisation issued**
     - 15/06/2017
 - **Revision**
-    - 16
+    - 17
 
 ## Assessment history
 
@@ -622,9 +632,9 @@ Collapse section
 
 Febuxostat Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.25 KB - PDF)
+English (EN) (159.45 KB - PDF)
 
-**First published:** 14/07/2025 **Last updated:** 19/08/2026
+**First published:** 14/07/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/febuxostat-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -666,6 +676,6 @@ English (EN) (74.82 KB - PDF)
 
 **This page was last updated on**
 
-19/08/2026
+19/10/2026
 
 ## Share this page

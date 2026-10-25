@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:41:32
+document_datetime: 2026-10-19 13:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eyluxvi.html
 document_name: eyluxvi.html
 version: success
-processing_time: 0.0911472
-conversion_datetime: 2025-12-30 12:52:20.111015
+processing_time: 0.1564426
+conversion_datetime: 2026-10-25 15:17:58.126615
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Eyluxvi
 
 [RSS](/en/individual-human-medicine.xml/263498)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-aflibercept Medicine Human Authorised
+aflibercept
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -52,13 +52,13 @@ Eyluxvi is a medicine used to treat adults with:
 - impaired vision due to macular oedema caused by diabetes;
 - impaired vision due to myopic choroidal neovascularisation (a severe type of short-sightedness where the eyeball continues to grow, becoming longer than it should be).
 
-Eyluxvi contains the active substance aflibercept and is a biological medicine. It is a 'biosimilar medicine'; this means that Eyluxvi is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Eyluxvi is Eylea. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Eyluxvi contains the active substance aflibercept and is a biological medicine. It is a 'biosimilar medicine'; this means that Eyluxvi is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Eyluxvi is Eylea.
 
 Expand section
 
 Collapse section
 
-## How is Eyluxvi used?
+### How is Eyluxvi used?
 
 Eyluxvi is available as a solution for intravitreal injection (injection into the vitreous humour, the jelly-like fluid inside the eye). It can only be obtained with a prescription and must be given by a qualified doctor who is experienced in giving intravitreal injections.
 
@@ -66,11 +66,11 @@ Eyluxvi is given as an injection into the affected eye, repeated as appropriate 
 
 For more information about using Eyluxvi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Eyluxvi work?
+### How does Eyluxvi work?
 
 The active substance in Eyluxvi, aflibercept, is an engineered protein that has been designed to attach to and block the effects of a protein called vascular endothelial growth factor A (VEGF-A). It can also attach to other proteins such as placental growth factor (PlGF). VEGF-A and PlGF are involved in stimulating the abnormal growth of blood vessels in patients with AMD, certain types of macular oedema and myopic choroidal neovascularisation. By blocking these proteins, aflibercept reduces the growth of abnormal blood vessels and controls leakage and swelling.
 
-## What benefits of Eyluxvi have been shown in studies?
+### What benefits of Eyluxvi have been shown in studies?
 
 Laboratory studies comparing Eyluxvi with Eylea have shown that the active substance in Eyluxvi is highly similar to that in Eylea in terms of structure, purity and biological activity. Studies have also shown that giving Eyluxvi produces similar levels of the active substance in the body to those seen with Eylea.
 
@@ -78,7 +78,7 @@ In addition, a study involving 431 patients with wet AMD showed that treatment w
 
 Because Eyluxvi is a biosimilar medicine, the studies on the effectiveness of aflibercept carried out with Eylea do not all need to be repeated for Eyluxvi.
 
-## What are the risks associated with Eyluxvi?
+### What are the risks associated with Eyluxvi?
 
 The safety of Eyluxvi has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of Eylea.
 
@@ -90,13 +90,13 @@ Some side effects can be serious. Serious side effects related to the injection 
 
 Eyluxvi must not be used in patients who have or are thought to have ocular or periocular infections (infections in or around the eyes), or in patients who have severe inflammation inside the eye.
 
-## Why is Eyluxvi authorised in the EU?
+### Why is Eyluxvi authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Eyluxvi has a highly similar structure, purity and biological activity to Eylea and is distributed in the body in the same way. In addition, a study in patients with wet AMD has shown that Eyluxvi and Eylea are equivalent in terms of safety and effectiveness in this use.
 
 All these data were considered sufficient to conclude that Eyluxvi will have the same effects as Eylea in its authorised uses in adults. Therefore, the Agency's view was that, as for Eylea, the benefits of Eyluxvi outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Eyluxvi?
+### What measures are being taken to ensure the safe and effective use of Eyluxvi?
 
 The company that markets Eyluxvi will provide information packs to patients to help them prepare for treatment, recognise serious side effects and know when to seek urgent attention from their doctor. It will also provide material for doctors to minimise the risks associated with the injection in the eye.
 
@@ -104,7 +104,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Eyluxvi are continuously monitored. Suspected side effects reported with Eyluxvi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Eyluxvi
+### Other information about Eyluxvi
 
 Eyluxvi received a marketing authorisation valid throughout the EU on 15 September 2025.
 
@@ -118,181 +118,137 @@ English (EN) (147.12 KB - PDF)
 
 [View](/en/documents/overview/eyluxvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-124)
+[Other languages (22)](#file-language-dropdown-787)
 
 български (BG) (193.18 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/bg/documents/overview/eyluxvi-epar-medicine-overview_bg.pdf)
 
 español (ES) (145.71 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/es/documents/overview/eyluxvi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (169.89 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/cs/documents/overview/eyluxvi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (145.42 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/da/documents/overview/eyluxvi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.73 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/de/documents/overview/eyluxvi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (142.68 KB - PDF)
+eesti (ET) (142.68 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/et/documents/overview/eyluxvi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (181.23 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/el/documents/overview/eyluxvi-epar-medicine-overview_el.pdf)
 
 français (FR) (148.46 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/fr/documents/overview/eyluxvi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (171.27 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/hr/documents/overview/eyluxvi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (144.72 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/it/documents/overview/eyluxvi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (177.96 KB - PDF)
+latviešu (LV) (177.96 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/lv/documents/overview/eyluxvi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (168.56 KB - PDF)
+lietuvių (LT) (168.56 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/lt/documents/overview/eyluxvi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (170.38 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/hu/documents/overview/eyluxvi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (170.89 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/mt/documents/overview/eyluxvi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (146.66 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/nl/documents/overview/eyluxvi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (173.85 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/pl/documents/overview/eyluxvi-epar-medicine-overview_pl.pdf)
 
 português (PT) (146.57 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/pt/documents/overview/eyluxvi-epar-medicine-overview_pt.pdf)
 
 română (RO) (165.37 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/ro/documents/overview/eyluxvi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (170.55 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/sk/documents/overview/eyluxvi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (166.39 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/sl/documents/overview/eyluxvi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (142.77 KB - PDF)
+suomi (FI) (142.77 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/fi/documents/overview/eyluxvi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (144.02 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/sv/documents/overview/eyluxvi-epar-medicine-overview_sv.pdf)
 
@@ -308,211 +264,168 @@ English (EN) (948.93 KB - PDF)
 
 Eyluxvi : EPAR - Product information
 
-English (EN) (1.08 MB - PDF)
+English (EN) (1.03 MB - PDF)
 
-**First published:** 12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/eyluxvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-272)
+[Other languages (24)](#file-language-dropdown-743)
 
-български (BG) (1.09 MB - PDF)
+български (BG) (1.17 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information/eyluxvi-epar-product-information_bg.pdf)
 
-español (ES) (1.01 MB - PDF)
+español (ES) (1.12 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information/eyluxvi-epar-product-information_es.pdf)
 
-čeština (CS) (1.1 MB - PDF)
+čeština (CS) (1.14 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information/eyluxvi-epar-product-information_cs.pdf)
 
-dansk (DA) (1023.33 KB - PDF)
+dansk (DA) (1.13 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information/eyluxvi-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.23 MB - PDF)
+Deutsch (DE) (1.08 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information/eyluxvi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.02 MB - PDF)
+eesti (ET) (1.13 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information/eyluxvi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.14 MB - PDF)
+ελληνικά (EL) (1.26 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information/eyluxvi-epar-product-information_el.pdf)
 
-français (FR) (1.15 MB - PDF)
+français (FR) (1.26 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information/eyluxvi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.1 MB - PDF)
+hrvatski (HR) (1.17 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information/eyluxvi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.25 MB - PDF)
+italiano (IT) (1.16 MB - PDF)
 
-**First published:**
-
-12/11/2025
-
-[View](/is/documents/product-information/eyluxvi-epar-product-information_is.pdf)
-
-italiano (IT) (1.09 MB - PDF)
-
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information/eyluxvi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.11 MB - PDF)
+latviešu (LV) (1.24 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information/eyluxvi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.07 MB - PDF)
+lietuvių (LT) (1.23 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information/eyluxvi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.08 MB - PDF)
+magyar (HU) (1.24 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information/eyluxvi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.13 MB - PDF)
+Malti (MT) (1.35 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information/eyluxvi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (910.43 KB - PDF)
+Nederlands (NL) (1.12 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information/eyluxvi-epar-product-information_nl.pdf)
 
-norsk (NO) (1019.36 KB - PDF)
+polski (PL) (1.32 MB - PDF)
 
-**First published:**
-
-12/11/2025
-
-[View](/no/documents/product-information/eyluxvi-epar-product-information_no.pdf)
-
-polski (PL) (1.12 MB - PDF)
-
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information/eyluxvi-epar-product-information_pl.pdf)
 
-português (PT) (1.05 MB - PDF)
+português (PT) (1.17 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information/eyluxvi-epar-product-information_pt.pdf)
 
-română (RO) (1.1 MB - PDF)
+română (RO) (1.24 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information/eyluxvi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.36 MB - PDF)
+slovenčina (SK) (1.24 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/eyluxvi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.05 MB - PDF)
+slovenščina (SL) (1.14 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/eyluxvi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.23 MB - PDF)
+suomi (FI) (1.12 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information/eyluxvi-epar-product-information_fi.pdf)
 
-svenska (SV) (972.22 KB - PDF)
+svenska (SV) (1.15 MB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/eyluxvi-epar-product-information_sv.pdf)
+
+Íslenska (IS) (1.13 MB - PDF)
+
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
+
+[View](/is/documents/product-information/eyluxvi-epar-product-information_is.pdf)
+
+norsk (NO) (1.14 MB - PDF)
+
+**First published:** 12/11/2025 **Last updated:** 19/10/2026
+
+[View](/no/documents/product-information/eyluxvi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** PSUR/0000336116
+
+18/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -530,210 +443,167 @@ English (EN) (48.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-213)
+[Other languages (24)](#file-language-dropdown-12)
 
 български (BG) (59.16 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/bg/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (41.8 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/es/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (59.04 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/cs/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.28 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/da/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (48.97 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/de/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (41.29 KB - PDF)
+eesti (ET) (41.29 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/et/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (56.42 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/el/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (41.54 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/fr/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (116.8 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/hr/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (42.21 KB - PDF)
-
-**First published:**
-
-12/11/2025
-
-[View](/is/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (42.17 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/it/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (56.72 KB - PDF)
+latviešu (LV) (56.72 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/lv/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (59.66 KB - PDF)
+lietuvių (LT) (59.66 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/lt/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (59.87 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/hu/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (61.4 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/mt/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (42.16 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/nl/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (42.8 KB - PDF)
-
-**First published:**
-
-12/11/2025
-
-[View](/no/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (62.88 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/pl/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (45.22 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/pt/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (57.3 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/ro/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (57.3 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/sk/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (47.74 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/sl/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (41.97 KB - PDF)
+suomi (FI) (41.97 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/fi/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (43.39 KB - PDF)
 
-**First published:**
-
-12/11/2025
+**First published:** 12/11/2025
 
 [View](/sv/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (42.21 KB - PDF)
+
+**First published:** 12/11/2025
+
+[View](/is/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (42.8 KB - PDF)
+
+**First published:** 12/11/2025
+
+[View](/no/documents/all-authorised-presentations/eyluxvi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Eyluxvi Active substance aflibercept International non-proprietary name (INN) or common name aflibercept Therapeutic area (MeSH)
-
-- Wet Macular Degeneration
-- Macular Edema
-- Diabetes Complications
-- Retinal Vein Occlusion
-
-Anatomical therapeutic chemical (ATC) code S01LA05
+- **Name of medicine**
+    - Eyluxvi
+- **Active substance**
+    - aflibercept
+- **International non-proprietary name (INN) or common name**
+    - aflibercept
+- **Therapeutic area (MeSH)**
+        - Wet Macular Degeneration
+        - Macular Edema
+        - Diabetes Complications
+        - Retinal Vein Occlusion
+- **Anatomical therapeutic chemical (ATC) code**
+    - S01LA05
 
 ### Pharmacotherapeutic group
 
@@ -741,37 +611,62 @@ Ophthalmologicals
 
 ### Therapeutic indication
 
-Eyluxvi is indicated for adults for the treatment of - neovascular (wet) age-related macular degeneration (AMD) (see section 5.1), - visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO) (see section 5.1), - visual impairment due to diabetic macular oedema (DME) (see section 5.1), - visual impairment due to myopic choroidal neovascularisation (myopic CNV) (see section 5.1).
+Eyluxvi is indicated for adults for the treatment of  
+- neovascular (wet) age-related macular degeneration (AMD) (see section 5.1),  
+- visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO) (see section 5.1),  
+- visual impairment due to diabetic macular oedema (DME) (see section 5.1),  
+- visual impairment due to myopic choroidal neovascularisation (myopic CNV) (see section 5.1).
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006282
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Biolitec pharma Limited Zweigniederlassung Jena
-
-Otto-Schott-Strasse 15 Sued 07745 Jena GERMANY
-
-Opinion adopted 24/07/2025 Marketing authorisation issued 15/09/2025
+- **EMA product number**
+    - EMEA/H/C/006282
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Biolitec pharma Limited Zweigniederlassung Jena Otto-Schott-Strasse 15  
+Sued 07745 Jena  
+GERMANY
+- **Opinion adopted**
+    - 24/07/2025
+- **Marketing authorisation issued**
+    - 15/09/2025
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Eyluxvi : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (151.51 KB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/procedural-steps-after/eyluxvi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Eyluxvi-PSUSA-00010020-202511 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3486486
+
+English (EN) (166.92 KB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/scientific-conclusion/eyluxvi-psusa-00010020-202511-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Eyluxvi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/272837/2025
+Adopted Reference Number: EMA/CHMP/272837/2025
 
 English (EN) (6.76 MB - PDF)
 
@@ -789,12 +684,14 @@ English (EN) (157.43 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-eyluxvi_en.pdf)
 
-#### News on Eyluxvi
+## News on Eyluxvi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
-**This page was last updated on** 12/11/2025
+25/07/2025
+
+**This page was last updated on**
+
+19/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-04-16 15:44:00
+document_datetime: 2026-10-20 12:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zolsketil-pegylated-liposomal.html
 document_name: zolsketil-pegylated-liposomal.html
 version: success
-processing_time: 0.1079733
-conversion_datetime: 2026-04-17 15:43:39.618587
+processing_time: 0.1534724
+conversion_datetime: 2026-10-25 15:31:27.883048
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Zolsketil pegylated liposomal
 
 [RSS](/en/individual-human-medicine.xml/67545)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -60,7 +60,7 @@ Expand section
 
 Collapse section
 
-## How is Zolsketil pegylated liposomal used?
+### How is Zolsketil pegylated liposomal used?
 
 Zolsketil pegylated liposomal can only be obtained with a prescription. It should only be given under the supervision of a cancer doctor who is specialised in the use of cytotoxic (cell-killing) medicines. It cannot be interchanged with other medicines that contain doxorubicin.
 
@@ -68,19 +68,19 @@ Zolsketil pegylated liposomal is given by infusion (drip) into a vein. The dose 
 
 For more information about using Zolsketil pegylated liposomal, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Zolsketil pegylated liposomal work?
+### How does Zolsketil pegylated liposomal work?
 
 Doxorubicin, the active substance in Zolsketil pegylated liposomal, is a cytotoxic medicine that belongs to the group 'anthracyclines'. It interferes with the DNA in cancer cells, preventing them from making more copies of DNA. This means that cancer cells cannot divide and eventually die. Zolsketil pegylated liposomal builds up in areas in the body where the blood vessels have an abnormal shape, such as within tumours, where its action is concentrated.
 
 Doxorubicin has been available since the 1960s. In Zolsketil pegylated liposomal, it is enclosed in 'pegylated liposomes' (tiny fat particles coated with a substance called polyethylene glycol). This slows down removal of the medicine, allowing it to circulate in the blood for longer. It also reduces its effects on healthy tissues and cells, so it is less likely to cause specific side effects.
 
-## What benefits of Zolsketil pegylated liposomal have been shown in studies?
+### What benefits of Zolsketil pegylated liposomal have been shown in studies?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Adriamycin, and do not all need to be repeated for Zolsketil pegylated liposomal. However, since Adriamycin contains doxorubicin in a different form (not enclosed in pegylated liposomes), the company also presented results from a study in patients with ovarian cancer to show that Zolsketil pegylated liposomal is bioequivalent to Caelyx, another authorised medicine that contains doxorubicin in pegylated liposomal form.
 
 Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the risks associated with Zolsketil pegylated liposomal?
+### What are the risks associated with Zolsketil pegylated liposomal?
 
 The most common side effects with Zolsketil pegylated liposomal (which may affect more than 1 in 5 people) are neutropenia (low levels of neutrophils, a type of white blood cell), nausea (feeling sick), leukopenia (low levels of leukocytes, a type of white blood cell), anaemia (low levels of red blood cells), and tiredness.
 
@@ -90,17 +90,17 @@ Zolsketil pegylated liposomal must not be used to treat Kaposi's sarcoma that ca
 
 For the full list of side effects and restrictions of Zolsketil pegylated liposomal, see the package leaflet.
 
-## Why is Zolsketil pegylated liposomal authorised in the EU?
+### Why is Zolsketil pegylated liposomal authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Zolsketil pegylated liposomal has been shown to be comparable to the reference medicine and bioequivalent to Caelyx. Therefore, the Agency's view was that the benefits of Zolsketil pegylated liposomal outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Zolsketil pegylated liposomal?
+### What measures are being taken to ensure the safe and effective use of Zolsketil pegylated liposomal?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Zolsketil pegylated liposomal have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Zolsketil pegylated liposomal are continuously monitored. Suspected side effects reported with Zolsketil pegylated liposomal are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Zolsketil pegylated liposomal
+### Other information about Zolsketil pegylated liposomal
 
 Zolsketil pegylated liposomal received a marketing authorisation valid throughout the EU on 31 May 2022.
 
@@ -114,7 +114,7 @@ English (EN) (145.99 KB - PDF)
 
 [View](/en/documents/overview/zolsketil-pegylated-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-992)
+[Other languages (22)](#file-language-dropdown-751)
 
 български (BG) (162.83 KB - PDF)
 
@@ -146,7 +146,7 @@ Deutsch (DE) (140.36 KB - PDF)
 
 [View](/de/documents/overview/zolsketil-pegylated-liposomal-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (125.24 KB - PDF)
+eesti (ET) (125.24 KB - PDF)
 
 **First published:** 20/06/2022
 
@@ -176,13 +176,13 @@ italiano (IT) (136.09 KB - PDF)
 
 [View](/it/documents/overview/zolsketil-pegylated-liposomal-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (177.34 KB - PDF)
+latviešu (LV) (177.34 KB - PDF)
 
 **First published:** 20/06/2022
 
 [View](/lv/documents/overview/zolsketil-pegylated-liposomal-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (158.11 KB - PDF)
+lietuvių (LT) (158.11 KB - PDF)
 
 **First published:** 20/06/2022
 
@@ -236,7 +236,7 @@ slovenščina (SL) (157.55 KB - PDF)
 
 [View](/sl/documents/overview/zolsketil-pegylated-liposomal-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (135.12 KB - PDF)
+suomi (FI) (135.12 KB - PDF)
 
 **First published:** 20/06/2022
 
@@ -266,7 +266,7 @@ English (EN) (542.06 KB - PDF)
 
 [View](/en/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-492)
+[Other languages (24)](#file-language-dropdown-319)
 
 български (BG) (619.56 KB - PDF)
 
@@ -298,7 +298,7 @@ Deutsch (DE) (385.5 KB - PDF)
 
 [View](/de/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_de.pdf)
 
-eesti keel (ET) (488.09 KB - PDF)
+eesti (ET) (488.09 KB - PDF)
 
 **First published:** 20/06/2022 **Last updated:** 16/04/2026
 
@@ -322,25 +322,19 @@ hrvatski (HR) (550.95 KB - PDF)
 
 [View](/hr/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_hr.pdf)
 
-íslenska (IS) (497.68 KB - PDF)
-
-**First published:** 20/06/2022 **Last updated:** 16/04/2026
-
-[View](/is/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_is.pdf)
-
 italiano (IT) (570.96 KB - PDF)
 
 **First published:** 20/06/2022 **Last updated:** 16/04/2026
 
 [View](/it/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (637.29 KB - PDF)
+latviešu (LV) (637.29 KB - PDF)
 
 **First published:** 20/06/2022 **Last updated:** 16/04/2026
 
 [View](/lv/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (536.87 KB - PDF)
+lietuvių (LT) (536.87 KB - PDF)
 
 **First published:** 20/06/2022 **Last updated:** 16/04/2026
 
@@ -363,12 +357,6 @@ Nederlands (NL) (340.73 KB - PDF)
 **First published:** 20/06/2022 **Last updated:** 16/04/2026
 
 [View](/nl/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_nl.pdf)
-
-norsk (NO) (554.2 KB - PDF)
-
-**First published:** 20/06/2022 **Last updated:** 16/04/2026
-
-[View](/no/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_no.pdf)
 
 polski (PL) (627.52 KB - PDF)
 
@@ -400,7 +388,7 @@ slovenščina (SL) (551.72 KB - PDF)
 
 [View](/sl/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_sl.pdf)
 
-Suomi (FI) (572.1 KB - PDF)
+suomi (FI) (572.1 KB - PDF)
 
 **First published:** 20/06/2022 **Last updated:** 16/04/2026
 
@@ -412,6 +400,18 @@ svenska (SV) (607.69 KB - PDF)
 
 [View](/sv/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_sv.pdf)
 
+Íslenska (IS) (497.68 KB - PDF)
+
+**First published:** 20/06/2022 **Last updated:** 16/04/2026
+
+[View](/is/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_is.pdf)
+
+norsk (NO) (554.2 KB - PDF)
+
+**First published:** 20/06/2022 **Last updated:** 16/04/2026
+
+[View](/no/documents/product-information/zolsketil-pegylated-liposomal-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000340547
 
 15/04/2026
@@ -420,7 +420,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -438,7 +439,7 @@ English (EN) (49.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-227)
+[Other languages (24)](#file-language-dropdown-949)
 
 български (BG) (60.15 KB - PDF)
 
@@ -470,7 +471,7 @@ Deutsch (DE) (53.04 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (86.58 KB - PDF)
+eesti (ET) (86.58 KB - PDF)
 
 **First published:** 20/06/2022
 
@@ -494,25 +495,19 @@ hrvatski (HR) (66.57 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (50.82 KB - PDF)
-
-**First published:** 20/06/2022
-
-[View](/is/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (87.85 KB - PDF)
 
 **First published:** 20/06/2022
 
 [View](/it/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (94.35 KB - PDF)
+latviešu (LV) (94.35 KB - PDF)
 
 **First published:** 20/06/2022
 
 [View](/lv/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (67.39 KB - PDF)
+lietuvių (LT) (67.39 KB - PDF)
 
 **First published:** 20/06/2022
 
@@ -535,12 +530,6 @@ Nederlands (NL) (50.36 KB - PDF)
 **First published:** 20/06/2022
 
 [View](/nl/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (51.48 KB - PDF)
-
-**First published:** 20/06/2022
-
-[View](/no/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (94.44 KB - PDF)
 
@@ -572,7 +561,7 @@ slovenščina (SL) (57.54 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (48.89 KB - PDF)
+suomi (FI) (48.89 KB - PDF)
 
 **First published:** 20/06/2022
 
@@ -584,29 +573,32 @@ svenska (SV) (90.16 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (50.82 KB - PDF)
+
+**First published:** 20/06/2022
+
+[View](/is/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (51.48 KB - PDF)
+
+**First published:** 20/06/2022
+
+[View](/no/documents/all-authorised-presentations/zolsketil-pegylated-liposomal-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Zolsketil pegylated liposomal
-
-Active substance
-
-doxorubicin hydrochloride, liposomal
-
-International non-proprietary name (INN) or common name
-
-doxorubicin
-
-Therapeutic area (MeSH)
-
-- Ovarian Neoplasms
-- Sarcoma, Kaposi
-- Multiple Myeloma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01DB01
+- **Name of medicine**
+    - Zolsketil pegylated liposomal
+- **Active substance**
+    - doxorubicin hydrochloride, liposomal
+- **International non-proprietary name (INN) or common name**
+    - doxorubicin
+- **Therapeutic area (MeSH)**
+        - Ovarian Neoplasms
+        - Sarcoma, Kaposi
+        - Multiple Myeloma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01DB01
 
 ### Pharmacotherapeutic group
 
@@ -628,27 +620,20 @@ Zolsketil pegylated liposomal contains the active substance doxorubicin and is a
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005320
-
-Marketing authorisation holder
-
-Accord Healthcare S.L.U.
-
-Edificio Este Planta 6a
-
-Opinion adopted
-
-24/03/2022
-
-Marketing authorisation issued
-
-31/05/2022
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/005320
+- **Marketing authorisation holder**
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  
+World Trade Center  
+Moll De Barcelona S/n  
+08039 Barcelona  
+SPAIN
+- **Opinion adopted**
+    - 24/03/2022
+- **Marketing authorisation issued**
+    - 31/05/2022
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -656,7 +641,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Zolsketil pegylated liposomal : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -668,9 +653,9 @@ English (EN) (158.44 KB - PDF)
 
 Zolsketil pegylated liposomal : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (104.43 KB - PDF)
+English (EN) (130.54 KB - PDF)
 
-**First published:** 04/05/2023 **Last updated:** 13/03/2025
+**First published:** 04/05/2023 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/zolsketil-pegylated-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -682,9 +667,9 @@ English (EN) (106.77 KB - PDF)
 
 **First published:** 05/09/2023
 
-[View](/en/documents/scientific-conclusion/zolsketil-pegylated-liposomal-h-c-psusa-00001172-202211-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/zolsketil-pegylated-liposomal-h-c-psusa-00001172-202211-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Zolsketil pegylated liposomal : EPAR - Public Assessment Report
 
@@ -708,6 +693,6 @@ English (EN) (152.29 KB - PDF)
 
 **This page was last updated on**
 
-16/04/2026
+20/10/2026
 
 ## Share this page

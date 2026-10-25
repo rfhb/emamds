@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-14 15:44:00
+document_datetime: 2026-10-19 15:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fasenra.html
 document_name: fasenra.html
 version: success
-processing_time: 0.1584035
-conversion_datetime: 2026-09-17 20:50:15.557196
+processing_time: 0.1882293
+conversion_datetime: 2026-10-25 15:18:14.300636
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.128.0
-  docling-core: 2.97.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.20.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Fasenra
 
 [RSS](/en/individual-human-medicine.xml/65831)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -122,7 +122,7 @@ English (EN) (144.65 KB - PDF)
 
 [View](/en/documents/overview/fasenra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-180)
+[Other languages (22)](#file-language-dropdown-489)
 
 български (BG) (169.63 KB - PDF)
 
@@ -274,7 +274,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/fasenra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-417)
+[Other languages (24)](#file-language-dropdown-999)
 
 български (BG) (1.2 MB - PDF)
 
@@ -447,7 +447,7 @@ English (EN) (22.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fasenra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-444)
+[Other languages (24)](#file-language-dropdown-929)
 
 български (BG) (24.29 KB - PDF)
 
@@ -626,7 +626,8 @@ Fasenra is indicated as an add on treatment for adult and adolescent patients ag
 - **EMA product number**
     - EMEA/H/C/004433
 - **Marketing authorisation holder**
-    - AstraZeneca AB 151 85 Sodertalje  Sweden
+    - AstraZeneca AB 151 85 Sodertalje  
+Sweden
 - **Opinion adopted**
     - 09/11/2017
 - **Marketing authorisation issued**
@@ -657,6 +658,16 @@ English (EN) (241.22 KB - PDF)
 **First published:** 18/05/2018 **Last updated:** 14/09/2026
 
 [View](/en/documents/procedural-steps-after/fasenra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Fasenra-VR-0000288520 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3115822
+
+English (EN) (5.42 MB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/variation-report/fasenra-vr-0000288520-epar-assessment-report-variation_en.pdf)
 
 Fasenra-H-C-004433-II-0052 : EPAR - Assessment Report - Variation
 
@@ -750,12 +761,13 @@ English (EN) (120.68 KB - PDF)
 - [EMEA-001214-PIP06-20 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001214-pip06-20)
 - [EMEA-001214-PIP05-19 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001214-pip05-19)
 - [EMEA-001214-PIP08-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001214-pip08-21)
-- [EMEA-001214-PIP09-21-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001214-pip09-21-m01)
+- [EMA/PE/0000241178 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000241178)
 - [EMEA-001214-PIP04-19-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001214-pip04-19-m01)
 - [EMEA-001214-PIP07-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001214-pip07-21)
 - [Fasenra - opinion on variation to marketing authorisation](/en/medicines/human/variation/fasenra)
-- [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
+- [Determining elements of remission that predict long term outcomes (GLISTEN) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001156)
 - [Associations between biological and clinical response following treatment with anti-IL5/5R biologics (FLAME) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000531)
+- [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
 - [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
 - [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 - [Assessing the impact of earlier access to biologics on remission and natural course of asthma (GLEAM) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000530)
@@ -763,6 +775,6 @@ English (EN) (120.68 KB - PDF)
 
 **This page was last updated on**
 
-14/09/2026
+19/10/2026
 
 ## Share this page

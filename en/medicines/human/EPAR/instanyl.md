@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-20 15:58:00
+document_datetime: 2026-10-22 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/instanyl.html
 document_name: instanyl.html
 version: success
-processing_time: 0.1875398
-conversion_datetime: 2026-08-22 23:27:28.411244
+processing_time: 0.2265124
+conversion_datetime: 2026-10-25 15:19:48.485548
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Instanyl
 
 [RSS](/en/individual-human-medicine.xml/66770)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -122,7 +122,7 @@ English (EN) (81.25 KB - PDF)
 
 [View](/en/documents/overview/instanyl-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-404)
+[Other languages (22)](#file-language-dropdown-724)
 
 български (BG) (112.01 KB - PDF)
 
@@ -268,161 +268,161 @@ English (EN) (833.32 KB - PDF)
 
 Instanyl : EPAR - Product information
 
-English (EN) (1.36 MB - PDF)
+English (EN) (1.01 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/en/documents/product-information/instanyl-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-161)
+[Other languages (24)](#file-language-dropdown-154)
 
-български (BG) (1.49 MB - PDF)
+български (BG) (1.17 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/bg/documents/product-information/instanyl-epar-product-information_bg.pdf)
 
-español (ES) (1.35 MB - PDF)
+español (ES) (1.02 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/es/documents/product-information/instanyl-epar-product-information_es.pdf)
 
-čeština (CS) (1.52 MB - PDF)
+čeština (CS) (1.18 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/cs/documents/product-information/instanyl-epar-product-information_cs.pdf)
 
-dansk (DA) (1.28 MB - PDF)
+dansk (DA) (1.02 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/da/documents/product-information/instanyl-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.38 MB - PDF)
+Deutsch (DE) (1.06 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/de/documents/product-information/instanyl-epar-product-information_de.pdf)
 
-eesti (ET) (1.34 MB - PDF)
+eesti (ET) (1.01 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/et/documents/product-information/instanyl-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.62 MB - PDF)
+ελληνικά (EL) (1.33 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/el/documents/product-information/instanyl-epar-product-information_el.pdf)
 
-français (FR) (1.49 MB - PDF)
+français (FR) (1.18 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/fr/documents/product-information/instanyl-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.47 MB - PDF)
+hrvatski (HR) (1.15 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/hr/documents/product-information/instanyl-epar-product-information_hr.pdf)
 
-italiano (IT) (1.36 MB - PDF)
+italiano (IT) (1.06 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/it/documents/product-information/instanyl-epar-product-information_it.pdf)
 
-latviešu (LV) (1.42 MB - PDF)
+latviešu (LV) (1.09 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/lv/documents/product-information/instanyl-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.41 MB - PDF)
+lietuvių (LT) (1.09 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/lt/documents/product-information/instanyl-epar-product-information_lt.pdf)
 
-magyar (HU) (1.47 MB - PDF)
+magyar (HU) (1.14 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/hu/documents/product-information/instanyl-epar-product-information_hu.pdf)
 
-Malti (MT) (1.38 MB - PDF)
+Malti (MT) (1.25 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/mt/documents/product-information/instanyl-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.17 MB - PDF)
+Nederlands (NL) (1.06 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/nl/documents/product-information/instanyl-epar-product-information_nl.pdf)
 
-polski (PL) (1.32 MB - PDF)
+polski (PL) (1.13 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/pl/documents/product-information/instanyl-epar-product-information_pl.pdf)
 
-português (PT) (1.47 MB - PDF)
+português (PT) (1.16 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/pt/documents/product-information/instanyl-epar-product-information_pt.pdf)
 
-română (RO) (1.29 MB - PDF)
+română (RO) (1.1 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/ro/documents/product-information/instanyl-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.28 MB - PDF)
+slovenčina (SK) (1.12 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/sk/documents/product-information/instanyl-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.36 MB - PDF)
+slovenščina (SL) (1.09 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/sl/documents/product-information/instanyl-epar-product-information_sl.pdf)
 
-suomi (FI) (1.35 MB - PDF)
+suomi (FI) (1.02 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/fi/documents/product-information/instanyl-epar-product-information_fi.pdf)
 
-svenska (SV) (1.32 MB - PDF)
+svenska (SV) (1017.44 KB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/sv/documents/product-information/instanyl-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.33 MB - PDF)
+Íslenska (IS) (1 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/is/documents/product-information/instanyl-epar-product-information_is.pdf)
 
-norsk (NO) (2.44 MB - PDF)
+norsk (NO) (1.19 MB - PDF)
 
-**First published:** 30/07/2009 **Last updated:** 20/08/2026
+**First published:** 30/07/2009 **Last updated:** 22/10/2026
 
 [View](/no/documents/product-information/instanyl-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** N/0000365803
+**Latest procedure affecting product information:** N/0000383164
 
-18/08/2026
+22/10/2026
 
 icon globe
 
@@ -447,7 +447,7 @@ English (EN) (34.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/instanyl-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-642)
+[Other languages (24)](#file-language-dropdown-807)
 
 български (BG) (39.27 KB - PDF)
 
@@ -601,7 +601,7 @@ English (EN) (47.97 KB - PDF)
 
 [View](/en/documents/conditions-member-states/instanyl-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-757)
+[Other languages (23)](#file-language-dropdown-544)
 
 български (BG) (85.39 KB - PDF)
 
@@ -770,11 +770,13 @@ Patients receiving maintenance opioid therapy are those who are taking at least 
 - **EMA product number**
     - EMEA/H/C/000959
 - **Marketing authorisation holder**
-    - Istituto Gentili S.r.l. Via San Giuseppe Cottolengo 15  20143 Milano  Italy
+    - Istituto Gentili S.r.l. Via San Giuseppe Cottolengo 15  
+20143 Milano  
+Italy
 - **Marketing authorisation issued**
     - 20/07/2009
 - **Revision**
-    - 41
+    - 42
 
 ## Assessment history
 
@@ -786,9 +788,9 @@ Collapse section
 
 Instanyl : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.11 KB - PDF)
+English (EN) (149.79 KB - PDF)
 
-**First published:** 21/05/2025 **Last updated:** 20/08/2026
+**First published:** 21/05/2025 **Last updated:** 22/10/2026
 
 [View](/en/documents/procedural-steps-after/instanyl-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -886,6 +888,6 @@ English (EN) (32.35 KB - PDF)
 
 **This page was last updated on**
 
-20/08/2026
+22/10/2026
 
 ## Share this page

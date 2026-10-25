@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-07 17:18:00
+document_datetime: 2026-10-20 16:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/darunavir-viatris.html
 document_name: darunavir-viatris.html
 version: success
-processing_time: 0.1335821
-conversion_datetime: 2026-05-10 12:24:21.866591
+processing_time: 0.1721631
+conversion_datetime: 2026-10-25 15:14:26.087693
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Darunavir Viatris (previously Darunavir Mylan)
 
 [RSS](/en/individual-human-medicine.xml/66108)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -38,9 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Darunavir Viatris (previously Darunavir Mylan)](#news-on)
-- [More information on Darunavir Mylan](#more-information-on-darunavir-mylan-1203)
 - [Related information](#related-information-616)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -50,13 +48,13 @@ Page contents
 
 Darunavir Viatris is an antiviral medicine used with other HIV medicines to treat patients with human immunodeficiency virus type 1 (HIV-1), a virus that causes acquired immune deficiency syndrome (AIDS). It is given with low-dose ritonavir or, in adults, with cobicistat. Darunavir Viatris may be given to adults or children from 3 years of age and weighing at least 15 kg.
 
-Darunavir Viatris contains the active substance darunavir and is a 'generic medicine'. This means that Darunavir Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Darunavir Viatris is Prezista. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
+Darunavir Viatris contains the active substance darunavir and is a 'generic medicine'. This means that Darunavir Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Darunavir Viatris is Prezista.
 
 Expand section
 
 Collapse section
 
-## How is Darunavir Viatris used?
+### How is Darunavir Viatris used?
 
 Darunavir Viatris can only be obtained with a prescription and treatment should be started by a healthcare professional who has experience in the management of HIV infection.
 
@@ -64,33 +62,33 @@ Darunavir Viatris is available as tablets. The medicine is always taken either w
 
 For more information about using Darunavir Viatris, see the package leaflet or contact your doctor or pharmacist
 
-## How does Darunavir Viatris work?
+### How does Darunavir Viatris work?
 
 The active substance in Darunavir Viatris, darunavir, is a protease inhibitor. It blocks protease, an enzyme involved in the reproduction of HIV. When the enzyme is blocked, the virus does not reproduce normally, slowing down its multiplication in the body. Darunavir Viatris is always given with ritonavir or cobicistat. Ritonavir and cobicistat reduce the breakdown of darunavir, increasing the levels of darunavir in the blood. This allows effective treatment while avoiding a higher dose of darunavir.
 
 Darunavir Viatris, taken in combination with other HIV medicines, reduces the amount of HIV in the blood and keeps it at a low level. Darunavir Viatris does not cure HIV infection or AIDS, but HIV treatment may hold off the damage to the immune system and the development of infections and diseases associated with AIDS.
 
-## How has Darunavir Viatris been studied?
+### How has Darunavir Viatris been studied?
 
 Studies on the benefits and risks of the active substance in the approved use have already been carried out with the reference medicine, Prezista, and do not need to be repeated for Darunavir Viatris.
 
 As for every medicine, the company provided studies on the quality of Darunavir Viatris. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Darunavir Viatris?
+### What are the benefits and risks of Darunavir Viatris?
 
 Because Darunavir Viatris is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Darunavir Viatris authorised in the EU?
+### Why is Darunavir Viatris authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Darunavir Viatris has been shown to have comparable quality and to be bioequivalent to Prezista. Therefore, the Agency's view was that, as for Prezista, the benefit outweighs the identified risk and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Darunavir Viatris?
+### What measures are being taken to ensure the safe and effective use of Darunavir Viatris?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Darunavir Viatris have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Prezista also apply to Duranavir Viatris where appropriate.
 
 As for all medicines, data on the use of Duranavir Viatris are continuously monitored. Suspected side effects reported with Duranavir Viatris are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Darunavir Viatris
+### Other information about Darunavir Viatris
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Darunavir Mylan on 4 January 2017.
 
@@ -106,7 +104,7 @@ English (EN) (132.11 KB - PDF)
 
 [View](/en/documents/overview/darunavir-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-649)
+[Other languages (22)](#file-language-dropdown-500)
 
 български (BG) (157.77 KB - PDF)
 
@@ -138,7 +136,7 @@ Deutsch (DE) (136.55 KB - PDF)
 
 [View](/de/documents/overview/darunavir-mylan-epar-summary-public_de.pdf)
 
-eesti keel (ET) (129.98 KB - PDF)
+eesti (ET) (129.98 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 08/01/2025
 
@@ -168,13 +166,13 @@ italiano (IT) (131.29 KB - PDF)
 
 [View](/it/documents/overview/darunavir-mylan-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (170.57 KB - PDF)
+latviešu (LV) (170.57 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 08/01/2025
 
 [View](/lv/documents/overview/darunavir-mylan-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (153.82 KB - PDF)
+lietuvių (LT) (153.82 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 08/01/2025
 
@@ -228,7 +226,7 @@ slovenščina (SL) (150.23 KB - PDF)
 
 [View](/sl/documents/overview/darunavir-mylan-epar-summary-public_sl.pdf)
 
-Suomi (FI) (130.1 KB - PDF)
+suomi (FI) (130.1 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 08/01/2025
 
@@ -252,167 +250,168 @@ English (EN) (108.54 KB - PDF)
 
 Darunavir Viatris : EPAR - Product Information
 
-English (EN) (1.44 MB - PDF)
+English (EN) (968.69 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/darunavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-594)
+[Other languages (24)](#file-language-dropdown-597)
 
-български (BG) (1.58 MB - PDF)
+български (BG) (1.59 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/bg/documents/product-information/darunavir-viatris-epar-product-information_bg.pdf)
 
-español (ES) (1.08 MB - PDF)
+español (ES) (1.47 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/es/documents/product-information/darunavir-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (1.22 MB - PDF)
+čeština (CS) (1.55 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/cs/documents/product-information/darunavir-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (1.06 MB - PDF)
+dansk (DA) (1.58 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/da/documents/product-information/darunavir-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.13 MB - PDF)
+Deutsch (DE) (926.91 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/de/documents/product-information/darunavir-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.01 MB - PDF)
+eesti (ET) (1.3 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/et/documents/product-information/darunavir-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.65 MB - PDF)
+ελληνικά (EL) (1.66 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/el/documents/product-information/darunavir-viatris-epar-product-information_el.pdf)
 
-français (FR) (1.61 MB - PDF)
+français (FR) (1.97 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/fr/documents/product-information/darunavir-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.73 MB - PDF)
+hrvatski (HR) (1.58 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/hr/documents/product-information/darunavir-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.02 MB - PDF)
+italiano (IT) (1.6 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/darunavir-viatris-epar-product-information_is.pdf)
-
-italiano (IT) (1.07 MB - PDF)
-
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/darunavir-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.31 MB - PDF)
+latviešu (LV) (1.55 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/lv/documents/product-information/darunavir-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.26 MB - PDF)
+lietuvių (LT) (1.65 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/lt/documents/product-information/darunavir-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (1.15 MB - PDF)
+magyar (HU) (1.7 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/hu/documents/product-information/darunavir-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.99 MB - PDF)
+Malti (MT) (2.01 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/mt/documents/product-information/darunavir-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.15 MB - PDF)
+Nederlands (NL) (1.9 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/nl/documents/product-information/darunavir-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (1.02 MB - PDF)
+polski (PL) (1.84 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/darunavir-viatris-epar-product-information_no.pdf)
-
-polski (PL) (1.86 MB - PDF)
-
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/darunavir-viatris-epar-product-information_pl.pdf)
 
-português (PT) (1.11 MB - PDF)
+português (PT) (1.1 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/darunavir-viatris-epar-product-information_pt.pdf)
 
-română (RO) (1.31 MB - PDF)
+română (RO) (2.28 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/darunavir-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.2 MB - PDF)
+slovenčina (SK) (1.81 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/darunavir-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.1 MB - PDF)
+slovenščina (SL) (931.35 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/darunavir-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (1021.96 KB - PDF)
+suomi (FI) (1.55 MB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/fi/documents/product-information/darunavir-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.06 MB - PDF)
+svenska (SV) (886.51 KB - PDF)
 
-**First published:** 03/02/2017 **Last updated:** 07/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/darunavir-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (1.47 MB - PDF)
 
-05/05/2026
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
+
+[View](/is/documents/product-information/darunavir-viatris-epar-product-information_is.pdf)
+
+norsk (NO) (1.03 MB - PDF)
+
+**First published:** 03/02/2017 **Last updated:** 20/10/2026
+
+[View](/no/documents/product-information/darunavir-viatris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000378378
+
+20/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -430,7 +429,7 @@ English (EN) (72.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-924)
+[Other languages (24)](#file-language-dropdown-33)
 
 български (BG) (114.64 KB - PDF)
 
@@ -462,7 +461,7 @@ Deutsch (DE) (42.17 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (79.33 KB - PDF)
+eesti (ET) (79.33 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 24/05/2024
 
@@ -486,25 +485,19 @@ hrvatski (HR) (78.65 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (39.63 KB - PDF)
-
-**First published:** 03/02/2017 **Last updated:** 24/05/2024
-
-[View](/is/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (81.01 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 24/05/2024
 
 [View](/it/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (103.93 KB - PDF)
+latviešu (LV) (103.93 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 24/05/2024
 
 [View](/lv/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (109.46 KB - PDF)
+lietuvių (LT) (109.46 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 24/05/2024
 
@@ -527,12 +520,6 @@ Nederlands (NL) (79.06 KB - PDF)
 **First published:** 03/02/2017 **Last updated:** 24/05/2024
 
 [View](/nl/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (47.79 KB - PDF)
-
-**First published:** 03/02/2017 **Last updated:** 24/05/2024
-
-[View](/no/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (64.25 KB - PDF)
 
@@ -564,7 +551,7 @@ slovenščina (SL) (61.91 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (84.63 KB - PDF)
+suomi (FI) (84.63 KB - PDF)
 
 **First published:** 03/02/2017 **Last updated:** 24/05/2024
 
@@ -576,27 +563,30 @@ svenska (SV) (45.05 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (39.63 KB - PDF)
+
+**First published:** 03/02/2017 **Last updated:** 24/05/2024
+
+[View](/is/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (47.79 KB - PDF)
+
+**First published:** 03/02/2017 **Last updated:** 24/05/2024
+
+[View](/no/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Darunavir Viatris (previously Darunavir Mylan)
-
-Active substance
-
-darunavir
-
-International non-proprietary name (INN) or common name
-
-darunavir
-
-Therapeutic area (MeSH)
-
-HIV Infections
-
-Anatomical therapeutic chemical (ATC) code
-
-J05AE10
+- **Name of medicine**
+    - Darunavir Viatris (previously Darunavir Mylan)
+- **Active substance**
+    - darunavir
+- **International non-proprietary name (INN) or common name**
+    - darunavir
+- **Therapeutic area (MeSH)**
+    - HIV Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AE10
 
 ### Pharmacotherapeutic group
 
@@ -624,31 +614,20 @@ Darunavir Viatris 400 mg and 800 mg tablets may be used to provide suitable dose
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004068
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-14/09/2016
-
-Marketing authorisation issued
-
-03/01/2017
-
-Revision
-
-18
+- **EMA product number**
+    - EMEA/H/C/004068
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
+- **Opinion adopted**
+    - 14/09/2016
+- **Marketing authorisation issued**
+    - 03/01/2017
+- **Revision**
+    - 19
 
 ## Assessment history
 
@@ -656,13 +635,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Darunavir Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.39 KB - PDF)
+English (EN) (159.6 KB - PDF)
 
-**First published:** 24/05/2024 **Last updated:** 07/05/2026
+**First published:** 24/05/2024 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/darunavir-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -674,7 +653,7 @@ English (EN) (182.56 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/darunavir-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Darunavir Mylan : EPAR - Public assessment report
 
@@ -702,163 +681,12 @@ English (EN) (82.34 KB - PDF)
 
 11/11/2016
 
-## More information on Darunavir Mylan
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-111)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
 ## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0040680000) (initial marketing authorisation)
 
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-07/05/2026
+20/10/2026
 
 ## Share this page

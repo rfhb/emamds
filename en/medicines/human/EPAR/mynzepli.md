@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-04-10 11:02:00
+document_datetime: 2026-10-19 13:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mynzepli.html
 document_name: mynzepli.html
 version: success
-processing_time: 0.100307
-conversion_datetime: 2026-04-13 14:19:54.887153
+processing_time: 0.3956658
+conversion_datetime: 2026-10-25 15:22:38.395214
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Mynzepli
 
 [RSS](/en/individual-human-medicine.xml/261745)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -52,13 +52,13 @@ Mynzepli is a medicine used to treat adults with:
 - impaired vision due to macular oedema caused by diabetes;
 - impaired vision due to choroidal neovascularisation in people with myopia (short-sightedness).
 
-Mynzepli contains the active substance aflibercept and is a biological medicine. It is a 'biosimilar medicine'; this means that Mynzepli is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Mynzepli is Eylea. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Mynzepli contains the active substance aflibercept and is a biological medicine. It is a 'biosimilar medicine'; this means that Mynzepli is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Mynzepli is Eylea.
 
 Expand section
 
 Collapse section
 
-## How is Mynzepli used?
+### How is Mynzepli used?
 
 Mynzepli can only be obtained with a prescription and must be given by a qualified doctor who is experienced in giving intravitreal injections (injection into the vitreous humour, the jelly-like fluid inside the eye). The medicine is available as a solution for intravitreal injection in vials or prefilled syringes.
 
@@ -66,11 +66,11 @@ Mynzepli is given as an intravitreal injection into the affected eye, repeated a
 
 For more information about how Mynzepli is used, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Mynzepli work?
+### How does Mynzepli work?
 
 The active substance in Mynzepli, aflibercept, is an engineered protein that has been designed to attach to and block the effects of a substance called vascular endothelial growth factor A (VEGF-A). It can also attach to other proteins such as placental growth factor (PlGF). VEGF-A and PlGF are involved in stimulating the abnormal growth of blood vessels in patients with AMD, certain types of macular oedema and myopic choroidal neovascularisation. By blocking these factors, aflibercept reduces the growth of abnormal blood vessels and controls leakage and swelling.
 
-## What benefits of Mynzepli have been shown in studies?
+### What benefits of Mynzepli have been shown in studies?
 
 Laboratory studies comparing Mynzepli with Eylea have shown that the active substance in Mynzepli is highly similar to that in Eylea in terms of structure, purity and biological activity. Studies have also shown that giving Mynzepli produces similar levels of the active substance in the body to those seen with Eylea.
 
@@ -78,7 +78,7 @@ In addition, a study involving 413 adults with wet AMD found that Mynzepli was a
 
 Because Mynzepli is a biosimilar medicine, the studies on the effectiveness of aflibercept carried out with Eylea do not all need to be repeated for Mynzepli.
 
-## What are the risks associated with Mynzepli?
+### What are the risks associated with Mynzepli?
 
 The safety of Mynzepli has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of Eylea.
 
@@ -92,13 +92,13 @@ Some side effects can be serious. Serious injection-related side effects (which 
 
 Mynzeplimust not be used in patients who have or are thought to have ocular or periocular infections (infections in or around the eyes), or in patients who have severe inflammation inside the eye.
 
-## Why is Mynzepli authorised in the EU?
+### Why is Mynzepli authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Mynzepli has a highly similar structure, purity and biological activity to Eylea and is distributed in the body in the same way. In addition, a study in adults with wet AMD has shown that Mynzepli and Eylea are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Mynzepli will have the same effects as Eylea in its authorised uses in adults. Therefore, the Agency's view was that, as for Eylea, the benefits of Mynzepli outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Mynzepli?
+### What measures are being taken to ensure the safe and effective use of Mynzepli?
 
 The company that markets Mynzepli will provide up-to-date educational material for doctors to minimise the risks associated with the injection in the eye and for patients to provide instructions on how to use the medicine, precautions to take and how to recognise serious side effects and know when to seek urgent attention from their doctor.
 
@@ -106,7 +106,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Mynzepli are continuously monitored. Suspected side effects reported with Mynzepli are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Mynzepli
+### Other information about Mynzepli
 
 Mynzepli received a marketing authorisation valid throughout the EU on 18 August 2025.
 
@@ -120,7 +120,7 @@ English (EN) (146.48 KB - PDF)
 
 [View](/en/documents/overview/mynzepli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-692)
 
 български (BG) (173.6 KB - PDF)
 
@@ -152,7 +152,7 @@ Deutsch (DE) (149.89 KB - PDF)
 
 [View](/de/documents/overview/mynzepli-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (143.32 KB - PDF)
+eesti (ET) (143.32 KB - PDF)
 
 **First published:** 17/10/2025
 
@@ -182,13 +182,13 @@ italiano (IT) (145.2 KB - PDF)
 
 [View](/it/documents/overview/mynzepli-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (179 KB - PDF)
+latviešu (LV) (179 KB - PDF)
 
 **First published:** 17/10/2025
 
 [View](/lv/documents/overview/mynzepli-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (168.88 KB - PDF)
+lietuvių (LT) (168.88 KB - PDF)
 
 **First published:** 17/10/2025
 
@@ -242,7 +242,7 @@ slovenščina (SL) (166.5 KB - PDF)
 
 [View](/sl/documents/overview/mynzepli-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (143.49 KB - PDF)
+suomi (FI) (143.49 KB - PDF)
 
 **First published:** 17/10/2025
 
@@ -266,167 +266,168 @@ English (EN) (1.7 MB - PDF)
 
 Mynzepli : EPAR - Product information
 
-English (EN) (1.72 MB - PDF)
+English (EN) (1.88 MB - PDF)
 
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
+**First published:** 17/10/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/mynzepli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-324)
+[Other languages (24)](#file-language-dropdown-165)
 
-български (BG) (2.39 MB - PDF)
+български (BG) (2.09 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/bg/documents/product-information/mynzepli-epar-product-information_bg.pdf)
 
-español (ES) (2.27 MB - PDF)
+español (ES) (1.98 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/es/documents/product-information/mynzepli-epar-product-information_es.pdf)
 
-čeština (CS) (2.38 MB - PDF)
+čeština (CS) (2.03 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/cs/documents/product-information/mynzepli-epar-product-information_cs.pdf)
 
-dansk (DA) (2.44 MB - PDF)
+dansk (DA) (2.36 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/da/documents/product-information/mynzepli-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.38 MB - PDF)
+Deutsch (DE) (1.79 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/de/documents/product-information/mynzepli-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.06 MB - PDF)
+eesti (ET) (1.79 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/et/documents/product-information/mynzepli-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.34 MB - PDF)
+ελληνικά (EL) (2.04 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/el/documents/product-information/mynzepli-epar-product-information_el.pdf)
 
-français (FR) (2.15 MB - PDF)
+français (FR) (1.76 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/fr/documents/product-information/mynzepli-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.36 MB - PDF)
+hrvatski (HR) (2.04 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/hr/documents/product-information/mynzepli-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.38 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/is/documents/product-information/mynzepli-epar-product-information_is.pdf)
-
-italiano (IT) (2.22 MB - PDF)
+italiano (IT) (1.87 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/it/documents/product-information/mynzepli-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.2 MB - PDF)
+latviešu (LV) (1.88 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/lv/documents/product-information/mynzepli-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.08 MB - PDF)
+lietuvių (LT) (1.96 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/lt/documents/product-information/mynzepli-epar-product-information_lt.pdf)
 
-magyar (HU) (2.71 MB - PDF)
+magyar (HU) (1.98 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/hu/documents/product-information/mynzepli-epar-product-information_hu.pdf)
 
-Malti (MT) (2.35 MB - PDF)
+Malti (MT) (2.22 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/mt/documents/product-information/mynzepli-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.57 MB - PDF)
+Nederlands (NL) (1.61 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/nl/documents/product-information/mynzepli-epar-product-information_nl.pdf)
 
-norsk (NO) (1.39 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/no/documents/product-information/mynzepli-epar-product-information_no.pdf)
-
-polski (PL) (2.27 MB - PDF)
+polski (PL) (1.95 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/pl/documents/product-information/mynzepli-epar-product-information_pl.pdf)
 
-português (PT) (2.35 MB - PDF)
+português (PT) (1.97 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/pt/documents/product-information/mynzepli-epar-product-information_pt.pdf)
 
-română (RO) (2.41 MB - PDF)
+română (RO) (1.99 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/ro/documents/product-information/mynzepli-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.24 MB - PDF)
+slovenčina (SK) (1.86 MB - PDF)
 
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
+**First published:** 17/10/2025 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/mynzepli-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.91 MB - PDF)
+slovenščina (SL) (1.74 MB - PDF)
 
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
+**First published:** 17/10/2025 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/mynzepli-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.48 MB - PDF)
+suomi (FI) (1.46 MB - PDF)
 
 **First published:** 17/10/2025 **Last updated:** 10/04/2026
 
 [View](/fi/documents/product-information/mynzepli-epar-product-information_fi.pdf)
 
-svenska (SV) (2.07 MB - PDF)
+svenska (SV) (1.81 MB - PDF)
 
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
+**First published:** 17/10/2025 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/mynzepli-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000335832
+Íslenska (IS) (1.78 MB - PDF)
 
-07/04/2026
+**First published:** 17/10/2025 **Last updated:** 19/10/2026
+
+[View](/is/documents/product-information/mynzepli-epar-product-information_is.pdf)
+
+norsk (NO) (1.97 MB - PDF)
+
+**First published:** 17/10/2025 **Last updated:** 10/04/2026
+
+[View](/no/documents/product-information/mynzepli-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** PSUR/0000336116
+
+18/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -444,7 +445,7 @@ English (EN) (49.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-306)
 
 български (BG) (62.98 KB - PDF)
 
@@ -476,7 +477,7 @@ Deutsch (DE) (48.44 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.28 KB - PDF)
+eesti (ET) (46.28 KB - PDF)
 
 **First published:** 17/10/2025
 
@@ -500,25 +501,19 @@ hrvatski (HR) (127.7 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (47.44 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/is/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.97 KB - PDF)
 
 **First published:** 17/10/2025
 
 [View](/it/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (64.99 KB - PDF)
+latviešu (LV) (64.99 KB - PDF)
 
 **First published:** 17/10/2025
 
 [View](/lv/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (65.75 KB - PDF)
+lietuvių (LT) (65.75 KB - PDF)
 
 **First published:** 17/10/2025
 
@@ -541,12 +536,6 @@ Nederlands (NL) (47.36 KB - PDF)
 **First published:** 17/10/2025
 
 [View](/nl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (48.42 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/no/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (68.08 KB - PDF)
 
@@ -578,7 +567,7 @@ slovenščina (SL) (55.46 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (46.51 KB - PDF)
+suomi (FI) (46.51 KB - PDF)
 
 **First published:** 17/10/2025
 
@@ -590,31 +579,34 @@ svenska (SV) (46.45 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (47.44 KB - PDF)
+
+**First published:** 17/10/2025
+
+[View](/is/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (48.42 KB - PDF)
+
+**First published:** 17/10/2025
+
+[View](/no/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Mynzepli
-
-Active substance
-
-aflibercept
-
-International non-proprietary name (INN) or common name
-
-aflibercept
-
-Therapeutic area (MeSH)
-
-- Wet Macular Degeneration
-- Macular Edema
-- Diabetes Complications
-- Retinal Vein Occlusion
-- Choroidal Neovascularization
-
-Anatomical therapeutic chemical (ATC) code
-
-S01LA05
+- **Name of medicine**
+    - Mynzepli
+- **Active substance**
+    - aflibercept
+- **International non-proprietary name (INN) or common name**
+    - aflibercept
+- **Therapeutic area (MeSH)**
+        - Wet Macular Degeneration
+        - Macular Edema
+        - Diabetes Complications
+        - Retinal Vein Occlusion
+        - Choroidal Neovascularization
+- **Anatomical therapeutic chemical (ATC) code**
+    - S01LA05
 
 ### Pharmacotherapeutic group
 
@@ -622,39 +614,33 @@ Ophthalmologicals
 
 ### Therapeutic indication
 
-Mynzepli is indicated for adults for the treatment of - neovascular (wet) age-related macular degeneration (AMD), - visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO), - visual impairment due to diabetic macular oedema (DME), - visual impairment due to myopic choroidal neovascularisation (myopic CNV)
+Mynzepli is indicated for adults for the treatment of  
+- neovascular (wet) age-related macular degeneration (AMD),  
+- visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO),  
+- visual impairment due to diabetic macular oedema (DME),  
+- visual impairment due to myopic choroidal neovascularisation (myopic CNV)
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006438
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Advanz Pharma Limited
-
-Unit 17 Northwood House Northwood Crescent Dublin 9 D09 V504 Ireland
-
-Opinion adopted
-
-19/06/2025
-
-Marketing authorisation issued
-
-18/08/2025
-
-Revision
-
-1
+- **EMA product number**
+    - EMEA/H/C/006438
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Advanz Pharma Limited Unit 17  
+Northwood House  
+Northwood Crescent  
+Dublin 9  
+D09 V504  
+Ireland
+- **Opinion adopted**
+    - 19/06/2025
+- **Marketing authorisation issued**
+    - 18/08/2025
+- **Revision**
+    - 2
 
 ## Assessment history
 
@@ -662,17 +648,27 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Mynzepli : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (135.63 KB - PDF)
+English (EN) (153.67 KB - PDF)
 
-**First published:** 10/04/2026
+**First published:** 10/04/2026 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/mynzepli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+Mynzepli-PSUSA-00010020-202511 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3486486
+
+English (EN) (166.92 KB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/scientific-conclusion/mynzepli-psusa-00010020-202511-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Mynzepli : EPAR - Public assessment report
 
@@ -702,6 +698,6 @@ English (EN) (149.26 KB - PDF)
 
 **This page was last updated on**
 
-10/04/2026
+19/10/2026
 
 ## Share this page

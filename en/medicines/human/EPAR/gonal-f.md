@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:57:17
+document_datetime: 2026-10-21 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gonal-f.html
 document_name: gonal-f.html
 version: success
-processing_time: 0.111118
-conversion_datetime: 2025-12-30 09:34:27.480723
+processing_time: 0.2011123
+conversion_datetime: 2026-10-25 15:19:16.339045
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # GONAL-f
 
 [RSS](/en/individual-human-medicine.xml/66080)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-follitropin alfa Medicine Human Authorised
+follitropin alfa
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -37,6 +37,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-90501)
 - [More information on GONAL-f](#related-medicines)
 - [Topics](#topics)
 
@@ -52,11 +53,11 @@ Expand section
 
 Collapse section
 
-## What is GONAL-f?
+### What is GONAL-f?
 
 GONAL-f is a medicine that contains the active substance follitropin alfa. It is available as a solution for injection in a prefilled pen and as a powder and solvent that are made up into a solution for injection.
 
-## What is GONAL-f used for?
+### What is GONAL-f used for?
 
 GONAL-f is used to treat the following groups:
 
@@ -67,7 +68,7 @@ GONAL-f is used to treat the following groups:
 
 The medicine can only be obtained with a prescription.
 
-## How is GONAL-f used?
+### How is GONAL-f used?
 
 Treatment with GONAL-f should be carried out by a doctor who has experience in the treatment of fertility problems.
 
@@ -75,13 +76,13 @@ GONAL-f is given by injection under the skin once a day. If the powder is being 
 
 For more information, see the package leaflet.
 
-## How does GONAL-f work?
+### How does GONAL-f work?
 
 The active substance in GONAL-f, follitropin alfa, is a copy of the natural hormone FSH. In the body, FSH controls reproductive function: in women, it stimulates the production of eggs; and in men, it stimulates the production of sperm in the testicles.
 
 Previously, the FSH used in medicines was extracted from urine. The follitropin alfa in GONAL-f is produced by a method known as 'recombinant DNA technology': it is made by a cell that has received a gene (DNA), which makes it able to produce human FSH.
 
-## How has GONAL-f been studied?
+### How has GONAL-f been studied?
 
 GONAL-f has been studied in 222 women who do not produce eggs or respond to clomiphene citrate. It has also been studied as part of assisted reproductive techniques in 470 women. In these studies, GONAL-f was compared with human FSH that had been extracted from urine.
 
@@ -89,13 +90,13 @@ GONAL-f, in combination with LH, has also been studied in 38 women with severe L
 
 In the studies of women, the main measures of effectiveness were the number of eggs collected, the number of women who released eggs and the number of follicles produced in the ovaries (small sacs that hold the eggs). In men, the studies looked at the number of men who started to produce sperm within the first 18 months of treatment.
 
-## What benefit has GONAL-f shown during the studies?
+### What benefit has GONAL-f shown during the studies?
 
 GONAL-f was as effective as human FSH in women who did not produce eggs or respond to clomiphene citrate: 84% of the women receiving GONAL-f produced eggs, compared with 91% of those receiving human FSH. GONAL-f was also as effective as human FSH at stimulating the ovaries during assisted reproductive techniques.
 
 GONAL-f was effective in triggering egg development in women with severe LH and FSH deficiency. In the study in men, GONAL-f, used in combination with hCG, was effective in stimulating sperm production, with 63% of the men starting to produce sperm.
 
-## What is the risk associated with GONAL-f?
+### What is the risk associated with GONAL-f?
 
 The most common side effects with GONAL-f (seen in more than 1 patient in 10) are reactions at the injection site (pain, redness, bruising, swelling or irritation). In women, ovarian cysts (sacs of fluid within the ovaries) and headache are also seen in more than 1 patient in 10. For the full list of all side effects reported with GONAL-f, see the package leaflet.
 
@@ -103,11 +104,11 @@ GONAL-f should not be used in people who may be hypersensitive (allergic) to fol
 
 In some women, the ovaries can over-respond to stimulation. This is called 'ovarian hyperstimulation syndrome'. Doctors and patients must be aware of this possibility.
 
-## Why has GONAL-f been approved?
+### Why has GONAL-f been approved?
 
 The CHMP decided that GONAL-f's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about GONAL-f
+### Other information about GONAL-f
 
 The European Commission granted a marketing authorisation valid throughout the European Union for GONAL-f to Merck Serono Europe Ltd. on 20 October 1995. The marketing authorisation is valid for an unlimited period.
 
@@ -117,263 +118,135 @@ GONAL-f : EPAR - Summary for the public
 
 English (EN) (61.46 KB - PDF)
 
-**First published:** 31/08/2006
-
-**Last updated:** 28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/en/documents/overview/gonal-f-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-593)
+[Other languages (21)](#file-language-dropdown-324)
 
 български (BG) (102.41 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/bg/documents/overview/gonal-f-epar-summary-public_bg.pdf)
 
 español (ES) (124.32 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/es/documents/overview/gonal-f-epar-summary-public_es.pdf)
 
 čeština (CS) (153.22 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/cs/documents/overview/gonal-f-epar-summary-public_cs.pdf)
 
 dansk (DA) (125.21 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/da/documents/overview/gonal-f-epar-summary-public_da.pdf)
 
 Deutsch (DE) (125.84 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/de/documents/overview/gonal-f-epar-summary-public_de.pdf)
 
-eesti keel (ET) (124.83 KB - PDF)
+eesti (ET) (124.83 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/et/documents/overview/gonal-f-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (168.98 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/el/documents/overview/gonal-f-epar-summary-public_el.pdf)
 
 français (FR) (125.06 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/fr/documents/overview/gonal-f-epar-summary-public_fr.pdf)
 
 italiano (IT) (126.39 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/it/documents/overview/gonal-f-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (170.5 KB - PDF)
+latviešu (LV) (170.5 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/lv/documents/overview/gonal-f-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (151.09 KB - PDF)
+lietuvių (LT) (151.09 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/lt/documents/overview/gonal-f-epar-summary-public_lt.pdf)
 
 magyar (HU) (149.12 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/hu/documents/overview/gonal-f-epar-summary-public_hu.pdf)
 
 Malti (MT) (151.9 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/mt/documents/overview/gonal-f-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (124.6 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/nl/documents/overview/gonal-f-epar-summary-public_nl.pdf)
 
 polski (PL) (152.98 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/pl/documents/overview/gonal-f-epar-summary-public_pl.pdf)
 
 português (PT) (125.01 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/pt/documents/overview/gonal-f-epar-summary-public_pt.pdf)
 
 română (RO) (151.11 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/ro/documents/overview/gonal-f-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (151.38 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/sk/documents/overview/gonal-f-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (147.92 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/sl/documents/overview/gonal-f-epar-summary-public_sl.pdf)
 
-Suomi (FI) (125.55 KB - PDF)
+suomi (FI) (125.55 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/fi/documents/overview/gonal-f-epar-summary-public_fi.pdf)
 
 svenska (SV) (124.76 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-28/09/2010
+**First published:** 31/08/2006 **Last updated:** 28/09/2010
 
 [View](/sv/documents/overview/gonal-f-epar-summary-public_sv.pdf)
 
@@ -389,311 +262,168 @@ English (EN) (95.44 KB - PDF)
 
 GONAL-f : EPAR - Product Information
 
-English (EN) (3.07 MB - PDF)
+English (EN) (2.01 MB - PDF)
 
-**First published:** 07/08/2009
-
-**Last updated:** 09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/en/documents/product-information/gonal-f-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-539)
+[Other languages (24)](#file-language-dropdown-435)
 
-български (BG) (2.83 MB - PDF)
+български (BG) (2.16 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/bg/documents/product-information/gonal-f-epar-product-information_bg.pdf)
 
-español (ES) (2.73 MB - PDF)
+español (ES) (2.05 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/es/documents/product-information/gonal-f-epar-product-information_es.pdf)
 
-čeština (CS) (2.89 MB - PDF)
+čeština (CS) (2.23 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/cs/documents/product-information/gonal-f-epar-product-information_cs.pdf)
 
-dansk (DA) (2.78 MB - PDF)
+dansk (DA) (2.11 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/da/documents/product-information/gonal-f-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.73 MB - PDF)
+Deutsch (DE) (2.1 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/de/documents/product-information/gonal-f-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.64 MB - PDF)
+eesti (ET) (1.97 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/et/documents/product-information/gonal-f-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.89 MB - PDF)
+ελληνικά (EL) (2.19 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/el/documents/product-information/gonal-f-epar-product-information_el.pdf)
 
-français (FR) (2.86 MB - PDF)
+français (FR) (2.25 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/fr/documents/product-information/gonal-f-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.75 MB - PDF)
+hrvatski (HR) (2.07 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/hr/documents/product-information/gonal-f-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.68 MB - PDF)
+italiano (IT) (2.15 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
-
-[View](/is/documents/product-information/gonal-f-epar-product-information_is.pdf)
-
-italiano (IT) (2.79 MB - PDF)
-
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/it/documents/product-information/gonal-f-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.86 MB - PDF)
+latviešu (LV) (2.18 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/lv/documents/product-information/gonal-f-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.79 MB - PDF)
+lietuvių (LT) (2.11 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/lt/documents/product-information/gonal-f-epar-product-information_lt.pdf)
 
-magyar (HU) (3.01 MB - PDF)
+magyar (HU) (2.34 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/hu/documents/product-information/gonal-f-epar-product-information_hu.pdf)
 
-Malti (MT) (2.95 MB - PDF)
+Malti (MT) (2.55 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/mt/documents/product-information/gonal-f-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.68 MB - PDF)
+Nederlands (NL) (2.01 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/nl/documents/product-information/gonal-f-epar-product-information_nl.pdf)
 
-norsk (NO) (2.6 MB - PDF)
+polski (PL) (2.38 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
-
-[View](/no/documents/product-information/gonal-f-epar-product-information_no.pdf)
-
-polski (PL) (3.07 MB - PDF)
-
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/pl/documents/product-information/gonal-f-epar-product-information_pl.pdf)
 
-português (PT) (2.65 MB - PDF)
+português (PT) (1.99 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/pt/documents/product-information/gonal-f-epar-product-information_pt.pdf)
 
-română (RO) (2.9 MB - PDF)
+română (RO) (2.24 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/ro/documents/product-information/gonal-f-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.92 MB - PDF)
+slovenčina (SK) (2.29 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/sk/documents/product-information/gonal-f-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.77 MB - PDF)
+slovenščina (SL) (2.09 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/sl/documents/product-information/gonal-f-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.73 MB - PDF)
+suomi (FI) (2.05 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/fi/documents/product-information/gonal-f-epar-product-information_fi.pdf)
 
-svenska (SV) (2.61 MB - PDF)
+svenska (SV) (1.96 MB - PDF)
 
-**First published:**
-
-07/08/2009
-
-**Last updated:**
-
-09/01/2025
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
 
 [View](/sv/documents/product-information/gonal-f-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0176/G 06/01/2025
+Íslenska (IS) (1.99 MB - PDF)
+
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
+
+[View](/is/documents/product-information/gonal-f-epar-product-information_is.pdf)
+
+norsk (NO) (1.93 MB - PDF)
+
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
+
+[View](/no/documents/product-information/gonal-f-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000372982
+
+21/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -705,314 +435,173 @@ Product information documents contain:
 
 GONAL-f : EPAR - All Authorised presentations
 
-English (EN) (71.84 KB - PDF)
+English (EN) (44.44 KB - PDF)
 
-**First published:** 31/08/2006
-
-**Last updated:** 09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/en/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-58)
 
-български (BG) (85.71 KB - PDF)
+български (BG) (54.86 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/bg/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (85.91 KB - PDF)
+español (ES) (54.24 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/es/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (82.15 KB - PDF)
+čeština (CS) (51.76 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/cs/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (75.15 KB - PDF)
+dansk (DA) (49.32 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/da/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (75.46 KB - PDF)
+Deutsch (DE) (50.11 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/de/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (55.21 KB - PDF)
+eesti (ET) (45.56 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/et/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (79.39 KB - PDF)
+ελληνικά (EL) (50.72 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/el/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (73.93 KB - PDF)
+français (FR) (46.96 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/fr/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (76.84 KB - PDF)
+hrvatski (HR) (48.04 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/hr/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (73.69 KB - PDF)
+italiano (IT) (53.19 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
-
-[View](/is/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (84.43 KB - PDF)
-
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/it/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (76.19 KB - PDF)
+latviešu (LV) (50.95 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/lv/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (74.87 KB - PDF)
+lietuvių (LT) (49.25 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/lt/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (77.06 KB - PDF)
+magyar (HU) (49.74 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/hu/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (80.77 KB - PDF)
+Malti (MT) (72.07 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/mt/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (73.71 KB - PDF)
+Nederlands (NL) (47.08 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/nl/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (73.54 KB - PDF)
+polski (PL) (51.12 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
-
-[View](/no/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (77.27 KB - PDF)
-
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/pl/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (73.63 KB - PDF)
+português (PT) (48.59 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/pt/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (76.5 KB - PDF)
+română (RO) (49.32 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/ro/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (78.68 KB - PDF)
+slovenčina (SK) (51.28 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/sk/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (74.41 KB - PDF)
+slovenščina (SL) (48.38 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/sl/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (84.85 KB - PDF)
+suomi (FI) (52.39 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/fi/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (72.93 KB - PDF)
+svenska (SV) (47.32 KB - PDF)
 
-**First published:**
-
-31/08/2006
-
-**Last updated:**
-
-09/01/2025
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
 
 [View](/sv/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (48.21 KB - PDF)
+
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
+
+[View](/is/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (48.97 KB - PDF)
+
+**First published:** 31/08/2006 **Last updated:** 21/10/2026
+
+[View](/no/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine GONAL-f Active substance follitropin alfa International non-proprietary name (INN) or common name follitropin alfa Therapeutic area (MeSH)
-
-- Anovulation
-- Reproductive Techniques, Assisted
-- Infertility, Female
-- Hypogonadism
-
-Anatomical therapeutic chemical (ATC) code G03GA05
+- **Name of medicine**
+    - GONAL-f
+- **Active substance**
+    - follitropin alfa
+- **International non-proprietary name (INN) or common name**
+    - follitropin alfa
+- **Therapeutic area (MeSH)**
+        - Anovulation
+        - Reproductive Techniques, Assisted
+        - Infertility, Female
+        - Hypogonadism
+- **Anatomical therapeutic chemical (ATC) code**
+    - G03GA05
 
 ### Pharmacotherapeutic group
 
@@ -1027,13 +616,16 @@ Sex hormones and modulators of the genital system
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000071 Marketing authorisation holder
-
-Merck Europe B.V.
-
-Gustav Mahlerplein 102
-
-Marketing authorisation issued 20/10/1995 Revision 27
+- **EMA product number**
+    - EMEA/H/C/000071
+- **Marketing authorisation holder**
+    - Merck Europe B.V. Gustav Mahlerplein 102  
+1082 MA Amsterdam  
+The Netherlands
+- **Marketing authorisation issued**
+    - 20/10/1995
+- **Revision**
+    - 28
 
 ## Assessment history
 
@@ -1041,29 +633,33 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 GONAL-f : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (376.5 KB - PDF)
+English (EN) (167.42 KB - PDF)
 
-**First published:** 07/08/2009
-
-**Last updated:** 09/01/2025
+**First published:** 21/10/2026
 
 [View](/en/documents/procedural-steps-after/gonal-f-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+GONAL-f : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (376.5 KB - PDF)
+
+**First published:** 07/08/2009 **Last updated:** 21/10/2026
+
+[View](/en/documents/procedural-steps-after/gonal-f-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 GONAL-f : EPAR - Steps taken after authorisation when a cutoff date has been used
 
 English (EN) (54.67 KB - PDF)
 
-**First published:** 29/05/2007
-
-**Last updated:** 29/05/2007
+**First published:** 29/05/2007 **Last updated:** 29/05/2007
 
 [View](/en/documents/steps-after-cutoff/gonal-f-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 GONAL-f : EPAR - Procedural steps taken before authorisation
 
@@ -1081,16 +677,174 @@ English (EN) (92.32 KB - PDF)
 
 [View](/en/documents/scientific-discussion/gonal-f-epar-scientific-discussion_en.pdf)
 
-#### More information on GONAL-f
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+GONAL-f : EPAR - Product information - tracked changes
+
+English (EN) (3.55 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/en/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-158)
+
+български (BG) (2.67 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/bg/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (2.74 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/es/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (2.91 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/cs/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (2.75 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/da/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (2.92 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/de/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (2.82 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/et/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (2.96 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/el/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (2.8 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/fr/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (2.7 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/hr/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (2.74 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/it/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (2.9 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/lv/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (2.95 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/lt/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (2.88 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/hu/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (2.77 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/mt/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (2.9 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/nl/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (2.94 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/pl/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (2.75 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/pt/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (2.51 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/ro/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (2.94 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/sk/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (2.91 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/sl/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (2.91 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/fi/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (2.72 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/sv/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (2.76 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/is/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (3.33 MB - DOCX)
+
+**First published:** 21/10/2026
+
+[View](/no/documents/product-information-tracked-changes/gonal-f-epar-product-information-tracked-changes_no.docx)
+
+## More information on GONAL-f
 
 - [Safety of Ovaleap® (Follitropin alfa) in Infertile Women Undergoing Superovulation for Assisted Reproductive Technologies. A Multi-National, Comparative, Prospective, Non-Interventional, Observational Cohort Study (SOFIA) - post-authorisation study](https://catalogues.ema.europa.eu/study/41256)
 
-#### Topics
+## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
-**This page was last updated on** 09/01/2025
+**This page was last updated on**
+
+21/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

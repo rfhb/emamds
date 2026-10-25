@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-19 09:14:00
+document_datetime: 2026-10-23 11:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prolia.html
 document_name: prolia.html
 version: success
-processing_time: 0.1941867
-conversion_datetime: 2026-08-22 23:22:32.951357
+processing_time: 0.2276313
+conversion_datetime: 2026-10-25 15:25:24.327108
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Prolia
 
 [RSS](/en/individual-human-medicine.xml/65507)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -123,7 +123,7 @@ English (EN) (87.73 KB - PDF)
 
 [View](/en/documents/overview/prolia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-163)
+[Other languages (22)](#file-language-dropdown-397)
 
 български (BG) (116.97 KB - PDF)
 
@@ -269,161 +269,161 @@ English (EN) (1.95 MB - PDF)
 
 Prolia : EPAR - Product information
 
-English (EN) (805.95 KB - PDF)
+English (EN) (797.38 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/en/documents/product-information/prolia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-840)
+[Other languages (24)](#file-language-dropdown-621)
 
-български (BG) (890.54 KB - PDF)
+български (BG) (884.42 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/bg/documents/product-information/prolia-epar-product-information_bg.pdf)
 
-español (ES) (847.38 KB - PDF)
+español (ES) (835.72 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/es/documents/product-information/prolia-epar-product-information_es.pdf)
 
-čeština (CS) (885.83 KB - PDF)
+čeština (CS) (877.23 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/cs/documents/product-information/prolia-epar-product-information_cs.pdf)
 
-dansk (DA) (849.39 KB - PDF)
+dansk (DA) (841.61 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/da/documents/product-information/prolia-epar-product-information_da.pdf)
 
-Deutsch (DE) (873.54 KB - PDF)
+Deutsch (DE) (866.25 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/de/documents/product-information/prolia-epar-product-information_de.pdf)
 
-eesti (ET) (838.35 KB - PDF)
+eesti (ET) (826.58 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/et/documents/product-information/prolia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (900.49 KB - PDF)
+ελληνικά (EL) (888.22 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/el/documents/product-information/prolia-epar-product-information_el.pdf)
 
-français (FR) (884.32 KB - PDF)
+français (FR) (904.28 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/fr/documents/product-information/prolia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (866.42 KB - PDF)
+hrvatski (HR) (857.66 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/hr/documents/product-information/prolia-epar-product-information_hr.pdf)
 
-italiano (IT) (861.29 KB - PDF)
+italiano (IT) (855.47 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/it/documents/product-information/prolia-epar-product-information_it.pdf)
 
-latviešu (LV) (864.12 KB - PDF)
+latviešu (LV) (855.07 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/lv/documents/product-information/prolia-epar-product-information_lv.pdf)
 
-lietuvių (LT) (868.77 KB - PDF)
+lietuvių (LT) (860.4 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/lt/documents/product-information/prolia-epar-product-information_lt.pdf)
 
-magyar (HU) (886.72 KB - PDF)
+magyar (HU) (879 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/hu/documents/product-information/prolia-epar-product-information_hu.pdf)
 
-Malti (MT) (952.09 KB - PDF)
+Malti (MT) (940 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/mt/documents/product-information/prolia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (854.38 KB - PDF)
+Nederlands (NL) (847.51 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/nl/documents/product-information/prolia-epar-product-information_nl.pdf)
 
-polski (PL) (877.05 KB - PDF)
+polski (PL) (876.24 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/pl/documents/product-information/prolia-epar-product-information_pl.pdf)
 
-português (PT) (852.53 KB - PDF)
+português (PT) (843.59 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/pt/documents/product-information/prolia-epar-product-information_pt.pdf)
 
-română (RO) (877.23 KB - PDF)
+română (RO) (867.13 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/ro/documents/product-information/prolia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (898.36 KB - PDF)
+slovenčina (SK) (892.67 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/sk/documents/product-information/prolia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (863.58 KB - PDF)
+slovenščina (SL) (860.86 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/sl/documents/product-information/prolia-epar-product-information_sl.pdf)
 
-suomi (FI) (839.28 KB - PDF)
+suomi (FI) (831.84 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/fi/documents/product-information/prolia-epar-product-information_fi.pdf)
 
-svenska (SV) (844.29 KB - PDF)
+svenska (SV) (836.21 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/sv/documents/product-information/prolia-epar-product-information_sv.pdf)
 
-Íslenska (IS) (841.14 KB - PDF)
+Íslenska (IS) (832.87 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/is/documents/product-information/prolia-epar-product-information_is.pdf)
 
-norsk (NO) (843.37 KB - PDF)
+norsk (NO) (832.58 KB - PDF)
 
-**First published:** 23/06/2010 **Last updated:** 19/08/2026
+**First published:** 23/06/2010 **Last updated:** 23/10/2026
 
 [View](/no/documents/product-information/prolia-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000288149
+**Latest procedure affecting product information:** VR/0000326998
 
-15/01/2026
+23/04/2026
 
 icon globe
 
@@ -448,7 +448,7 @@ English (EN) (14.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prolia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-92)
+[Other languages (23)](#file-language-dropdown-724)
 
 български (BG) (86.54 KB - PDF)
 
@@ -618,11 +618,13 @@ Treatment of bone loss associated with hormone ablation in men with prostate can
 - **EMA product number**
     - EMEA/H/C/001120
 - **Marketing authorisation holder**
-    - Amgen Europe B.V. Minervum 7061  NL-4817 ZK Breda  The Netherlands
+    - Amgen Europe B.V. Minervum 7061  
+NL-4817 ZK Breda  
+The Netherlands
 - **Marketing authorisation issued**
     - 26/05/2010
 - **Revision**
-    - 35
+    - 36
 
 ## Assessment history
 
@@ -634,9 +636,9 @@ Collapse section
 
 Prolia : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.44 KB - PDF)
+English (EN) (154.27 KB - PDF)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/en/documents/procedural-steps-after/prolia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -776,153 +778,153 @@ Prolia : EPAR - Product information - tracked changes
 
 English (EN) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/en/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-883)
+[Other languages (24)](#file-language-dropdown-316)
 
 български (BG) (3.15 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/es/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/da/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/de/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_de.docx)
 
 eesti (ET) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/et/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (3.15 MB - DOCX)
+ελληνικά (EL) (3.16 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/el/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (3.14 MB - DOCX)
+français (FR) (3.15 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (3.15 MB - DOCX)
+hrvatski (HR) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_hr.docx)
 
 italiano (IT) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/it/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_it.docx)
 
 latviešu (LV) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių (LT) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (3.15 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_nl.docx)
 
-polski (PL) (3.15 MB - DOCX)
+polski (PL) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_sl.docx)
 
 suomi (FI) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_sv.docx)
 
 Íslenska (IS) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/is/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_is.docx)
 
 norsk (NO) (3.14 MB - DOCX)
 
-**First published:** 18/06/2025 **Last updated:** 19/08/2026
+**First published:** 18/06/2025 **Last updated:** 23/10/2026
 
 [View](/no/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_no.docx)
 
@@ -945,6 +947,6 @@ norsk (NO) (3.14 MB - DOCX)
 
 **This page was last updated on**
 
-19/08/2026
+23/10/2026
 
 ## Share this page

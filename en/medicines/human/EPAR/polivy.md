@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-27 12:45:00
+document_datetime: 2026-10-20 12:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/polivy.html
 document_name: polivy.html
 version: success
-processing_time: 0.128042
-conversion_datetime: 2026-06-01 16:57:44.106574
+processing_time: 0.1880811
+conversion_datetime: 2026-10-25 15:24:38.98997
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Polivy
 
 [RSS](/en/individual-human-medicine.xml/67240)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Polivy](#news-on)
 - [More information on Polivy](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -60,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Polivy used?
+### How is Polivy used?
 
 Polivy can only be obtained with a prescription, and treatment must be given under the supervision of a healthcare professional experienced in the diagnosis and treatment of cancer.
 
@@ -70,17 +69,17 @@ Before receiving Polivy, patients are given preventive medicines to reduce the r
 
 For more information about using Polivy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Polivy work?
+### How does Polivy work?
 
 Patients with DLBCL have cancerous B cells, which are a type of white blood cell. The active substance in Polivy, polatuzumab vedotin, is made up of a monoclonal antibody (a type of protein) combined with a substance called monomethyl auristatin E (MMAE). The monoclonal antibody attaches to a protein called CD79b on B cells, including cancerous B cells, and in doing so causes MMAE to be released inside the cells. Once inside the B cell, MMAE stops them from dividing and causes them to die.
 
-## What benefits of Polivy have been shown in studies?
+### What benefits of Polivy have been shown in studies?
 
 In a main study involving 879 patients with previously untreated DLBCL, Polivy given together with rituximab plus cyclophosphamide, doxorubicin and prednisone (R-CHP) was compared with the standard regimen of rituximab plus cyclophosphamide, doxorubicin, vincristine and prednisone (R-CHOP). After 28 months, 24% (107) of patients receiving Polivy plus R-CHP experienced worsening of their disease or had died compared with 31% (134) of patients receiving standard treatment.
 
 Polivy was investigated in a second main study involving 80 patients with DLBCL whose cancer had returned or stopped responding to other treatments. Half of the patients received Polivy added to the standard regimen of bendamustine plus rituximab, whereas the other half received bendamustine plus rituximab alone. After 6 to 8 weeks of treatment, there were no signs of the cancer (complete response) in 40% of patients receiving Polivy plus rituximab and bendamustine compared with 18% of patients receiving rituximab and bendamustine alone.
 
-## What are the risks associated with Polivy?
+### What are the risks associated with Polivy?
 
 Polivy can affect the production of blood cells. The most common side effects of Polivy in combination with rituximab, cyclophosphamide, doxorubicin and prednisone (which may affect more than 3 in 10 people) are peripheral neuropathy, nausea (feeling sick), neutropenia (low levels of white blood cells) and diarrhoea. Serious side effects (which may affect up to 2 in 10 people) include febrile neutropenia (low levels of white blood cells with fever) and pneumonia (infection of the lungs).
 
@@ -88,7 +87,7 @@ The most common side effects with Polivy in combination with bendamustine and ri
 
 The medicine must not be given to patients who have a severe infection. For the full list of side effects and restrictions of Polivy, see the package leaflet.
 
-## Why is Polivy authorised in the EU?
+### Why is Polivy authorised in the EU?
 
 Polivy has been shown to be effective at treating patients with previously untreated DLBCL, as well as those whose disease was not responding to previous treatment or had returned and who could not have a stem cell transplant.
 
@@ -96,17 +95,17 @@ Serious side effects can occur; however, these are manageable if appropriate mea
 
 Polivy was originally given a 'conditional authorisation' because there was more evidence to come about the medicine. As the company has supplied the additional information necessary, the authorisation has been switched from conditional to full authorisation.
 
-## What information is still awaited for Polivy?
+### What information is still awaited for Polivy?
 
 Since Polivy has been given conditional authorisation, the company that markets Polivy will provide further data on its effects to confirm Polivy's safety and effectiveness when used in combination with other cancer medicines in patients with DLBCL.
 
-## What measures are being taken to ensure the safe and effective use of Polivy?
+### What measures are being taken to ensure the safe and effective use of Polivy?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Polivy have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Polivy are continuously monitored. Side effects reported with Polivy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Polivy
+### Other information about Polivy
 
 Polivy received a conditional marketing authorisation valid throughout the EU on 16 January 2020. This was switched to a full marketing authorisation on 24 May 2022. .
 
@@ -120,7 +119,7 @@ English (EN) (150.06 KB - PDF)
 
 [View](/en/documents/overview/polivy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-501)
+[Other languages (22)](#file-language-dropdown-354)
 
 български (BG) (173.57 KB - PDF)
 
@@ -152,7 +151,7 @@ Deutsch (DE) (152.96 KB - PDF)
 
 [View](/de/documents/overview/polivy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (159.1 KB - PDF)
+eesti (ET) (159.1 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 08/04/2024
 
@@ -182,13 +181,13 @@ italiano (IT) (149.13 KB - PDF)
 
 [View](/it/documents/overview/polivy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (188.9 KB - PDF)
+latviešu (LV) (188.9 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 08/04/2024
 
 [View](/lv/documents/overview/polivy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (173.1 KB - PDF)
+lietuvių (LT) (173.1 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 08/04/2024
 
@@ -242,7 +241,7 @@ slovenščina (SL) (171.62 KB - PDF)
 
 [View](/sl/documents/overview/polivy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (148.25 KB - PDF)
+suomi (FI) (148.25 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 08/04/2024
 
@@ -266,155 +265,168 @@ English (EN) (176.59 KB - PDF)
 
 Polivy : EPAR - Product information
 
-English (EN) (221.48 KB - PDF)
+English (EN) (224.86 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/polivy-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-703)
+[Other languages (24)](#file-language-dropdown-788)
 
-български (BG) (699.81 KB - PDF)
+български (BG) (735.91 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/bg/documents/product-information/polivy-epar-product-information_bg.pdf)
 
-español (ES) (469.18 KB - PDF)
+español (ES) (477.26 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/es/documents/product-information/polivy-epar-product-information_es.pdf)
 
-čeština (CS) (504.81 KB - PDF)
+čeština (CS) (518.69 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/cs/documents/product-information/polivy-epar-product-information_cs.pdf)
 
-dansk (DA) (415.67 KB - PDF)
+dansk (DA) (426 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/da/documents/product-information/polivy-epar-product-information_da.pdf)
 
-Deutsch (DE) (522.88 KB - PDF)
+Deutsch (DE) (528.73 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/de/documents/product-information/polivy-epar-product-information_de.pdf)
 
-eesti keel (ET) (467.01 KB - PDF)
+eesti (ET) (483.62 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/et/documents/product-information/polivy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (599.71 KB - PDF)
+ελληνικά (EL) (771.87 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/el/documents/product-information/polivy-epar-product-information_el.pdf)
 
-français (FR) (465.87 KB - PDF)
+français (FR) (478.08 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/fr/documents/product-information/polivy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (634.84 KB - PDF)
+hrvatski (HR) (542.36 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/hr/documents/product-information/polivy-epar-product-information_hr.pdf)
 
-italiano (IT) (540.44 KB - PDF)
+italiano (IT) (518.35 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/polivy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (506.62 KB - PDF)
+latviešu (LV) (519.64 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/lv/documents/product-information/polivy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (617.23 KB - PDF)
+lietuvių (LT) (627.66 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/lt/documents/product-information/polivy-epar-product-information_lt.pdf)
 
-magyar (HU) (617.89 KB - PDF)
+magyar (HU) (589.38 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/hu/documents/product-information/polivy-epar-product-information_hu.pdf)
 
-Malti (MT) (558.46 KB - PDF)
+Malti (MT) (543.85 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/mt/documents/product-information/polivy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (459.77 KB - PDF)
+Nederlands (NL) (524.66 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/nl/documents/product-information/polivy-epar-product-information_nl.pdf)
 
-polski (PL) (606.57 KB - PDF)
+polski (PL) (648.88 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/polivy-epar-product-information_pl.pdf)
 
-português (PT) (628.65 KB - PDF)
+português (PT) (649.34 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/polivy-epar-product-information_pt.pdf)
 
-română (RO) (631.54 KB - PDF)
+română (RO) (632.26 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/polivy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (599.21 KB - PDF)
+slovenčina (SK) (654.03 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/polivy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (536.95 KB - PDF)
+slovenščina (SL) (560.11 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/polivy-epar-product-information_sl.pdf)
 
-Suomi (FI) (524.74 KB - PDF)
+suomi (FI) (539.18 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/fi/documents/product-information/polivy-epar-product-information_fi.pdf)
 
-svenska (SV) (423.19 KB - PDF)
+svenska (SV) (425.21 KB - PDF)
 
-**First published:** 27/01/2020 **Last updated:** 27/05/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/polivy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000296524
+Íslenska (IS) (513.28 KB - PDF)
 
-26/03/2026
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
+
+[View](/is/documents/product-information/polivy-epar-product-information_is.pdf)
+
+norsk (NO) (492.62 KB - PDF)
+
+**First published:** 27/01/2020 **Last updated:** 20/10/2026
+
+[View](/no/documents/product-information/polivy-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000343429
+
+17/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -432,7 +444,7 @@ English (EN) (14.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-416)
+[Other languages (24)](#file-language-dropdown-70)
 
 български (BG) (43.29 KB - PDF)
 
@@ -464,7 +476,7 @@ Deutsch (DE) (18.47 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (56.47 KB - PDF)
+eesti (ET) (56.47 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 19/11/2020
 
@@ -488,25 +500,19 @@ hrvatski (HR) (33.69 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (14.36 KB - PDF)
-
-**First published:** 27/01/2020 **Last updated:** 19/11/2020
-
-[View](/is/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (18.13 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 19/11/2020
 
 [View](/it/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (35.59 KB - PDF)
+latviešu (LV) (35.59 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 19/11/2020
 
 [View](/lv/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (35.67 KB - PDF)
+lietuvių (LT) (35.67 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 19/11/2020
 
@@ -529,12 +535,6 @@ Nederlands (NL) (14.34 KB - PDF)
 **First published:** 27/01/2020 **Last updated:** 19/11/2020
 
 [View](/nl/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (14.29 KB - PDF)
-
-**First published:** 27/01/2020 **Last updated:** 19/11/2020
-
-[View](/no/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (38.09 KB - PDF)
 
@@ -566,7 +566,7 @@ slovenščina (SL) (20.64 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (18.72 KB - PDF)
+suomi (FI) (18.72 KB - PDF)
 
 **First published:** 27/01/2020 **Last updated:** 19/11/2020
 
@@ -578,27 +578,30 @@ svenska (SV) (57.56 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (14.36 KB - PDF)
+
+**First published:** 27/01/2020 **Last updated:** 19/11/2020
+
+[View](/is/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (14.29 KB - PDF)
+
+**First published:** 27/01/2020 **Last updated:** 19/11/2020
+
+[View](/no/documents/all-authorised-presentations/polivy-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Polivy
-
-Active substance
-
-polatuzumab vedotin
-
-International non-proprietary name (INN) or common name
-
-polatuzumab vedotin
-
-Therapeutic area (MeSH)
-
-Lymphoma, B-Cell
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FX14
+- **Name of medicine**
+    - Polivy
+- **Active substance**
+    - polatuzumab vedotin
+- **International non-proprietary name (INN) or common name**
+    - polatuzumab vedotin
+- **Therapeutic area (MeSH)**
+    - Lymphoma, B-Cell
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FX14
 
 ### Pharmacotherapeutic group
 
@@ -612,35 +615,22 @@ Polivy in combination with rituximab, cyclophosphamide, doxorubicin, and prednis
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004870
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-PRIME: priority medicine
-
-This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Opinion adopted
-
-14/11/2019
-
-Marketing authorisation issued
-
-16/01/2020
-
-Revision
-
-8
+- **EMA product number**
+    - EMEA/H/C/004870
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **PRIME: priority medicine**
+    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  
+79639 Grenzach-Wyhlen  
+Germany
+- **Opinion adopted**
+    - 14/11/2019
+- **Marketing authorisation issued**
+    - 16/01/2020
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -648,13 +638,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Polivy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.93 KB - PDF)
+English (EN) (172.51 KB - PDF)
 
-**First published:** 17/10/2025 **Last updated:** 27/05/2026
+**First published:** 17/10/2025 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/polivy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -706,7 +696,7 @@ English (EN) (166.87 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-polivy-ii-12_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Polivy : EPAR - Public assessment report
 
@@ -753,12 +743,8 @@ English (EN) (117.17 KB - PDF)
 - [EU/3/18/2013 - orphan designation for treatment of diffuse large B-cell lymphoma](/en/medicines/human/orphan-designations/eu-3-18-2013)
 - [Polivy - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/polivy)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-27/05/2026
+20/10/2026
 
 ## Share this page

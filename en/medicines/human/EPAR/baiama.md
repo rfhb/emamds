@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-06-23 16:15:00
+document_datetime: 2026-10-19 12:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/baiama.html
 document_name: baiama.html
 version: success
-processing_time: 0.159073
-conversion_datetime: 2026-06-25 16:50:41.204347
+processing_time: 0.2021972
+conversion_datetime: 2026-10-25 15:11:55.657407
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Baiama
 
 [RSS](/en/individual-human-medicine.xml/251849)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -119,7 +119,7 @@ English (EN) (128.82 KB - PDF)
 
 [View](/en/documents/overview/baiama-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-389)
+[Other languages (22)](#file-language-dropdown-789)
 
 български (BG) (155.31 KB - PDF)
 
@@ -265,167 +265,167 @@ English (EN) (615.63 KB - PDF)
 
 Baiama : EPAR - Product information
 
-English (EN) (1.9 MB - PDF)
+English (EN) (1.68 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/baiama-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-397)
 
-български (BG) (2.63 MB - PDF)
+български (BG) (2.68 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information/baiama-epar-product-information_bg.pdf)
 
-español (ES) (1.39 MB - PDF)
+español (ES) (1.4 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information/baiama-epar-product-information_es.pdf)
 
-čeština (CS) (2.27 MB - PDF)
+čeština (CS) (2.28 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information/baiama-epar-product-information_cs.pdf)
 
-dansk (DA) (2.14 MB - PDF)
+dansk (DA) (2.1 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information/baiama-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.44 MB - PDF)
+Deutsch (DE) (1.45 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information/baiama-epar-product-information_de.pdf)
 
-eesti (ET) (2.06 MB - PDF)
+eesti (ET) (2.07 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information/baiama-epar-product-information_et.pdf)
 
 ελληνικά (EL) (2.29 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information/baiama-epar-product-information_el.pdf)
 
-français (FR) (2.09 MB - PDF)
+français (FR) (2.1 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information/baiama-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.97 MB - PDF)
+hrvatski (HR) (2.01 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information/baiama-epar-product-information_hr.pdf)
 
-italiano (IT) (2.06 MB - PDF)
+italiano (IT) (2.07 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information/baiama-epar-product-information_it.pdf)
 
-latviešu (LV) (1.81 MB - PDF)
+latviešu (LV) (1.82 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information/baiama-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.28 MB - PDF)
+lietuvių (LT) (2.29 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information/baiama-epar-product-information_lt.pdf)
 
-magyar (HU) (2.29 MB - PDF)
+magyar (HU) (2.3 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information/baiama-epar-product-information_hu.pdf)
 
-Malti (MT) (1.65 MB - PDF)
+Malti (MT) (1.66 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information/baiama-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.22 MB - PDF)
+Nederlands (NL) (2.18 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information/baiama-epar-product-information_nl.pdf)
 
-polski (PL) (2.46 MB - PDF)
+polski (PL) (2.48 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information/baiama-epar-product-information_pl.pdf)
 
-português (PT) (2 MB - PDF)
+português (PT) (2.02 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information/baiama-epar-product-information_pt.pdf)
 
-română (RO) (2.1 MB - PDF)
+română (RO) (2.11 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information/baiama-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.34 MB - PDF)
+slovenčina (SK) (2.35 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/baiama-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.92 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/baiama-epar-product-information_sl.pdf)
 
-suomi (FI) (1.88 MB - PDF)
+suomi (FI) (1.89 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information/baiama-epar-product-information_fi.pdf)
 
-svenska (SV) (2.03 MB - PDF)
+svenska (SV) (2.04 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/baiama-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.57 MB - PDF)
+Íslenska (IS) (1.45 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/is/documents/product-information/baiama-epar-product-information_is.pdf)
 
-norsk (NO) (1.46 MB - PDF)
+norsk (NO) (1.48 MB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 23/06/2026
+**First published:** 04/03/2025 **Last updated:** 19/10/2026
 
 [View](/no/documents/product-information/baiama-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000347663
+**Latest procedure affecting product information:** PSUR/0000336116
 
-18/06/2026
+28/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -444,7 +444,7 @@ English (EN) (78.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/baiama-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-182)
+[Other languages (24)](#file-language-dropdown-972)
 
 български (BG) (39.21 KB - PDF)
 
@@ -630,13 +630,16 @@ Baiama is indicated for adults for the treatment of
 - **Biosimilar**
     - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
 - **Marketing authorisation holder**
-    - Formycon AG Fraunhoferstrasse 15  Martinsried 82152  Planegg  Germany
+    - Formycon AG Fraunhoferstrasse 15  
+Martinsried 82152  
+Planegg  
+Germany
 - **Opinion adopted**
     - 14/11/2024
 - **Marketing authorisation issued**
     - 13/01/2025
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -648,11 +651,21 @@ Collapse section
 
 Baiama : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (159.57 KB - PDF)
+English (EN) (183.93 KB - PDF)
 
-**First published:** 13/06/2025 **Last updated:** 23/06/2026
+**First published:** 13/06/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/baiama-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Baiama-PSUSA-00010020-202511 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3486486
+
+English (EN) (166.92 KB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/scientific-conclusion/baiama-psusa-00010020-202511-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -692,7 +705,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-207)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (1.9 MB - PDF)
 
@@ -828,6 +841,6 @@ svenska (SV) (1.93 MB - PDF)
 
 **This page was last updated on**
 
-23/06/2026
+19/10/2026
 
 ## Share this page

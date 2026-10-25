@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-20 17:15:00
+document_datetime: 2026-10-20 14:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enhertu.html
 document_name: enhertu.html
 version: success
-processing_time: 0.3653967
-conversion_datetime: 2026-07-28 13:00:32.246623
+processing_time: 0.2300512
+conversion_datetime: 2026-10-25 15:16:41.696939
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Enhertu
 
 [RSS](/en/individual-human-medicine.xml/67399)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -185,7 +185,7 @@ English (EN) (287.81 KB - PDF)
 
 [View](/en/documents/overview/enhertu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-445)
+[Other languages (22)](#file-language-dropdown-874)
 
 български (BG) (220.66 KB - PDF)
 
@@ -321,9 +321,9 @@ svenska (SV) (196.04 KB - PDF)
 
 Enhertu : EPAR - Risk management plan
 
-English (EN) (2.61 MB - PDF)
+English (EN) (1.9 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 17/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/en/documents/rmp/enhertu-epar-risk-management-plan_en.pdf)
 
@@ -331,167 +331,167 @@ English (EN) (2.61 MB - PDF)
 
 Enhertu : EPAR - Product information
 
-English (EN) (1.73 MB - PDF)
+English (EN) (1.02 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/enhertu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-467)
+[Other languages (24)](#file-language-dropdown-384)
 
-български (BG) (1.48 MB - PDF)
+български (BG) (1.08 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/bg/documents/product-information/enhertu-epar-product-information_bg.pdf)
 
-español (ES) (1.38 MB - PDF)
+español (ES) (993.92 KB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/es/documents/product-information/enhertu-epar-product-information_es.pdf)
 
-čeština (CS) (1.38 MB - PDF)
+čeština (CS) (1.1 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/cs/documents/product-information/enhertu-epar-product-information_cs.pdf)
 
-dansk (DA) (1.4 MB - PDF)
+dansk (DA) (1.06 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/da/documents/product-information/enhertu-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.45 MB - PDF)
+Deutsch (DE) (1.03 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/de/documents/product-information/enhertu-epar-product-information_de.pdf)
 
-eesti (ET) (1.38 MB - PDF)
+eesti (ET) (999.05 KB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/et/documents/product-information/enhertu-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.54 MB - PDF)
+ελληνικά (EL) (1.1 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/el/documents/product-information/enhertu-epar-product-information_el.pdf)
 
-français (FR) (1.58 MB - PDF)
+français (FR) (1.46 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/fr/documents/product-information/enhertu-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.45 MB - PDF)
+hrvatski (HR) (1.08 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/hr/documents/product-information/enhertu-epar-product-information_hr.pdf)
 
-italiano (IT) (1.41 MB - PDF)
+italiano (IT) (1023.87 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/enhertu-epar-product-information_it.pdf)
 
-latviešu (LV) (1.44 MB - PDF)
+latviešu (LV) (1.08 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/lv/documents/product-information/enhertu-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.43 MB - PDF)
+lietuvių (LT) (1.06 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/lt/documents/product-information/enhertu-epar-product-information_lt.pdf)
 
-magyar (HU) (1.5 MB - PDF)
+magyar (HU) (1.09 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/hu/documents/product-information/enhertu-epar-product-information_hu.pdf)
 
-Malti (MT) (1.53 MB - PDF)
+Malti (MT) (1.11 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/mt/documents/product-information/enhertu-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.46 MB - PDF)
+Nederlands (NL) (1.03 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/nl/documents/product-information/enhertu-epar-product-information_nl.pdf)
 
-polski (PL) (1.56 MB - PDF)
+polski (PL) (1.08 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/enhertu-epar-product-information_pl.pdf)
 
-português (PT) (1.5 MB - PDF)
+português (PT) (1.07 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/enhertu-epar-product-information_pt.pdf)
 
-română (RO) (1.44 MB - PDF)
+română (RO) (1.02 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/enhertu-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.7 MB - PDF)
+slovenčina (SK) (1.54 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/enhertu-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.49 MB - PDF)
+slovenščina (SL) (1.05 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/enhertu-epar-product-information_sl.pdf)
 
-suomi (FI) (1.87 MB - PDF)
+suomi (FI) (1.55 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/fi/documents/product-information/enhertu-epar-product-information_fi.pdf)
 
-svenska (SV) (1.52 MB - PDF)
+svenska (SV) (1.35 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/enhertu-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.33 MB - PDF)
+Íslenska (IS) (1.04 MB - PDF)
 
 **First published:** 08/02/2021 **Last updated:** 20/07/2026
 
 [View](/is/documents/product-information/enhertu-epar-product-information_is.pdf)
 
-norsk (NO) (1.46 MB - PDF)
+norsk (NO) (1.01 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 20/07/2026
+**First published:** 08/02/2021 **Last updated:** 20/10/2026
 
 [View](/no/documents/product-information/enhertu-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000340512
+**Latest procedure affecting product information:** EMA/VR/0000377808
 
-25/06/2026
+20/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -510,7 +510,7 @@ English (EN) (40.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enhertu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-801)
+[Other languages (24)](#file-language-dropdown-65)
 
 български (BG) (57.76 KB - PDF)
 
@@ -675,23 +675,23 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-Breast cancer
-HER2-positive breast cancer
+Breast cancer  
+HER2-positive breast cancer  
 Enhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have received one or more prior anti-HER2-based regimens.
 
-HER2-low and HER2-ultralow breast cancer
+HER2-low and HER2-ultralow breast cancer  
 Enhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic
 
 - hormone receptor (HR)-positive, HER2-low or HER2-ultralow breast cancer who have received at least one endocrine therapy in the metastatic setting and who are not considered suitable for endocrine therapy as the next line of treatment (see sections 4.2 and 5.1).
 - HER2-low breast cancer who have received prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy (see section 4.2).
 
-Non-small cell lung cancer (NSCLC)
+Non-small cell lung cancer (NSCLC)  
 Enhertu as monotherapy is indicated for the treatment of adult patients with advanced NSCLC whose tumours have an activating HER2 (ERBB2) mutation and who require systemic therapy following platinum-based chemotherapy with or without immunotherapy.
 
-Gastric cancer
+Gastric cancer  
 Enhertu as monotherapy is indicated for the treatment of adult patients with advanced HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma who have received a prior trastuzumab-based regimen.
 
-Other unresectable or metastatic solid tumours
+Other unresectable or metastatic solid tumours  
 Enhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC3+) solid tumours who have received prior treatment and who have no satisfactory treatment options (see sections 4.4 and 5.1; for biomarker-based patient selection, see section 4.2).
 
 ## Authorisation details
@@ -703,13 +703,15 @@ Enhertu as monotherapy is indicated for the treatment of adult patients with unr
 - **Conditional approval**
     - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
 - **Marketing authorisation holder**
-    - Daiichi Sankyo Europe GmbH Zielstattstrasse 48  81379 Munich  Germany
+    - Daiichi Sankyo Europe GmbH Zielstattstrasse 48  
+81379 Munich  
+Germany
 - **Opinion adopted**
     - 10/12/2020
 - **Marketing authorisation issued**
     - 18/01/2021
 - **Revision**
-    - 22
+    - 23
 
 ## Assessment history
 
@@ -721,9 +723,9 @@ Collapse section
 
 Enhertu : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (206.56 KB - PDF)
+English (EN) (252.73 KB - PDF)
 
-**First published:** 03/12/2025 **Last updated:** 20/07/2026
+**First published:** 03/12/2025 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/enhertu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -889,6 +891,10 @@ English (EN) (155.22 KB - PDF)
 
 ## News on Enhertu
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2026)
+
+18/09/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026)
 
 24/07/2026
@@ -933,7 +939,7 @@ English (EN) (1.03 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/enhertu-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-315)
 
 български (BG) (871.58 KB - DOCX)
 
@@ -1084,6 +1090,7 @@ norsk (NO) (888 KB - DOCX)
 - [EMEA-002978-PIP01-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002978-pip01-21)
 - [EMEA-002978-PIP02-24 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002978-pip02-24)
 - [Enhertu - opinion on variation to marketing authorisation](/en/medicines/human/variation/enhertu)
+- [Enhertu - opinion on variation to marketing authorisation](/en/medicines/human/variation/enhertu-0)
 - [Real life safety, effectiveness and quality of life of trastuzumab deruxtecan in patients with metastatic or unresectable HER2-positive breast cancer: a French ambispective multicentre 2 year-follow-up cohort study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000341)
 - [A Prospective non-interventional study (NIS) of trastuzumab deRuxtecan (T-DXd) for adult patients with advanced HER2-pOsitive gaStric or gastroesoPhageal junction (GEJ) adEnocarcinoma who have Received a prIor Trastuzumab-based regimen, accompanied by a disease registrY of patients treated with conventional therapies in a real-world setting in Europe (PROSPERITY). - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000340)
 - [A prospective, non-interventional study (NIS) with trastuzumab deruxtecan for patients with HER2-low expressing unresectable and/or metastatic breast cancer accompanied by a disease registry of patients treated with conventional chemotherapy (DESTINY Breast Respond HER2-low Europe) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000277)
@@ -1091,6 +1098,6 @@ norsk (NO) (888 KB - DOCX)
 
 **This page was last updated on**
 
-20/07/2026
+20/10/2026
 
 ## Share this page

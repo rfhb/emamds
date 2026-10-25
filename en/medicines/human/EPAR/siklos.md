@@ -1,102 +1,26 @@
 ---
-document_datetime: 2026-04-28 16:38:00
+document_datetime: 2026-10-19 16:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/siklos.html
 document_name: siklos.html
 version: success
-processing_time: 0.1151338
-conversion_datetime: 2026-04-29 13:19:12.937295
+processing_time: 0.1784513
+conversion_datetime: 2026-10-25 15:26:25.355197
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Siklos
-
 # Siklos
 
 [RSS](/en/individual-human-medicine.xml/66649)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -130,11 +54,11 @@ Expand section
 
 Collapse section
 
-## What is Siklos?
+### What is Siklos?
 
 Siklos is a medicine that contains the active substance hydroxycarbamide. It is available as tablets (100 and 1,000 mg). The 1,000 mg tablet has special score lines so that it can be easily divided into four equal parts.
 
-## What is Siklos used for?
+### What is Siklos used for?
 
 Siklos is used in adults, adolescents and children over two years of age who have sickle-cell syndrome, a genetic disease where the red blood cells become rigid and sticky, and change from being disc-shaped to being crescent-shaped (like a sickle). It is used to prevent recurrent, painful vaso-occlusive crises that happen when blood vessels become blocked by the abnormal red blood cells, restricting the flow of blood to an organ. They can include acute chest syndrome, a life-threatening condition when the patient has sudden chest pain, fever, hard breathing or signs of fluid in the lungs on an X ray.
 
@@ -142,41 +66,41 @@ Because the number of patients with sickle-cell syndrome is low, the disease is 
 
 The medicine can only be obtained with a prescription.
 
-## How is Siklos used?
+### How is Siklos used?
 
 Treatment with Siklos should be started by a doctor who has experience in the management of sickle cell syndrome.
 
 Siklos is taken once a day, preferably in the morning before breakfast. The starting dose is usually 15 mg per kilogram body weight, using the most appropriate tablet strengths (100 or 1,000 mg) to make up the dose, breaking up the 1,000-mg tablet in quarters (250 mg) if needed. The dose is adjusted according to the response to treatment, with the usual dose being between 15 and 30 mg per kilogram body weight per day. Doses of up to 35 mg per kilogram body weight per day can be used in exceptional cases, as long as the patient's blood is monitored for side effects. Patients who do not respond to this dose or who have side effects may need to stop or suspend treatment. The dose of Siklos should be reduced in patients who have mild or moderate problems with their kidneys. For more information, see the package leaflet.
 
-## How does Siklos work?
+### How does Siklos work?
 
 The active substance in Siklos, hydroxycarbamide, blocks the growth and reproduction of some cells, such as blood cells. Although the precise way that it works in this disease is not understood, hydroxycarbamide can reduce the numbers of cells that are circulating in the blood, as well as prevent red blood cells changing shape in patients with sickle cell syndrome. This reduces the risk of blood vessels becoming blocked.
 
 Hydroxycarbamide, which used to be known as hydroxyurea, has been available in the European Union (EU) for several decades for use in other illnesses, including some types of cancer.
 
-## How has Siklos been studied?
+### How has Siklos been studied?
 
 Because hydroxycarbamide is a well-known substance that is already used in other medicines, the company used data from the scientific literature to support the use of Siklos in adults and children with sickle-cell syndrome. In particular, it presented evidence on the effectiveness of Siklos from 11 published studies involving 378 children and from three national registries of information on 155 children with sickle-cell syndrome who were treated with Siklos for up to seven years. It also presented evidence from one study in 299 adults, in which the effects of Siklos were compared with those of placebo (a dummy treatment), as well as the results of other studies involving 430 adults and one national registry of information on 123 adults treated with Siklos. The studies compared the number of vaso-occlusive crises before and after treatment with Siklos, as defined by any painful episode involving the arms, legs, abdomen, back or chest.
 
-## What benefit has Siklos shown during the studies?
+### What benefit has Siklos shown during the studies?
 
 Patients had fewer vaso-occlusive crises when treated with Siklos than before treatment, with the frequency falling by between 66% and 80% in children and adults. The number of cases of acute chest syndrome also fell by 25 to 33%. There were also fewer admissions into hospital, and fewer days spent in hospital. The effects were sustained for up to seven years. In the study comparing Siklos with placebo in adults, there were fewer vaso-occlusive crises in the patients taking Siklos (2.5 crises per year) than in those taking placebo (4.5 crises per year).
 
-## What is the risk associated with Siklos?
+### What is the risk associated with Siklos?
 
 The most common side effect with Siklos (seen in more than one patient in 10) is bone marrow suppression, causing neutropenia (low levels of neutrophils, a type of white blood cell), reticulocytopenia (low levels of reticulocytes, a type of immature red blood cell) and macrocytosis (enlargement of red blood cells). Patients taking Siklos should have blood tests before and regularly during treatment, to check their blood cell counts and also to monitor their kidneys and liver. Blood cell counts normally return to normal within two weeks of stopping Siklos treatment. In men treated with Siklos, reversible oligospermia or azoospermia (reduced or absent production of healthy sperm) is also very commonly seen. For the full list of all side effects reported with Siklos, see the package leaflet.
 
 Siklos must not be used in people who have severe problems with their kidneys or liver, or who have dangerously low blood cell counts. Breast-feeding must be stopped while taking Siklos. For the full list of restrictions, see the package leaflet.
 
-## Why has Siklos been approved?
+### Why has Siklos been approved?
 
 The CHMP decided that Siklos's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Siklos?
+### What measures are being taken to ensure the safe and effective use of Siklos?
 
 A risk management plan has been developed to ensure that Siklos is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Siklos, including the appropriate precautions to be followed by healthcare professionals and patients. The company that makes Siklos will also provide information packs for doctors and for patients describing the safety information on the medicine.
 
-## Other information about Siklos:
+### Other information about Siklos:
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Siklos on 29 June 2007.
 
@@ -190,7 +114,7 @@ English (EN) (79.25 KB - PDF)
 
 [View](/en/documents/overview/siklos-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-454)
+[Other languages (22)](#file-language-dropdown-763)
 
 български (BG) (109.59 KB - PDF)
 
@@ -222,7 +146,7 @@ Deutsch (DE) (103.83 KB - PDF)
 
 [View](/de/documents/overview/siklos-epar-summary-public_de.pdf)
 
-eesti keel (ET) (79.91 KB - PDF)
+eesti (ET) (79.91 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 27/05/2014
 
@@ -252,13 +176,13 @@ italiano (IT) (79.17 KB - PDF)
 
 [View](/it/documents/overview/siklos-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (104.39 KB - PDF)
+latviešu (LV) (104.39 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 27/05/2014
 
 [View](/lv/documents/overview/siklos-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (104.69 KB - PDF)
+lietuvių (LT) (104.69 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 27/05/2014
 
@@ -312,7 +236,7 @@ slovenščina (SL) (100.95 KB - PDF)
 
 [View](/sl/documents/overview/siklos-epar-summary-public_sl.pdf)
 
-Suomi (FI) (78.43 KB - PDF)
+suomi (FI) (78.43 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 27/05/2014
 
@@ -336,167 +260,168 @@ English (EN) (296.17 KB - PDF)
 
 Siklos : EPAR - Product Information
 
-English (EN) (685.98 KB - PDF)
+English (EN) (255.48 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/siklos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-234)
+[Other languages (24)](#file-language-dropdown-386)
 
-български (BG) (896.21 KB - PDF)
+български (BG) (565.36 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information/siklos-epar-product-information_bg.pdf)
 
-español (ES) (721.98 KB - PDF)
+español (ES) (269.26 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information/siklos-epar-product-information_es.pdf)
 
-čeština (CS) (701.94 KB - PDF)
+čeština (CS) (540.11 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information/siklos-epar-product-information_cs.pdf)
 
-dansk (DA) (698.08 KB - PDF)
+dansk (DA) (251.4 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information/siklos-epar-product-information_da.pdf)
 
-Deutsch (DE) (730.93 KB - PDF)
+Deutsch (DE) (298.03 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information/siklos-epar-product-information_de.pdf)
 
-eesti keel (ET) (688.14 KB - PDF)
+eesti (ET) (250.18 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information/siklos-epar-product-information_et.pdf)
 
-ελληνικά (EL) (919.54 KB - PDF)
+ελληνικά (EL) (600.82 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information/siklos-epar-product-information_el.pdf)
 
-français (FR) (701.02 KB - PDF)
+français (FR) (288.57 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information/siklos-epar-product-information_fr.pdf)
 
-hrvatski (HR) (693.16 KB - PDF)
+hrvatski (HR) (488.92 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information/siklos-epar-product-information_hr.pdf)
 
-íslenska (IS) (654.27 KB - PDF)
+italiano (IT) (261.46 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information/siklos-epar-product-information_is.pdf)
-
-italiano (IT) (632.81 KB - PDF)
-
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information/siklos-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (867.96 KB - PDF)
+latviešu (LV) (565.38 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information/siklos-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (813.99 KB - PDF)
+lietuvių (LT) (572.46 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information/siklos-epar-product-information_lt.pdf)
 
-magyar (HU) (708.24 KB - PDF)
+magyar (HU) (432.57 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information/siklos-epar-product-information_hu.pdf)
 
-Malti (MT) (644.58 KB - PDF)
+Malti (MT) (502.84 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information/siklos-epar-product-information_mt.pdf)
 
-Nederlands (NL) (718.34 KB - PDF)
+Nederlands (NL) (262.58 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information/siklos-epar-product-information_nl.pdf)
 
-norsk (NO) (688.01 KB - PDF)
+polski (PL) (520.7 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information/siklos-epar-product-information_no.pdf)
-
-polski (PL) (717.03 KB - PDF)
-
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information/siklos-epar-product-information_pl.pdf)
 
-português (PT) (698.57 KB - PDF)
+português (PT) (259.66 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information/siklos-epar-product-information_pt.pdf)
 
-română (RO) (697.99 KB - PDF)
+română (RO) (513.71 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information/siklos-epar-product-information_ro.pdf)
 
-slovenčina (SK) (679.23 KB - PDF)
+slovenčina (SK) (512.25 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/siklos-epar-product-information_sk.pdf)
 
-slovenščina (SL) (711.86 KB - PDF)
+slovenščina (SL) (501.06 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/siklos-epar-product-information_sl.pdf)
 
-Suomi (FI) (842.99 KB - PDF)
+suomi (FI) (282.5 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information/siklos-epar-product-information_fi.pdf)
 
-svenska (SV) (692.72 KB - PDF)
+svenska (SV) (250.07 KB - PDF)
 
-**First published:** 11/08/2008 **Last updated:** 28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/siklos-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000341113
+Íslenska (IS) (290.72 KB - PDF)
 
-28/04/2026
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
+
+[View](/is/documents/product-information/siklos-epar-product-information_is.pdf)
+
+norsk (NO) (246.25 KB - PDF)
+
+**First published:** 11/08/2008 **Last updated:** 19/10/2026
+
+[View](/no/documents/product-information/siklos-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000365735
+
+19/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -514,7 +439,7 @@ English (EN) (53.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-766)
+[Other languages (23)](#file-language-dropdown-316)
 
 български (BG) (55.18 KB - PDF)
 
@@ -546,7 +471,7 @@ Deutsch (DE) (54 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (53.54 KB - PDF)
+eesti (ET) (53.54 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 31/03/2011
 
@@ -564,25 +489,19 @@ français (FR) (53.53 KB - PDF)
 
 [View](/fr/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_fr.pdf)
 
-íslenska (IS) (53.08 KB - PDF)
-
-**First published:** 10/08/2007 **Last updated:** 31/03/2011
-
-[View](/is/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (52.29 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/it/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.12 KB - PDF)
+latviešu (LV) (55.12 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/lv/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (55.82 KB - PDF)
+lietuvių (LT) (55.82 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 31/03/2011
 
@@ -605,12 +524,6 @@ Nederlands (NL) (53.64 KB - PDF)
 **First published:** 10/08/2007 **Last updated:** 31/03/2011
 
 [View](/nl/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (53.5 KB - PDF)
-
-**First published:** 10/08/2007 **Last updated:** 31/03/2011
-
-[View](/no/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (57.26 KB - PDF)
 
@@ -642,7 +555,7 @@ slovenščina (SL) (54.25 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (52.78 KB - PDF)
+suomi (FI) (52.78 KB - PDF)
 
 **First published:** 10/08/2007 **Last updated:** 31/03/2011
 
@@ -654,27 +567,30 @@ svenska (SV) (52.86 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (53.08 KB - PDF)
+
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
+
+[View](/is/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (53.5 KB - PDF)
+
+**First published:** 10/08/2007 **Last updated:** 31/03/2011
+
+[View](/no/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Siklos
-
-Active substance
-
-hydroxycarbamide
-
-International non-proprietary name (INN) or common name
-
-hydroxycarbamide
-
-Therapeutic area (MeSH)
-
-Anemia, Sickle Cell
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XX05
+- **Name of medicine**
+    - Siklos
+- **Active substance**
+    - hydroxycarbamide
+- **International non-proprietary name (INN) or common name**
+    - hydroxycarbamide
+- **Therapeutic area (MeSH)**
+    - Anemia, Sickle Cell
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XX05
 
 ### Pharmacotherapeutic group
 
@@ -686,23 +602,16 @@ Siklos is indicated for the prevention of recurrent painful vaso-occlusive crise
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000689
-
-Marketing authorisation holder
-
-Theravia
-
-16 rue Montrosier
-
-Marketing authorisation issued
-
-29/06/2007
-
-Revision
-
-31
+- **EMA product number**
+    - EMEA/H/C/000689
+- **Marketing authorisation holder**
+    - Theravia 16 rue Montrosier  
+92200 Neuilly-sur-Seine  
+France
+- **Marketing authorisation issued**
+    - 29/06/2007
+- **Revision**
+    - 32
 
 ## Assessment history
 
@@ -710,13 +619,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Siklos : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.61 KB - PDF)
+English (EN) (155.91 KB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 28/04/2026
+**First published:** 30/09/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/siklos-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -746,7 +655,7 @@ English (EN) (102.32 KB - PDF)
 
 **First published:** 23/07/2021
 
-[View](/en/documents/smop/questions-and-answers-outcome-assessment-use-siklos-treatment-severe-chronic-anaemia-sickle-cell-syndrome_en.pdf)
+[View](/en/documents/smop/questions-answers-outcome-assessment-use-siklos-treatment-severe-chronic-anaemia-sickle-cell-syndrome_en.pdf)
 
 Siklos-H-C-689-PSUV-0020 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -756,9 +665,9 @@ English (EN) (66.63 KB - PDF)
 
 **First published:** 27/05/2014 **Last updated:** 27/05/2014
 
-[View](/en/documents/scientific-conclusion/siklos-h-c-689-psuv-0020-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/siklos-h-c-689-psuv-0020-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Siklos : EPAR - Scientific Discussion
 
@@ -793,10 +702,10 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-28/04/2026
+19/10/2026
 
 ## Share this page

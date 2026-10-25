@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-30 13:41:00
+document_datetime: 2026-10-20 12:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xofigo.html
 document_name: xofigo.html
 version: success
-processing_time: 0.1287718
-conversion_datetime: 2026-08-01 11:50:51.553043
+processing_time: 0.1875088
+conversion_datetime: 2026-10-25 15:30:12.739602
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.117.0
-  docling-core: 2.89.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Xofigo
 
 [RSS](/en/individual-human-medicine.xml/65913)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -109,7 +109,7 @@ English (EN) (77.16 KB - PDF)
 
 [View](/en/documents/overview/xofigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-885)
+[Other languages (22)](#file-language-dropdown-413)
 
 български (BG) (103.58 KB - PDF)
 
@@ -261,7 +261,7 @@ English (EN) (382.25 KB - PDF)
 
 [View](/en/documents/product-information/xofigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-829)
+[Other languages (24)](#file-language-dropdown-285)
 
 български (BG) (637.71 KB - PDF)
 
@@ -415,7 +415,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -434,7 +434,7 @@ English (EN) (23.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xofigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-273)
+[Other languages (24)](#file-language-dropdown-867)
 
 български (BG) (29.94 KB - PDF)
 
@@ -608,7 +608,8 @@ Xofigo is indicated for the treatment of adults with castration-resistant prosta
 - **Additional monitoring**
     - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - Bayer AG 51368 Leverkusen  Germany
+    - Bayer AG 51368 Leverkusen  
+Germany
 - **Marketing authorisation issued**
     - 13/11/2013
 - **Revision**
@@ -632,9 +633,9 @@ English (EN) (152.27 KB - PDF)
 
 Xofigo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (168.34 KB - PDF)
+English (EN) (202.39 KB - PDF)
 
-**First published:** 07/05/2014 **Last updated:** 28/07/2025
+**First published:** 07/05/2014 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/xofigo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -727,10 +728,10 @@ English (EN) (69.96 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-30/07/2026
+20/10/2026
 
 ## Share this page

@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-16 14:50:00
+document_datetime: 2026-10-22 16:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amyvid.html
 document_name: amyvid.html
 version: success
-processing_time: 0.1194158
-conversion_datetime: 2026-01-17 13:04:36.643917
+processing_time: 0.168038
+conversion_datetime: 2026-10-25 15:11:10.499721
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Amyvid
 
 [RSS](/en/individual-human-medicine.xml/66208)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-florbetapir (18F) Medicine Human Authorised
+florbetapir (18F)
+
+Medicine Human Authorised
 
 Page contents
 
@@ -51,51 +53,51 @@ Expand section
 
 Collapse section
 
-## What is Amyvid?
+### What is Amyvid?
 
 Amyvid is a solution for injection that contains the active substance florbetapir ( 18 F).
 
-## What is Amyvid used for?
+### What is Amyvid used for?
 
 Amyvid is for diagnostic use only. It is used for brain scans in adult patients with memory problems so that doctors can see whether or not they have significant amounts of ??amyloid plaques in the brain. ??Amyloid plaques are deposits sometimes present in the brains of people with dementias (such as Alzheimer's disease, Lewy-body dementia and Parkinson's-disease dementia) and some elderly people with no symptoms. The type of scan used with Amyvid is called positron-emission tomography (PET).
 
 The medicine can only be obtained with a prescription.
 
-## How is Amyvid used?
+### How is Amyvid used?
 
 Amyvid is given by injection into a vein about 30 to 50 minutes before obtaining an image from a PET scan. After the image is obtained, it is read by nuclear-medicine physicians specifically trained in interpreting PET scans with Amyvid.
 
 PET scans with Amyvid should only be requested by doctors skilled in the clinical management of patients with neurodegenerative diseases such as Alzheimer's and other dementias. Patients should discuss the results of their PET scan with their doctor.
 
-## How does Amyvid work?
+### How does Amyvid work?
 
 The active substance in Amyvid, florbetapir ( 18 F), is a radiopharmaceutical that emits low amounts of radiation and works by targeting and attaching to ?-amyloid plaques in the brain. When it attaches to the plaques, the radiation it emits is then seen on the PET scan, enabling doctors to know whether or not significant amount of plaques are present.
 
 A negative scan indicates sparse or no ?-amyloid plaques, which means that the patient is unlikely to have Alzheimer's disease. A positive scan on its own, however, is not sufficient to make a diagnosis in patients with memory problems, as plaque deposition may be seen in patients with different types of neurodegenerative dementias as well as in elderly people with no symptoms. Doctors will therefore need to use the scans in conjunction with clinical evaluation.
 
-## How has Amyvid been studied?
+### How has Amyvid been studied?
 
 The effects of Amyvid were first tested in experimental models before being studied in humans. A main study was conducted in 226 volunteers divided into two groups: a group of healthy young people and a group of patients nearing the end of their lives who had consented to autopsies when they died.
 
 The study looked at sensitivity and specificity of the scans (how reliable they were at differentiating volunteers who had significant amounts of plaques in the brain from those who did not). 106 volunteers completed the study and were included in the results.
 
-## What benefit has Amyvid shown during the studies?
+### What benefit has Amyvid shown during the studies?
 
 PET scans with Amyvid were shown to have high specificity and sensitivity when used for identifying which patients had significant amounts of ?-amyloid plaques in the brain. The specificity of the PET scans was 100% in 47 healthy volunteers, which means that all of their scans were rated as negative after being read by experts who were not aware if the scans belonged to healthy people or to patients.
 
 Among the patients, 59 had autopsies carried out on them to prove conclusively whether or not they had significant amounts of ?-amyloid plaques in their brains. When the results of the autopsies were compared with the PET scans, the scans were shown to have a sensitivity of 92% and a specificity of 100%. This means that the PET scans were able to correctly identify as positive 92% of the patients who had significant amounts of plaques, and that all patients without significant plaques were correctly rated as negative.
 
-## Why has Amyvid been approved?
+### Why has Amyvid been approved?
 
 PET scans with Amyvid were shown to have high sensitivity and specificity for detecting ?-amyloid plaques in the brain, with results of the scans closely reflecting what was seen at autopsy. This is regarded as a significant improvement in the diagnosis of patients with memory problems who are being evaluated for Alzheimer's disease and other neurodegenerative diseases. The Committee noted the good safety profile and non-invasive nature of the PET scans with Amyvid and concluded that Amyvid's benefits are greater than its risks. The Committee recommended that Amyvid be given marketing authorisation.
 
 The CHMP did, however, note that, partly due to the limited effects of current treatments for Alzheimer's disease, there is no strong evidence of an immediate improvement in the management of patients or in patient outcomes following PET scans with Amyvid. In addition, the usefulness of Amyvid in predicting the development of Alzheimer's disease in patients with memory problems or in monitoring patients' response to treatment has not been established.
 
-## What measures are being taken to ensure the safe use of Amyvid?
+### What measures are being taken to ensure the safe use of Amyvid?
 
 The company that markets Amyvid will provide access to a training course for all nuclear-medicine physicians expected to use this product in the European Union, in order to ensure accurate and reliable reading of the PET-scan images.
 
-## Other information about Amyvid
+### Other information about Amyvid
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Amyvid on 14 January 2013.
 
@@ -105,263 +107,135 @@ Reference Number: EMA/696925/2012
 
 English (EN) (121.92 KB - PDF)
 
-**First published:** 23/01/2013
-
-**Last updated:** 23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/en/documents/overview/amyvid-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-486)
+[Other languages (21)](#file-language-dropdown-696)
 
 български (BG) (136.62 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/bg/documents/overview/amyvid-epar-summary-public_bg.pdf)
 
 español (ES) (123.39 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/es/documents/overview/amyvid-epar-summary-public_es.pdf)
 
 čeština (CS) (125.79 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/cs/documents/overview/amyvid-epar-summary-public_cs.pdf)
 
 dansk (DA) (126.5 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/da/documents/overview/amyvid-epar-summary-public_da.pdf)
 
 Deutsch (DE) (125.64 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/de/documents/overview/amyvid-epar-summary-public_de.pdf)
 
-eesti keel (ET) (131.93 KB - PDF)
+eesti (ET) (131.93 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/et/documents/overview/amyvid-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (150.48 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/el/documents/overview/amyvid-epar-summary-public_el.pdf)
 
 français (FR) (126.06 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/fr/documents/overview/amyvid-epar-summary-public_fr.pdf)
 
 italiano (IT) (121.79 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/it/documents/overview/amyvid-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (134.29 KB - PDF)
+latviešu (LV) (134.29 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/lv/documents/overview/amyvid-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (130 KB - PDF)
+lietuvių (LT) (130 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/lt/documents/overview/amyvid-epar-summary-public_lt.pdf)
 
 magyar (HU) (130.71 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/hu/documents/overview/amyvid-epar-summary-public_hu.pdf)
 
 Malti (MT) (129.32 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/mt/documents/overview/amyvid-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (121.6 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/nl/documents/overview/amyvid-epar-summary-public_nl.pdf)
 
 polski (PL) (125.12 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/pl/documents/overview/amyvid-epar-summary-public_pl.pdf)
 
 português (PT) (123.49 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/pt/documents/overview/amyvid-epar-summary-public_pt.pdf)
 
 română (RO) (127.89 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/ro/documents/overview/amyvid-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (125.93 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/sk/documents/overview/amyvid-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (122.7 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/sl/documents/overview/amyvid-epar-summary-public_sl.pdf)
 
-Suomi (FI) (125.31 KB - PDF)
+suomi (FI) (125.31 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/fi/documents/overview/amyvid-epar-summary-public_fi.pdf)
 
 svenska (SV) (121.69 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/sv/documents/overview/amyvid-epar-summary-public_sv.pdf)
 
@@ -369,311 +243,168 @@ svenska (SV) (121.69 KB - PDF)
 
 Amyvid : EPAR - Product Information
 
-English (EN) (590.79 KB - PDF)
+English (EN) (593.06 KB - PDF)
 
-**First published:** 23/01/2013
-
-**Last updated:** 16/01/2026
+**First published:** 23/01/2013 **Last updated:** 22/10/2026
 
 [View](/en/documents/product-information/amyvid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-945)
+[Other languages (24)](#file-language-dropdown-30)
 
-български (BG) (681.26 KB - PDF)
+български (BG) (963.08 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/bg/documents/product-information/amyvid-epar-product-information_bg.pdf)
 
-español (ES) (569.15 KB - PDF)
+español (ES) (531.51 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/es/documents/product-information/amyvid-epar-product-information_es.pdf)
 
-čeština (CS) (621 KB - PDF)
+čeština (CS) (605.35 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/cs/documents/product-information/amyvid-epar-product-information_cs.pdf)
 
-dansk (DA) (630.04 KB - PDF)
+dansk (DA) (768.44 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/da/documents/product-information/amyvid-epar-product-information_da.pdf)
 
-Deutsch (DE) (593.58 KB - PDF)
+Deutsch (DE) (599.75 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/de/documents/product-information/amyvid-epar-product-information_de.pdf)
 
-eesti keel (ET) (602.48 KB - PDF)
+eesti (ET) (602.14 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/et/documents/product-information/amyvid-epar-product-information_et.pdf)
 
-ελληνικά (EL) (752.87 KB - PDF)
+ελληνικά (EL) (737.3 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/el/documents/product-information/amyvid-epar-product-information_el.pdf)
 
-français (FR) (614.66 KB - PDF)
+français (FR) (648.71 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/fr/documents/product-information/amyvid-epar-product-information_fr.pdf)
 
-hrvatski (HR) (638.12 KB - PDF)
+hrvatski (HR) (639.61 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/hr/documents/product-information/amyvid-epar-product-information_hr.pdf)
 
-íslenska (IS) (643.61 KB - PDF)
+italiano (IT) (564.33 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
-
-[View](/is/documents/product-information/amyvid-epar-product-information_is.pdf)
-
-italiano (IT) (607.17 KB - PDF)
-
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/it/documents/product-information/amyvid-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (773.87 KB - PDF)
+latviešu (LV) (706.15 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/lv/documents/product-information/amyvid-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (655.39 KB - PDF)
+lietuvių (LT) (626.9 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/lt/documents/product-information/amyvid-epar-product-information_lt.pdf)
 
-magyar (HU) (685.39 KB - PDF)
+magyar (HU) (700.96 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/hu/documents/product-information/amyvid-epar-product-information_hu.pdf)
 
-Malti (MT) (727.04 KB - PDF)
+Malti (MT) (703.99 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/mt/documents/product-information/amyvid-epar-product-information_mt.pdf)
 
-Nederlands (NL) (560.68 KB - PDF)
+Nederlands (NL) (561.51 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/nl/documents/product-information/amyvid-epar-product-information_nl.pdf)
 
-norsk (NO) (617.59 KB - PDF)
+polski (PL) (682.28 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
-
-[View](/no/documents/product-information/amyvid-epar-product-information_no.pdf)
-
-polski (PL) (642.09 KB - PDF)
-
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/pl/documents/product-information/amyvid-epar-product-information_pl.pdf)
 
-português (PT) (548.68 KB - PDF)
+português (PT) (571.4 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/pt/documents/product-information/amyvid-epar-product-information_pt.pdf)
 
-română (RO) (721.59 KB - PDF)
+română (RO) (566.43 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/ro/documents/product-information/amyvid-epar-product-information_ro.pdf)
 
-slovenčina (SK) (661.6 KB - PDF)
+slovenčina (SK) (685.23 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 22/10/2026
 
 [View](/sk/documents/product-information/amyvid-epar-product-information_sk.pdf)
 
-slovenščina (SL) (636.75 KB - PDF)
+slovenščina (SL) (589.19 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 22/10/2026
 
 [View](/sl/documents/product-information/amyvid-epar-product-information_sl.pdf)
 
-Suomi (FI) (604.07 KB - PDF)
+suomi (FI) (619.33 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
 
 [View](/fi/documents/product-information/amyvid-epar-product-information_fi.pdf)
 
-svenska (SV) (580.71 KB - PDF)
+svenska (SV) (610.85 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-16/01/2026
+**First published:** 23/01/2013 **Last updated:** 22/10/2026
 
 [View](/sv/documents/product-information/amyvid-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315508 16/01/2026
+Íslenska (IS) (628.76 KB - PDF)
+
+**First published:** 23/01/2013 **Last updated:** 22/10/2026
+
+[View](/is/documents/product-information/amyvid-epar-product-information_is.pdf)
+
+norsk (NO) (654.18 KB - PDF)
+
+**First published:** 23/01/2013 **Last updated:** 16/01/2026
+
+[View](/no/documents/product-information/amyvid-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000333287
+
+03/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -687,305 +418,168 @@ Amyvid : EPAR - All Authorised presentations
 
 English (EN) (33.04 KB - PDF)
 
-**First published:** 23/01/2013
-
-**Last updated:** 23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/en/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-127)
+[Other languages (24)](#file-language-dropdown-548)
 
 български (BG) (34.94 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/bg/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (32.58 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/es/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (32.91 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/cs/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (28.89 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/da/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (34.49 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/de/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (31.96 KB - PDF)
+eesti (ET) (31.96 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/et/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (38.63 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/el/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (32.85 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/fr/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (44.19 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/hr/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (28.5 KB - PDF)
-
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
-
-[View](/is/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (26.27 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/it/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (33.77 KB - PDF)
+latviešu (LV) (33.77 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/lv/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (27.81 KB - PDF)
+lietuvių (LT) (27.81 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/lt/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (33.9 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/hu/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (28.1 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/mt/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (33.29 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/nl/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (34.01 KB - PDF)
-
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
-
-[View](/no/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (34.01 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/pl/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (33.03 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/pt/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (33.11 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/ro/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (27.86 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/sk/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (32.9 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/sl/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (41.4 KB - PDF)
+suomi (FI) (41.4 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/fi/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (32.62 KB - PDF)
 
-**First published:**
-
-23/01/2013
-
-**Last updated:**
-
-23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/sv/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (28.5 KB - PDF)
+
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
+
+[View](/is/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (34.01 KB - PDF)
+
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
+
+[View](/no/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Amyvid Active substance florbetapir (18F) International non-proprietary name (INN) or common name florbetapir (18F) Therapeutic area (MeSH) Radionuclide Imaging Anatomical therapeutic chemical (ATC) code V09AX05
+- **Name of medicine**
+    - Amyvid
+- **Active substance**
+    - florbetapir (18F)
+- **International non-proprietary name (INN) or common name**
+    - florbetapir (18F)
+- **Therapeutic area (MeSH)**
+    - Radionuclide Imaging
+- **Anatomical therapeutic chemical (ATC) code**
+    - V09AX05
 
 ### Pharmacotherapeutic group
 
@@ -1001,13 +595,18 @@ A negative scan indicates sparse or no plaques, which is not consistent with a d
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002422 Marketing authorisation holder
-
-Eli Lilly Nederland B.V.
-
-Papendorpseweg 83
-
-Opinion adopted 18/10/2012 Marketing authorisation issued 14/01/2013 Revision 16
+- **EMA product number**
+    - EMEA/H/C/002422
+- **Marketing authorisation holder**
+    - Eli Lilly Nederland B.V. Orteliuslaan 1000  
+3528 BD Utrecht  
+Netherlands
+- **Opinion adopted**
+    - 18/10/2012
+- **Marketing authorisation issued**
+    - 14/01/2013
+- **Revision**
+    - 17
 
 ## Assessment history
 
@@ -1015,13 +614,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Amyvid : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (133.17 KB - PDF)
+English (EN) (146.89 KB - PDF)
 
-**First published:** 16/01/2026
+**First published:** 16/01/2026 **Last updated:** 22/10/2026
 
 [View](/en/documents/procedural-steps-after/amyvid-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1029,62 +628,60 @@ Amyvid : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (162.74 KB - PDF)
 
-**First published:** 16/05/2013
-
-**Last updated:** 21/10/2024
+**First published:** 16/05/2013 **Last updated:** 21/10/2024
 
 [View](/en/documents/procedural-steps-after/amyvid-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Amyvid : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/30808/2013
+Adopted Reference Number: EMA/30808/2013
 
 English (EN) (732.95 KB - PDF)
 
-**First published:** 23/01/2013
-
-**Last updated:** 23/01/2013
+**First published:** 23/01/2013 **Last updated:** 23/01/2013
 
 [View](/en/documents/assessment-report/amyvid-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Amyvid
 
-Adopted
-
-Reference Number: EMA/CHMP/545417/2012
+Adopted Reference Number: EMA/CHMP/545417/2012
 
 English (EN) (73.42 KB - PDF)
 
-**First published:** 19/10/2012
-
-**Last updated:** 19/10/2012
+**First published:** 19/10/2012 **Last updated:** 19/10/2012
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-amyvid_en.pdf)
 
-#### News on Amyvid
+## News on Amyvid
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
 
-[World Mental Health Day: 10 October 2013](/en/news/world-mental-health-day-10-october-2013) 10/10/2013
+28/03/2025
 
-[World Alzheimer's Month - Supporting development of medicines by qualification of biomarkers](/en/news/world-alzheimers-month-supporting-development-medicines-qualification-biomarkers) 20/09/2013
+[World Mental Health Day: 10 October 2013](/en/news/world-mental-health-day-10-october-2013)
 
-[European Medicines Agency recommends approval of first radiopharmaceutical for PET imaging of β-amyloid neuritic plaque density](/en/news/european-medicines-agency-recommends-approval-first-radiopharmaceutical-pet-imaging-b-amyloid-neuritic-plaque-density) 19/10/2012
+10/10/2013
 
-#### More information on Amyvid
+[World Alzheimer's Month - Supporting development of medicines by qualification of biomarkers](/en/news/world-alzheimers-month-supporting-development-medicines-qualification-biomarkers)
+
+20/09/2013
+
+[European Medicines Agency recommends approval of first radiopharmaceutical for PET imaging of β-amyloid neuritic plaque density](/en/news/european-medicines-agency-recommends-approval-first-radiopharmaceutical-pet-imaging-b-amyloid-neuritic-plaque-density)
+
+19/10/2012
+
+## More information on Amyvid
 
 - [Amyvid - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/amyvid)
 
-#### Topics
+## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
-**This page was last updated on** 16/01/2026
+**This page was last updated on**
+
+22/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

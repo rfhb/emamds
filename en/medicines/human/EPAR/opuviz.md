@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-10-15 10:36:00
+document_datetime: 2026-10-19 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opuviz.html
 document_name: opuviz.html
 version: success
-processing_time: 0.2352711
-conversion_datetime: 2026-10-19 23:49:13.866923
+processing_time: 0.2292756
+conversion_datetime: 2026-10-25 15:23:23.790477
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
@@ -120,7 +120,7 @@ English (EN) (147.72 KB - PDF)
 
 [View](/en/documents/overview/opuviz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-871)
+[Other languages (22)](#file-language-dropdown-276)
 
 български (BG) (172.77 KB - PDF)
 
@@ -266,161 +266,161 @@ English (EN) (729.76 KB - PDF)
 
 Opuviz: EPAR - Product information
 
-English (EN) (2.38 MB - PDF)
+English (EN) (1.58 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/opuviz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-965)
+[Other languages (24)](#file-language-dropdown-655)
 
-български (BG) (2.21 MB - PDF)
+български (BG) (1.65 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information/opuviz-epar-product-information_bg.pdf)
 
-español (ES) (1.84 MB - PDF)
+español (ES) (1.45 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information/opuviz-epar-product-information_es.pdf)
 
-čeština (CS) (2.39 MB - PDF)
+čeština (CS) (1.69 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information/opuviz-epar-product-information_cs.pdf)
 
-dansk (DA) (2.09 MB - PDF)
+dansk (DA) (1.51 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information/opuviz-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.56 MB - PDF)
+Deutsch (DE) (1.45 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information/opuviz-epar-product-information_de.pdf)
 
-eesti (ET) (1.76 MB - PDF)
+eesti (ET) (1.4 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information/opuviz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.61 MB - PDF)
+ελληνικά (EL) (1.85 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information/opuviz-epar-product-information_el.pdf)
 
-français (FR) (2.39 MB - PDF)
+français (FR) (1.8 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information/opuviz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.19 MB - PDF)
+hrvatski (HR) (1.54 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information/opuviz-epar-product-information_hr.pdf)
 
-italiano (IT) (2.53 MB - PDF)
+italiano (IT) (1.84 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information/opuviz-epar-product-information_it.pdf)
 
-latviešu (LV) (2.23 MB - PDF)
+latviešu (LV) (1.57 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information/opuviz-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.28 MB - PDF)
+lietuvių (LT) (1.65 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information/opuviz-epar-product-information_lt.pdf)
 
-magyar (HU) (2.39 MB - PDF)
+magyar (HU) (1.67 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information/opuviz-epar-product-information_hu.pdf)
 
-Malti (MT) (2 MB - PDF)
+Malti (MT) (1.69 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information/opuviz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.78 MB - PDF)
+Nederlands (NL) (1.42 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information/opuviz-epar-product-information_nl.pdf)
 
-polski (PL) (2.38 MB - PDF)
+polski (PL) (1.9 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information/opuviz-epar-product-information_pl.pdf)
 
-português (PT) (2.39 MB - PDF)
+português (PT) (1.78 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information/opuviz-epar-product-information_pt.pdf)
 
-română (RO) (2.65 MB - PDF)
+română (RO) (1.87 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information/opuviz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.09 MB - PDF)
+slovenčina (SK) (1.53 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/opuviz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.97 MB - PDF)
+slovenščina (SL) (1.44 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/opuviz-epar-product-information_sl.pdf)
 
-suomi (FI) (2.09 MB - PDF)
+suomi (FI) (1.67 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information/opuviz-epar-product-information_fi.pdf)
 
-svenska (SV) (1.9 MB - PDF)
+svenska (SV) (1.41 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/opuviz-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.65 MB - PDF)
+Íslenska (IS) (1.41 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/is/documents/product-information/opuviz-epar-product-information_is.pdf)
 
-norsk (NO) (1.7 MB - PDF)
+norsk (NO) (1.33 MB - PDF)
 
-**First published:** 10/12/2024 **Last updated:** 15/10/2026
+**First published:** 10/12/2024 **Last updated:** 19/10/2026
 
 [View](/no/documents/product-information/opuviz-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000336116
+**Latest procedure affecting product information:** N/0000365690
 
-18/09/2026
+08/10/2026
 
 icon globe
 
@@ -445,7 +445,7 @@ English (EN) (56.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opuviz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-363)
+[Other languages (24)](#file-language-dropdown-202)
 
 български (BG) (63.77 KB - PDF)
 
@@ -635,7 +635,7 @@ The Netherlands
 - **Marketing authorisation issued**
     - 13/11/2024
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -647,9 +647,9 @@ Collapse section
 
 Opuviz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (163.04 KB - PDF)
+English (EN) (176.64 KB - PDF)
 
-**First published:** 15/05/2025 **Last updated:** 15/10/2026
+**First published:** 15/05/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/opuviz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -703,7 +703,7 @@ English (EN) (1.9 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opuviz-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-902)
 
 български (BG) (1.38 MB - DOCX)
 
@@ -859,7 +859,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-718)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (1.9 MB - PDF)
 
@@ -995,6 +995,6 @@ svenska (SV) (1.93 MB - PDF)
 
 **This page was last updated on**
 
-15/10/2026
+19/10/2026
 
 ## Share this page

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-28 13:46:00
+document_datetime: 2026-10-19 14:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beromun.html
 document_name: beromun.html
 version: success
-processing_time: 0.1214507
-conversion_datetime: 2026-06-01 17:00:18.269529
+processing_time: 0.1779047
+conversion_datetime: 2026-10-25 15:12:10.705527
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Beromun
 
 [RSS](/en/individual-human-medicine.xml/66344)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -53,17 +53,17 @@ Expand section
 
 Collapse section
 
-## What is Beromun?
+### What is Beromun?
 
 Beromun is a powder and solvent that are made up into a solution for infusion. It contains the active substance tasonermin.
 
-## What is Beromun used for?
+### What is Beromun used for?
 
 Beromun is used in patients with soft-tissue sarcoma (a type of cancer) of the limb (arm or leg), together with melphalan (an anticancer medicine), using a technique called 'isolated-limb perfusion' (ILP): both medicines are injected into the limb while the blood circulation in the limb is kept isolated (cut off) from the rest of the body. It can be used before surgery to reduce the size of a tumour, or instead of surgery when the tumour cannot be removed by surgery alone.
 
 The medicine can only be obtained with a prescription.
 
-## How is Beromun used?
+### How is Beromun used?
 
 Beromun treatment should only be carried out in special centres by surgical teams who have experience in the treatment of this type of cancer and ILP. The centres must also have intensive-care units readily available and facilities to continuously look out for leakage of the medicine into the rest of the body using radioactive tracers.
 
@@ -71,31 +71,31 @@ Before Beromun is given, the limb is first isolated: while the patient is under 
 
 Beromun is usually only used once, but a second perfusion can be considered six to eight weeks after the first. Beromun is not recommended for patients below 18 years of age, because of a lack of information on safety and effectiveness in this age group.
 
-## How does Beromun work?
+### How does Beromun work?
 
 The active substance in Beromun, tasonermin, is a copy of the human protein tumour necrosis factor alfa-1a (TNF?). The exact way that TNF? works against certain types of cancer is not fully understood, but it is thought that it can kill tumour cells directly, as well as destroy the blood vessels supplying tumours and stimulate the immune system to attack them. This leads to the tumour dying back and getting smaller, particularly when the medicine is combined with other cytotoxic (cell-killing) medicines and raised temperature.
 
 The active substance in Beromun, tasonermin, is produced by a method known as 'recombinant DNA technology': it is made by bacteria that have received a gene (DNA), which makes them able to produce TNF?. The replacement TNF? acts in same way as the naturally produced protein.
 
-## How has Beromun been studied?
+### How has Beromun been studied?
 
 Beromun has been studied in four main studies involving a total of 188 patients, in which it was given in combination with melphalan. Sixty-two of the patients also received interferon-gamma (another anticancer medicine). A review of the studies by three independent experts found that only 145 of these patients were candidates for amputation or surgical removal of the tumour that would have resulted in significant loss of function (disability). Therefore, the main measure of effectiveness was based on the experts' assessment of the outcome of these 145 patients, in comparison with the outcome that would be expected without using Beromun.
 
-## What benefit has Beromun shown during the studies?
+### What benefit has Beromun shown during the studies?
 
 The independent reviewers agreed that 62% of the patients receiving Beromun and melphalan (90 out of 145) had a better outcome than predicted, since their limb was saved without surgery to remove the tumour or their tumour was removed without causing significant loss of function. There were too few patients also receiving interferon-gamma to determine whether this improved the patients' outcome further.
 
-## What is the risk associated with Beromun?
+### What is the risk associated with Beromun?
 
 Most patients taking Beromun experience fever, which is usually mild to moderate. Other side effects seen very commonly (in more than 1 patient in 10) are infection, cardiac arrhythmia (unstable heartbeat), nausea (feeling sick), vomiting, liver damage, fatigue (tiredness), chills, pain in the limb, nerve injury, skin reactions, oedema (swelling) and wound infection. Some side effects of Beromun are serious and could require a patient to spend time in an intensive-care unit after treatment. For a more complete list of the side effects reported with Beromun, see the package leaflet.
 
 Beromun should not be used in people who may be hypersensitive (allergic) to tasonermin or any of the other ingredients. It must not be used in patients with significant cardiovascular (heart and blood vessel) disease, severe lung disease, a recent or active stomach ulcer, severe ascites (fluid accumulation in the abdomen), blood disorders, kidney or liver disease, or hypercalcaemia (high blood calcium levels), or in women who are pregnant or breast-feeding. It must also not be used in patients who cannot receive vasopressors (medicines to increase the blood pressure), anticoagulants (medicines to prevent blood clotting) or medicines that can harm the heart. Beromun must not be used in patients who cannot receive melphalan or who cannot undergo ILP. See the summary of product characteristics (also part of the EPAR) for the full list of restrictions.
 
-## Why has Beromun been approved?
+### Why has Beromun been approved?
 
 The Committee for Medicinal Products for Human Use (CHMP) decided that Beromun's benefits are greater than its risks as an adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in the palliative situation, for irresectable soft-tissue sarcoma of the limbs, used in combination with melphalan via mild hyperthermic ILP. The Committee recommended that Beromun be given marketing authorisation.
 
-## Other information about Beromun
+### Other information about Beromun
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Beromun to Boehringer Ingelheim International GmbH on 13 April 1999. The marketing authorisation was renewed on 13 April 2004 and on 13 April 2009.
 
@@ -107,7 +107,7 @@ English (EN) (87.52 KB - PDF)
 
 [View](/en/documents/overview/beromun-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-889)
+[Other languages (21)](#file-language-dropdown-499)
 
 български (BG) (177.59 KB - PDF)
 
@@ -139,7 +139,7 @@ Deutsch (DE) (92.67 KB - PDF)
 
 [View](/de/documents/overview/beromun-epar-summary-public_de.pdf)
 
-eesti keel (ET) (85.76 KB - PDF)
+eesti (ET) (85.76 KB - PDF)
 
 **First published:** 08/04/2009 **Last updated:** 08/04/2009
 
@@ -163,13 +163,13 @@ italiano (IT) (86.52 KB - PDF)
 
 [View](/it/documents/overview/beromun-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (167.01 KB - PDF)
+latviešu (LV) (167.01 KB - PDF)
 
 **First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/lv/documents/overview/beromun-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (158.99 KB - PDF)
+lietuvių (LT) (158.99 KB - PDF)
 
 **First published:** 08/04/2009 **Last updated:** 08/04/2009
 
@@ -223,7 +223,7 @@ slovenščina (SL) (151.28 KB - PDF)
 
 [View](/sl/documents/overview/beromun-epar-summary-public_sl.pdf)
 
-Suomi (FI) (84.6 KB - PDF)
+suomi (FI) (84.6 KB - PDF)
 
 **First published:** 08/04/2009 **Last updated:** 08/04/2009
 
@@ -245,7 +245,7 @@ English (EN) (356.37 KB - PDF)
 
 [View](/en/documents/product-information/beromun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-851)
+[Other languages (24)](#file-language-dropdown-711)
 
 български (BG) (356.81 KB - PDF)
 
@@ -277,7 +277,7 @@ Deutsch (DE) (317.1 KB - PDF)
 
 [View](/de/documents/product-information/beromun-epar-product-information_de.pdf)
 
-eesti keel (ET) (308.31 KB - PDF)
+eesti (ET) (308.31 KB - PDF)
 
 **First published:** 17/04/2009 **Last updated:** 28/05/2026
 
@@ -301,25 +301,19 @@ hrvatski (HR) (434.12 KB - PDF)
 
 [View](/hr/documents/product-information/beromun-epar-product-information_hr.pdf)
 
-íslenska (IS) (305.58 KB - PDF)
-
-**First published:** 17/04/2009 **Last updated:** 28/05/2026
-
-[View](/is/documents/product-information/beromun-epar-product-information_is.pdf)
-
 italiano (IT) (318.97 KB - PDF)
 
 **First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/it/documents/product-information/beromun-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (396.2 KB - PDF)
+latviešu (LV) (396.2 KB - PDF)
 
 **First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/lv/documents/product-information/beromun-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (338.12 KB - PDF)
+lietuvių (LT) (338.12 KB - PDF)
 
 **First published:** 17/04/2009 **Last updated:** 28/05/2026
 
@@ -342,12 +336,6 @@ Nederlands (NL) (303.19 KB - PDF)
 **First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/nl/documents/product-information/beromun-epar-product-information_nl.pdf)
-
-norsk (NO) (295.54 KB - PDF)
-
-**First published:** 17/04/2009 **Last updated:** 28/05/2026
-
-[View](/no/documents/product-information/beromun-epar-product-information_no.pdf)
 
 polski (PL) (324.89 KB - PDF)
 
@@ -379,7 +367,7 @@ slovenščina (SL) (303.72 KB - PDF)
 
 [View](/sl/documents/product-information/beromun-epar-product-information_sl.pdf)
 
-Suomi (FI) (295.18 KB - PDF)
+suomi (FI) (295.18 KB - PDF)
 
 **First published:** 17/04/2009 **Last updated:** 28/05/2026
 
@@ -391,6 +379,18 @@ svenska (SV) (329.39 KB - PDF)
 
 [View](/sv/documents/product-information/beromun-epar-product-information_sv.pdf)
 
+Íslenska (IS) (305.58 KB - PDF)
+
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
+
+[View](/is/documents/product-information/beromun-epar-product-information_is.pdf)
+
+norsk (NO) (295.54 KB - PDF)
+
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
+
+[View](/no/documents/product-information/beromun-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000342387
 
 26/05/2026
@@ -399,7 +399,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -417,7 +418,7 @@ English (EN) (20.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-765)
+[Other languages (24)](#file-language-dropdown-12)
 
 български (BG) (23.38 KB - PDF)
 
@@ -449,7 +450,7 @@ Deutsch (DE) (22.65 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (20.15 KB - PDF)
+eesti (ET) (20.15 KB - PDF)
 
 **First published:** 21/10/2005 **Last updated:** 09/02/2017
 
@@ -473,25 +474,19 @@ hrvatski (HR) (21.04 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (21.33 KB - PDF)
-
-**First published:** 21/10/2005 **Last updated:** 09/02/2017
-
-[View](/is/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (20.14 KB - PDF)
 
 **First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/it/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (21.25 KB - PDF)
+latviešu (LV) (21.25 KB - PDF)
 
 **First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/lv/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (21.34 KB - PDF)
+lietuvių (LT) (21.34 KB - PDF)
 
 **First published:** 21/10/2005 **Last updated:** 09/02/2017
 
@@ -514,12 +509,6 @@ Nederlands (NL) (20.19 KB - PDF)
 **First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/nl/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (21.79 KB - PDF)
-
-**First published:** 21/10/2005 **Last updated:** 09/02/2017
-
-[View](/no/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (22.37 KB - PDF)
 
@@ -551,7 +540,7 @@ slovenščina (SL) (21.08 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (19.36 KB - PDF)
+suomi (FI) (19.36 KB - PDF)
 
 **First published:** 21/10/2005 **Last updated:** 09/02/2017
 
@@ -563,27 +552,30 @@ svenska (SV) (20.19 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (21.33 KB - PDF)
+
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
+
+[View](/is/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (21.79 KB - PDF)
+
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
+
+[View](/no/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Beromun
-
-Active substance
-
-tasonermin
-
-International non-proprietary name (INN) or common name
-
-tasonermin
-
-Therapeutic area (MeSH)
-
-Sarcoma
-
-Anatomical therapeutic chemical (ATC) code
-
-L03AX11
+- **Name of medicine**
+    - Beromun
+- **Active substance**
+    - tasonermin
+- **International non-proprietary name (INN) or common name**
+    - tasonermin
+- **Therapeutic area (MeSH)**
+    - Sarcoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AX11
 
 ### Pharmacotherapeutic group
 
@@ -595,23 +587,16 @@ Beromun is indicated in adults as an adjunct to surgery for subsequent removal o
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000206
-
-Marketing authorisation holder
-
-Belpharma s.a.
-
-2, Rue Albert 1 er
-
-Marketing authorisation issued
-
-12/04/1999
-
-Revision
-
-16
+- **EMA product number**
+    - EMEA/H/C/000206
+- **Marketing authorisation holder**
+    - Belpharma s.a. 2, Rue Albert 1 er  
+L-1117 Luxembourg  
+Luxembourg
+- **Marketing authorisation issued**
+    - 12/04/1999
+- **Revision**
+    - 16
 
 ## Assessment history
 
@@ -619,7 +604,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Beromun : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -631,9 +616,9 @@ English (EN) (164.04 KB - PDF)
 
 Beromun : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (215.57 KB - PDF)
+English (EN) (238.67 KB - PDF)
 
-**First published:** 10/10/2007 **Last updated:** 11/01/2022
+**First published:** 10/10/2007 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/beromun-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -645,7 +630,7 @@ English (EN) (89.23 KB - PDF)
 
 [View](/en/documents/steps-after-cutoff/beromun-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Beromun : EPAR - Scientific discussion
 
@@ -667,10 +652,10 @@ English (EN) (87.59 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-28/05/2026
+19/10/2026
 
 ## Share this page

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-05 16:26:00
+document_datetime: 2026-10-20 11:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arikayce-liposomal.html
 document_name: arikayce-liposomal.html
 version: success
-processing_time: 0.3498503
-conversion_datetime: 2026-08-07 13:58:07.191875
+processing_time: 0.1925542
+conversion_datetime: 2026-10-25 15:11:40.487606
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Arikayce liposomal
 
 [RSS](/en/individual-human-medicine.xml/67360)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -107,7 +107,7 @@ English (EN) (123.44 KB - PDF)
 
 [View](/en/documents/overview/arikayce-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-579)
+[Other languages (22)](#file-language-dropdown-700)
 
 български (BG) (148.8 KB - PDF)
 
@@ -253,167 +253,167 @@ English (EN) (675.42 KB - PDF)
 
 Arikayce liposomal : Product information
 
-English (EN) (265.19 KB - PDF)
+English (EN) (337.52 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/arikayce-liposomal-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-304)
+[Other languages (24)](#file-language-dropdown-63)
 
-български (BG) (398.34 KB - PDF)
+български (BG) (474.73 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/bg/documents/product-information/arikayce-liposomal-product-information_bg.pdf)
 
-español (ES) (298.05 KB - PDF)
+español (ES) (280.07 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/es/documents/product-information/arikayce-liposomal-product-information_es.pdf)
 
-čeština (CS) (408.62 KB - PDF)
+čeština (CS) (368.17 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/cs/documents/product-information/arikayce-liposomal-product-information_cs.pdf)
 
-dansk (DA) (499.53 KB - PDF)
+dansk (DA) (337.95 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/da/documents/product-information/arikayce-liposomal-product-information_da.pdf)
 
-Deutsch (DE) (283.14 KB - PDF)
+Deutsch (DE) (355.42 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/de/documents/product-information/arikayce-liposomal-product-information_de.pdf)
 
-eesti (ET) (262.92 KB - PDF)
+eesti (ET) (334.11 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/et/documents/product-information/arikayce-liposomal-product-information_et.pdf)
 
-ελληνικά (EL) (788.34 KB - PDF)
+ελληνικά (EL) (650.71 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/el/documents/product-information/arikayce-liposomal-product-information_el.pdf)
 
-français (FR) (296.16 KB - PDF)
+français (FR) (368.79 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/fr/documents/product-information/arikayce-liposomal-product-information_fr.pdf)
 
-hrvatski (HR) (359.3 KB - PDF)
+hrvatski (HR) (340.29 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/hr/documents/product-information/arikayce-liposomal-product-information_hr.pdf)
 
-italiano (IT) (265.81 KB - PDF)
+italiano (IT) (347.11 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/arikayce-liposomal-product-information_it.pdf)
 
-latviešu (LV) (385.36 KB - PDF)
+latviešu (LV) (366.38 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/lv/documents/product-information/arikayce-liposomal-product-information_lv.pdf)
 
-lietuvių (LT) (357.82 KB - PDF)
+lietuvių (LT) (338.58 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/lt/documents/product-information/arikayce-liposomal-product-information_lt.pdf)
 
-magyar (HU) (365.14 KB - PDF)
+magyar (HU) (438.04 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/hu/documents/product-information/arikayce-liposomal-product-information_hu.pdf)
 
-Malti (MT) (392.21 KB - PDF)
+Malti (MT) (465.72 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/mt/documents/product-information/arikayce-liposomal-product-information_mt.pdf)
 
-Nederlands (NL) (296.33 KB - PDF)
+Nederlands (NL) (339.1 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/nl/documents/product-information/arikayce-liposomal-product-information_nl.pdf)
 
-polski (PL) (375.38 KB - PDF)
+polski (PL) (356.19 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/arikayce-liposomal-product-information_pl.pdf)
 
-português (PT) (266.5 KB - PDF)
+português (PT) (339.47 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/arikayce-liposomal-product-information_pt.pdf)
 
-română (RO) (370.99 KB - PDF)
+română (RO) (351.81 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/arikayce-liposomal-product-information_ro.pdf)
 
-slovenčina (SK) (362.9 KB - PDF)
+slovenčina (SK) (437.31 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/arikayce-liposomal-product-information_sk.pdf)
 
-slovenščina (SL) (357.11 KB - PDF)
+slovenščina (SL) (429.71 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/arikayce-liposomal-product-information_sl.pdf)
 
-suomi (FI) (269.6 KB - PDF)
+suomi (FI) (342.42 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/fi/documents/product-information/arikayce-liposomal-product-information_fi.pdf)
 
-svenska (SV) (260.12 KB - PDF)
+svenska (SV) (242.09 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/arikayce-liposomal-product-information_sv.pdf)
 
-Íslenska (IS) (271.85 KB - PDF)
+Íslenska (IS) (253.04 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/is/documents/product-information/arikayce-liposomal-product-information_is.pdf)
 
-norsk (NO) (267.11 KB - PDF)
+norsk (NO) (338.97 KB - PDF)
 
-**First published:** 18/11/2020 **Last updated:** 05/08/2026
+**First published:** 18/11/2020 **Last updated:** 20/10/2026
 
 [View](/no/documents/product-information/arikayce-liposomal-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000321506
+**Latest procedure affecting product information:** N/0000366398
 
-15/07/2026
+16/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -432,7 +432,7 @@ English (EN) (46.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arikayce-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-224)
+[Other languages (24)](#file-language-dropdown-479)
 
 български (BG) (56.99 KB - PDF)
 
@@ -606,13 +606,15 @@ Arikayce liposomal is indicated for the treatment of non-tuberculous mycobacteri
 - **Orphan**
     - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - Insmed Netherlands B.V. Stadsplateau 7  3521 AZ Utrecht  Netherlands
+    - Insmed Netherlands B.V. Stadsplateau 7  
+3521 AZ Utrecht  
+Netherlands
 - **Opinion adopted**
     - 23/07/2020
 - **Marketing authorisation issued**
     - 27/10/2020
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -624,9 +626,9 @@ Collapse section
 
 Arikayce liposomal : Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.92 KB - PDF)
+English (EN) (168.76 KB - PDF)
 
-**First published:** 05/08/2026
+**First published:** 05/08/2026 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/arikayce-liposomal-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -708,7 +710,7 @@ English (EN) (289.31 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/arikayce-liposomal-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-833)
+[Other languages (24)](#file-language-dropdown-298)
 
 български (BG) (328.2 KB - DOCX)
 
@@ -861,6 +863,6 @@ norsk (NO) (305.53 KB - DOCX)
 
 **This page was last updated on**
 
-05/08/2026
+20/10/2026
 
 ## Share this page

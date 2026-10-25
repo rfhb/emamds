@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-21 15:02:00
+document_datetime: 2026-10-19 13:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eylea.html
 document_name: eylea.html
 version: success
-processing_time: 0.381502
-conversion_datetime: 2026-08-22 23:28:33.258545
+processing_time: 0.2590737
+conversion_datetime: 2026-10-25 15:17:42.899788
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Eylea
 
 [RSS](/en/individual-human-medicine.xml/66725)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -146,7 +146,7 @@ English (EN) (226.46 KB - PDF)
 
 [View](/en/documents/overview/eylea-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-409)
+[Other languages (22)](#file-language-dropdown-110)
 
 български (BG) (255 KB - PDF)
 
@@ -292,161 +292,161 @@ English (EN) (3.85 MB - PDF)
 
 Eylea : EPAR - Product Information
 
-English (EN) (3.21 MB - PDF)
+English (EN) (2.3 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/eylea-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-510)
+[Other languages (24)](#file-language-dropdown-280)
 
-български (BG) (6.35 MB - PDF)
+български (BG) (3.02 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information/eylea-epar-product-information_bg.pdf)
 
-español (ES) (5.68 MB - PDF)
+español (ES) (2.92 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information/eylea-epar-product-information_es.pdf)
 
-čeština (CS) (7.52 MB - PDF)
+čeština (CS) (3.16 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information/eylea-epar-product-information_cs.pdf)
 
-dansk (DA) (5.94 MB - PDF)
+dansk (DA) (2.69 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information/eylea-epar-product-information_da.pdf)
 
-Deutsch (DE) (7.32 MB - PDF)
+Deutsch (DE) (3.11 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information/eylea-epar-product-information_de.pdf)
 
-eesti (ET) (6.59 MB - PDF)
+eesti (ET) (2.98 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information/eylea-epar-product-information_et.pdf)
 
-ελληνικά (EL) (6.23 MB - PDF)
+ελληνικά (EL) (3.14 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information/eylea-epar-product-information_el.pdf)
 
-français (FR) (6.44 MB - PDF)
+français (FR) (3.04 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information/eylea-epar-product-information_fr.pdf)
 
-hrvatski (HR) (5.46 MB - PDF)
+hrvatski (HR) (2.69 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information/eylea-epar-product-information_hr.pdf)
 
-italiano (IT) (5.95 MB - PDF)
+italiano (IT) (2.98 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information/eylea-epar-product-information_it.pdf)
 
-latviešu (LV) (7.17 MB - PDF)
+latviešu (LV) (3.2 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information/eylea-epar-product-information_lv.pdf)
 
-lietuvių (LT) (6.5 MB - PDF)
+lietuvių (LT) (3.07 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information/eylea-epar-product-information_lt.pdf)
 
-magyar (HU) (7.2 MB - PDF)
+magyar (HU) (3.03 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information/eylea-epar-product-information_hu.pdf)
 
-Malti (MT) (8.14 MB - PDF)
+Malti (MT) (3.23 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information/eylea-epar-product-information_mt.pdf)
 
-Nederlands (NL) (5.8 MB - PDF)
+Nederlands (NL) (2.84 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information/eylea-epar-product-information_nl.pdf)
 
-polski (PL) (6.86 MB - PDF)
+polski (PL) (3.17 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information/eylea-epar-product-information_pl.pdf)
 
-português (PT) (6.55 MB - PDF)
+português (PT) (3.03 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information/eylea-epar-product-information_pt.pdf)
 
-română (RO) (7.19 MB - PDF)
+română (RO) (3.11 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information/eylea-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.35 MB - PDF)
+slovenčina (SK) (3.1 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/eylea-epar-product-information_sk.pdf)
 
-slovenščina (SL) (6.81 MB - PDF)
+slovenščina (SL) (2.88 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/eylea-epar-product-information_sl.pdf)
 
-suomi (FI) (6.93 MB - PDF)
+suomi (FI) (3.11 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information/eylea-epar-product-information_fi.pdf)
 
-svenska (SV) (5.94 MB - PDF)
+svenska (SV) (2.85 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/eylea-epar-product-information_sv.pdf)
 
-Íslenska (IS) (5.88 MB - PDF)
+Íslenska (IS) (2.71 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/is/documents/product-information/eylea-epar-product-information_is.pdf)
 
-norsk (NO) (5.86 MB - PDF)
+norsk (NO) (2.77 MB - PDF)
 
-**First published:** 05/12/2012 **Last updated:** 04/03/2026
+**First published:** 05/12/2012 **Last updated:** 19/10/2026
 
 [View](/no/documents/product-information/eylea-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** EMA/VR/0000295095
+**Latest procedure affecting product information:** PSUR/0000336116
 
-15/01/2026
+18/09/2026
 
 icon globe
 
@@ -471,7 +471,7 @@ English (EN) (58.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eylea-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-264)
+[Other languages (24)](#file-language-dropdown-803)
 
 български (BG) (78.55 KB - PDF)
 
@@ -675,13 +675,14 @@ Eylea is indicated for adults for the treatment of
 - **EMA product number**
     - EMEA/H/C/002392
 - **Marketing authorisation holder**
-    - Bayer AG 51368 Leverkusen  Germany
+    - Bayer AG 51368 Leverkusen  
+Germany
 - **Opinion adopted**
     - 20/09/2012
 - **Marketing authorisation issued**
     - 21/11/2012
 - **Revision**
-    - 40
+    - 41
 
 ## Assessment history
 
@@ -693,9 +694,9 @@ Collapse section
 
 Eylea : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (209.28 KB - PDF)
+English (EN) (183.22 KB - PDF)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/eylea-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -706,6 +707,16 @@ English (EN) (304.49 KB - PDF)
 **First published:** 04/09/2013 **Last updated:** 27/06/2025
 
 [View](/en/documents/procedural-steps-after/eylea-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Eylea-PSUSA-00010020-202511 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3486486
+
+English (EN) (166.92 KB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/scientific-conclusion/eylea-psusa-00010020-202511-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Eylea-PAM-0000335684 : EPAR - Assessment report
 
@@ -935,155 +946,155 @@ The approved product information for this medicine is available below showing th
 
 Eylea : EPAR - Product information - tracked changes
 
-English (EN) (2.25 MB - DOCX)
+English (EN) (2.22 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-416)
+[Other languages (24)](#file-language-dropdown-923)
 
-български (BG) (2.55 MB - DOCX)
+български (BG) (2.51 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (3.21 MB - DOCX)
+español (ES) (3.16 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (3.08 MB - DOCX)
+čeština (CS) (3.07 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (3 MB - DOCX)
+dansk (DA) (2.94 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (3.2 MB - DOCX)
+Deutsch (DE) (3.22 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_de.docx)
 
-eesti (ET) (3.06 MB - DOCX)
+eesti (ET) (3.07 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (3.23 MB - DOCX)
+ελληνικά (EL) (3.19 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (2.72 MB - DOCX)
+français (FR) (2.69 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (2.34 MB - DOCX)
+hrvatski (HR) (2.28 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_hr.docx)
 
-italiano (IT) (2.84 MB - DOCX)
+italiano (IT) (2.78 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_it.docx)
 
-latviešu (LV) (4.36 MB - DOCX)
+latviešu (LV) (4.32 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių (LT) (2.47 MB - DOCX)
+lietuvių (LT) (2.48 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (2.55 MB - DOCX)
+magyar (HU) (2.6 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (2.5 MB - DOCX)
+Malti (MT) (2.46 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (2.37 MB - DOCX)
+Nederlands (NL) (2.34 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_nl.docx)
 
 polski (PL) (2.89 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (2.68 MB - DOCX)
+português (PT) (2.65 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (2.53 MB - DOCX)
+română (RO) (2.51 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (2.62 MB - DOCX)
+slovenčina (SK) (2.56 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (2.3 MB - DOCX)
+slovenščina (SL) (2.27 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_sl.docx)
 
-suomi (FI) (2.78 MB - DOCX)
+suomi (FI) (2.87 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (2.44 MB - DOCX)
+svenska (SV) (2.43 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_sv.docx)
 
-Íslenska (IS) (2.47 MB - DOCX)
+Íslenska (IS) (2.41 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/is/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_is.docx)
 
-norsk (NO) (2.33 MB - DOCX)
+norsk (NO) (2.29 MB - DOCX)
 
-**First published:** 27/06/2025 **Last updated:** 04/03/2026
+**First published:** 27/06/2025 **Last updated:** 19/10/2026
 
 [View](/no/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_no.docx)
 
@@ -1099,6 +1110,6 @@ norsk (NO) (2.33 MB - DOCX)
 
 **This page was last updated on**
 
-21/08/2026
+19/10/2026
 
 ## Share this page

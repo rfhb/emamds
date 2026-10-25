@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-10-02 10:43:00
+document_datetime: 2026-10-23 14:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leqvio.html
 document_name: leqvio.html
 version: success
-processing_time: 0.1449514
-conversion_datetime: 2026-10-04 16:22:42.214329
+processing_time: 0.1715255
+conversion_datetime: 2026-10-25 15:21:52.927008
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.133.0
-  docling-core: 2.99.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
@@ -104,7 +104,7 @@ English (EN) (135.67 KB - PDF)
 
 [View](/en/documents/overview/leqvio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-996)
+[Other languages (22)](#file-language-dropdown-749)
 
 български (BG) (149.66 KB - PDF)
 
@@ -256,7 +256,7 @@ English (EN) (688.25 KB - PDF)
 
 [View](/en/documents/product-information/leqvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-277)
+[Other languages (24)](#file-language-dropdown-924)
 
 български (BG) (820.45 KB - PDF)
 
@@ -429,7 +429,7 @@ English (EN) (43.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leqvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-643)
+[Other languages (24)](#file-language-dropdown-200)
 
 български (BG) (49.94 KB - PDF)
 
@@ -605,13 +605,18 @@ Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous f
 - **EMA product number**
     - EMEA/H/C/005333
 - **Marketing authorisation holder**
-    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  D04 A9N6  Ireland
+    - Novartis Europharm Limited Vista Building  
+Elm Park  
+Merrion Road  
+Dublin 4  
+D04 A9N6  
+Ireland
 - **Opinion adopted**
     - 15/10/2020
 - **Marketing authorisation issued**
     - 09/12/2020
 - **Revision**
-    - 12
+    - 13
 
 ## Assessment history
 
@@ -636,6 +641,26 @@ English (EN) (143.81 KB - PDF)
 **First published:** 16/07/2021 **Last updated:** 18/09/2025
 
 [View](/en/documents/procedural-steps-after/leqvio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Leqvio-PAM-0000273076 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3523548
+
+English (EN) (697.71 KB - PDF)
+
+**First published:** 23/10/2026
+
+[View](/en/documents/variation-report/leqvio-pam-0000273076-epar-assessment-report_en.pdf)
+
+Leqvio-PAM-0000273064 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3523741
+
+English (EN) (676.07 KB - PDF)
+
+**First published:** 23/10/2026
+
+[View](/en/documents/variation-report/leqvio-pam-0000273064-epar-assessment-report_en.pdf)
 
 Leqvio-VR-0000293324 : EPAR - Assessment report - Variation
 
@@ -696,6 +721,6 @@ English (EN) (143.76 KB - PDF)
 
 **This page was last updated on**
 
-02/10/2026
+23/10/2026
 
 ## Share this page

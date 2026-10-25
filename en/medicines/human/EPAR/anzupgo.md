@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-17 15:52:00
+document_datetime: 2026-10-21 13:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/anzupgo.html
 document_name: anzupgo.html
 version: success
-processing_time: 0.1441757
-conversion_datetime: 2026-07-19 12:05:35.918628
+processing_time: 0.1552421
+conversion_datetime: 2026-10-25 15:11:25.413367
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.1.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Anzupgo
 
 [RSS](/en/individual-human-medicine.xml/246160)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -46,7 +46,7 @@ Page contents
 
 ## Overview
 
-Anzupgo is used to treat moderate to severe chronic hand eczema (a long-term condition where the skin of the hands is itchy, red and dry) in adults who cannot use corticosteroids applied to the skin or in whom such corticosteroids do not work well enough.
+Anzupgo is used to treat moderate to severe chronic hand eczema (a long-term condition where the skin of the hands is itchy, red and dry) in adults and adolescents from 12 years of age who cannot use corticosteroids applied to the skin or in whom such corticosteroids do not work well enough.
 
 Anzupgo contains the active substance delgocitinib.
 
@@ -56,9 +56,9 @@ Collapse section
 
 ### How is Anzupgo used?
 
-Anzupgo can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in the diagnosis and treatment of chronic hand eczema.
+Anzupgo can only be obtained with a prescription, and treatment should be started and supervised by a doctor experienced in the diagnosis and treatment of chronic hand eczema.
 
-Anzupgo is available as a cream, that is applied as a thin layer to affected skin of the hands and wrists twice a day. The cream should be applied at regular intervals and treatment should be continued until symptoms improve or disappear, after which it can be stopped. If symptoms recur, treatment can be re-started as needed. If no improvement is seen after 12 weeks of continuous treatment, treatment should be stopped.
+Anzupgo is available as a cream that is applied as a thin layer to affected skin of the hands and wrists, twice a day. The cream should be applied at regular intervals and treatment should be continued until symptoms improve or disappear. If symptoms return, treatment can be re-started as needed. If no improvement is seen after 12 weeks of continuous treatment, treatment should be stopped.
 
 For more information about using Anzupgo, see the package leaflet or contact your doctor or pharmacist.
 
@@ -72,15 +72,19 @@ Anzupgo was more effective than a placebo (dummy) cream at reducing the extent a
 
 The results showed that most, or all, of the chronic hand eczema had cleared up in around 20% of patients treated with Anzupgo in the first study compared with around 10% of patients using placebo. In the second study, these figures were around 29% for patients treated with Anzupgo and around 7% for patients using placebo.
 
-### What are the risks associated with Anzupgo?
+A study involving 98 adolescents aged 12 to 17 years with moderate to severe chronic hand eczema showed that Anzupgo was more effective than a placebo (dummy) cream. After 16 weeks of treatment, most or all of the hand eczema had cleared up in around 64% of adolescents treated with Anzupgo, compared with around 29% of adolescents using the placebo cream.
+
+Studies carried out with Anzupgo are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Anzupgo?
 
 For the full list of side effects and restrictions with Anzupgo, see the package leaflet.
 
-The most common side effects with Anzupgo (which may affect 1 in 100 people) include application site reactions such as itching, redness, pain and a burning or prickling sensation.
+The most common side effects with Anzupgo (which may affect up to 1 in 10 people) include application site reactions such as itching, redness, pain and a burning or prickling sensation.
 
 ### Why is Anzupgo authorised in the EU?
 
-Anzupgo reduces the extent and severity of chronic hand eczema in adults with moderate to severe disease who cannot use corticosteroids that are applied to the skin or in whom such corticosteroids do not work well enough. At the time of approval of Anzupgo, treatment options for these patients were very limited.
+Anzupgo reduces the extent and severity of chronic hand eczema in adults and adolescents 12 years and older with moderate to severe disease who cannot use corticosteroids that are applied to the skin or in whom such corticosteroids do not work well enough. At the time of approval of Anzupgo, treatment options for these patients were very limited.
 
 Regarding safety, Anzupgo's side effects are generally mild and manageable. The European Medicines Agency therefore decided that Anzupgo's benefits are greater than its risks and it can be authorised in the EU.
 
@@ -96,153 +100,19 @@ Anzupgo received a marketing authorisation valid throughout the EU on 19 Septemb
 
 Anzupgo : EPAR - Medicine overview
 
-Reference Number: EMA/355342/2024
+Reference Number: EMADOC-1829012207-72981
 
-English (EN) (115.37 KB - PDF)
+English (EN) (136.78 KB - PDF)
 
-**First published:** 24/09/2024
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/en/documents/overview/anzupgo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-21)
-
-български (BG) (138.08 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/bg/documents/overview/anzupgo-epar-medicine-overview_bg.pdf)
-
-español (ES) (114.49 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/es/documents/overview/anzupgo-epar-medicine-overview_es.pdf)
-
-čeština (CS) (135.39 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/cs/documents/overview/anzupgo-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (123.57 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/da/documents/overview/anzupgo-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (116.8 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/de/documents/overview/anzupgo-epar-medicine-overview_de.pdf)
-
-eesti (ET) (112.95 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/et/documents/overview/anzupgo-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (138 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/el/documents/overview/anzupgo-epar-medicine-overview_el.pdf)
-
-français (FR) (115.53 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/fr/documents/overview/anzupgo-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (134.63 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/hr/documents/overview/anzupgo-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (113.67 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/it/documents/overview/anzupgo-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (154.76 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/lv/documents/overview/anzupgo-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (135.09 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/lt/documents/overview/anzupgo-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (133.51 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/hu/documents/overview/anzupgo-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (146.5 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/mt/documents/overview/anzupgo-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (114.5 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/nl/documents/overview/anzupgo-epar-medicine-overview_nl.pdf)
-
-polski (PL) (136.45 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/pl/documents/overview/anzupgo-epar-medicine-overview_pl.pdf)
-
-português (PT) (115.86 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/pt/documents/overview/anzupgo-epar-medicine-overview_pt.pdf)
-
-română (RO) (134.16 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/ro/documents/overview/anzupgo-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (135.97 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/sk/documents/overview/anzupgo-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (134.64 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/sl/documents/overview/anzupgo-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (112.99 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/fi/documents/overview/anzupgo-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (114.13 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/sv/documents/overview/anzupgo-epar-medicine-overview_sv.pdf)
-
 Anzupgo : EPAR - Risk management plan
 
-English (EN) (792.22 KB - PDF)
+English (EN) (734.98 KB - PDF)
 
-**First published:** 24/09/2024
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/en/documents/rmp/anzupgo-epar-risk-management-plan_en.pdf)
 
@@ -250,167 +120,167 @@ English (EN) (792.22 KB - PDF)
 
 Anzupgo : EPAR - Product information
 
-English (EN) (423.95 KB - PDF)
+English (EN) (427.48 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/en/documents/product-information/anzupgo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-397)
+[Other languages (24)](#file-language-dropdown-309)
 
-български (BG) (470.21 KB - PDF)
+български (BG) (485.36 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/bg/documents/product-information/anzupgo-epar-product-information_bg.pdf)
 
-español (ES) (431.82 KB - PDF)
+español (ES) (453.47 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/es/documents/product-information/anzupgo-epar-product-information_es.pdf)
 
-čeština (CS) (459.99 KB - PDF)
+čeština (CS) (472.33 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/cs/documents/product-information/anzupgo-epar-product-information_cs.pdf)
 
-dansk (DA) (425.59 KB - PDF)
+dansk (DA) (446.86 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/da/documents/product-information/anzupgo-epar-product-information_da.pdf)
 
-Deutsch (DE) (447.18 KB - PDF)
+Deutsch (DE) (459.5 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/de/documents/product-information/anzupgo-epar-product-information_de.pdf)
 
-eesti (ET) (433.65 KB - PDF)
+eesti (ET) (446.04 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/et/documents/product-information/anzupgo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (502.57 KB - PDF)
+ελληνικά (EL) (528.57 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/el/documents/product-information/anzupgo-epar-product-information_el.pdf)
 
-français (FR) (438.34 KB - PDF)
+français (FR) (450.79 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/fr/documents/product-information/anzupgo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (463.13 KB - PDF)
+hrvatski (HR) (478.08 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/hr/documents/product-information/anzupgo-epar-product-information_hr.pdf)
 
-italiano (IT) (422.45 KB - PDF)
+italiano (IT) (440.34 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/it/documents/product-information/anzupgo-epar-product-information_it.pdf)
 
-latviešu (LV) (448.4 KB - PDF)
+latviešu (LV) (463.54 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/lv/documents/product-information/anzupgo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (470.65 KB - PDF)
+lietuvių (LT) (481.71 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/lt/documents/product-information/anzupgo-epar-product-information_lt.pdf)
 
-magyar (HU) (477.74 KB - PDF)
+magyar (HU) (515.12 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/hu/documents/product-information/anzupgo-epar-product-information_hu.pdf)
 
-Malti (MT) (479.65 KB - PDF)
+Malti (MT) (518.53 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/mt/documents/product-information/anzupgo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (432.71 KB - PDF)
+Nederlands (NL) (443.87 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/nl/documents/product-information/anzupgo-epar-product-information_nl.pdf)
 
-polski (PL) (477.15 KB - PDF)
+polski (PL) (503.01 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/pl/documents/product-information/anzupgo-epar-product-information_pl.pdf)
 
-português (PT) (425.45 KB - PDF)
+português (PT) (442.38 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/pt/documents/product-information/anzupgo-epar-product-information_pt.pdf)
 
-română (RO) (496.05 KB - PDF)
+română (RO) (509.63 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/ro/documents/product-information/anzupgo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (479.81 KB - PDF)
+slovenčina (SK) (490.96 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/sk/documents/product-information/anzupgo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (475.77 KB - PDF)
+slovenščina (SL) (485.19 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/sl/documents/product-information/anzupgo-epar-product-information_sl.pdf)
 
-suomi (FI) (428.73 KB - PDF)
+suomi (FI) (439.57 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/fi/documents/product-information/anzupgo-epar-product-information_fi.pdf)
 
-svenska (SV) (420.61 KB - PDF)
+svenska (SV) (447.21 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/sv/documents/product-information/anzupgo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (446.65 KB - PDF)
+Íslenska (IS) (471.01 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/is/documents/product-information/anzupgo-epar-product-information_is.pdf)
 
-norsk (NO) (417.75 KB - PDF)
+norsk (NO) (441.4 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 08/12/2025
+**First published:** 24/09/2024 **Last updated:** 21/10/2026
 
 [View](/no/documents/product-information/anzupgo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000264200
+**Latest procedure affecting product information:** VR/0000315280
 
-23/10/2025
+16/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -429,7 +299,7 @@ English (EN) (47.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/anzupgo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-871)
+[Other languages (24)](#file-language-dropdown-711)
 
 български (BG) (65.23 KB - PDF)
 
@@ -595,7 +465,7 @@ Other dermatological preparations
 
 ### Therapeutic indication
 
-Anzupgo is indicated for the treatment of moderate to severe chronic hand eczema (CHE)
+Anzupgo is indicated for the treatment of moderate to severe chronic hand eczema (CHE) in adults and adolescents 12 years and older for whom topical corticosteroids are inadequate or inappropriate.
 
 ## Authorisation details
 
@@ -604,13 +474,15 @@ Anzupgo is indicated for the treatment of moderate to severe chronic hand eczema
 - **Additional monitoring**
     - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - LEO Pharma A/S Industriparken 55  DK-2750 Ballerup  Denmark
+    - LEO Pharma A/S Industriparken 55  
+DK-2750 Ballerup  
+Denmark
 - **Opinion adopted**
     - 25/07/2024
 - **Marketing authorisation issued**
     - 19/09/2024
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -630,11 +502,41 @@ English (EN) (143.2 KB - PDF)
 
 Anzupgo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.9 KB - PDF)
+English (EN) (162.31 KB - PDF)
 
-**First published:** 18/06/2025 **Last updated:** 08/12/2025
+**First published:** 18/06/2025 **Last updated:** 21/10/2026
 
 [View](/en/documents/procedural-steps-after/anzupgo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Anzupgo : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-3421298
+
+English (EN) (146.02 KB - PDF)
+
+**First published:** 21/10/2026
+
+[View](/en/documents/pip-compliance/anzupgo-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
+Anzupgo-VR-0000315280 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3380555
+
+English (EN) (4.28 MB - PDF)
+
+**First published:** 21/10/2026
+
+[View](/en/documents/variation-report/anzupgo-vr-0000315280-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Anzupgo (VR-0000315280)
+
+Adopted Reference Number: EMADOC-1700519818-3380567
+
+English (EN) (119.92 KB - PDF)
+
+**First published:** 18/09/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-anzupgo-vr-0000315280_en.pdf)
 
 Anzupgo-PAM-0000335934 : EPAR - Assessment report
 
@@ -680,6 +582,10 @@ English (EN) (157.54 KB - PDF)
 
 ## News on Anzupgo
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2026)
+
+18/09/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024)
 
 26/07/2024
@@ -690,6 +596,6 @@ English (EN) (157.54 KB - PDF)
 
 **This page was last updated on**
 
-17/07/2026
+21/10/2026
 
 ## Share this page

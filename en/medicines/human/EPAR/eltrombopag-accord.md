@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-21 14:48:00
+document_datetime: 2026-10-19 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-accord.html
 document_name: eltrombopag-accord.html
 version: success
-processing_time: 0.1529433
-conversion_datetime: 2026-07-28 13:00:47.90743
+processing_time: 0.200422
+conversion_datetime: 2026-10-25 15:16:26.702919
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Eltrombopag Accord
 
 [RSS](/en/individual-human-medicine.xml/254531)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -103,7 +103,7 @@ English (EN) (140 KB - PDF)
 
 [View](/en/documents/overview/eltrombopag-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-403)
+[Other languages (22)](#file-language-dropdown-824)
 
 български (BG) (191.24 KB - PDF)
 
@@ -249,167 +249,167 @@ English (EN) (1.89 MB - PDF)
 
 Eltrombopag Accord : EPAR - Product information
 
-English (EN) (161.45 KB - PDF)
+English (EN) (833.18 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 21/07/2026
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/eltrombopag-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-331)
+[Other languages (24)](#file-language-dropdown-599)
 
-български (BG) (814.97 KB - PDF)
+български (BG) (965.47 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information/eltrombopag-accord-epar-product-information_bg.pdf)
 
-español (ES) (629.35 KB - PDF)
+español (ES) (839.53 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information/eltrombopag-accord-epar-product-information_es.pdf)
 
-čeština (CS) (707.28 KB - PDF)
+čeština (CS) (825.84 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information/eltrombopag-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (585.34 KB - PDF)
+dansk (DA) (930.51 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information/eltrombopag-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (620.93 KB - PDF)
+Deutsch (DE) (666.48 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information/eltrombopag-accord-epar-product-information_de.pdf)
 
-eesti (ET) (543.49 KB - PDF)
+eesti (ET) (849.8 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information/eltrombopag-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (922.81 KB - PDF)
+ελληνικά (EL) (1.06 MB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information/eltrombopag-accord-epar-product-information_el.pdf)
 
-français (FR) (624.23 KB - PDF)
+français (FR) (895.65 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information/eltrombopag-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (806.96 KB - PDF)
+hrvatski (HR) (968.69 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information/eltrombopag-accord-epar-product-information_hr.pdf)
 
-italiano (IT) (601.9 KB - PDF)
+italiano (IT) (894.6 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information/eltrombopag-accord-epar-product-information_it.pdf)
 
-latviešu (LV) (754.54 KB - PDF)
+latviešu (LV) (952.89 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information/eltrombopag-accord-epar-product-information_lv.pdf)
 
-lietuvių (LT) (798.35 KB - PDF)
+lietuvių (LT) (1012.19 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information/eltrombopag-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (736.25 KB - PDF)
+magyar (HU) (881.46 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information/eltrombopag-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (770.07 KB - PDF)
+Malti (MT) (1 MB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information/eltrombopag-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (571.85 KB - PDF)
+Nederlands (NL) (584.6 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information/eltrombopag-accord-epar-product-information_nl.pdf)
 
-polski (PL) (780.6 KB - PDF)
+polski (PL) (956.36 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information/eltrombopag-accord-epar-product-information_pl.pdf)
 
-português (PT) (585.12 KB - PDF)
+português (PT) (884.98 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information/eltrombopag-accord-epar-product-information_pt.pdf)
 
-română (RO) (742.3 KB - PDF)
+română (RO) (902.2 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information/eltrombopag-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (734.6 KB - PDF)
+slovenčina (SK) (905.87 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/eltrombopag-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (747.09 KB - PDF)
+slovenščina (SL) (917.34 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/eltrombopag-accord-epar-product-information_sl.pdf)
 
-suomi (FI) (607.35 KB - PDF)
+suomi (FI) (852.48 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information/eltrombopag-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (577.09 KB - PDF)
+svenska (SV) (886.28 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/eltrombopag-accord-epar-product-information_sv.pdf)
 
-Íslenska (IS) (576.46 KB - PDF)
+Íslenska (IS) (874.44 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/is/documents/product-information/eltrombopag-accord-epar-product-information_is.pdf)
 
-norsk (NO) (548.45 KB - PDF)
+norsk (NO) (869.33 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 13/10/2025
+**First published:** 23/04/2025 **Last updated:** 19/10/2026
 
 [View](/no/documents/product-information/eltrombopag-accord-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000302834
+**Latest procedure affecting product information:** VR/0000380578
 
-10/10/2025
+19/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -428,7 +428,7 @@ English (EN) (87.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eltrombopag-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-975)
 
 български (BG) (125.39 KB - PDF)
 
@@ -606,13 +606,17 @@ Eltrombopag Accord is indicated in adult patients with chronic hepatitis C virus
 - **Generic**
     - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
 - **Marketing authorisation holder**
-    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  
+World Trade Center  
+Moll De Barcelona S/n  
+08039 Barcelona  
+SPAIN
 - **Opinion adopted**
     - 30/01/2025
 - **Marketing authorisation issued**
     - 28/03/2025
 - **Revision**
-    - 6
+    - 7
 
 ## Assessment history
 
@@ -624,9 +628,9 @@ Collapse section
 
 Eltrombopag Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.82 KB - PDF)
+English (EN) (166.2 KB - PDF)
 
-**First published:** 20/05/2025 **Last updated:** 25/02/2026
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/procedural-steps-after/eltrombopag-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -672,160 +676,160 @@ The approved product information for this medicine is available below showing th
 
 Eltrombopag Accord : EPAR - Product information - tracked changes
 
-English (EN) (297.93 KB - DOCX)
+English (EN) (315.23 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-879)
+[Other languages (24)](#file-language-dropdown-219)
 
-български (BG) (384.27 KB - DOCX)
+български (BG) (393.58 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (329.35 KB - DOCX)
+español (ES) (325.65 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (281.22 KB - DOCX)
+čeština (CS) (278.42 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (298.04 KB - DOCX)
+dansk (DA) (300.9 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (314.9 KB - DOCX)
+Deutsch (DE) (321.79 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_de.docx)
 
-eesti (ET) (257.25 KB - DOCX)
+eesti (ET) (264.5 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (320.53 KB - DOCX)
+ελληνικά (EL) (327.9 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (366.92 KB - DOCX)
+français (FR) (351.48 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (342.68 KB - DOCX)
+hrvatski (HR) (346.26 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_hr.docx)
 
-italiano (IT) (317.88 KB - DOCX)
+italiano (IT) (322.28 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_it.docx)
 
-latviešu (LV) (280.96 KB - DOCX)
+latviešu (LV) (285.08 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių (LT) (311.95 KB - DOCX)
+lietuvių (LT) (315.13 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (363.75 KB - DOCX)
+magyar (HU) (339.18 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (295.45 KB - DOCX)
+Malti (MT) (300.8 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (258.94 KB - DOCX)
+Nederlands (NL) (290.57 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_nl.docx)
 
-polski (PL) (286.02 KB - DOCX)
+polski (PL) (293.54 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (297.64 KB - DOCX)
+português (PT) (303.1 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (254.92 KB - DOCX)
+română (RO) (253.41 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (251.85 KB - DOCX)
+slovenčina (SK) (256.81 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (331.22 KB - DOCX)
+slovenščina (SL) (335.81 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_sl.docx)
 
-suomi (FI) (294.3 KB - DOCX)
+suomi (FI) (294.45 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (304.86 KB - DOCX)
+svenska (SV) (315.27 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_sv.docx)
 
-Íslenska (IS) (285 KB - DOCX)
+Íslenska (IS) (290.26 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/is/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_is.docx)
 
-norsk (NO) (295.02 KB - DOCX)
+norsk (NO) (300.84 KB - DOCX)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 19/10/2026
 
 [View](/no/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_no.docx)
 
 **This page was last updated on**
 
-21/07/2026
+19/10/2026
 
 ## Share this page

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-21 14:36:00
+document_datetime: 2026-10-20 13:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exjade.html
 document_name: exjade.html
 version: success
-processing_time: 0.2025974
-conversion_datetime: 2026-05-22 22:37:35.529775
+processing_time: 0.3050769
+conversion_datetime: 2026-10-25 15:17:12.19806
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Exjade
 
 [RSS](/en/individual-human-medicine.xml/65634)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -64,7 +64,7 @@ Expand section
 
 Collapse section
 
-## How is Exjade used?
+### How is Exjade used?
 
 Exjade can only be obtained with a prescription and treatment should be started and supervised by a doctor who is experienced in the treatment of chronic iron overload.
 
@@ -76,11 +76,11 @@ Exjade is taken once a day at around the same time. The dispersible tablets shou
 
 For more information about using Exjade, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Exjade work?
+### How does Exjade work?
 
 The body cannot remove iron effectively and excess iron can cause damage. The active substance in Exjade, deferasirox, is an 'iron chelator'. It attaches to excess iron in the body to form a compound called a 'chelate' that can be removed by the body, mainly in the stool. This helps to correct the iron overload and prevent damage to organs such as the heart or liver from excess iron.
 
-## What benefits of Exjade have been shown in studies?
+### What benefits of Exjade have been shown in studies?
 
 In chronic iron overload due to blood transfusions, one main study compared Exjade with deferoxamine in 591 patients with beta thalassaemia major. About half of the patients were under the age of 16 years, and 56 were less than 6 years old. Effectiveness was determined by the level of iron in the liver before and after one year of treatment. The iron level was reduced satisfactorily in 53% of the patients receiving Exjade, compared with 66% of the patients receiving deferoxamine. Exjade was not as effective overall as the comparator medicine. However, in the 381 patients who had particularly high levels of iron at the beginning of the study and who received comparable amounts of Exjade and deferoxamine, the two medicines were as effective as each other.
 
@@ -88,7 +88,7 @@ Another study involved 184 patients who could not be treated with deferoxamine, 
 
 In a further main study involving 166 patients from 10 years of age (including 21 patients aged 10 to 18 years) with non-transfusion-dependent thalassaemia syndromes and iron overload, Exjade was more effective than placebo (a dummy treatment). The main measure of effectiveness was the change in iron levels in the liver after 12 months of treatment. In patients treated with Exjade, liver iron levels decreased on average by 3.8 mg per gram of liver compared with an average increase of 0.4 mg per gram of liver in patients treated with placebo.
 
-## What are the risks associated with Exjade?
+### What are the risks associated with Exjade?
 
 The most common side effect with Exjade (which may affect more than 1 in 10 people) is increased blood creatinine (a marker of kidney problems). Other common side effects (in up to 1 patient in 10) include nausea (feeling sick), vomiting, diarrhoea, indigestion, abdominal (belly) pain, constipation, headache, rash, itching, blood tests showing raised transaminases (which may suggest liver damage) and protein in urine. For the full list of side effects of Exjade, see the package leaflet.
 
@@ -98,11 +98,11 @@ Cases of metabolic acidosis (when the body produces more acid than it gets rid o
 
 Exjade must not be used in people whose creatinine clearance is less than 60 ml per minute. It must not be used in combination with other iron chelators. For the full list of restrictions, see the package leaflet.
 
-## Why is Exjade authorised in the EU?
+### Why is Exjade authorised in the EU?
 
 The European Medicines Agency decided that Exjade's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Exjade?
+### What measures are being taken to ensure the safe and effective use of Exjade?
 
 The company that markets Exjade must issue an education pack to healthcare professionals. This pack aims to inform them about the treatment recommendations with Exjade, including choosing the right dose, that the doses are different for dispersible tablets compared to film-coated tablets or granules, and the need to monitor the patient's health, especially kidney function. The company will also prepare a similar pack for patients.
 
@@ -112,7 +112,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Exjade are continuously monitored. Side effects reported with Exjade are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Exjade
+### Other information about Exjade
 
 Exjade received a marketing authorisation valid throughout the EU on 28 August 2006
 
@@ -126,7 +126,7 @@ English (EN) (87.56 KB - PDF)
 
 [View](/en/documents/overview/exjade-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-6)
+[Other languages (22)](#file-language-dropdown-838)
 
 български (BG) (133.21 KB - PDF)
 
@@ -158,7 +158,7 @@ Deutsch (DE) (109.97 KB - PDF)
 
 [View](/de/documents/overview/exjade-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (106.34 KB - PDF)
+eesti (ET) (106.34 KB - PDF)
 
 **First published:** 04/09/2008 **Last updated:** 13/08/2018
 
@@ -188,13 +188,13 @@ italiano (IT) (108.59 KB - PDF)
 
 [View](/it/documents/overview/exjade-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (129.81 KB - PDF)
+latviešu (LV) (129.81 KB - PDF)
 
 **First published:** 04/09/2008 **Last updated:** 13/08/2018
 
 [View](/lv/documents/overview/exjade-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (127.75 KB - PDF)
+lietuvių (LT) (127.75 KB - PDF)
 
 **First published:** 04/09/2008 **Last updated:** 13/08/2018
 
@@ -248,7 +248,7 @@ slovenščina (SL) (122.28 KB - PDF)
 
 [View](/sl/documents/overview/exjade-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (108.01 KB - PDF)
+suomi (FI) (108.01 KB - PDF)
 
 **First published:** 04/09/2008 **Last updated:** 13/08/2018
 
@@ -262,9 +262,9 @@ svenska (SV) (107.85 KB - PDF)
 
 Exjade : EPAR - Risk management plan
 
-English (EN) (1.66 MB - PDF)
+English (EN) (880.15 KB - PDF)
 
-**First published:** 25/07/2019 **Last updated:** 21/05/2026
+**First published:** 25/07/2019 **Last updated:** 20/10/2026
 
 [View](/en/documents/rmp/exjade-epar-risk-management-plan_en.pdf)
 
@@ -272,167 +272,168 @@ English (EN) (1.66 MB - PDF)
 
 Exjade : EPAR - Product Information
 
-English (EN) (692.17 KB - PDF)
+English (EN) (1.26 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/exjade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-800)
+[Other languages (24)](#file-language-dropdown-436)
 
-български (BG) (793.79 KB - PDF)
+български (BG) (707.85 KB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/bg/documents/product-information/exjade-epar-product-information_bg.pdf)
 
-español (ES) (713.4 KB - PDF)
+español (ES) (1.71 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/es/documents/product-information/exjade-epar-product-information_es.pdf)
 
-čeština (CS) (766.25 KB - PDF)
+čeština (CS) (1.78 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/cs/documents/product-information/exjade-epar-product-information_cs.pdf)
 
-dansk (DA) (701.5 KB - PDF)
+dansk (DA) (1.7 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/da/documents/product-information/exjade-epar-product-information_da.pdf)
 
-Deutsch (DE) (747.7 KB - PDF)
+Deutsch (DE) (1.78 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/de/documents/product-information/exjade-epar-product-information_de.pdf)
 
-eesti keel (ET) (685.57 KB - PDF)
+eesti (ET) (1.69 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/et/documents/product-information/exjade-epar-product-information_et.pdf)
 
-ελληνικά (EL) (824.48 KB - PDF)
+ελληνικά (EL) (2.01 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/el/documents/product-information/exjade-epar-product-information_el.pdf)
 
-français (FR) (765.86 KB - PDF)
+français (FR) (1.8 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/fr/documents/product-information/exjade-epar-product-information_fr.pdf)
 
-hrvatski (HR) (727.46 KB - PDF)
+hrvatski (HR) (1.71 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/hr/documents/product-information/exjade-epar-product-information_hr.pdf)
 
-íslenska (IS) (677.58 KB - PDF)
+italiano (IT) (1.77 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
-
-[View](/is/documents/product-information/exjade-epar-product-information_is.pdf)
-
-italiano (IT) (722.55 KB - PDF)
-
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/exjade-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (749.68 KB - PDF)
+latviešu (LV) (1.7 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/lv/documents/product-information/exjade-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (757.08 KB - PDF)
+lietuvių (LT) (1.72 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/lt/documents/product-information/exjade-epar-product-information_lt.pdf)
 
-magyar (HU) (790.19 KB - PDF)
+magyar (HU) (1.85 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/hu/documents/product-information/exjade-epar-product-information_hu.pdf)
 
-Malti (MT) (872.89 KB - PDF)
+Malti (MT) (2 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/mt/documents/product-information/exjade-epar-product-information_mt.pdf)
 
-Nederlands (NL) (697.78 KB - PDF)
+Nederlands (NL) (1.66 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/nl/documents/product-information/exjade-epar-product-information_nl.pdf)
 
-norsk (NO) (681.77 KB - PDF)
+polski (PL) (1.79 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
-
-[View](/no/documents/product-information/exjade-epar-product-information_no.pdf)
-
-polski (PL) (809.03 KB - PDF)
-
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/exjade-epar-product-information_pl.pdf)
 
-português (PT) (758.81 KB - PDF)
+português (PT) (1.71 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/exjade-epar-product-information_pt.pdf)
 
-română (RO) (769.39 KB - PDF)
+română (RO) (1.75 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/exjade-epar-product-information_ro.pdf)
 
-slovenčina (SK) (777.02 KB - PDF)
+slovenčina (SK) (1.79 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/exjade-epar-product-information_sk.pdf)
 
-slovenščina (SL) (744.58 KB - PDF)
+slovenščina (SL) (1.72 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/exjade-epar-product-information_sl.pdf)
 
-Suomi (FI) (698.45 KB - PDF)
+suomi (FI) (1.72 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/fi/documents/product-information/exjade-epar-product-information_fi.pdf)
 
-svenska (SV) (683.73 KB - PDF)
+svenska (SV) (1.66 MB - PDF)
 
-**First published:** 20/08/2009 **Last updated:** 05/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/exjade-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323869
+Íslenska (IS) (1.61 MB - PDF)
 
-04/02/2026
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
+
+[View](/is/documents/product-information/exjade-epar-product-information_is.pdf)
+
+norsk (NO) (1.65 MB - PDF)
+
+**First published:** 20/08/2009 **Last updated:** 20/10/2026
+
+[View](/no/documents/product-information/exjade-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000333352
+
+03/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -450,7 +451,7 @@ English (EN) (94.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-545)
+[Other languages (24)](#file-language-dropdown-942)
 
 български (BG) (102.77 KB - PDF)
 
@@ -482,7 +483,7 @@ Deutsch (DE) (95.6 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (93.34 KB - PDF)
+eesti (ET) (93.34 KB - PDF)
 
 **First published:** 29/09/2008 **Last updated:** 16/02/2022
 
@@ -506,25 +507,19 @@ hrvatski (HR) (96.54 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (96.39 KB - PDF)
-
-**First published:** 29/09/2008 **Last updated:** 16/02/2022
-
-[View](/is/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (94.83 KB - PDF)
 
 **First published:** 29/09/2008 **Last updated:** 16/02/2022
 
 [View](/it/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (98.57 KB - PDF)
+latviešu (LV) (98.57 KB - PDF)
 
 **First published:** 29/09/2008 **Last updated:** 16/02/2022
 
 [View](/lv/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (98.47 KB - PDF)
+lietuvių (LT) (98.47 KB - PDF)
 
 **First published:** 29/09/2008 **Last updated:** 16/02/2022
 
@@ -547,12 +542,6 @@ Nederlands (NL) (93.13 KB - PDF)
 **First published:** 29/09/2008 **Last updated:** 16/02/2022
 
 [View](/nl/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (95.77 KB - PDF)
-
-**First published:** 29/09/2008 **Last updated:** 16/02/2022
-
-[View](/no/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (96.99 KB - PDF)
 
@@ -584,7 +573,7 @@ slovenščina (SL) (97.49 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (93.25 KB - PDF)
+suomi (FI) (93.25 KB - PDF)
 
 **First published:** 29/09/2008 **Last updated:** 16/02/2022
 
@@ -596,164 +585,31 @@ svenska (SV) (94.32 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_sv.pdf)
 
-Exjade : EPAR - Conditions imposed on member states for safe and effective use - Annex IV
+Íslenska (IS) (96.39 KB - PDF)
 
-English (EN) (41.29 KB - PDF)
+**First published:** 29/09/2008 **Last updated:** 16/02/2022
 
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
+[View](/is/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_is.pdf)
 
-[View](/en/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
+norsk (NO) (95.77 KB - PDF)
 
-[Other languages (21)](#file-language-dropdown-741)
+**First published:** 29/09/2008 **Last updated:** 16/02/2022
 
-български (BG) (118.85 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/bg/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
-
-español (ES) (42.64 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/es/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
-
-čeština (CS) (116.98 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/cs/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
-
-dansk (DA) (41.87 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/da/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
-
-Deutsch (DE) (42.72 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/de/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
-
-eesti keel (ET) (42.4 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/et/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
-
-ελληνικά (EL) (115.57 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/el/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
-
-français (FR) (38.03 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/fr/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
-
-italiano (IT) (42.33 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/it/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
-
-latviešu valoda (LV) (118.49 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/lv/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
-
-lietuvių kalba (LT) (116.94 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/lt/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
-
-magyar (HU) (110.83 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/hu/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
-
-Malti (MT) (140.98 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/mt/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
-
-Nederlands (NL) (42.37 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/nl/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
-
-polski (PL) (118.94 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/pl/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
-
-português (PT) (42.47 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/pt/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
-
-română (RO) (114.32 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/ro/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
-
-slovenčina (SK) (115.23 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/sk/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
-
-slovenščina (SL) (108.26 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/sl/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
-
-Suomi (FI) (42.41 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/fi/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
-
-svenska (SV) (42.15 KB - PDF)
-
-**First published:** 02/10/2008 **Last updated:** 02/10/2008
-
-[View](/sv/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
+[View](/no/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
-Name of medicine
-
-Exjade
-
-Active substance
-
-deferasirox
-
-International non-proprietary name (INN) or common name
-
-deferasirox
-
-Therapeutic area (MeSH)
-
-- beta-Thalassemia
-- Iron Overload
-
-Anatomical therapeutic chemical (ATC) code
-
-V03AC03
+- **Name of medicine**
+    - Exjade
+- **Active substance**
+    - deferasirox
+- **International non-proprietary name (INN) or common name**
+    - deferasirox
+- **Therapeutic area (MeSH)**
+        - beta-Thalassemia
+        - Iron Overload
+- **Anatomical therapeutic chemical (ATC) code**
+    - V03AC03
 
 ### Pharmacotherapeutic group
 
@@ -773,31 +629,23 @@ Exjade is also indicated for the treatment of chronic iron overload requiring ch
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000670
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted
-
-28/06/2006
-
-Marketing authorisation issued
-
-28/08/2006
-
-Revision
-
-58
+- **EMA product number**
+    - EMEA/H/C/000670
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  
+Elm Park  
+Merrion Road  
+Dublin 4  
+D04 A9N6  
+Ireland
+- **Opinion adopted**
+    - 28/06/2006
+- **Marketing authorisation issued**
+    - 28/08/2006
+- **Revision**
+    - 58
 
 ## Assessment history
 
@@ -805,13 +653,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Exjade : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.11 KB - PDF)
+English (EN) (144.89 KB - PDF)
 
-**First published:** 21/08/2025 **Last updated:** 05/02/2026
+**First published:** 21/08/2025 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/exjade-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -841,7 +689,7 @@ English (EN) (157.77 KB - PDF)
 
 **First published:** 26/08/2020
 
-[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201910-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201910-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Exjade-H-C-670-P46-0078 : EPAR - Assessment Report
 
@@ -861,7 +709,7 @@ English (EN) (72.37 KB - PDF)
 
 **First published:** 04/10/2019
 
-[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201810-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201810-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Exjade-H-C-670-P46-0076 : EPAR - Assessment Report
 
@@ -881,7 +729,7 @@ English (EN) (71.64 KB - PDF)
 
 **First published:** 02/08/2018 **Last updated:** 02/08/2018
 
-[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201710-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201710-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Exjade : EPAR - Paediatric investigation plan compliance statement
 
@@ -911,7 +759,7 @@ English (EN) (68.31 KB - PDF)
 
 **First published:** 18/09/2017 **Last updated:** 18/09/2017
 
-[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201610-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201610-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Exjade-H-C-670-P46-070 : EPAR - Assessment Report
 
@@ -971,7 +819,7 @@ English (EN) (69.63 KB - PDF)
 
 **First published:** 12/08/2016 **Last updated:** 12/08/2016
 
-[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201510-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201510-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Exjade-H-C-670-P46-0066 : EPAR - Assessment Report
 
@@ -1011,7 +859,7 @@ English (EN) (64.71 KB - PDF)
 
 **First published:** 07/09/2015 **Last updated:** 07/09/2015
 
-[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201410-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/exjade-h-c-psusa-00000939-201410-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Exjade-H-C-670-PSUV-0037 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -1021,7 +869,7 @@ English (EN) (63.25 KB - PDF)
 
 **First published:** 06/10/2014 **Last updated:** 06/10/2014
 
-[View](/en/documents/scientific-conclusion/exjade-h-c-670-psuv-0037-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/exjade-h-c-670-psuv-0037-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Exjade-H-C-670-II-0025 : EPAR - Assessment Report - Variation
 
@@ -1053,7 +901,7 @@ English (EN) (52.61 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-exjade_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Exjade : EPAR - Procedural steps taken before authorisation
 
@@ -1093,7 +941,7 @@ English (EN) (225.53 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-862)
+[Other languages (24)](#file-language-dropdown-932)
 
 български (BG) (288.5 KB - DOCX)
 
@@ -1125,7 +973,7 @@ Deutsch (DE) (241.19 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (237.97 KB - DOCX)
+eesti (ET) (237.97 KB - DOCX)
 
 **First published:** 21/08/2025 **Last updated:** 05/02/2026
 
@@ -1149,25 +997,19 @@ hrvatski (HR) (228.83 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (219.45 KB - DOCX)
-
-**First published:** 21/08/2025 **Last updated:** 05/02/2026
-
-[View](/is/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (204.71 KB - DOCX)
 
 **First published:** 21/08/2025 **Last updated:** 05/02/2026
 
 [View](/it/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (262.58 KB - DOCX)
+latviešu (LV) (262.58 KB - DOCX)
 
 **First published:** 21/08/2025 **Last updated:** 05/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (229.95 KB - DOCX)
+lietuvių (LT) (229.95 KB - DOCX)
 
 **First published:** 21/08/2025 **Last updated:** 05/02/2026
 
@@ -1190,12 +1032,6 @@ Nederlands (NL) (235.85 KB - DOCX)
 **First published:** 21/08/2025 **Last updated:** 05/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (248.55 KB - DOCX)
-
-**First published:** 21/08/2025 **Last updated:** 05/02/2026
-
-[View](/no/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (275.03 KB - DOCX)
 
@@ -1227,7 +1063,7 @@ slovenščina (SL) (237.46 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (228.63 KB - DOCX)
+suomi (FI) (228.63 KB - DOCX)
 
 **First published:** 21/08/2025 **Last updated:** 05/02/2026
 
@@ -1238,6 +1074,18 @@ svenska (SV) (245.57 KB - DOCX)
 **First published:** 21/08/2025 **Last updated:** 05/02/2026
 
 [View](/sv/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (219.45 KB - DOCX)
+
+**First published:** 21/08/2025 **Last updated:** 05/02/2026
+
+[View](/is/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (248.55 KB - DOCX)
+
+**First published:** 21/08/2025 **Last updated:** 05/02/2026
+
+[View](/no/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Exjade
 
@@ -1265,7 +1113,7 @@ English (EN) (95.92 KB - PDF)
 
 [View](/en/documents/medication-error/exjade-measures-avoid-medication-errors_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-846)
+[Other languages (22)](#file-language-dropdown-684)
 
 български (BG) (112.95 KB - PDF)
 
@@ -1297,7 +1145,7 @@ Deutsch (DE) (87.89 KB - PDF)
 
 [View](/de/documents/medication-error/exjade-measures-avoid-medication-errors_de.pdf)
 
-eesti keel (ET) (85.96 KB - PDF)
+eesti (ET) (85.96 KB - PDF)
 
 **First published:** 22/04/2016 **Last updated:** 22/04/2016
 
@@ -1327,13 +1175,13 @@ italiano (IT) (87.23 KB - PDF)
 
 [View](/it/documents/medication-error/exjade-measures-avoid-medication-errors_it.pdf)
 
-latviešu valoda (LV) (110.21 KB - PDF)
+latviešu (LV) (110.21 KB - PDF)
 
 **First published:** 22/04/2016 **Last updated:** 22/04/2016
 
 [View](/lv/documents/medication-error/exjade-measures-avoid-medication-errors_lv.pdf)
 
-lietuvių kalba (LT) (112.05 KB - PDF)
+lietuvių (LT) (112.05 KB - PDF)
 
 **First published:** 22/04/2016 **Last updated:** 22/04/2016
 
@@ -1387,7 +1235,7 @@ slovenščina (SL) (102.92 KB - PDF)
 
 [View](/sl/documents/medication-error/exjade-measures-avoid-medication-errors_sl.pdf)
 
-Suomi (FI) (86.58 KB - PDF)
+suomi (FI) (86.58 KB - PDF)
 
 **First published:** 22/04/2016 **Last updated:** 22/04/2016
 
@@ -1407,11 +1255,11 @@ svenska (SV) (86.34 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-- [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A65)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
+- [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A65)
 
 **This page was last updated on**
 
-21/05/2026
+20/10/2026
 
 ## Share this page

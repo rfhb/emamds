@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-07 16:26:00
+document_datetime: 2026-10-20 14:58:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nordimet.html
 document_name: nordimet.html
 version: success
-processing_time: 0.2047818
-conversion_datetime: 2026-09-11 17:56:56.696765
+processing_time: 0.2415035
+conversion_datetime: 2026-10-25 15:22:53.36715
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Nordimet
 
 [RSS](/en/individual-human-medicine.xml/66296)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -117,7 +117,7 @@ English (EN) (146.5 KB - PDF)
 
 [View](/en/documents/overview/nordimet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-61)
+[Other languages (22)](#file-language-dropdown-575)
 
 български (BG) (131.51 KB - PDF)
 
@@ -263,161 +263,161 @@ English (EN) (118.54 KB - PDF)
 
 Nordimet : EPAR - Product Information
 
-English (EN) (1.71 MB - PDF)
+English (EN) (1.15 MB - PDF)
 
-**First published:** 29/09/2016 **Last updated:** 07/09/2026
+**First published:** 29/09/2016 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/nordimet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-189)
+[Other languages (24)](#file-language-dropdown-573)
 
-български (BG) (3.49 MB - PDF)
+български (BG) (1.36 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/bg/documents/product-information/nordimet-epar-product-information_bg.pdf)
 
-español (ES) (3.34 MB - PDF)
+español (ES) (1.15 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/es/documents/product-information/nordimet-epar-product-information_es.pdf)
 
-čeština (CS) (3.77 MB - PDF)
+čeština (CS) (1.28 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/cs/documents/product-information/nordimet-epar-product-information_cs.pdf)
 
-dansk (DA) (3.26 MB - PDF)
+dansk (DA) (1.17 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/da/documents/product-information/nordimet-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.85 MB - PDF)
+Deutsch (DE) (1.26 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/de/documents/product-information/nordimet-epar-product-information_de.pdf)
 
-eesti (ET) (3.3 MB - PDF)
+eesti (ET) (1.14 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/et/documents/product-information/nordimet-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.5 MB - PDF)
+ελληνικά (EL) (1.33 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/el/documents/product-information/nordimet-epar-product-information_el.pdf)
 
-français (FR) (3.74 MB - PDF)
+français (FR) (1.27 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/fr/documents/product-information/nordimet-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.06 MB - PDF)
+hrvatski (HR) (1.3 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/hr/documents/product-information/nordimet-epar-product-information_hr.pdf)
 
-italiano (IT) (3.19 MB - PDF)
+italiano (IT) (1.13 MB - PDF)
 
-**First published:** 29/09/2016 **Last updated:** 07/09/2026
+**First published:** 29/09/2016 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/nordimet-epar-product-information_it.pdf)
 
-latviešu (LV) (2.88 MB - PDF)
+latviešu (LV) (1.28 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/lv/documents/product-information/nordimet-epar-product-information_lv.pdf)
 
-lietuvių (LT) (3.71 MB - PDF)
+lietuvių (LT) (1.31 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/lt/documents/product-information/nordimet-epar-product-information_lt.pdf)
 
-magyar (HU) (4.12 MB - PDF)
+magyar (HU) (1.23 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/hu/documents/product-information/nordimet-epar-product-information_hu.pdf)
 
-Malti (MT) (4.44 MB - PDF)
+Malti (MT) (1.34 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/mt/documents/product-information/nordimet-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.6 MB - PDF)
+Nederlands (NL) (1.21 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/nl/documents/product-information/nordimet-epar-product-information_nl.pdf)
 
-polski (PL) (3.91 MB - PDF)
+polski (PL) (1.27 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/pl/documents/product-information/nordimet-epar-product-information_pl.pdf)
 
-português (PT) (3.42 MB - PDF)
+português (PT) (1.19 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/pt/documents/product-information/nordimet-epar-product-information_pt.pdf)
 
-română (RO) (4.42 MB - PDF)
+română (RO) (1.38 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/ro/documents/product-information/nordimet-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.13 MB - PDF)
+slovenčina (SK) (1.36 MB - PDF)
 
-**First published:** 29/09/2016 **Last updated:** 07/09/2026
+**First published:** 29/09/2016 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/nordimet-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.94 MB - PDF)
+slovenščina (SL) (1.3 MB - PDF)
 
-**First published:** 29/09/2016 **Last updated:** 07/09/2026
+**First published:** 29/09/2016 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/nordimet-epar-product-information_sl.pdf)
 
-suomi (FI) (3.23 MB - PDF)
+suomi (FI) (1.13 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/fi/documents/product-information/nordimet-epar-product-information_fi.pdf)
 
-svenska (SV) (3.28 MB - PDF)
+svenska (SV) (1.2 MB - PDF)
 
-**First published:** 29/09/2016 **Last updated:** 07/09/2026
+**First published:** 29/09/2016 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/nordimet-epar-product-information_sv.pdf)
 
-Íslenska (IS) (3.18 MB - PDF)
+Íslenska (IS) (1.11 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/is/documents/product-information/nordimet-epar-product-information_is.pdf)
 
-norsk (NO) (3.23 MB - PDF)
+norsk (NO) (1.14 MB - PDF)
 
 **First published:** 29/09/2016 **Last updated:** 07/09/2026
 
 [View](/no/documents/product-information/nordimet-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000327873
+**Latest procedure affecting product information:** VR/0000379786
 
-20/08/2026
+20/10/2026
 
 icon globe
 
@@ -442,7 +442,7 @@ English (EN) (124.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nordimet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-571)
 
 български (BG) (199.13 KB - PDF)
 
@@ -622,13 +622,15 @@ Nordimet is indicated for the treatment of:
 - **EMA product number**
     - EMEA/H/C/003983
 - **Marketing authorisation holder**
-    - Nordic Group B.V. Siriusdreef 41  NL-2132 WT Hoofddorp  The Netherlands
+    - Nordic Group B.V. Siriusdreef 41  
+NL-2132 WT Hoofddorp  
+The Netherlands
 - **Opinion adopted**
     - 23/06/2016
 - **Marketing authorisation issued**
     - 18/08/2016
 - **Revision**
-    - 26
+    - 27
 
 ## Assessment history
 
@@ -640,9 +642,9 @@ Collapse section
 
 Nordimet : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (125.52 KB - PDF)
+English (EN) (151.24 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 07/09/2026
+**First published:** 17/07/2025 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/nordimet-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -654,7 +656,7 @@ English (EN) (48.08 KB - PDF)
 
 [View](/en/documents/referral/methotrexate-article-31-referral-annex-ii_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-430)
+[Other languages (22)](#file-language-dropdown-187)
 
 български (BG) (70.65 KB - PDF)
 
@@ -948,7 +950,7 @@ English (EN) (497.17 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/nordimet-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-199)
 
 български (BG) (696.72 KB - DOCX)
 
@@ -1101,10 +1103,10 @@ norsk (NO) (480.11 KB - DOCX)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-07/09/2026
+20/10/2026
 
 ## Share this page

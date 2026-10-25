@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-20 16:06:00
+document_datetime: 2026-10-20 08:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yondelis.html
 document_name: yondelis.html
 version: success
-processing_time: 0.1707123
-conversion_datetime: 2026-07-28 12:51:43.798276
+processing_time: 0.211212
+conversion_datetime: 2026-10-25 15:30:42.898081
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Yondelis
 
 [RSS](/en/individual-human-medicine.xml/65649)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -125,7 +125,7 @@ English (EN) (107.42 KB - PDF)
 
 [View](/en/documents/overview/yondelis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-908)
+[Other languages (22)](#file-language-dropdown-250)
 
 български (BG) (139.3 KB - PDF)
 
@@ -277,7 +277,7 @@ English (EN) (539.37 KB - PDF)
 
 [View](/en/documents/product-information/yondelis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-839)
+[Other languages (24)](#file-language-dropdown-76)
 
 български (BG) (670.25 KB - PDF)
 
@@ -431,7 +431,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -450,7 +450,7 @@ English (EN) (20.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yondelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-194)
+[Other languages (24)](#file-language-dropdown-666)
 
 български (BG) (42.36 KB - PDF)
 
@@ -625,7 +625,10 @@ Yondelis in combination with pegylated liposomal doxorubicin (PLD) is indicated 
 - **EMA product number**
     - EMEA/H/C/000773
 - **Marketing authorisation holder**
-    - Pharma Mar S.A. Polígono Industrial La Mina  Avda. de los Reyes, 1  E-28770 Colmenar Viejo (Madrid)  Spain
+    - Pharma Mar S.A. Polígono Industrial La Mina  
+Avda. de los Reyes, 1  
+E-28770 Colmenar Viejo (Madrid)  
+Spain
 - **Marketing authorisation issued**
     - 17/09/2007
 - **Revision**
@@ -651,9 +654,9 @@ English (EN) (3.85 MB - PDF)
 
 Yondelis : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (144.7 KB - PDF)
+English (EN) (237.55 KB - PDF)
 
-**First published:** 15/07/2009 **Last updated:** 20/07/2026
+**First published:** 15/07/2009 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/yondelis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -675,7 +678,7 @@ English (EN) (92.35 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/yondelis-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-822)
+[Other languages (22)](#file-language-dropdown-568)
 
 български (BG) (172.84 KB - PDF)
 
@@ -914,10 +917,10 @@ English (EN) (1.06 MB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-20/07/2026
+20/10/2026
 
 ## Share this page

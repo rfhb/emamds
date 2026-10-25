@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-04-15 16:44:00
+document_datetime: 2026-10-22 11:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kygevvi.html
 document_name: kygevvi.html
 version: success
-processing_time: 0.1055286
-conversion_datetime: 2026-04-17 16:00:09.396339
+processing_time: 0.1570835
+conversion_datetime: 2026-10-25 15:21:22.869662
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Kygevvi
 
 [RSS](/en/individual-human-medicine.xml/273444)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Kygevvi used?
+### How is Kygevvi used?
 
 Kygevvi can only be obtained with a prescription, and treatment should be supervised by a doctor experienced in conditions affecting mitochondria, the energy-producing components within cells.
 
@@ -64,13 +64,13 @@ Kygevvi is available as a powder to be mixed in water and taken by mouth three t
 
 For more information about using Kygevvi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Kygevvi work?
+### How does Kygevvi work?
 
 The TK2 enzyme helps produce and maintain the DNA inside mitochondria. In people with TK2d, mutations in TK2 prevent it from working properly. As a result, mitochondria do not work as they should, and muscles cannot produce enough energy, leading to progressive muscle weakness.
 
 The way Kygevvi works in people has not been confirmed. However, studies in animals suggest that its active substances, doxecitine and doxribtimine (DNA building blocks), are taken up by muscle cells and become part of mitochondrial DNA. This helps improve the production and maintenance of mitochondrial DNA. In this way, Kygevvi is expected to compensate for reduced TK2 activity and help slow the worsening of muscle weakness in people with the condition.
 
-## What benefits of Kygevvi have been shown in studies?
+### What benefits of Kygevvi have been shown in studies?
 
 In adults and children with TK2d, confirmed by genetic testing, whose symptoms of the disease started at or before 12 years of age, treatment with Kygevvi allowed people to regain motor milestones.
 
@@ -78,13 +78,13 @@ Because TK2d is a rare disease, there are too few patients to carry out a study 
 
 The effect of treatment was assessed by comparing motor milestones, such as the ability to sit, stand or walk, before and after starting Kygevvi. During treatment, around 84% of patients (26 out of 31) regained at least one motor milestone, while around 26% (10 out of 38) lost at least one motor milestone.
 
-## What are the side effects and restrictions with Kygevvi?
+### What are the side effects and restrictions with Kygevvi?
 
 For the full list of side effects and restrictions with Kygevvi, see the package leaflet.
 
 The most common side effects with Kygevvi (which may affect more than 1 in 10 people) include diarrhoea, vomiting and abdominal (belly) pain.
 
-## Why is Kygevvi authorised in the EU?
+### Why is Kygevvi authorised in the EU?
 
 At the time of authorisation, there was no treatment authorised for TK2d, and care was limited to supportive measures. These included providing nutrition through a feeding tube, physiotherapy to support movement and breathing support using a ventilator.
 
@@ -96,13 +96,13 @@ The European Medicines Agency therefore decided that Kygevvi's benefits are grea
 
 Kygevvi has been authorised under exceptional circumstances. This is because it has not been possible to obtain complete information about Kygevvi due to the rarity of the disease. The company must provide further data on Kygevvi. It must submit the results of a new study to confirm the safety and effectiveness of the medicine. Every year, EMA will review any new information that becomes available.
 
-## What measures are being taken to ensure the safe and effective use of Kygevvi?
+### What measures are being taken to ensure the safe and effective use of Kygevvi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Kygevvi have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Kygevvi are continuously monitored. Suspected side effects reported with Kygevvi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Kygevvi
+### Other information about Kygevvi
 
 Kygevvi received a marketing authorisation under exceptional circumstances valid throughout the EU on 26 March 2026.
 
@@ -116,7 +116,7 @@ English (EN) (134.07 KB - PDF)
 
 [View](/en/documents/overview/kygevvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-171)
+[Other languages (22)](#file-language-dropdown-877)
 
 български (BG) (146.8 KB - PDF)
 
@@ -148,7 +148,7 @@ Deutsch (DE) (124.1 KB - PDF)
 
 [View](/de/documents/overview/kygevvi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (118.77 KB - PDF)
+eesti (ET) (118.77 KB - PDF)
 
 **First published:** 15/04/2026
 
@@ -178,13 +178,13 @@ italiano (IT) (120.76 KB - PDF)
 
 [View](/it/documents/overview/kygevvi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (161.83 KB - PDF)
+latviešu (LV) (161.83 KB - PDF)
 
 **First published:** 15/04/2026
 
 [View](/lv/documents/overview/kygevvi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (134.48 KB - PDF)
+lietuvių (LT) (134.48 KB - PDF)
 
 **First published:** 15/04/2026
 
@@ -238,7 +238,7 @@ slovenščina (SL) (142.98 KB - PDF)
 
 [View](/sl/documents/overview/kygevvi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (118.88 KB - PDF)
+suomi (FI) (118.88 KB - PDF)
 
 **First published:** 15/04/2026
 
@@ -262,163 +262,168 @@ English (EN) (1.5 MB - PDF)
 
 Kygevvi : EPAR - Product information
 
-English (EN) (1.99 MB - PDF)
+English (EN) (1.98 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/en/documents/product-information/kygevvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-161)
+[Other languages (24)](#file-language-dropdown-289)
 
-български (BG) (1.99 MB - PDF)
+български (BG) (1.98 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/bg/documents/product-information/kygevvi-epar-product-information_bg.pdf)
 
 español (ES) (1.97 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/es/documents/product-information/kygevvi-epar-product-information_es.pdf)
 
-čeština (CS) (2.13 MB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/cs/documents/product-information/kygevvi-epar-product-information_cs.pdf)
 
 dansk (DA) (2 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/da/documents/product-information/kygevvi-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.98 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/de/documents/product-information/kygevvi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.96 MB - PDF)
+eesti (ET) (1.96 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/et/documents/product-information/kygevvi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.97 MB - PDF)
+ελληνικά (EL) (1.96 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/el/documents/product-information/kygevvi-epar-product-information_el.pdf)
 
-français (FR) (1.98 MB - PDF)
+français (FR) (1.96 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/fr/documents/product-information/kygevvi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.99 MB - PDF)
+hrvatski (HR) (1.98 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/hr/documents/product-information/kygevvi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.95 MB - PDF)
+italiano (IT) (1.22 MB - PDF)
 
-**First published:** 15/04/2026
-
-[View](/is/documents/product-information/kygevvi-epar-product-information_is.pdf)
-
-italiano (IT) (1.94 MB - PDF)
-
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/it/documents/product-information/kygevvi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.95 MB - PDF)
+latviešu (LV) (1.36 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/lv/documents/product-information/kygevvi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.97 MB - PDF)
+lietuvių (LT) (1.97 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/lt/documents/product-information/kygevvi-epar-product-information_lt.pdf)
 
 magyar (HU) (1.98 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/hu/documents/product-information/kygevvi-epar-product-information_hu.pdf)
 
-Malti (MT) (2.04 MB - PDF)
+Malti (MT) (2.05 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/mt/documents/product-information/kygevvi-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.9 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/nl/documents/product-information/kygevvi-epar-product-information_nl.pdf)
 
-norsk (NO) (1.95 MB - PDF)
+polski (PL) (1.97 MB - PDF)
 
-**First published:** 15/04/2026
-
-[View](/no/documents/product-information/kygevvi-epar-product-information_no.pdf)
-
-polski (PL) (1.98 MB - PDF)
-
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/pl/documents/product-information/kygevvi-epar-product-information_pl.pdf)
 
 português (PT) (1.95 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/pt/documents/product-information/kygevvi-epar-product-information_pt.pdf)
 
-română (RO) (1.98 MB - PDF)
+română (RO) (1.99 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/ro/documents/product-information/kygevvi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2 MB - PDF)
+slovenčina (SK) (1 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/sk/documents/product-information/kygevvi-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.01 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/sl/documents/product-information/kygevvi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.95 MB - PDF)
+suomi (FI) (1.93 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/fi/documents/product-information/kygevvi-epar-product-information_fi.pdf)
 
 svenska (SV) (1.97 MB - PDF)
 
-**First published:** 15/04/2026
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
 
 [View](/sv/documents/product-information/kygevvi-epar-product-information_sv.pdf)
+
+Íslenska (IS) (1.95 MB - PDF)
+
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
+
+[View](/is/documents/product-information/kygevvi-epar-product-information_is.pdf)
+
+norsk (NO) (1.92 MB - PDF)
+
+**First published:** 15/04/2026 **Last updated:** 22/10/2026
+
+[View](/no/documents/product-information/kygevvi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000377511
+
+22/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +441,7 @@ English (EN) (81.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-302)
+[Other languages (24)](#file-language-dropdown-249)
 
 български (BG) (75.45 KB - PDF)
 
@@ -468,7 +473,7 @@ Deutsch (DE) (77.97 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (54.58 KB - PDF)
+eesti (ET) (54.58 KB - PDF)
 
 **First published:** 15/04/2026
 
@@ -492,25 +497,19 @@ hrvatski (HR) (74.25 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (56.75 KB - PDF)
-
-**First published:** 15/04/2026
-
-[View](/is/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (76.23 KB - PDF)
 
 **First published:** 15/04/2026
 
 [View](/it/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (77.88 KB - PDF)
+latviešu (LV) (77.88 KB - PDF)
 
 **First published:** 15/04/2026
 
 [View](/lv/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (93.54 KB - PDF)
+lietuvių (LT) (93.54 KB - PDF)
 
 **First published:** 15/04/2026
 
@@ -533,12 +532,6 @@ Nederlands (NL) (58.93 KB - PDF)
 **First published:** 15/04/2026
 
 [View](/nl/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (77.78 KB - PDF)
-
-**First published:** 15/04/2026
-
-[View](/no/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (94.47 KB - PDF)
 
@@ -570,7 +563,7 @@ slovenščina (SL) (73.11 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (55.82 KB - PDF)
+suomi (FI) (55.82 KB - PDF)
 
 **First published:** 15/04/2026
 
@@ -582,29 +575,32 @@ svenska (SV) (55.81 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (56.75 KB - PDF)
+
+**First published:** 15/04/2026
+
+[View](/is/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (77.78 KB - PDF)
+
+**First published:** 15/04/2026
+
+[View](/no/documents/all-authorised-presentations/kygevvi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Kygevvi
-
-Active substance
-
-- doxecitine
-- Doxribtimine
-
-International non-proprietary name (INN) or common name
-
-- doxecitine
-- doxribtimine
-
-Therapeutic area (MeSH)
-
-Mitochondrial Diseases
-
-Anatomical therapeutic chemical (ATC) code
-
-A16AX29
+- **Name of medicine**
+    - Kygevvi
+- **Active substance**
+        - doxecitine
+        - Doxribtimine
+- **International non-proprietary name (INN) or common name**
+        - doxecitine
+        - doxribtimine
+- **Therapeutic area (MeSH)**
+    - Mitochondrial Diseases
+- **Anatomical therapeutic chemical (ATC) code**
+    - A16AX29
 
 ### Pharmacotherapeutic group
 
@@ -616,43 +612,44 @@ Kygevvi is indicated for the treatment of paediatric and adult patients with gen
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005119
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Exceptional circumstances
-
-This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-PRIME: priority medicine
-
-This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
-
-Marketing authorisation holder
-
-UCB Pharma
-
-Allée de la Recherche 60
-
-Opinion adopted
-
-29/01/2026
-
-Marketing authorisation issued
-
-26/03/2026
+- **EMA product number**
+    - EMEA/H/C/005119
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Exceptional circumstances**
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **PRIME: priority medicine**
+    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
+- **Marketing authorisation holder**
+    - UCB Pharma Allée de la Recherche 60  
+B-1070 Bruxelles  
+Belgium
+- **Opinion adopted**
+    - 29/01/2026
+- **Marketing authorisation issued**
+    - 26/03/2026
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Kygevvi : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (150.59 KB - PDF)
+
+**First published:** 22/10/2026
+
+[View](/en/documents/procedural-steps-after/kygevvi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Kygevvi : Orphan Maintenance Assessment Report (initial authorisation)
 
@@ -700,6 +697,6 @@ English (EN) (144.49 KB - PDF)
 
 **This page was last updated on**
 
-15/04/2026
+22/10/2026
 
 ## Share this page

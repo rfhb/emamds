@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-11 16:42:00
+document_datetime: 2026-10-20 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imuldosa.html
 document_name: imuldosa.html
 version: success
-processing_time: 0.117148
-conversion_datetime: 2026-05-13 13:30:12.222399
+processing_time: 0.1669208
+conversion_datetime: 2026-10-25 15:19:33.289628
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Imuldosa
 
 [RSS](/en/individual-human-medicine.xml/250704)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -51,13 +51,13 @@ Imuldosa is a medicine used to treat:
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Imuldosa may be used alone or combined with methotrexate (a DMARD);
 - moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children weighing at least 40 kg whose condition has not improved enough with other treatments for Crohn's disease or who cannot receive such treatments.
 
-Imuldosa contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Imuldosa is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Imuldosa is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Imuldosa contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Imuldosa is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Imuldosa is Stelara.
 
 Expand section
 
 Collapse section
 
-## How is Imuldosa used?
+### How is Imuldosa used?
 
 Imuldosa can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Imuldosa is used for.
 
@@ -69,11 +69,11 @@ Patients or their caregivers may inject Imuldosa under the skin themselves once 
 
 For more information about using Imuldosa, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Imuldosa work?
+### How does Imuldosa work?
 
 The active substance in Imuldosa, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
-## What benefits of Imuldosa have been shown in studies?
+### What benefits of Imuldosa have been shown in studies?
 
 Laboratory studies comparing Imuldosa with Stelara have shown that the active substance in Imuldosa is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Imuldosa produces similar levels of the active substance in the body to giving Stelara.
 
@@ -83,7 +83,7 @@ Because Imuldosa is a biosimilar medicine, the studies on effectiveness of ustek
 
 Studies carried out with Imuldosa are described in more detail in the medicine's assessment report.
 
-## What are the side effects and restrictions associated with Imuldosa?
+### What are the side effects and restrictions associated with Imuldosa?
 
 The safety of Imuldosa has been evaluated and, based on all the studies carried out, the side effects of the medicine are considered to be comparable to those of Stelara.
 
@@ -93,19 +93,19 @@ The most common side effects with ustekinumab (seen in more than 1 in 20 people)
 
 Imuldosa must not be used in patients who have an active infection that the doctor considers important.
 
-## Why is Imuldosa authorised in the EU?
+### Why is Imuldosa authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Imuldosa has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, a study in patients with plaque psoriasis has shown that Imuldosa and Stelara are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Imuldosa will have the same effects as Stelara in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Imuldosa outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Imuldosa?
+### What measures are being taken to ensure the safe and effective use of Imuldosa?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Imuldosa have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Imuldosa are continuously monitored. Suspected side effects reported with Imuldosa are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Imuldosa
+### Other information about Imuldosa
 
 Imuldosa received a marketing authorisation valid throughout the EU on 12 December 2024.
 
@@ -119,7 +119,7 @@ English (EN) (147.47 KB - PDF)
 
 [View](/en/documents/overview/imuldosa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-570)
+[Other languages (22)](#file-language-dropdown-137)
 
 български (BG) (164.47 KB - PDF)
 
@@ -151,7 +151,7 @@ Deutsch (DE) (140.52 KB - PDF)
 
 [View](/de/documents/overview/imuldosa-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (133.56 KB - PDF)
+eesti (ET) (133.56 KB - PDF)
 
 **First published:** 18/12/2024 **Last updated:** 30/03/2026
 
@@ -181,13 +181,13 @@ italiano (IT) (135.98 KB - PDF)
 
 [View](/it/documents/overview/imuldosa-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (166.91 KB - PDF)
+latviešu (LV) (166.91 KB - PDF)
 
 **First published:** 18/12/2024 **Last updated:** 30/03/2026
 
 [View](/lv/documents/overview/imuldosa-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (159 KB - PDF)
+lietuvių (LT) (159 KB - PDF)
 
 **First published:** 18/12/2024 **Last updated:** 30/03/2026
 
@@ -241,7 +241,7 @@ slovenščina (SL) (157.29 KB - PDF)
 
 [View](/sl/documents/overview/imuldosa-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (133.69 KB - PDF)
+suomi (FI) (133.69 KB - PDF)
 
 **First published:** 18/12/2024 **Last updated:** 30/03/2026
 
@@ -255,9 +255,9 @@ svenska (SV) (145.32 KB - PDF)
 
 Imuldosa : EPAR - Risk Management Plan
 
-English (EN) (786.07 KB - PDF)
+English (EN) (5.19 MB - PDF)
 
-**First published:** 18/12/2024
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/en/documents/rmp/imuldosa-epar-risk-management-plan_en.pdf)
 
@@ -265,167 +265,168 @@ English (EN) (786.07 KB - PDF)
 
 Imuldosa : EPAR - Product information
 
-English (EN) (1.44 MB - PDF)
+English (EN) (1.47 MB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/imuldosa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-553)
+[Other languages (24)](#file-language-dropdown-488)
 
-български (BG) (1.29 MB - PDF)
+български (BG) (1.43 MB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/bg/documents/product-information/imuldosa-epar-product-information_bg.pdf)
 
-español (ES) (1.33 MB - PDF)
+español (ES) (867.88 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/es/documents/product-information/imuldosa-epar-product-information_es.pdf)
 
-čeština (CS) (1.28 MB - PDF)
+čeština (CS) (969.14 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/cs/documents/product-information/imuldosa-epar-product-information_cs.pdf)
 
-dansk (DA) (1.09 MB - PDF)
+dansk (DA) (971.4 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/da/documents/product-information/imuldosa-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.32 MB - PDF)
+Deutsch (DE) (887.27 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/de/documents/product-information/imuldosa-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.09 MB - PDF)
+eesti (ET) (808.41 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/et/documents/product-information/imuldosa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.39 MB - PDF)
+ελληνικά (EL) (944.55 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/el/documents/product-information/imuldosa-epar-product-information_el.pdf)
 
-français (FR) (1.47 MB - PDF)
+français (FR) (1.15 MB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/fr/documents/product-information/imuldosa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.34 MB - PDF)
+hrvatski (HR) (1.43 MB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/hr/documents/product-information/imuldosa-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.33 MB - PDF)
+italiano (IT) (1.01 MB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
-
-[View](/is/documents/product-information/imuldosa-epar-product-information_is.pdf)
-
-italiano (IT) (1.34 MB - PDF)
-
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/imuldosa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.2 MB - PDF)
+latviešu (LV) (839.05 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/lv/documents/product-information/imuldosa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.28 MB - PDF)
+lietuvių (LT) (918.56 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/lt/documents/product-information/imuldosa-epar-product-information_lt.pdf)
 
-magyar (HU) (1.33 MB - PDF)
+magyar (HU) (1.35 MB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/hu/documents/product-information/imuldosa-epar-product-information_hu.pdf)
 
-Malti (MT) (1.46 MB - PDF)
+Malti (MT) (942.62 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/mt/documents/product-information/imuldosa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.1 MB - PDF)
+Nederlands (NL) (886.33 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/nl/documents/product-information/imuldosa-epar-product-information_nl.pdf)
 
-norsk (NO) (1.17 MB - PDF)
+polski (PL) (922.79 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
-
-[View](/no/documents/product-information/imuldosa-epar-product-information_no.pdf)
-
-polski (PL) (1.24 MB - PDF)
-
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/imuldosa-epar-product-information_pl.pdf)
 
-português (PT) (1.16 MB - PDF)
+português (PT) (807.66 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/imuldosa-epar-product-information_pt.pdf)
 
-română (RO) (1.35 MB - PDF)
+română (RO) (1.49 MB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/imuldosa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.28 MB - PDF)
+slovenčina (SK) (906.79 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/imuldosa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.33 MB - PDF)
+slovenščina (SL) (1003.91 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/imuldosa-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.23 MB - PDF)
+suomi (FI) (870.35 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/fi/documents/product-information/imuldosa-epar-product-information_fi.pdf)
 
-svenska (SV) (1.11 MB - PDF)
+svenska (SV) (975.08 KB - PDF)
 
-**First published:** 18/12/2024 **Last updated:** 11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/imuldosa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000341697
+Íslenska (IS) (1.01 MB - PDF)
 
-11/05/2026
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
+
+[View](/is/documents/product-information/imuldosa-epar-product-information_is.pdf)
+
+norsk (NO) (746.21 KB - PDF)
+
+**First published:** 18/12/2024 **Last updated:** 20/10/2026
+
+[View](/no/documents/product-information/imuldosa-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000350904
+
+15/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -443,7 +444,7 @@ English (EN) (155.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-567)
 
 български (BG) (161.28 KB - PDF)
 
@@ -475,7 +476,7 @@ Deutsch (DE) (158.47 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (148.47 KB - PDF)
+eesti (ET) (148.47 KB - PDF)
 
 **First published:** 18/12/2024
 
@@ -499,25 +500,19 @@ hrvatski (HR) (154.97 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (157.77 KB - PDF)
-
-**First published:** 18/12/2024
-
-[View](/is/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (154.36 KB - PDF)
 
 **First published:** 18/12/2024
 
 [View](/it/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (157.08 KB - PDF)
+latviešu (LV) (157.08 KB - PDF)
 
 **First published:** 18/12/2024
 
 [View](/lv/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (156.41 KB - PDF)
+lietuvių (LT) (156.41 KB - PDF)
 
 **First published:** 18/12/2024
 
@@ -540,12 +535,6 @@ Nederlands (NL) (154.1 KB - PDF)
 **First published:** 18/12/2024
 
 [View](/nl/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (157.03 KB - PDF)
-
-**First published:** 18/12/2024
-
-[View](/no/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (329.07 KB - PDF)
 
@@ -577,7 +566,7 @@ slovenščina (SL) (84.57 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (152.88 KB - PDF)
+suomi (FI) (152.88 KB - PDF)
 
 **First published:** 18/12/2024
 
@@ -589,29 +578,32 @@ svenska (SV) (155.18 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (157.77 KB - PDF)
+
+**First published:** 18/12/2024
+
+[View](/is/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (157.03 KB - PDF)
+
+**First published:** 18/12/2024
+
+[View](/no/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Imuldosa
-
-Active substance
-
-ustekinumab
-
-International non-proprietary name (INN) or common name
-
-ustekinumab
-
-Therapeutic area (MeSH)
-
-- Crohn Disease
-- Psoriasis
-- Arthritis, Psoriatic
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC05
+- **Name of medicine**
+    - Imuldosa
+- **Active substance**
+    - ustekinumab
+- **International non-proprietary name (INN) or common name**
+    - ustekinumab
+- **Therapeutic area (MeSH)**
+        - Crohn Disease
+        - Psoriasis
+        - Arthritis, Psoriatic
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -619,47 +611,44 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Adult Crohn's Disease Imuldosa is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+Adult Crohn's Disease  
+Imuldosa is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
 
-Paediatric Crohn's Disease Imuldosa is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+Paediatric Crohn's Disease  
+Imuldosa is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
-Plaque psoriasis Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
+Ulcerative colitis  
+Imuldosa is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
 
-Paediatric plaque psoriasis Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
+Plaque psoriasis  
+Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
 
-Psoriatic arthritis (PsA) Imuldosa, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease- modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
+Paediatric plaque psoriasis  
+Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
+
+Psoriatic arthritis (PsA)  
+Imuldosa, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease- modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006221
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Accord Healthcare S.L.U.
-
-Edificio Este Planta 6a
-
-Opinion adopted
-
-17/10/2024
-
-Marketing authorisation issued
-
-12/12/2024
-
-Revision
-
-6
+- **EMA product number**
+    - EMEA/H/C/006221
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  
+World Trade Center  
+Moll De Barcelona S/n  
+08039 Barcelona  
+SPAIN
+- **Opinion adopted**
+    - 17/10/2024
+- **Marketing authorisation issued**
+    - 12/12/2024
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -667,17 +656,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Imuldosa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (182.95 KB - PDF)
+English (EN) (218.21 KB - PDF)
 
-**First published:** 06/06/2025 **Last updated:** 11/05/2026
+**First published:** 06/06/2025 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/imuldosa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Imuldosa : EPAR - Public assessment report
 
@@ -707,6 +696,6 @@ English (EN) (101.03 KB - PDF)
 
 **This page was last updated on**
 
-11/05/2026
+20/10/2026
 
 ## Share this page

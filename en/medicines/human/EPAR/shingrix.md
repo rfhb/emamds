@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-03-23 16:41:00
+document_datetime: 2026-10-20 14:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/shingrix.html
 document_name: shingrix.html
 version: success
-processing_time: 0.1194497
-conversion_datetime: 2026-03-25 12:33:17.12959
+processing_time: 0.1815209
+conversion_datetime: 2026-10-25 15:26:09.904078
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Shingrix
 
 [RSS](/en/individual-human-medicine.xml/65658)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Shingrix](#news-on)
 - [More information on Shingrix](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -57,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Shingrix used?
+### How is Shingrix used?
 
 Shingrix can only be obtained with a prescription and should be used according to official recommendations. It is available as a powder and a suspension to be mixed together by a doctor or a nurse before being injected into the upper arm muscle.
 
@@ -65,7 +64,7 @@ The vaccination course consists of 2 injections given 2 months apart. If necessa
 
 For more information about using Shingrix, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Shingrix work?
+### How does Shingrix work?
 
 Shingrix has been designed to prevent shingles in people who have been in contact with the varicella zoster virus and have already developed antibodies against the virus.
 
@@ -73,7 +72,7 @@ Shingrix contains small amounts of a surface antigen (protein from the surface) 
 
 Patients given Shingrix will be able to produce antibodies against the virus more quickly when the virus is reactivated and they will therefore have protection against the disease.
 
-## What benefits of Shingrix have been shown in studies?
+### What benefits of Shingrix have been shown in studies?
 
 Shingrix has been shown in two main studies to be effective at preventing shingles and post-herpetic neuralgia in patients 50 years and older.
 
@@ -83,25 +82,25 @@ The second study involved adults aged 70 and over who received either Shingrix o
 
 Shingrix was also effective in two studies in adults aged 18 years and above at increased risk of developing herpes zoster. In the first study, involving people who had received an autologous (from the patient's own body) stem cell transplant, the number of people who had herpes zoster was 49 (out of 870) in the Shingrix group compared with 135 (out of 851) in the placebo group; in the second study, involving patients with blood cancer, these figures were 2 (out of 259 people) and 14 (out of 256), respectively. These studies indicate that Shingrix prevented 68% and 87% of cases, respectively.
 
-## What are the risks associated with Shingrix?
+### What are the risks associated with Shingrix?
 
 The most common side effects with Shingrix (which may affect more than 1 in 10 people) are reactions at the site of injection (such as pain, redness and swelling), chills, fever, muscle pain, tiredness, headache and side effects of the digestive system such as nausea, vomiting, diarrhoea and stomach pain. Most of these reactions last for 2 to 3 days.
 
 For the full list of side effects and restrictions with Shingrix, see the package leaflet.
 
-## Why is Shingrix authorised in the EU?
+### Why is Shingrix authorised in the EU?
 
 Shingrix has been shown to be highly effective at preventing shingles and post-herpetic neuralgia in adults older than 50 years for at least 4 years after vaccination. The vaccine is also effective at protecting adults older than 18 years who are at increased risk of herpes zoster. Side effects related to the use of Shingrix seemed to be mostly temporary and were manageable with standard care.
 
 The European Medicines Agency therefore decided that Shingrix's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Shingrix?
+### What measures are being taken to ensure the safe and effective use of Shingrix?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Shingrix have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Shingrix is continuously monitored. Side effects reported with Shingrix are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Shingrix
+### Other information about Shingrix
 
 Shingrix received a marketing authorisation valid throughout the EU on 21 March 2018.
 
@@ -115,7 +114,7 @@ English (EN) (116.03 KB - PDF)
 
 [View](/en/documents/overview/shingrix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-726)
+[Other languages (22)](#file-language-dropdown-451)
 
 български (BG) (139.86 KB - PDF)
 
@@ -147,7 +146,7 @@ Deutsch (DE) (119.49 KB - PDF)
 
 [View](/de/documents/overview/shingrix-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (112.23 KB - PDF)
+eesti (ET) (112.23 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 28/09/2020
 
@@ -177,13 +176,13 @@ italiano (IT) (115.62 KB - PDF)
 
 [View](/it/documents/overview/shingrix-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (155.49 KB - PDF)
+latviešu (LV) (155.49 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 28/09/2020
 
 [View](/lv/documents/overview/shingrix-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (138.39 KB - PDF)
+lietuvių (LT) (138.39 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 28/09/2020
 
@@ -237,7 +236,7 @@ slovenščina (SL) (137.06 KB - PDF)
 
 [View](/sl/documents/overview/shingrix-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (114.2 KB - PDF)
+suomi (FI) (114.2 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 28/09/2020
 
@@ -261,167 +260,168 @@ English (EN) (6.37 MB - PDF)
 
 Shingrix : EPAR - Product Information
 
-English (EN) (971.91 KB - PDF)
+English (EN) (791.65 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/shingrix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-713)
+[Other languages (24)](#file-language-dropdown-540)
 
-български (BG) (1.37 MB - PDF)
+български (BG) (896.76 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/bg/documents/product-information/shingrix-epar-product-information_bg.pdf)
 
-español (ES) (1.01 MB - PDF)
+español (ES) (726.91 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/es/documents/product-information/shingrix-epar-product-information_es.pdf)
 
-čeština (CS) (1.18 MB - PDF)
+čeština (CS) (879.81 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/cs/documents/product-information/shingrix-epar-product-information_cs.pdf)
 
-dansk (DA) (1.08 MB - PDF)
+dansk (DA) (787.82 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/da/documents/product-information/shingrix-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.08 MB - PDF)
+Deutsch (DE) (762.99 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/de/documents/product-information/shingrix-epar-product-information_de.pdf)
 
-eesti keel (ET) (999 KB - PDF)
+eesti (ET) (660.25 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/et/documents/product-information/shingrix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.26 MB - PDF)
+ελληνικά (EL) (960.75 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/el/documents/product-information/shingrix-epar-product-information_el.pdf)
 
-français (FR) (1.02 MB - PDF)
+français (FR) (741.55 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/fr/documents/product-information/shingrix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.1 MB - PDF)
+hrvatski (HR) (827.44 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/hr/documents/product-information/shingrix-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.11 MB - PDF)
+italiano (IT) (781.32 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
-
-[View](/is/documents/product-information/shingrix-epar-product-information_is.pdf)
-
-italiano (IT) (1.03 MB - PDF)
-
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/shingrix-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.11 MB - PDF)
+latviešu (LV) (820.93 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/lv/documents/product-information/shingrix-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.12 MB - PDF)
+lietuvių (LT) (807.02 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/lt/documents/product-information/shingrix-epar-product-information_lt.pdf)
 
-magyar (HU) (1.15 MB - PDF)
+magyar (HU) (849.11 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/hu/documents/product-information/shingrix-epar-product-information_hu.pdf)
 
-Malti (MT) (1.25 MB - PDF)
+Malti (MT) (932.06 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/mt/documents/product-information/shingrix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.03 MB - PDF)
+Nederlands (NL) (740.91 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/nl/documents/product-information/shingrix-epar-product-information_nl.pdf)
 
-norsk (NO) (997.75 KB - PDF)
+polski (PL) (728.91 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
-
-[View](/no/documents/product-information/shingrix-epar-product-information_no.pdf)
-
-polski (PL) (1008.05 KB - PDF)
-
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/shingrix-epar-product-information_pl.pdf)
 
-português (PT) (1.08 MB - PDF)
+português (PT) (801.49 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/shingrix-epar-product-information_pt.pdf)
 
-română (RO) (1.12 MB - PDF)
+română (RO) (821.99 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/shingrix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.14 MB - PDF)
+slovenčina (SK) (860.6 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/shingrix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.08 MB - PDF)
+slovenščina (SL) (805.45 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/shingrix-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.06 MB - PDF)
+suomi (FI) (759.93 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/fi/documents/product-information/shingrix-epar-product-information_fi.pdf)
 
-svenska (SV) (1.06 MB - PDF)
+svenska (SV) (785.41 KB - PDF)
 
-**First published:** 28/03/2018 **Last updated:** 23/03/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/shingrix-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315862
+Íslenska (IS) (837.83 KB - PDF)
 
-12/02/2026
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
+
+[View](/is/documents/product-information/shingrix-epar-product-information_is.pdf)
+
+norsk (NO) (680.65 KB - PDF)
+
+**First published:** 28/03/2018 **Last updated:** 20/10/2026
+
+[View](/no/documents/product-information/shingrix-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000361028
+
+01/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -439,7 +439,7 @@ English (EN) (80.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-477)
+[Other languages (24)](#file-language-dropdown-465)
 
 български (BG) (98.58 KB - PDF)
 
@@ -471,7 +471,7 @@ Deutsch (DE) (81.64 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (79.55 KB - PDF)
+eesti (ET) (79.55 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 19/12/2025
 
@@ -495,25 +495,19 @@ hrvatski (HR) (103.49 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (79.87 KB - PDF)
-
-**First published:** 28/03/2018 **Last updated:** 19/12/2025
-
-[View](/is/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (81.02 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 19/12/2025
 
 [View](/it/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (101.92 KB - PDF)
+latviešu (LV) (101.92 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 19/12/2025
 
 [View](/lv/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (106.87 KB - PDF)
+lietuvių (LT) (106.87 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 19/12/2025
 
@@ -536,12 +530,6 @@ Nederlands (NL) (79.99 KB - PDF)
 **First published:** 28/03/2018 **Last updated:** 19/12/2025
 
 [View](/nl/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (81.6 KB - PDF)
-
-**First published:** 28/03/2018 **Last updated:** 19/12/2025
-
-[View](/no/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (86.06 KB - PDF)
 
@@ -573,7 +561,7 @@ slovenščina (SL) (79.33 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (80.32 KB - PDF)
+suomi (FI) (80.32 KB - PDF)
 
 **First published:** 28/03/2018 **Last updated:** 19/12/2025
 
@@ -585,27 +573,30 @@ svenska (SV) (60.28 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (79.87 KB - PDF)
+
+**First published:** 28/03/2018 **Last updated:** 19/12/2025
+
+[View](/is/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (81.6 KB - PDF)
+
+**First published:** 28/03/2018 **Last updated:** 19/12/2025
+
+[View](/no/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Shingrix
-
-Active substance
-
-recombinant varicella zoster virus glycoprotein E
-
-International non-proprietary name (INN) or common name
-
-herpes zoster vaccine (recombinant, adjuvanted)
-
-Therapeutic area (MeSH)
-
-Herpes Zoster
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BK03
+- **Name of medicine**
+    - Shingrix
+- **Active substance**
+    - recombinant varicella zoster virus glycoprotein E
+- **International non-proprietary name (INN) or common name**
+    - herpes zoster vaccine (recombinant, adjuvanted)
+- **Therapeutic area (MeSH)**
+    - Herpes Zoster
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BK03
 
 ### Pharmacotherapeutic group
 
@@ -622,23 +613,16 @@ The use of Shingrix should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004336
-
-Marketing authorisation holder
-
-GlaxoSmithKline Biologicals S.A.
-
-Rue de l'Institut, 89
-
-Marketing authorisation issued
-
-21/03/2018
-
-Revision
-
-16
+- **EMA product number**
+    - EMEA/H/C/004336
+- **Marketing authorisation holder**
+    - GlaxoSmithKline Biologicals S.A. Rue de l'Institut, 89  
+B-1330 Rixensart  
+Belgium
+- **Marketing authorisation issued**
+    - 21/03/2018
+- **Revision**
+    - 17
 
 ## Assessment history
 
@@ -646,13 +630,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Shingrix : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (179.71 KB - PDF)
+English (EN) (198.04 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 23/03/2026
+**First published:** 17/07/2025 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/shingrix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -694,7 +678,7 @@ English (EN) (136.82 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-shingrix-ii-22_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Shingrix : EPAR - Public assessment report
 
@@ -729,24 +713,20 @@ English (EN) (69.26 KB - PDF)
 ## More information on Shingrix
 
 - [EMEA-001426-PIP01-13-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001426-pip01-13-m03)
-- [Non-interventional (observational) post-licensure study to assess the effectiveness and safety of recombinant zoster vaccine in adults aged =18 years with psoriasis or psoriatic arthritis (EPI-ZOSTER-045 VE US 216976) - post-authorisation study](https://catalogues.ema.europa.eu/study/108334)
 - [Safety and effectiveness of RZV in adults ≥18 years of age with Systemic lupus erythematosus (SLE) or Multiple sclerosis (MS) (EPI-ZOSTER-041 VS US DB 215104) - post-authorisation study](https://catalogues.ema.europa.eu/study/108331)
+- [Effectiveness of Adjuvanted Recombinant Zoster Vaccine (RZV) Against Postherpetic Neuralgia (PHN) and Against Cardiovascular Disease (CVD) Events After Herpes Zoster (HZ) in United States Adults in Medicare Fee-for-Service (FFS) + Inovalon's MORE2 Registry (307298 - EPI-ZOSTER-116 VE DB US) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001125)
 - [209452 - A targeted safety study, EPI-ZOSTER-030 VS US DB, to evaluate the safety of Shingrix in adults ≥ 50 years of age in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/50411)
 - [A retrospective matched cohort study on the association between herpes zoster vaccination and dementia and mild cognitive impairment using electronic health records (ZOSTER-122 AIML 222419) - post-authorisation study](https://catalogues.ema.europa.eu/study/108337)
 - [213825-Non-interventional (observational) post-licensure study to assess the vaccine effectiveness and safety of recombinant zoster vaccine (RZV) in the rheumatoid arthritis (RA) and inflammatory bowel disease (IBD) patient populations in adults 18 years of age and older (EPI-ZOSTER-044 VE US) - post-authorisation study](https://catalogues.ema.europa.eu/study/48446)
+- [Non-interventional (observational) post-licensure study to assess the effectiveness and safety of recombinant zoster vaccine in adults aged =18 years with psoriasis or psoriatic arthritis (EPI-ZOSTER-045 VE US 216976) - post-authorisation study](https://catalogues.ema.europa.eu/study/108334)
 - [209696 - A targeted safety study, EPI-ZOSTER-032 VS US DB, to evaluate the safety of Shingrix in adults ≥ 65 years of age in the United States. - post-authorisation study](https://catalogues.ema.europa.eu/study/48959)
+- [212853 - Shingrix for intramuscular injection Drug Use Investigation - post-authorisation study](https://catalogues.ema.europa.eu/study/46663)
 - [Postmarketing commitment safety study of HZ/su to evaluate pregnancy exposures and outcomes in immunodeficient or immunosuppressed women between 18 and 49 years of age (EPI-ZOSTER-039 VS US DB 214420) - post-authorisation study](https://catalogues.ema.europa.eu/study/105603)
 - [209570 - Long-Term Effectiveness Study of Shingrix in Adults ≥ 50 Years of Age in the US (EPI-ZOSTER-031 VE US) - post-authorisation study](https://catalogues.ema.europa.eu/study/46860)
 - [219111- A retrospective matched cohort database study in the United States to evaluate the effectiveness of recombinant zoster vaccine (RZV) in patients with autoimmune diseases (AIDs) (EPI-ZOSTER-097 VE US DB) - post-authorisation study](https://catalogues.ema.europa.eu/study/49979)
-- [212853 - Shingrix for intramuscular injection Drug Use Investigation - post-authorisation study](https://catalogues.ema.europa.eu/study/46663)
-
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-- [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
 **This page was last updated on**
 
-23/03/2026
+20/10/2026
 
 ## Share this page

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-11 10:19:00
+document_datetime: 2026-10-20 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kanjinti.html
 document_name: kanjinti.html
 version: success
-processing_time: 0.1673878
-conversion_datetime: 2026-08-13 19:53:47.551269
+processing_time: 0.2024108
+conversion_datetime: 2026-10-25 15:20:52.523601
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.119.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.12.1
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Kanjinti
 
 [RSS](/en/individual-human-medicine.xml/66646)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -119,7 +119,7 @@ English (EN) (82.82 KB - PDF)
 
 [View](/en/documents/overview/kanjinti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-634)
+[Other languages (22)](#file-language-dropdown-514)
 
 български (BG) (110.86 KB - PDF)
 
@@ -265,167 +265,167 @@ English (EN) (903.86 KB - PDF)
 
 Kanjinti : EPAR - Product Information
 
-English (EN) (551.08 KB - PDF)
+English (EN) (542.91 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/en/documents/product-information/kanjinti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-826)
 
-български (BG) (698.99 KB - PDF)
+български (BG) (716.35 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/bg/documents/product-information/kanjinti-epar-product-information_bg.pdf)
 
-español (ES) (632.48 KB - PDF)
+español (ES) (604.67 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/es/documents/product-information/kanjinti-epar-product-information_es.pdf)
 
-čeština (CS) (686.83 KB - PDF)
+čeština (CS) (680.3 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/cs/documents/product-information/kanjinti-epar-product-information_cs.pdf)
 
-dansk (DA) (662.32 KB - PDF)
+dansk (DA) (666.19 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/da/documents/product-information/kanjinti-epar-product-information_da.pdf)
 
-Deutsch (DE) (688.47 KB - PDF)
+Deutsch (DE) (700.38 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/de/documents/product-information/kanjinti-epar-product-information_de.pdf)
 
-eesti (ET) (707.05 KB - PDF)
+eesti (ET) (700.03 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/et/documents/product-information/kanjinti-epar-product-information_et.pdf)
 
-ελληνικά (EL) (731.98 KB - PDF)
+ελληνικά (EL) (728.84 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/el/documents/product-information/kanjinti-epar-product-information_el.pdf)
 
-français (FR) (706.74 KB - PDF)
+français (FR) (708.88 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/fr/documents/product-information/kanjinti-epar-product-information_fr.pdf)
 
-hrvatski (HR) (672.83 KB - PDF)
+hrvatski (HR) (685.32 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/hr/documents/product-information/kanjinti-epar-product-information_hr.pdf)
 
-italiano (IT) (685.32 KB - PDF)
+italiano (IT) (687.72 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/it/documents/product-information/kanjinti-epar-product-information_it.pdf)
 
-latviešu (LV) (689.82 KB - PDF)
+latviešu (LV) (699.85 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/lv/documents/product-information/kanjinti-epar-product-information_lv.pdf)
 
-lietuvių (LT) (703.12 KB - PDF)
+lietuvių (LT) (713.5 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/lt/documents/product-information/kanjinti-epar-product-information_lt.pdf)
 
-magyar (HU) (709.36 KB - PDF)
+magyar (HU) (702.96 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/hu/documents/product-information/kanjinti-epar-product-information_hu.pdf)
 
-Malti (MT) (757.1 KB - PDF)
+Malti (MT) (745.27 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/mt/documents/product-information/kanjinti-epar-product-information_mt.pdf)
 
-Nederlands (NL) (662.73 KB - PDF)
+Nederlands (NL) (673.43 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/nl/documents/product-information/kanjinti-epar-product-information_nl.pdf)
 
-polski (PL) (678.19 KB - PDF)
+polski (PL) (689.74 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/pl/documents/product-information/kanjinti-epar-product-information_pl.pdf)
 
-português (PT) (663.69 KB - PDF)
+português (PT) (684.28 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/pt/documents/product-information/kanjinti-epar-product-information_pt.pdf)
 
-română (RO) (681.69 KB - PDF)
+română (RO) (665.95 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/ro/documents/product-information/kanjinti-epar-product-information_ro.pdf)
 
-slovenčina (SK) (691 KB - PDF)
+slovenčina (SK) (670.52 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/sk/documents/product-information/kanjinti-epar-product-information_sk.pdf)
 
-slovenščina (SL) (685.35 KB - PDF)
+slovenščina (SL) (672.63 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/sl/documents/product-information/kanjinti-epar-product-information_sl.pdf)
 
-suomi (FI) (655.73 KB - PDF)
+suomi (FI) (638.41 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/fi/documents/product-information/kanjinti-epar-product-information_fi.pdf)
 
-svenska (SV) (650.34 KB - PDF)
+svenska (SV) (634.6 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/sv/documents/product-information/kanjinti-epar-product-information_sv.pdf)
 
-Íslenska (IS) (632.16 KB - PDF)
+Íslenska (IS) (637.38 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/is/documents/product-information/kanjinti-epar-product-information_is.pdf)
 
-norsk (NO) (630.98 KB - PDF)
+norsk (NO) (639.36 KB - PDF)
 
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
+**First published:** 30/05/2018 **Last updated:** 20/10/2026
 
 [View](/no/documents/product-information/kanjinti-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000361234
+**Latest procedure affecting product information:** VR/0000377896
 
-10/08/2026
+20/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -444,7 +444,7 @@ English (EN) (16.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-67)
+[Other languages (24)](#file-language-dropdown-278)
 
 български (BG) (54.19 KB - PDF)
 
@@ -643,13 +643,15 @@ Kanjinti should only be used in patients with metastatic gastric cancer (MGC) wh
 - **Biosimilar**
     - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
 - **Marketing authorisation holder**
-    - Amgen Europe B.V. Minervum 7061  NL-4817 ZK Breda  The Netherlands
+    - Amgen Europe B.V. Minervum 7061  
+NL-4817 ZK Breda  
+The Netherlands
 - **Opinion adopted**
     - 22/03/2018
 - **Marketing authorisation issued**
     - 16/05/2018
 - **Revision**
-    - 12
+    - 13
 
 ## Assessment history
 
@@ -661,9 +663,9 @@ Collapse section
 
 Kanjinti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.42 KB - PDF)
+English (EN) (153.34 KB - PDF)
 
-**First published:** 13/05/2025 **Last updated:** 11/08/2026
+**First published:** 13/05/2025 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/kanjinti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -715,7 +717,7 @@ English (EN) (179.08 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-872)
+[Other languages (24)](#file-language-dropdown-805)
 
 български (BG) (246.9 KB - DOCX)
 
@@ -867,6 +869,6 @@ norsk (NO) (181.94 KB - DOCX)
 
 **This page was last updated on**
 
-11/08/2026
+20/10/2026
 
 ## Share this page

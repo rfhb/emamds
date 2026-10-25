@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-05 17:25:00
+document_datetime: 2026-10-20 14:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/degarelix-accord.html
 document_name: degarelix-accord.html
 version: success
-processing_time: 0.1010581
-conversion_datetime: 2026-08-07 13:56:18.244667
+processing_time: 0.155785
+conversion_datetime: 2026-10-25 15:14:55.985363
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Degarelix Accord
 
 [RSS](/en/individual-human-medicine.xml/67708)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -102,7 +102,7 @@ English (EN) (168.4 KB - PDF)
 
 [View](/en/documents/overview/degarelix-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-478)
+[Other languages (22)](#file-language-dropdown-961)
 
 български (BG) (189.88 KB - PDF)
 
@@ -246,7 +246,7 @@ English (EN) (643 KB - PDF)
 
 [View](/en/documents/product-information/degarelix-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-392)
+[Other languages (24)](#file-language-dropdown-79)
 
 български (BG) (990.14 KB - PDF)
 
@@ -400,7 +400,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -419,7 +419,7 @@ English (EN) (90.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/degarelix-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-273)
+[Other languages (21)](#file-language-dropdown-124)
 
 español (ES) (94.8 KB - PDF)
 
@@ -579,7 +579,11 @@ Degarelix Accord is a gonadotrophin releasing hormone (GnRH) antagonist indicate
 - **Generic**
     - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
 - **Marketing authorisation holder**
-    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  
+World Trade Center  
+Moll De Barcelona S/n  
+08039 Barcelona  
+SPAIN
 - **Opinion adopted**
     - 20/07/2023
 - **Marketing authorisation issued**
@@ -594,6 +598,14 @@ Expand section
 Collapse section
 
 ### Changes since initial authorisation of medicine
+
+Degarelix Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (128.14 KB - PDF)
+
+**First published:** 20/10/2026
+
+[View](/en/documents/procedural-steps-after/degarelix-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Degarelix Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -633,6 +645,6 @@ English (EN) (158.15 KB - PDF)
 
 **This page was last updated on**
 
-05/08/2026
+20/10/2026
 
 ## Share this page

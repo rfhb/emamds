@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-01 16:35:00
+document_datetime: 2026-10-20 11:16:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ontozry.html
 document_name: ontozry.html
 version: success
-processing_time: 0.1443764
-conversion_datetime: 2026-07-07 15:03:55.469571
+processing_time: 0.1615101
+conversion_datetime: 2026-10-25 15:23:08.584854
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.110.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.6.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Ontozry
 
 [RSS](/en/individual-human-medicine.xml/67424)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -102,7 +102,7 @@ English (EN) (117.31 KB - PDF)
 
 [View](/en/documents/overview/ontozry-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-814)
+[Other languages (22)](#file-language-dropdown-760)
 
 български (BG) (139.9 KB - PDF)
 
@@ -254,7 +254,7 @@ English (EN) (748.03 KB - PDF)
 
 [View](/en/documents/product-information/ontozry-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-184)
+[Other languages (24)](#file-language-dropdown-608)
 
 български (BG) (666.68 KB - PDF)
 
@@ -408,7 +408,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -427,7 +427,7 @@ English (EN) (56.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ontozry-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-702)
 
 български (BG) (64.83 KB - PDF)
 
@@ -601,11 +601,13 @@ Adjunctive treatment of focal-onset seizures with or without secondary generalis
 - **Additional monitoring**
     - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - Angelini Pharma S.p.A Angelini Pharma S.p.A  Viale Amelia 70, 00181  Rome - Italy
+    - Angelini Pharma S.p.A Angelini Pharma S.p.A  
+Viale Amelia 70, 00181  
+Rome - Italy
 - **Marketing authorisation issued**
     - 26/03/2021
 - **Revision**
-    - 12
+    - 13
 
 ## Assessment history
 
@@ -630,6 +632,16 @@ English (EN) (172.04 KB - PDF)
 **First published:** 02/06/2021 **Last updated:** 08/04/2025
 
 [View](/en/documents/procedural-steps-after/ontozry-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Ontozry-PAM-0000336294 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2992581
+
+English (EN) (642.25 KB - PDF)
+
+**First published:** 20/10/2026
+
+[View](/en/documents/variation-report/ontozry-pam-0000336294-epar-assessment-report_en.pdf)
 
 Ontozry-PSUSA-00010921-202509 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -686,6 +698,6 @@ English (EN) (137.76 KB - PDF)
 
 **This page was last updated on**
 
-01/07/2026
+20/10/2026
 
 ## Share this page

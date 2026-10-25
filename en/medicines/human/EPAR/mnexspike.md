@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-03-04 15:45:00
+document_datetime: 2026-10-19 17:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mnexspike.html
 document_name: mnexspike.html
 version: success
-processing_time: 0.047617
-conversion_datetime: 2026-03-09 13:12:27.551232
+processing_time: 0.1379784
+conversion_datetime: 2026-10-25 15:22:23.228527
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.77.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.5.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # mNexspike
 
 [RSS](/en/individual-human-medicine.xml/271566)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-COVID-19 mRNA vaccine Medicine Human Authorised
+COVID-19 mRNA vaccine
+
+Medicine Human Authorised
 
 Page contents
 
@@ -49,7 +51,7 @@ Expand section
 
 Collapse section
 
-## How is mNexspike used?
+### How is mNexspike used?
 
 mNexspike is given as a single injection, preferably into the muscle of the upper arm. In people previously vaccinated against COVID-19, mNexspike should be given at least 3 months after the most recent dose of a COVID-19 vaccine.
 
@@ -57,7 +59,7 @@ The vaccine should be used according to official recommendations, issued at nati
 
 For more information about using mNexspike, see the package leaflet or consult a healthcare professional.
 
-## How does mNexspike work?
+### How does mNexspike work?
 
 mNexspike works by preparing the body to defend itself against COVID-19. It contains a molecule called mRNA which has instructions for making part of the spike protein. This is a protein on the surface of SARS-CoV-2 which the virus needs to enter the body's cells.
 
@@ -69,37 +71,37 @@ The vaccine is contained in lipid nanoparticles (small fat particles) that help 
 
 The mRNA from the vaccine and the spike protein fragment are broken down after vaccination and removed from the body.
 
-## What benefits of mNexspike have been shown in studies?
+### What benefits of mNexspike have been shown in studies?
 
 A large main clinical trial in over 11,000 people showed that mNexspike is effective at protecting people from 12 years of age against COVID-19 and triggering the production of antibodies against SARS-CoV-2.
 
 The study showed that mNexspike was as effective as the comparator vaccine, Spikevax bivalent Original/Omicron BA.4-5, at preventing COVID-19 and at stimulating the production of antibodies against the original SARS-CoV-2 and the SARS-CoV-2 BA.4/BA.5 strains. The safety of mNexspike was also shown to be comparable to that of the comparator vaccine.
 
-## Can children be vaccinated with mNexspike?
+### Can children be vaccinated with mNexspike?
 
 mNexspike is authorised for use in people from 12 years of age. EMA has agreed with the company on a plan to assess the vaccine in younger children at a later stage.
 
-## Can immunocompromised people be vaccinated with mNexspike?
+### Can immunocompromised people be vaccinated with mNexspike?
 
 There are no data on immunocompromised people (people with weakened immune systems). Although immunocompromised people may not respond as well to the vaccine, there are no particular safety concerns. Immunocompromised people can still be vaccinated as they may be at higher risk from COVID-19.
 
-## Can pregnant or breastfeeding women be vaccinated with mNexspike?
+### Can pregnant or breastfeeding women be vaccinated with mNexspike?
 
 Animal studies do not show any harmful effects in pregnancy, however data on the use of mNexspike during pregnancy are very limited. As a precautionary measure, it is preferable to avoid using mNexspike during pregnancy.
 
 No effects on the breastfed infant are expected, since the exposure of the breast-feeding woman to the active substance in mNexspike is negligible. Data collected from women who were breastfeeding after vaccination with another mRNA COVID-19 vaccine, elasomeran, do not shown a risk in breastfed infants. mNexspike can be used during breast-feeding.
 
-## Can people with allergies be vaccinated with mNexspike?
+### Can people with allergies be vaccinated with mNexspike?
 
 People who already know they have an allergy to one of the components of the vaccine listed in section 6 of the package leaflet should not receive the vaccine.
 
 As for all vaccines, mNexspike should be given under close medical supervision, with the appropriate medical treatment available in case of allergic reactions.
 
-## How well does mNexspike work for people of different ethnicities and genders?
+### How well does mNexspike work for people of different ethnicities and genders?
 
 The main clinical trial included people of different ethnicities and genders. The efficacy was maintained across genders and ethnic groups.
 
-## What are the risks associated with mNexspike?
+### What are the risks associated with mNexspike?
 
 The most common side effects with mNexspike (affecting more than 1 in 10 people) include pain at the injection site, tiredness, headache, muscle pain, joint pain, chills, swollen or tender lymph nodes under the arm, nausea and vomiting.
 
@@ -111,13 +113,13 @@ Allergic reactions such as rash and urticaria (itchy rash) have occurred in peop
 
 A very small number of cases of severe allergic reactions (anaphylaxis) have also occurred. As for all vaccines, mNexspike should be given under close supervision with appropriate medical treatment available.
 
-## Why is mNexspike authorised in the EU?
+### Why is mNexspike authorised in the EU?
 
 mNexspike was shown to be at least as effective as the comparator vaccine at protecting people from 12 years of age against COVID-19 and triggering the production of antibodies against SARS-CoV-2. Most side effects are mild to moderate in severity and are gone within a few days.
 
 The European Medicines Agency therefore decided that mNexspike's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of mNexspike?
+### What measures are being taken to ensure the safe and effective use of mNexspike?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of mNexspike have been included in the summary of product characteristics and the package leaflet.
 
@@ -127,7 +129,7 @@ Safety measures will be implemented for mNexspike in line with the [EU safety mo
 
 As for all medicines, data on the use of mNexspike are continuously monitored. Suspected side effects reported with mNexspike are carefully evaluated and any necessary action taken to protect people.
 
-## Other information about mNexspike
+### Other information about mNexspike
 
 mNexspike received a marketing authorisation valid throughout the EU on 12 February 2026.
 
@@ -153,211 +155,168 @@ English (EN) (645.62 KB - PDF)
 
 mNexspike : EPAR - Product information
 
-English (EN) (456.22 KB - PDF)
+English (EN) (428.32 KB - PDF)
 
-**First published:** 04/03/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/en/documents/product-information/mnexspike-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-267)
+[Other languages (24)](#file-language-dropdown-959)
 
-български (BG) (504.91 KB - PDF)
+български (BG) (507.62 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/bg/documents/product-information/mnexspike-epar-product-information_bg.pdf)
 
-español (ES) (481.17 KB - PDF)
+español (ES) (485.66 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/es/documents/product-information/mnexspike-epar-product-information_es.pdf)
 
-čeština (CS) (476.26 KB - PDF)
+čeština (CS) (500.15 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/cs/documents/product-information/mnexspike-epar-product-information_cs.pdf)
 
-dansk (DA) (470.15 KB - PDF)
+dansk (DA) (475.92 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/da/documents/product-information/mnexspike-epar-product-information_da.pdf)
 
-Deutsch (DE) (491.79 KB - PDF)
+Deutsch (DE) (496.26 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/de/documents/product-information/mnexspike-epar-product-information_de.pdf)
 
-eesti keel (ET) (423.98 KB - PDF)
+eesti (ET) (425.87 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/et/documents/product-information/mnexspike-epar-product-information_et.pdf)
 
-ελληνικά (EL) (508.85 KB - PDF)
+ελληνικά (EL) (512.98 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/el/documents/product-information/mnexspike-epar-product-information_el.pdf)
 
-français (FR) (474.57 KB - PDF)
+français (FR) (478.4 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/fr/documents/product-information/mnexspike-epar-product-information_fr.pdf)
 
-hrvatski (HR) (471.85 KB - PDF)
+hrvatski (HR) (496.37 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/hr/documents/product-information/mnexspike-epar-product-information_hr.pdf)
 
-íslenska (IS) (461.59 KB - PDF)
+italiano (IT) (658.08 KB - PDF)
 
-**First published:**
-
-24/02/2026
-
-[View](/is/documents/product-information/mnexspike-epar-product-information_is.pdf)
-
-italiano (IT) (493.9 KB - PDF)
-
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/it/documents/product-information/mnexspike-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (439.87 KB - PDF)
+latviešu (LV) (443.5 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/lv/documents/product-information/mnexspike-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (502.53 KB - PDF)
+lietuvių (LT) (506.85 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/lt/documents/product-information/mnexspike-epar-product-information_lt.pdf)
 
-magyar (HU) (532.4 KB - PDF)
+magyar (HU) (537.41 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/hu/documents/product-information/mnexspike-epar-product-information_hu.pdf)
 
-Malti (MT) (525.22 KB - PDF)
+Malti (MT) (531.38 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/mt/documents/product-information/mnexspike-epar-product-information_mt.pdf)
 
-Nederlands (NL) (463.06 KB - PDF)
+Nederlands (NL) (433.13 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/nl/documents/product-information/mnexspike-epar-product-information_nl.pdf)
 
-norsk (NO) (434.22 KB - PDF)
+polski (PL) (520.12 KB - PDF)
 
-**First published:**
-
-24/02/2026
-
-[View](/no/documents/product-information/mnexspike-epar-product-information_no.pdf)
-
-polski (PL) (516.06 KB - PDF)
-
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/pl/documents/product-information/mnexspike-epar-product-information_pl.pdf)
 
-português (PT) (463.54 KB - PDF)
+português (PT) (466.5 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/pt/documents/product-information/mnexspike-epar-product-information_pt.pdf)
 
-română (RO) (506.92 KB - PDF)
+română (RO) (476.71 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/ro/documents/product-information/mnexspike-epar-product-information_ro.pdf)
 
-slovenčina (SK) (514.46 KB - PDF)
+slovenčina (SK) (518.85 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/sk/documents/product-information/mnexspike-epar-product-information_sk.pdf)
 
-slovenščina (SL) (503.89 KB - PDF)
+slovenščina (SL) (475.4 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/sl/documents/product-information/mnexspike-epar-product-information_sl.pdf)
 
-Suomi (FI) (395.84 KB - PDF)
+suomi (FI) (398.54 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/fi/documents/product-information/mnexspike-epar-product-information_fi.pdf)
 
-svenska (SV) (455.89 KB - PDF)
+svenska (SV) (458.75 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
 
 [View](/sv/documents/product-information/mnexspike-epar-product-information_sv.pdf)
+
+Íslenska (IS) (466.12 KB - PDF)
+
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
+
+[View](/is/documents/product-information/mnexspike-epar-product-information_is.pdf)
+
+norsk (NO) (438.13 KB - PDF)
+
+**First published:** 04/03/2026 **Last updated:** 19/10/2026
+
+[View](/no/documents/product-information/mnexspike-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000333455
+
+03/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -375,203 +334,164 @@ English (EN) (60.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-579)
+[Other languages (24)](#file-language-dropdown-981)
 
 български (BG) (82.9 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/bg/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (69.79 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/es/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (88.9 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/cs/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (74 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/da/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (74.57 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/de/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (70.34 KB - PDF)
+eesti (ET) (70.34 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/et/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (77.63 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/el/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (69.71 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/fr/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (91.24 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/hr/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (70.38 KB - PDF)
-
-**First published:**
-
-24/02/2026
-
-[View](/is/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (71.58 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/it/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (92.32 KB - PDF)
+latviešu (LV) (92.32 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/lv/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (91.11 KB - PDF)
+lietuvių (LT) (91.11 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/lt/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (89.25 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/hu/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (101.35 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/mt/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (69.02 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/nl/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (91.46 KB - PDF)
-
-**First published:**
-
-24/02/2026
-
-[View](/no/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (114.54 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/pl/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (70.97 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/pt/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (76.07 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/ro/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (101.58 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/sk/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (87.37 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/sl/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (68.43 KB - PDF)
+suomi (FI) (68.43 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/fi/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (69.97 KB - PDF)
 
-**First published:**
-
-24/02/2026
+**First published:** 24/02/2026
 
 [View](/sv/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (70.38 KB - PDF)
+
+**First published:** 24/02/2026
+
+[View](/is/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (91.46 KB - PDF)
+
+**First published:** 24/02/2026
+
+[View](/no/documents/all-authorised-presentations/mnexspike-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine mNexspike Active substance single-stranded, 5'-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA template, encoding the N-terminal domain and receptor-binding domain of the viral spike (S) protein of SARS-CoV-2 International non-proprietary name (INN) or common name COVID-19 mRNA vaccine Therapeutic area (MeSH) COVID-19 virus infection Anatomical therapeutic chemical (ATC) code J07BN01
+- **Name of medicine**
+    - mNexspike
+- **Active substance**
+    - single-stranded, 5'-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA template, encoding the N-terminal domain and receptor-binding domain of the viral spike (S) protein of SARS-CoV-2
+- **International non-proprietary name (INN) or common name**
+    - COVID-19 mRNA vaccine
+- **Therapeutic area (MeSH)**
+    - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BN01
 
 ### Pharmacotherapeutic group
 
@@ -585,29 +505,52 @@ The use of this vaccine should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006428
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Moderna Biotech Spain, S.L.
-
-C/ Julián Camarillo nº 31
-
-Opinion adopted 11/12/2025 Marketing authorisation issued 12/02/2026
+- **EMA product number**
+    - EMEA/H/C/006428
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Moderna Biotech Spain, S.L. C/ Julián Camarillo nº 31  
+28037 Madrid  
+Spain
+- **Opinion adopted**
+    - 11/12/2025
+- **Marketing authorisation issued**
+    - 12/02/2026
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+mNexspike : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (135.45 KB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/procedural-steps-after/mnexspike-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+mNexspike-PAM-0000343673 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3119430
+
+English (EN) (2.4 MB - PDF)
+
+**First published:** 19/10/2026
+
+[View](/en/documents/variation-report/mnexspike-pam-0000343673-epar-assessment-report_en.pdf)
+
+### Initial marketing authorisation documents
 
 mNexspike : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/6890/2026
+Adopted Reference Number: EMA/6890/2026
 
 English (EN) (2.36 MB - PDF)
 
@@ -617,9 +560,7 @@ English (EN) (2.36 MB - PDF)
 
 CHMP summary of positive opinion for mNexspike
 
-Adopted
-
-Reference Number: EMA/CHMP/381880/2025
+Adopted Reference Number: EMA/CHMP/381880/2025
 
 English (EN) (135 KB - PDF)
 
@@ -629,10 +570,12 @@ English (EN) (135 KB - PDF)
 
 ## News on mNexspike
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025)
 
-**This page was last updated on** 04/03/2026
+12/12/2025
+
+**This page was last updated on**
+
+19/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

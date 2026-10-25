@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-06-23 16:00:00
+document_datetime: 2026-10-20 12:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enzalutamide-viatris.html
 document_name: enzalutamide-viatris.html
 version: success
-processing_time: 0.1475927
-conversion_datetime: 2026-06-25 16:49:32.130251
+processing_time: 0.1691167
+conversion_datetime: 2026-10-25 15:16:56.707384
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.38.1
+  docling-jobkit: 3.9.1
+  docling: 2.142.1
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Enzalutamide Viatris
 
 [RSS](/en/individual-human-medicine.xml/244577)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -106,7 +106,7 @@ English (EN) (183.39 KB - PDF)
 
 [View](/en/documents/overview/enzalutamide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-403)
+[Other languages (22)](#file-language-dropdown-943)
 
 български (BG) (206.28 KB - PDF)
 
@@ -258,7 +258,7 @@ English (EN) (1.61 MB - PDF)
 
 [View](/en/documents/product-information/enzalutamide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-185)
+[Other languages (24)](#file-language-dropdown-378)
 
 български (BG) (1.08 MB - PDF)
 
@@ -412,7 +412,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -431,7 +431,7 @@ English (EN) (15.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enzalutamide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-637)
+[Other languages (24)](#file-language-dropdown-435)
 
 български (BG) (68.77 KB - PDF)
 
@@ -596,11 +596,11 @@ Endocrine therapy
 
 ### Therapeutic indication
 
-Enzalutamide Viatris is indicated:
-• as monotherapy or in combination with androgen deprivation therapy for the treatment of adult men with high-risk biochemical recurrent (BCR) non-metastatic hormone-sensitive prostate cancer (nmHSPC) who are unsuitable for salvage-radiotherapy (see section 5.1);
-• in combination with androgen deprivation therapy for the treatment of adult men with metastatic hormone-sensitive prostate cancer (mHSPC) (see section 5.1);
-• for the treatment of adult men with high-risk non-metastatic castration-resistant prostate cancer (CRPC) (see section 5.1);
-• for the treatment of adult men with metastatic CRPC who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicated (see section 5.1);
+Enzalutamide Viatris is indicated:  
+• as monotherapy or in combination with androgen deprivation therapy for the treatment of adult men with high-risk biochemical recurrent (BCR) non-metastatic hormone-sensitive prostate cancer (nmHSPC) who are unsuitable for salvage-radiotherapy (see section 5.1);  
+• in combination with androgen deprivation therapy for the treatment of adult men with metastatic hormone-sensitive prostate cancer (mHSPC) (see section 5.1);  
+• for the treatment of adult men with high-risk non-metastatic castration-resistant prostate cancer (CRPC) (see section 5.1);  
+• for the treatment of adult men with metastatic CRPC who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicated (see section 5.1);  
 • for the treatment of adult men with metastatic CRPC whose disease has progressed on or after docetaxel therapy.
 
 ## Authorisation details
@@ -610,7 +610,9 @@ Enzalutamide Viatris is indicated:
 - **Generic**
     - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
 - **Marketing authorisation holder**
-    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
 - **Opinion adopted**
     - 27/06/2024
 - **Marketing authorisation issued**
@@ -636,9 +638,9 @@ English (EN) (153.97 KB - PDF)
 
 Enzalutamide Viatris : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (144.25 KB - PDF)
+English (EN) (122.87 KB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 05/12/2025
+**First published:** 09/10/2024 **Last updated:** 20/10/2026
 
 [View](/en/documents/procedural-steps-after/enzalutamide-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -682,6 +684,6 @@ English (EN) (149.14 KB - PDF)
 
 **This page was last updated on**
 
-23/06/2026
+20/10/2026
 
 ## Share this page

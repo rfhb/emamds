@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-21 15:25:00
+document_datetime: 2026-10-26 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bavencio.html
 document_name: bavencio.html
 version: success
-processing_time: 0.1335168
-conversion_datetime: 2026-05-22 22:39:09.137821
+processing_time: 0.2800898
+conversion_datetime: 2026-10-28 20:27:08.239309
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.144.0
+  docling-core: 2.105.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.24.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Bavencio
 
 [RSS](/en/individual-human-medicine.xml/65883)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -48,6 +48,8 @@ Page contents
 
 ## Overview
 
+Introduction
+
 Bavencio is a cancer medicine used to treat adults with:
 
 - Merkel cell carcinoma (MCC, a type of skin cancer), when the cancer has spread to other parts of the body;
@@ -60,21 +62,21 @@ Expand section
 
 Collapse section
 
-## How is Bavencio used?
+### How is Bavencio used?
 
 Bavencio can only be obtained with a prescription, and treatment should be started and monitored by a doctor experienced in the treatment of cancer.
 
-Bavencio is given in a dose of 800 mg once every two  weeks as an infusion (drip) into a vein that lasts around one hour. Treatment should continue as long as the patient benefits from it or side effects become unacceptable.
+Bavencio is given in a dose of 800 mg once every two weeks as an infusion (drip) into a vein that lasts around one hour. Treatment should continue as long as the patient benefits from it or side effects become unacceptable.
 
 Before the first 4 infusions of Bavencio, the patient receives an antihistamine and paracetamol to help prevent infusion-related reactions, such as reddening of the skin, chills, fever, back or abdominal (belly) pain, allergic reactions and difficulty breathing. If no reactions have occurred by the fourth infusion, the treating doctor may decide to stop giving these medicines before subsequent infusions. Treatment may need to be delayed or stopped if certain side effects occur.
 
 For more information about using Bavencio, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Bavencio work?
+### How does Bavencio work?
 
 The active substance in Bavencio, avelumab, is a monoclonal antibody, a type of protein designed to recognise and attach to a protein called 'programmed death-ligand-1' (PD-L1), which is present on the surface of many cancer cells. PD-L1 usually attaches to cells of the immune (defence) system called T cells, preventing the T cells from attacking the cancer cells. By attaching to PD-L1, Bavencio prevents the cancer cells from switching off the T cells, thereby increasing the ability of the T cells to kill the cancer cells.
 
-## What benefits of Bavencio have been shown in studies?
+### What benefits of Bavencio have been shown in studies?
 
 Bavencio has been shown to be of benefit in one main study that showed the cancer shrank in patients with MCC and one that showed patients with RCC could live longer without their disease getting worse. Although the dose of Bavencio in these studies was based on the patients' body weight, the company also supplied supporting data to show that Bavencio could be given in a standard dose, regardless of weight.
 
@@ -92,7 +94,7 @@ In a main study involving 886 patients with advanced RCC, who had not been previ
 
 Bavencio given together with best supportive care (any treatment to prevent or relieve the symptoms of the disease, but not other anticancer medicines) was compared with best supportive care only in a main study including 700 patients with urothelial cancer that was advanced or had spread to other parts of the body and did not get worst after treatment with chemotherapy. Patients who received Bavencio lived on average for 22 months compared with around 15 months of patients receiving best supportive care.
 
-## What are the risks associated with Bavencio?
+### What are the risks associated with Bavencio?
 
 The most common side effects with Bavencio used alone (which may affect more than 1 in 10 people) include tiredness, nausea (feeling sick), diarrhoea, constipation, decreased appetite, infusion-related reactions, vomiting and weight loss. Serious side effects include anaemia (low red blood cell counts), high blood pressure, low blood sodium levels, difficulty breathing, abdominal pain, immune-related, and infusion-related reactions.
 
@@ -100,7 +102,7 @@ When Bavencio is used with axitinib the most common side effects (which may affe
 
 For the full list of side effects and restrictions of Bavencio, see the package leaflet.
 
-## Why is Bavencio authorised in the EU?
+### Why is Bavencio authorised in the EU?
 
 The European Medicines Agency decided that Bavencio's benefits are greater than its risks and it can be authorised for use in the EU.
 
@@ -112,7 +114,7 @@ The safety of Bavencio for this use is considered acceptable and side effects ma
 
 In patients with advanced RCC, Bavencio plus axitinib has been shown to improve the length of time patients survive without their disease getting worse when compared with sunitinib, though how long patients survive overall remains to be shown. The side effects of the combination were consistent with what was expected, and were considered acceptable given the nature of the condition being treated.
 
-## What measures are being taken to ensure the safe and effective use of Bavencio?
+### What measures are being taken to ensure the safe and effective use of Bavencio?
 
 The company that markets Bavencio will issue educational materials for patients containing important information about possible side effects of Bavencio, particularly immune-related reactions, and how to manage them.
 
@@ -120,7 +122,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Bavencio are continuously monitored. Side effects reported with Bavencio are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Bavencio
+### Other information about Bavencio
 
 Bavencio received a conditional marketing authorisation valid throughout the European Union on 18 September 2017. This was switched to a full marketing authorisation on 19 August 2020.
 
@@ -134,7 +136,7 @@ English (EN) (158.66 KB - PDF)
 
 [View](/en/documents/overview/bavencio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-587)
+[Other languages (22)](#file-language-dropdown-446)
 
 български (BG) (175.23 KB - PDF)
 
@@ -166,7 +168,7 @@ Deutsch (DE) (151.41 KB - PDF)
 
 [View](/de/documents/overview/bavencio-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (135.15 KB - PDF)
+eesti (ET) (135.15 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 26/07/2022
 
@@ -196,13 +198,13 @@ italiano (IT) (148.27 KB - PDF)
 
 [View](/it/documents/overview/bavencio-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (179.79 KB - PDF)
+latviešu (LV) (179.79 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/lv/documents/overview/bavencio-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (171.55 KB - PDF)
+lietuvių (LT) (171.55 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 26/07/2022
 
@@ -256,7 +258,7 @@ slovenščina (SL) (170.46 KB - PDF)
 
 [View](/sl/documents/overview/bavencio-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (144.87 KB - PDF)
+suomi (FI) (144.87 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 26/07/2022
 
@@ -286,7 +288,7 @@ English (EN) (567.23 KB - PDF)
 
 [View](/en/documents/product-information/bavencio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-465)
+[Other languages (24)](#file-language-dropdown-494)
 
 български (BG) (747.15 KB - PDF)
 
@@ -318,7 +320,7 @@ Deutsch (DE) (667.31 KB - PDF)
 
 [View](/de/documents/product-information/bavencio-epar-product-information_de.pdf)
 
-eesti keel (ET) (603.53 KB - PDF)
+eesti (ET) (603.53 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 21/05/2026
 
@@ -342,25 +344,19 @@ hrvatski (HR) (787.07 KB - PDF)
 
 [View](/hr/documents/product-information/bavencio-epar-product-information_hr.pdf)
 
-íslenska (IS) (601.21 KB - PDF)
-
-**First published:** 13/10/2017 **Last updated:** 21/05/2026
-
-[View](/is/documents/product-information/bavencio-epar-product-information_is.pdf)
-
 italiano (IT) (641.27 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/it/documents/product-information/bavencio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (701.67 KB - PDF)
+latviešu (LV) (701.67 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/lv/documents/product-information/bavencio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (702.08 KB - PDF)
+lietuvių (LT) (702.08 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 21/05/2026
 
@@ -383,12 +379,6 @@ Nederlands (NL) (598.66 KB - PDF)
 **First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/nl/documents/product-information/bavencio-epar-product-information_nl.pdf)
-
-norsk (NO) (592.32 KB - PDF)
-
-**First published:** 13/10/2017 **Last updated:** 21/05/2026
-
-[View](/no/documents/product-information/bavencio-epar-product-information_no.pdf)
 
 polski (PL) (708.13 KB - PDF)
 
@@ -420,7 +410,7 @@ slovenščina (SL) (706.16 KB - PDF)
 
 [View](/sl/documents/product-information/bavencio-epar-product-information_sl.pdf)
 
-Suomi (FI) (615.98 KB - PDF)
+suomi (FI) (615.98 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 21/05/2026
 
@@ -432,6 +422,18 @@ svenska (SV) (653.08 KB - PDF)
 
 [View](/sv/documents/product-information/bavencio-epar-product-information_sv.pdf)
 
+Íslenska (IS) (601.21 KB - PDF)
+
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
+
+[View](/is/documents/product-information/bavencio-epar-product-information_is.pdf)
+
+norsk (NO) (592.32 KB - PDF)
+
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
+
+[View](/no/documents/product-information/bavencio-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000314741
 
 10/04/2026
@@ -440,7 +442,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -458,7 +461,7 @@ English (EN) (11.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-805)
+[Other languages (24)](#file-language-dropdown-639)
 
 български (BG) (33.15 KB - PDF)
 
@@ -490,7 +493,7 @@ Deutsch (DE) (11.08 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (11.03 KB - PDF)
+eesti (ET) (11.03 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 13/10/2017
 
@@ -514,25 +517,19 @@ hrvatski (HR) (28.55 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (10.99 KB - PDF)
-
-**First published:** 13/10/2017 **Last updated:** 13/10/2017
-
-[View](/is/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (11.12 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/it/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (60.9 KB - PDF)
+latviešu (LV) (60.9 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/lv/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (28.2 KB - PDF)
+lietuvių (LT) (28.2 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 13/10/2017
 
@@ -555,12 +552,6 @@ Nederlands (NL) (11.12 KB - PDF)
 **First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/nl/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (11.1 KB - PDF)
-
-**First published:** 13/10/2017 **Last updated:** 13/10/2017
-
-[View](/no/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (32.12 KB - PDF)
 
@@ -592,7 +583,7 @@ slovenščina (SL) (18.67 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (11.24 KB - PDF)
+suomi (FI) (11.24 KB - PDF)
 
 **First published:** 13/10/2017 **Last updated:** 13/10/2017
 
@@ -604,23 +595,28 @@ svenska (SV) (11.08 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (10.99 KB - PDF)
+
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
+
+[View](/is/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (11.1 KB - PDF)
+
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
+
+[View](/no/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Bavencio
-
-International non-proprietary name (INN) or common name
-
-avelumab
-
-Therapeutic area (MeSH)
-
-Neuroendocrine Tumors
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FF04
+- **Name of medicine**
+    - Bavencio
+- **International non-proprietary name (INN) or common name**
+    - avelumab
+- **Therapeutic area (MeSH)**
+    - Neuroendocrine Tumors
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FF04
 
 ### Pharmacotherapeutic group
 
@@ -637,27 +633,18 @@ Bavencio is indicated as monotherapy for the first?line maintenance treatment of
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004338
-
-Marketing authorisation holder
-
-Merck Europe B.V.
-
-Gustav Mahlerplein 102
-
-Opinion adopted
-
-20/07/2017
-
-Marketing authorisation issued
-
-18/09/2017
-
-Revision
-
-23
+- **EMA product number**
+    - EMEA/H/C/004338
+- **Marketing authorisation holder**
+    - Merck Europe B.V. Gustav Mahlerplein 102  
+1082 MA Amsterdam  
+The Netherlands
+- **Opinion adopted**
+    - 20/07/2017
+- **Marketing authorisation issued**
+    - 18/09/2017
+- **Revision**
+    - 24
 
 ## Assessment history
 
@@ -665,7 +652,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Bavencio : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -683,6 +670,16 @@ English (EN) (248.62 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/bavencio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Bavencio-PAM-0000360473 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3304632
+
+English (EN) (1.23 MB - PDF)
+
+**First published:** 26/10/2026
+
+[View](/en/documents/variation-report/bavencio-pam-0000360473-epar-assessment-report_en.pdf)
+
 Bavencio-H-C-PSUSA-00010635-202303 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
 Adopted Reference Number: EMA/12383/2024
@@ -691,7 +688,7 @@ English (EN) (103.94 KB - PDF)
 
 **First published:** 10/01/2024
 
-[View](/en/documents/scientific-conclusion/bavencio-h-c-psusa-00010635-202303-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/bavencio-h-c-psusa-00010635-202303-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Bavencio-H-C-004338-P46-009 : EPAR - Assessment report
 
@@ -711,7 +708,7 @@ English (EN) (124.2 KB - PDF)
 
 **First published:** 21/01/2022
 
-[View](/en/documents/scientific-conclusion/bavencio-h-c-psusa-00010635-202103-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/bavencio-h-c-psusa-00010635-202103-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Bavencio-H-C-004338-II-0018 : EPAR - Assessment report - Variation
 
@@ -769,9 +766,9 @@ English (EN) (112.11 KB - PDF)
 
 **First published:** 25/06/2019
 
-[View](/en/documents/scientific-conclusion/bavencio-h-c-psusa-00010635-201809-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/bavencio-h-c-psusa-00010635-201809-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Bavencio : EPAR - Public assessment report
 
@@ -818,10 +815,10 @@ This product is no longer an orphan medicine. It was originally designated an [o
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-21/05/2026
+26/10/2026
 
 ## Share this page

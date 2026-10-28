@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-21 16:20:00
+document_datetime: 2026-10-26 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wegovy.html
 document_name: wegovy.html
 version: success
-processing_time: 0.1654082
-conversion_datetime: 2026-09-25 19:57:54.153637
+processing_time: 0.2073106
+conversion_datetime: 2026-10-28 20:31:03.503329
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.144.0
+  docling-core: 2.105.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.24.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Wegovy
 
 [RSS](/en/individual-human-medicine.xml/67518)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -46,6 +46,8 @@ Page contents
 - European Commission decision
 
 ## Overview
+
+Introduction
 
 Wegovy is used together with diet and physical activity to help people lose weight and keep their weight under control. It is used in adults who have:
 
@@ -134,7 +136,7 @@ English (EN) (140.11 KB - PDF)
 
 [View](/en/documents/overview/wegovy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-263)
+[Other languages (22)](#file-language-dropdown-404)
 
 български (BG) (167.7 KB - PDF)
 
@@ -280,161 +282,161 @@ English (EN) (1.78 MB - PDF)
 
 Wegovy : EPAR - Product Information
 
-English (EN) (1.51 MB - PDF)
+English (EN) (1.49 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/en/documents/product-information/wegovy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-476)
+[Other languages (24)](#file-language-dropdown-342)
 
 български (BG) (1.8 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/bg/documents/product-information/wegovy-epar-product-information_bg.pdf)
 
-español (ES) (1.59 MB - PDF)
+español (ES) (1.57 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/es/documents/product-information/wegovy-epar-product-information_es.pdf)
 
 čeština (CS) (1.69 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/cs/documents/product-information/wegovy-epar-product-information_cs.pdf)
 
 dansk (DA) (1.51 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/da/documents/product-information/wegovy-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.56 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/de/documents/product-information/wegovy-epar-product-information_de.pdf)
 
-eesti (ET) (1.61 MB - PDF)
+eesti (ET) (1.56 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/et/documents/product-information/wegovy-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.91 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/el/documents/product-information/wegovy-epar-product-information_el.pdf)
 
-français (FR) (1.6 MB - PDF)
+français (FR) (1.63 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/fr/documents/product-information/wegovy-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.7 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/hr/documents/product-information/wegovy-epar-product-information_hr.pdf)
 
-italiano (IT) (1.58 MB - PDF)
+italiano (IT) (1.59 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/it/documents/product-information/wegovy-epar-product-information_it.pdf)
 
-latviešu (LV) (1.76 MB - PDF)
+latviešu (LV) (1.77 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/lv/documents/product-information/wegovy-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.7 MB - PDF)
+lietuvių (LT) (1.69 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/lt/documents/product-information/wegovy-epar-product-information_lt.pdf)
 
-magyar (HU) (1.75 MB - PDF)
+magyar (HU) (1.76 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/hu/documents/product-information/wegovy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.87 MB - PDF)
+Malti (MT) (1.89 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/mt/documents/product-information/wegovy-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.55 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/nl/documents/product-information/wegovy-epar-product-information_nl.pdf)
 
 polski (PL) (1.75 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/pl/documents/product-information/wegovy-epar-product-information_pl.pdf)
 
 português (PT) (1.55 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/pt/documents/product-information/wegovy-epar-product-information_pt.pdf)
 
-română (RO) (1.87 MB - PDF)
+română (RO) (1.81 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/ro/documents/product-information/wegovy-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.75 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/sk/documents/product-information/wegovy-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.72 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/sl/documents/product-information/wegovy-epar-product-information_sl.pdf)
 
-suomi (FI) (1.59 MB - PDF)
+suomi (FI) (1.6 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/fi/documents/product-information/wegovy-epar-product-information_fi.pdf)
 
-svenska (SV) (1.57 MB - PDF)
+svenska (SV) (1.53 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/sv/documents/product-information/wegovy-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.54 MB - PDF)
+Íslenska (IS) (1.53 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/is/documents/product-information/wegovy-epar-product-information_is.pdf)
 
 norsk (NO) (1.48 MB - PDF)
 
-**First published:** 10/03/2022 **Last updated:** 21/09/2026
+**First published:** 10/03/2022 **Last updated:** 26/10/2026
 
 [View](/no/documents/product-information/wegovy-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000366257
+**Latest procedure affecting product information:** R/0000336288
 
-16/09/2026
+21/09/2026
 
 icon globe
 
@@ -459,7 +461,7 @@ English (EN) (41.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wegovy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-69)
+[Other languages (24)](#file-language-dropdown-371)
 
 български (BG) (88.65 KB - PDF)
 
@@ -651,16 +653,16 @@ Table 1 BMI cut-off points for obesity (≥95th percentile) by sex and age for p
 
 - **EMA product number**
     - EMEA/H/C/005422
-- **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - Novo Nordisk A/S Novo Alle 1  2880 Bagsvaerd  Denmark
+    - Novo Nordisk A/S Novo Alle 1  
+2880 Bagsvaerd  
+Denmark
 - **Opinion adopted**
     - 11/11/2021
 - **Marketing authorisation issued**
     - 06/01/2022
 - **Revision**
-    - 19
+    - 20
 
 ## Assessment history
 
@@ -672,9 +674,9 @@ Collapse section
 
 Wegovy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (200.99 KB - PDF)
+English (EN) (225.25 KB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 21/09/2026
+**First published:** 30/09/2025 **Last updated:** 26/10/2026
 
 [View](/en/documents/procedural-steps-after/wegovy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -838,6 +840,6 @@ English (EN) (128.64 KB - PDF)
 
 **This page was last updated on**
 
-21/09/2026
+26/10/2026
 
 ## Share this page

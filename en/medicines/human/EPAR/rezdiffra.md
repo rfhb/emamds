@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-27 12:30:00
+document_datetime: 2026-10-26 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rezdiffra.html
 document_name: rezdiffra.html
 version: success
-processing_time: 0.119219
-conversion_datetime: 2026-06-01 16:57:13.787429
+processing_time: 0.1893647
+conversion_datetime: 2026-10-28 20:29:45.349571
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.144.0
+  docling-core: 2.105.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.24.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Rezdiffra
 
 [RSS](/en/individual-human-medicine.xml/261747)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -45,6 +45,8 @@ Page contents
 
 ## Overview
 
+Introduction
+
 Rezdiffra is a medicine used together with diet and physical activity to treat adults with metabolic dysfunction-associated steatohepatitis (MASH). MASH (also known as NASH, non-alcoholic steatohepatitis) is a disease caused by fat building up in the liver, resulting in inflammation and damage to the liver. Rezdiffra is used in adults with moderate or significant scarring of the liver (stage 2 or stage 3 fibrosis).
 
 Rezdiffra contains the active substance resmetirom.
@@ -53,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Rezdiffra used?
+### How is Rezdiffra used?
 
 Rezdiffra can only be obtained with a prescription. It is available as tablets to be taken by mouth once a day.
 
@@ -61,11 +63,11 @@ Rezdiffra should not be used together with medicines such as gemfibrozil that st
 
 For more information about using Rezdiffra, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Rezdiffra work?
+### How does Rezdiffra work?
 
 In patients with MASH, a protein called thyroid hormone receptor beta (THR-beta), which helps breakdown fat, does not work properly. The active substance in Rezdiffra, resmetirom, works by attaching to and activating THR-beta in liver cells. By activating THR-beta, resmetirom increases fat breakdown; this reduces the amount of fat stored in the liver which can help reduce inflammation and fibrosis, and improve liver function.
 
-## What benefits of Rezdiffra have been shown in studies?
+### What benefits of Rezdiffra have been shown in studies?
 
 A main study showed that Rezdiffra is effective at reducing MASH symptoms and liver fibrosis.
 
@@ -73,7 +75,7 @@ The main study involved 917 adults with MASH and liver fibrosis stage F2 (modera
 
 After 12 months, depending on the dose, around 26 to 30% of patients who received Rezdiffra achieved MASH resolution with no worsening of fibrosis, compared with 10% of patients who received placebo. In addition, around 27 to 29% of patients who received Rezdiffra had an improvement of liver fibrosis and no worsening of MASH, compared with 17% of those who received placebo.
 
-## What are the risks associated with Rezdiffra?
+### What are the risks associated with Rezdiffra?
 
 For the full list of side effects and restrictions with Rezdiffra, see the package leaflet.
 
@@ -81,7 +83,7 @@ The most common side effects with Rezdiffra (which may affect more than 1 in 10 
 
 Pruritus (itching) may affect up to 1 in 10 people. Cholecystitis (inflammation of the gallbladder, often caused by gallstones blocking the bile duct) and urticaria (itchy rash) may affect up to 1 in 1,000 people.
 
-## Why is Rezdiffra authorised in the EU?
+### Why is Rezdiffra authorised in the EU?
 
 At the time of approval, there was no authorised treatment for patients with MASH, a disease associated with serious and life-threatening symptoms, including cirrhosis (severe and permanent scarring of the liver) if left untreated. Rezdiffra has been shown to reduce the symptoms of the disease and fibrosis, which are considered meaningful health benefits. There are no data yet on whether these benefits will reduce advanced liver disease and liver transplantation, or improve survival. However, further long-term data will be provided to address these questions. In terms of safety, the most frequent side effects are acceptable.
 
@@ -89,13 +91,13 @@ Rezdiffra has been given conditional authorisation for use in the EU. This means
 
 The company must provide further data on Rezdiffra. It must submit further results from two ongoing studies comparing Rezdiffra with placebo in patients with MASH and moderate to advanced liver fibrosis. Every year, the Agency will review any new information that becomes available.
 
-## What measures are being taken to ensure the safe and effective use of Rezdiffra?
+### What measures are being taken to ensure the safe and effective use of Rezdiffra?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rezdiffra have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Rezdiffra are continuously monitored. Suspected side effects reported with Rezdiffra are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Rezdiffra
+### Other information about Rezdiffra
 
 Rezdiffra received a conditional marketing authorisation valid throughout the EU on 18 August 2025.
 
@@ -109,7 +111,7 @@ English (EN) (111.97 KB - PDF)
 
 [View](/en/documents/overview/rezdiffra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-277)
+[Other languages (22)](#file-language-dropdown-978)
 
 български (BG) (137.28 KB - PDF)
 
@@ -141,7 +143,7 @@ Deutsch (DE) (114.33 KB - PDF)
 
 [View](/de/documents/overview/rezdiffra-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (121.13 KB - PDF)
+eesti (ET) (121.13 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
@@ -171,13 +173,13 @@ italiano (IT) (110.79 KB - PDF)
 
 [View](/it/documents/overview/rezdiffra-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (144.21 KB - PDF)
+latviešu (LV) (144.21 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/lv/documents/overview/rezdiffra-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (136.87 KB - PDF)
+lietuvių (LT) (136.87 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
@@ -231,7 +233,7 @@ slovenščina (SL) (131.56 KB - PDF)
 
 [View](/sl/documents/overview/rezdiffra-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (116.07 KB - PDF)
+suomi (FI) (116.07 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
@@ -261,7 +263,7 @@ English (EN) (303.38 KB - PDF)
 
 [View](/en/documents/product-information/rezdiffra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-79)
+[Other languages (24)](#file-language-dropdown-165)
 
 български (BG) (372.7 KB - PDF)
 
@@ -293,7 +295,7 @@ Deutsch (DE) (233.03 KB - PDF)
 
 [View](/de/documents/product-information/rezdiffra-epar-product-information_de.pdf)
 
-eesti keel (ET) (343.25 KB - PDF)
+eesti (ET) (343.25 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 27/05/2026
 
@@ -317,25 +319,19 @@ hrvatski (HR) (508.55 KB - PDF)
 
 [View](/hr/documents/product-information/rezdiffra-epar-product-information_hr.pdf)
 
-íslenska (IS) (390.83 KB - PDF)
-
-**First published:** 10/11/2025 **Last updated:** 27/05/2026
-
-[View](/is/documents/product-information/rezdiffra-epar-product-information_is.pdf)
-
 italiano (IT) (314.4 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/rezdiffra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (353.13 KB - PDF)
+latviešu (LV) (353.13 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/rezdiffra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (356.98 KB - PDF)
+lietuvių (LT) (356.98 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 27/05/2026
 
@@ -358,12 +354,6 @@ Nederlands (NL) (463.55 KB - PDF)
 **First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/rezdiffra-epar-product-information_nl.pdf)
-
-norsk (NO) (293.99 KB - PDF)
-
-**First published:** 10/11/2025 **Last updated:** 27/05/2026
-
-[View](/no/documents/product-information/rezdiffra-epar-product-information_no.pdf)
 
 polski (PL) (364.74 KB - PDF)
 
@@ -395,7 +385,7 @@ slovenščina (SL) (348.52 KB - PDF)
 
 [View](/sl/documents/product-information/rezdiffra-epar-product-information_sl.pdf)
 
-Suomi (FI) (511.95 KB - PDF)
+suomi (FI) (511.95 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 27/05/2026
 
@@ -407,6 +397,18 @@ svenska (SV) (485.68 KB - PDF)
 
 [View](/sv/documents/product-information/rezdiffra-epar-product-information_sv.pdf)
 
+Íslenska (IS) (390.83 KB - PDF)
+
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
+
+[View](/is/documents/product-information/rezdiffra-epar-product-information_is.pdf)
+
+norsk (NO) (293.99 KB - PDF)
+
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
+
+[View](/no/documents/product-information/rezdiffra-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** R/0000326759
 
 23/04/2026
@@ -415,7 +417,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -433,7 +436,7 @@ English (EN) (41.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-721)
+[Other languages (24)](#file-language-dropdown-120)
 
 български (BG) (59.68 KB - PDF)
 
@@ -465,7 +468,7 @@ Deutsch (DE) (44.37 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (42.73 KB - PDF)
+eesti (ET) (42.73 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
@@ -489,25 +492,19 @@ hrvatski (HR) (58.83 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (43.23 KB - PDF)
-
-**First published:** 10/11/2025 **Last updated:** 17/11/2025
-
-[View](/is/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (41.75 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/it/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (58.94 KB - PDF)
+latviešu (LV) (58.94 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/lv/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (59.67 KB - PDF)
+lietuvių (LT) (59.67 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
@@ -530,12 +527,6 @@ Nederlands (NL) (42.06 KB - PDF)
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/nl/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (43.37 KB - PDF)
-
-**First published:** 10/11/2025 **Last updated:** 17/11/2025
-
-[View](/no/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (52.14 KB - PDF)
 
@@ -567,7 +558,7 @@ slovenščina (SL) (61 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (42.28 KB - PDF)
+suomi (FI) (42.28 KB - PDF)
 
 **First published:** 10/11/2025 **Last updated:** 17/11/2025
 
@@ -579,28 +570,31 @@ svenska (SV) (42.16 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (43.23 KB - PDF)
+
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
+
+[View](/is/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (43.37 KB - PDF)
+
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
+
+[View](/no/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Rezdiffra
-
-Active substance
-
-resmetirom
-
-International non-proprietary name (INN) or common name
-
-resmetirom
-
-Therapeutic area (MeSH)
-
-- Non-alcoholic Fatty Liver Disease
-- Liver Cirrhosis
-
-Anatomical therapeutic chemical (ATC) code
-
-A05
+- **Name of medicine**
+    - Rezdiffra
+- **Active substance**
+    - resmetirom
+- **International non-proprietary name (INN) or common name**
+    - resmetirom
+- **Therapeutic area (MeSH)**
+        - Non-alcoholic Fatty Liver Disease
+        - Liver Cirrhosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - A05
 
 ### Pharmacotherapeutic group
 
@@ -612,35 +606,24 @@ Rezdiffra is indicated in conjunction with diet and exercise for the treatment o
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006220
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Conditional approval
-
-This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
-
-Marketing authorisation holder
-
-Madrigal Pharmaceuticals EU Limited
-
-1 Castlewood Avenue Rathmines Dublin 6 D06 H685 IRELAND
-
-Opinion adopted
-
-19/06/2025
-
-Marketing authorisation issued
-
-18/08/2025
-
-Revision
-
-1
+- **EMA product number**
+    - EMEA/H/C/006220
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Conditional approval**
+    - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
+- **Marketing authorisation holder**
+    - Madrigal Pharmaceuticals EU Limited 1 Castlewood Avenue  
+Rathmines  
+Dublin 6  
+D06 H685  
+IRELAND
+- **Opinion adopted**
+    - 19/06/2025
+- **Marketing authorisation issued**
+    - 18/08/2025
+- **Revision**
+    - 1
 
 ## Assessment history
 
@@ -648,17 +631,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rezdiffra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (132.68 KB - PDF)
+English (EN) (143.18 KB - PDF)
 
-**First published:** 27/05/2026
+**First published:** 27/05/2026 **Last updated:** 26/10/2026
 
 [View](/en/documents/procedural-steps-after/rezdiffra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Rezdiffra : EPAR - Public assessment report
 
@@ -692,6 +675,6 @@ English (EN) (103.03 KB - PDF)
 
 **This page was last updated on**
 
-27/05/2026
+26/10/2026
 
 ## Share this page

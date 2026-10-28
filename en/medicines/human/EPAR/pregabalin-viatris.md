@@ -1,102 +1,26 @@
 ---
-document_datetime: 2026-05-08 11:54:00
+document_datetime: 2026-10-27 10:57:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-viatris.html
 document_name: pregabalin-viatris.html
 version: success
-processing_time: 0.1326617
-conversion_datetime: 2026-05-10 13:16:09.927453
+processing_time: 0.1511673
+conversion_datetime: 2026-10-28 20:29:13.937133
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.144.0
+  docling-core: 2.105.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.24.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Pregabalin Viatris (previously Pregabalin Mylan)
-
 # Pregabalin Viatris (previously Pregabalin Mylan)
 
 [RSS](/en/individual-human-medicine.xml/66361)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -114,14 +38,14 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Pregabalin Viatris (previously Pregabalin Mylan)](#news-on)
-- [More information on Pregabalin Mylan](#more-information-on-pregabalin-mylan-1287)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
 - European Commission decision
 
 ## Overview
+
+Introduction
 
 Pregabalin Viatris is a medicine used to treat adults with the following conditions:
 
@@ -135,37 +59,37 @@ Expand section
 
 Collapse section
 
-## How is Pregabalin Viatris used?
+### How is Pregabalin Viatris used?
 
 Pregabalin Viatris is available as capsules to be taken by mouth and can only be obtained with a prescription.
 
 For more information about using Pregabalin Viatris, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Pregabalin Viatris work?
+### How does Pregabalin Viatris work?
 
 The active substance in Pregabalin Viatris, pregabalin, is similar in structure to the body's own 'neurotransmitter' gamma-amino butyric acid (GABA), but has very different biological effects. Neurotransmitters are chemicals that allow nerve cells to communicate with each other. The exact way that pregabalin works is not fully understood, but it is thought to affect the way that calcium enters nerve cells. This reduces the activity of some of the nerve cells in the brain and spinal cord, reducing the release of other neurotransmitters that are involved in epilepsy and anxiety.
 
-## How has Pregabalin Viatris been studied?
+### How has Pregabalin Viatris been studied?
 
 Studies on the benefits and risks of the active substance in the approved uses have already been carried out with the reference medicine, Lyrica, and do not need to be repeated for Pregabalin Viatris.
 
 As for every medicine, the company provided studies on the quality of Pregabalin Viatris. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Pregabalin Viatris?
+### What are the benefits and risks of Pregabalin Viatris?
 
 Because Pregabalin Viatris is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Pregabalin Viatris authorised in the EU?
+### Why is Pregabalin Viatris authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Pregabalin Viatris has been shown to have comparable quality and to be bioequivalent to Lyrica. Therefore, the Agency's view was that, as for Lyrica, the benefits of Pregabalin Viatris outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Pregabalin Viatris?
+### What measures are being taken to ensure the safe and effective use of Pregabalin Viatris?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Pregabalin Viatris have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Lyrica also apply to Pregabalin Viatris where appropriate.
 
 As for all medicines, data on the use of Pregabalin Viatris are continuously monitored. Suspected side effects reported with Pregabalin Viatris are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Pregabalin Viatris
+### Other information about Pregabalin Viatris
 
 Pregabalin Mylan received a marketing authorisation valid throughout the EU on 25 June 2015.
 
@@ -181,7 +105,7 @@ English (EN) (176.53 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-898)
+[Other languages (22)](#file-language-dropdown-630)
 
 български (BG) (178.14 KB - PDF)
 
@@ -213,7 +137,7 @@ Deutsch (DE) (156.93 KB - PDF)
 
 [View](/de/documents/overview/pregabalin-mylan-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (152.13 KB - PDF)
+eesti (ET) (152.13 KB - PDF)
 
 **First published:** 31/07/2015 **Last updated:** 08/01/2025
 
@@ -243,13 +167,13 @@ italiano (IT) (152.21 KB - PDF)
 
 [View](/it/documents/overview/pregabalin-mylan-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (191.38 KB - PDF)
+latviešu (LV) (191.38 KB - PDF)
 
 **First published:** 31/07/2015 **Last updated:** 08/01/2025
 
 [View](/lv/documents/overview/pregabalin-mylan-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (175.19 KB - PDF)
+lietuvių (LT) (175.19 KB - PDF)
 
 **First published:** 31/07/2015 **Last updated:** 08/01/2025
 
@@ -303,7 +227,7 @@ slovenščina (SL) (172.3 KB - PDF)
 
 [View](/sl/documents/overview/pregabalin-mylan-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (151.52 KB - PDF)
+suomi (FI) (151.52 KB - PDF)
 
 **First published:** 31/07/2015 **Last updated:** 08/01/2025
 
@@ -329,167 +253,168 @@ English (EN) (103.79 KB - PDF)
 
 Pregabalin Viatris : EPAR - Product Information
 
-English (EN) (325.17 KB - PDF)
+English (EN) (344.99 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/en/documents/product-information/pregabalin-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-954)
+[Other languages (24)](#file-language-dropdown-901)
 
-български (BG) (546.7 KB - PDF)
+български (BG) (573.11 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/bg/documents/product-information/pregabalin-viatris-epar-product-information_bg.pdf)
 
-español (ES) (396 KB - PDF)
+español (ES) (320.99 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/es/documents/product-information/pregabalin-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (440.66 KB - PDF)
+čeština (CS) (552.14 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/cs/documents/product-information/pregabalin-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (382.73 KB - PDF)
+dansk (DA) (400.06 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/da/documents/product-information/pregabalin-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (418.52 KB - PDF)
+Deutsch (DE) (554.18 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/de/documents/product-information/pregabalin-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (384.31 KB - PDF)
+eesti (ET) (594.55 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/et/documents/product-information/pregabalin-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (591.86 KB - PDF)
+ελληνικά (EL) (616.05 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/el/documents/product-information/pregabalin-viatris-epar-product-information_el.pdf)
 
-français (FR) (403.68 KB - PDF)
+français (FR) (613.89 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/fr/documents/product-information/pregabalin-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (406.85 KB - PDF)
+hrvatski (HR) (424.96 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/hr/documents/product-information/pregabalin-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (397.21 KB - PDF)
+italiano (IT) (521.02 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information/pregabalin-viatris-epar-product-information_is.pdf)
-
-italiano (IT) (392.51 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/it/documents/product-information/pregabalin-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (472.55 KB - PDF)
+latviešu (LV) (516.62 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/lv/documents/product-information/pregabalin-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (517.93 KB - PDF)
+lietuvių (LT) (604.34 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/lt/documents/product-information/pregabalin-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (452.33 KB - PDF)
+magyar (HU) (473.25 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/hu/documents/product-information/pregabalin-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (479.28 KB - PDF)
+Malti (MT) (701.46 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/mt/documents/product-information/pregabalin-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (512.19 KB - PDF)
+Nederlands (NL) (710.03 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/nl/documents/product-information/pregabalin-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (383.1 KB - PDF)
+polski (PL) (582.58 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information/pregabalin-viatris-epar-product-information_no.pdf)
-
-polski (PL) (538.33 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/pl/documents/product-information/pregabalin-viatris-epar-product-information_pl.pdf)
 
-português (PT) (409.08 KB - PDF)
+português (PT) (406.58 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/pt/documents/product-information/pregabalin-viatris-epar-product-information_pt.pdf)
 
-română (RO) (448.24 KB - PDF)
+română (RO) (682.83 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/ro/documents/product-information/pregabalin-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (446.73 KB - PDF)
+slovenčina (SK) (732.9 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/sk/documents/product-information/pregabalin-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (453 KB - PDF)
+slovenščina (SL) (420.3 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/sl/documents/product-information/pregabalin-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (372.89 KB - PDF)
+suomi (FI) (575.79 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/fi/documents/product-information/pregabalin-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (412.17 KB - PDF)
+svenska (SV) (587.9 KB - PDF)
 
-**First published:** 31/07/2015 **Last updated:** 08/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
 
 [View](/sv/documents/product-information/pregabalin-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (414.61 KB - PDF)
 
-05/05/2026
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
+
+[View](/is/documents/product-information/pregabalin-viatris-epar-product-information_is.pdf)
+
+norsk (NO) (403.71 KB - PDF)
+
+**First published:** 31/07/2015 **Last updated:** 27/10/2026
+
+[View](/no/documents/product-information/pregabalin-viatris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000370287
+
+26/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -499,182 +424,19 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Pregabalin Viatris : EPAR - All authorised presentations
-
-English (EN) (41.33 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/en/documents/all-authorised-presentations/pregabalin-viatris-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-867)
-
-български (BG) (103.35 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/bg/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (98.68 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/es/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (62.26 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/cs/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (58.22 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/da/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (62.16 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/de/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_de.pdf)
-
-eesti keel (ET) (104.48 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/et/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (59.45 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/el/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (39.31 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/fr/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (80.23 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/hr/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (57.2 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/is/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (60.16 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/it/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_it.pdf)
-
-latviešu valoda (LV) (104.78 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/lv/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių kalba (LT) (107.29 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/lt/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (57.61 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/hu/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (63.04 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/mt/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (59.58 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/nl/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (42.13 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/no/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (38.15 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/pl/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (23.73 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/pt/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (60.79 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/ro/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (70.61 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/sk/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (50.93 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/sl/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_sl.pdf)
-
-Suomi (FI) (56.78 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/fi/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (41.65 KB - PDF)
-
-**First published:** 31/07/2015 **Last updated:** 11/09/2024
-
-[View](/sv/documents/all-authorised-presentations/pregabalin-mylan-epar-all-authorised-presentations_sv.pdf)
-
 ## Product details
 
-Name of medicine
-
-Pregabalin Viatris (previously Pregabalin Mylan)
-
-Active substance
-
-pregabalin
-
-International non-proprietary name (INN) or common name
-
-pregabalin
-
-Therapeutic area (MeSH)
-
-- Anxiety Disorders
-- Epilepsy
-
-Anatomical therapeutic chemical (ATC) code
-
-N02BF02
+- **Name of medicine**
+    - Pregabalin Viatris (previously Pregabalin Mylan)
+- **Active substance**
+    - pregabalin
+- **International non-proprietary name (INN) or common name**
+    - pregabalin
+- **Therapeutic area (MeSH)**
+        - Anxiety Disorders
+        - Epilepsy
+- **Anatomical therapeutic chemical (ATC) code**
+    - N02BF02
 
 ### Pharmacotherapeutic group
 
@@ -692,31 +454,20 @@ Pregabalin Viatris is indicated for the treatment of peripheral and central neur
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004078
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-22/04/2015
-
-Marketing authorisation issued
-
-24/06/2015
-
-Revision
-
-24
+- **EMA product number**
+    - EMEA/H/C/004078
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
+- **Opinion adopted**
+    - 22/04/2015
+- **Marketing authorisation issued**
+    - 24/06/2015
+- **Revision**
+    - 25
 
 ## Assessment history
 
@@ -724,13 +475,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Pregabalin Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (171.53 KB - PDF)
+English (EN) (186.54 KB - PDF)
 
-**First published:** 16/05/2024 **Last updated:** 08/05/2026
+**First published:** 16/05/2024 **Last updated:** 27/10/2026
 
 [View](/en/documents/procedural-steps-after/pregabalin-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -742,7 +493,7 @@ English (EN) (205.34 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/pregabalin-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Pregabalin Mylan : EPAR - Public assessment report
 
@@ -770,159 +521,8 @@ English (EN) (66.82 KB - PDF)
 
 24/04/2015
 
-## More information on Pregabalin Mylan
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-731)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-08/05/2026
+27/10/2026
 
 ## Share this page

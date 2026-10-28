@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-03 16:30:00
+document_datetime: 2026-10-27 13:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pyzchiva.html
 document_name: pyzchiva.html
 version: success
-processing_time: 0.154869
-conversion_datetime: 2026-07-04 13:03:01.010378
+processing_time: 0.1831461
+conversion_datetime: 2026-10-28 20:29:29.458576
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.144.0
+  docling-core: 2.105.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.24.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Pyzchiva
 
 [RSS](/en/individual-human-medicine.xml/232650)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -44,6 +44,8 @@ Page contents
 - European Commission decision
 
 ## Overview
+
+Introduction
 
 Pyzchiva is a medicine used to treat:
 
@@ -117,7 +119,7 @@ English (EN) (146.75 KB - PDF)
 
 [View](/en/documents/overview/pyzchiva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-562)
+[Other languages (22)](#file-language-dropdown-99)
 
 български (BG) (172.32 KB - PDF)
 
@@ -253,9 +255,9 @@ svenska (SV) (145.69 KB - PDF)
 
 Pyzchiva : EPAR - Risk management plan
 
-English (EN) (4.25 MB - PDF)
+English (EN) (4.49 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 30/10/2025
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/en/documents/rmp/pyzchiva-epar-risk-management-plan_en.pdf)
 
@@ -263,167 +265,167 @@ English (EN) (4.25 MB - PDF)
 
 Pyzchiva : EPAR - Product information
 
-English (EN) (2.3 MB - PDF)
+English (EN) (2.29 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/en/documents/product-information/pyzchiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-860)
+[Other languages (24)](#file-language-dropdown-39)
 
-български (BG) (2.33 MB - PDF)
+български (BG) (2.51 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/bg/documents/product-information/pyzchiva-epar-product-information_bg.pdf)
 
-español (ES) (2.12 MB - PDF)
+español (ES) (2.17 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/es/documents/product-information/pyzchiva-epar-product-information_es.pdf)
 
-čeština (CS) (2.1 MB - PDF)
+čeština (CS) (2.3 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/cs/documents/product-information/pyzchiva-epar-product-information_cs.pdf)
 
-dansk (DA) (2.02 MB - PDF)
+dansk (DA) (2.11 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/da/documents/product-information/pyzchiva-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.29 MB - PDF)
+Deutsch (DE) (2.44 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/de/documents/product-information/pyzchiva-epar-product-information_de.pdf)
 
-eesti (ET) (2.12 MB - PDF)
+eesti (ET) (2.21 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/et/documents/product-information/pyzchiva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.41 MB - PDF)
+ελληνικά (EL) (2.72 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/el/documents/product-information/pyzchiva-epar-product-information_el.pdf)
 
-français (FR) (2.21 MB - PDF)
+français (FR) (2.31 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/fr/documents/product-information/pyzchiva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.28 MB - PDF)
+hrvatski (HR) (2.43 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/hr/documents/product-information/pyzchiva-epar-product-information_hr.pdf)
 
-italiano (IT) (2.35 MB - PDF)
+italiano (IT) (2.33 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/it/documents/product-information/pyzchiva-epar-product-information_it.pdf)
 
-latviešu (LV) (2.22 MB - PDF)
+latviešu (LV) (2.4 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/lv/documents/product-information/pyzchiva-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.28 MB - PDF)
+lietuvių (LT) (2.46 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/lt/documents/product-information/pyzchiva-epar-product-information_lt.pdf)
 
-magyar (HU) (2.33 MB - PDF)
+magyar (HU) (2.53 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/hu/documents/product-information/pyzchiva-epar-product-information_hu.pdf)
 
-Malti (MT) (2.44 MB - PDF)
+Malti (MT) (2.58 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/mt/documents/product-information/pyzchiva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.08 MB - PDF)
+Nederlands (NL) (2.18 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/nl/documents/product-information/pyzchiva-epar-product-information_nl.pdf)
 
-polski (PL) (2.33 MB - PDF)
+polski (PL) (3.82 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/pl/documents/product-information/pyzchiva-epar-product-information_pl.pdf)
 
-português (PT) (2.24 MB - PDF)
+português (PT) (2.39 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/pt/documents/product-information/pyzchiva-epar-product-information_pt.pdf)
 
-română (RO) (2.38 MB - PDF)
+română (RO) (2.54 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/ro/documents/product-information/pyzchiva-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.23 MB - PDF)
+slovenčina (SK) (2.39 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/sk/documents/product-information/pyzchiva-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.26 MB - PDF)
+slovenščina (SL) (2.43 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/sl/documents/product-information/pyzchiva-epar-product-information_sl.pdf)
 
-suomi (FI) (2.17 MB - PDF)
+suomi (FI) (2.25 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/fi/documents/product-information/pyzchiva-epar-product-information_fi.pdf)
 
-svenska (SV) (2.18 MB - PDF)
+svenska (SV) (2.26 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/sv/documents/product-information/pyzchiva-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.08 MB - PDF)
+Íslenska (IS) (2.16 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/is/documents/product-information/pyzchiva-epar-product-information_is.pdf)
 
-norsk (NO) (2.09 MB - PDF)
+norsk (NO) (2.18 MB - PDF)
 
-**First published:** 11/06/2024 **Last updated:** 03/07/2026
+**First published:** 11/06/2024 **Last updated:** 27/10/2026
 
 [View](/no/documents/product-information/pyzchiva-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000347767
+**Latest procedure affecting product information:** VR/0000367711
 
-30/06/2026
+23/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -442,7 +444,7 @@ English (EN) (75.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pyzchiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-221)
+[Other languages (24)](#file-language-dropdown-146)
 
 български (BG) (86.73 KB - PDF)
 
@@ -609,16 +611,16 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Crohn's Disease
+Crohn's Disease  
 Pyzchiva is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
 
-Plaque psoriasis
+Plaque psoriasis  
 Pyzchiva is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
 
-Paediatric plaque psoriasis
+Paediatric plaque psoriasis  
 Pyzchiva is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
 
-Psoriatic arthritis (PsA)
+Psoriatic arthritis (PsA)  
 Pyzchiva, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
 ## Authorisation details
@@ -630,13 +632,15 @@ Pyzchiva, alone or in combination with MTX, is indicated for the treatment of ac
 - **Biosimilar**
     - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
 - **Marketing authorisation holder**
-    - Samsung Bioepis NL B.V. Olof Palmestraat 10  2616 LR Delft  The Netherlands
+    - Samsung Bioepis NL B.V. Olof Palmestraat 10  
+2616 LR Delft  
+The Netherlands
 - **Opinion adopted**
     - 22/02/2024
 - **Marketing authorisation issued**
     - 19/04/2024
 - **Revision**
-    - 15
+    - 16
 
 ## Assessment history
 
@@ -648,9 +652,9 @@ Collapse section
 
 Pyzchiva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (180.22 KB - PDF)
+English (EN) (187.5 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 03/07/2026
+**First published:** 23/04/2025 **Last updated:** 27/10/2026
 
 [View](/en/documents/procedural-steps-after/pyzchiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -692,6 +696,6 @@ English (EN) (152.47 KB - PDF)
 
 **This page was last updated on**
 
-03/07/2026
+27/10/2026
 
 ## Share this page

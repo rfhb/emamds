@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:24:53
+document_datetime: 2026-10-27 16:38:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/glivec.html
 document_name: glivec.html
 version: success
-processing_time: 0.1446189
-conversion_datetime: 2025-12-31 02:48:23.035442
+processing_time: 0.2620649
+conversion_datetime: 2026-10-28 20:27:56.194711
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.144.0
+  docling-core: 2.105.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.24.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Glivec
 
 [RSS](/en/individual-human-medicine.xml/66979)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-imatinib Medicine Human Authorised
+imatinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -41,7 +41,6 @@ Page contents
 - [Product information - with tracked changes](#product-information-with-tracked-changes-78606)
 - [More information on Glivec](#more-information-on-glivec-843)
 - [More information on Glivec](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -49,17 +48,19 @@ Page contents
 
 ## Overview
 
+Introduction
+
 This is a summary of the European public assessment report (EPAR) for Glivec. It explains how the Committee for Medicinal Products for Human Use (CHMP) assessed the medicine to reach its opinion in favour of granting a marketing authorisation and its recommendations on the conditions of use for Glivec.
 
 Expand section
 
 Collapse section
 
-## What is Glivec?
+### What is Glivec?
 
 Glivec is a medicine that contains the active substance imatinib. It is available as capsules (50 and 100 mg) and tablets (100 and 400 mg).
 
-## What is Glivec used for?
+### What is Glivec used for?
 
 Glivec is an anticancer medicine. It is used to treat the following diseases:
 
@@ -72,15 +73,15 @@ Glivec is an anticancer medicine. It is used to treat the following diseases:
 
 The medicine can only be obtained with a prescription.
 
-## How is Glivec used?
+### How is Glivec used?
 
 Glivec treatment should be started by a doctor who has experience in the treatment of patients with cancers of the blood or solid tumours. Glivec is given by mouth with a meal and a large glass of water to reduce the risk of irritation of the stomach and gut. The dose depends on the disease being treated, the age and condition of the patient, and the response to treatment, but it should not exceed 800 mg a day. For more information, see the package leaflet.
 
-## How does Glivec work?
+### How does Glivec work?
 
 The active substance in Glivec, imatinib, is a protein-tyrosine kinase inhibitor. This means that it blocks some specific enzymes known as tyrosine kinases. These enzymes can be found in some receptors on the surface of cancer cells, including the receptors that are involved in stimulating the cells to divide uncontrollably. By blocking these receptors, Glivec helps to control cell division.
 
-## How has Glivec been studied?
+### How has Glivec been studied?
 
 For CML, Glivec has been examined in four main studies involving 2,133 adults and one study of 54 children. These included a study involving 1,106 adults that compared Glivec with the combination of interferon alpha plus cytarabine (other anticancer medicines). This study measured how long the patients lived without their cancer getting worse.
 
@@ -90,23 +91,23 @@ For GIST, Glivec has been examined in two main studies. One involved 147 patient
 
 For MD/MPD (31 patients), HES and CEL (176 patients), and DFSP (18 patients), Glivec was not compared with any other medicines. These studies examined whether blood cell counts returned to normal levels, or whether the number of cancerous blood cells or the size of tumours fell.
 
-## What benefit has Glivec shown during the studies?
+### What benefit has Glivec shown during the studies?
 
 Glivec was more effective than the comparator medicines. In patients with CML, the cancer had got worse in 16% of the patients taking Glivec after five years, compared with 28% of those taking interferon alpha plus cytarabine. Glivec was also better than standard chemotherapy in patients with Ph+ ALL. In patients with GIST that had been removed with surgery, patients taking Glivec lived for longer than those taking placebo without their cancer coming back. In the non-comparative studies of CML, Ph+ ALL and GIST, between 26 and 96% of patients showed a response to Glivec. In the study of patients aged 1 to 22 years who had Ph+ ALL, Glivec was shown to increase how long the patients lived without any major events (such as a relapse).
 
 Due to their rarity, limited data were available for the other diseases, but around two thirds of the patients showed at least a partial response to Glivec.
 
-## What is the risk associated with Glivec?
+### What is the risk associated with Glivec?
 
 The most common side effects with Glivec (seen in more than 1 in 10 patients) are weight increase, neutropenia (low levels of the white blood cells that fight infection), thrombocytopenia (low blood platelet counts), anaemia (low red blood cell counts), headache, nausea (feeling sick), vomiting, diarrhoea, dyspepsia (indigestion), abdominal (tummy) pain, periorbital oedema (swelling around the eyes), rash, muscle spasm and cramps, muscle, bone and joint pain, fluid retention and fatigue (tiredness). For the full list of all side effects reported with Glivec, see the package leaflet.
 
 Glivec must not be used in people who are hypersensitive (allergic) to imatinib or any of the other ingredients.
 
-## Why has Glivec been approved?
+### Why has Glivec been approved?
 
 The CHMP decided that Glivec's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about Glivec
+### Other information about Glivec
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Glivec on 7 November 2001.
 
@@ -116,263 +117,135 @@ Reference Number: EMA/726040/2012
 
 English (EN) (89.26 KB - PDF)
 
-**First published:** 18/08/2009
-
-**Last updated:** 24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/en/documents/overview/glivec-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-446)
+[Other languages (21)](#file-language-dropdown-936)
 
 български (BG) (116.84 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/bg/documents/overview/glivec-epar-summary-public_bg.pdf)
 
 español (ES) (94.88 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/es/documents/overview/glivec-epar-summary-public_es.pdf)
 
 čeština (CS) (113.61 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/cs/documents/overview/glivec-epar-summary-public_cs.pdf)
 
 dansk (DA) (93.59 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/da/documents/overview/glivec-epar-summary-public_da.pdf)
 
 Deutsch (DE) (91.7 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/de/documents/overview/glivec-epar-summary-public_de.pdf)
 
-eesti keel (ET) (96.34 KB - PDF)
+eesti (ET) (96.34 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/et/documents/overview/glivec-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (115.8 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/el/documents/overview/glivec-epar-summary-public_el.pdf)
 
 français (FR) (96.17 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/fr/documents/overview/glivec-epar-summary-public_fr.pdf)
 
 italiano (IT) (91.65 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/it/documents/overview/glivec-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (111.7 KB - PDF)
+latviešu (LV) (111.7 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/lv/documents/overview/glivec-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (112.4 KB - PDF)
+lietuvių (LT) (112.4 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/lt/documents/overview/glivec-epar-summary-public_lt.pdf)
 
 magyar (HU) (111.41 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/hu/documents/overview/glivec-epar-summary-public_hu.pdf)
 
 Malti (MT) (116.68 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/mt/documents/overview/glivec-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (92.23 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/nl/documents/overview/glivec-epar-summary-public_nl.pdf)
 
 polski (PL) (113.74 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/pl/documents/overview/glivec-epar-summary-public_pl.pdf)
 
 português (PT) (112.24 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/pt/documents/overview/glivec-epar-summary-public_pt.pdf)
 
 română (RO) (110.49 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/ro/documents/overview/glivec-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (136.93 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/sk/documents/overview/glivec-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (125.34 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/sl/documents/overview/glivec-epar-summary-public_sl.pdf)
 
-Suomi (FI) (92.11 KB - PDF)
+suomi (FI) (92.11 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/fi/documents/overview/glivec-epar-summary-public_fi.pdf)
 
 svenska (SV) (111.28 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-24/07/2013
+**First published:** 18/08/2009 **Last updated:** 24/07/2013
 
 [View](/sv/documents/overview/glivec-epar-summary-public_sv.pdf)
 
@@ -380,9 +253,7 @@ Glivec : EPAR - Risk-management-plan
 
 English (EN) (38.81 MB - PDF)
 
-**First published:** 12/02/2020
-
-**Last updated:** 22/02/2024
+**First published:** 12/02/2020 **Last updated:** 22/02/2024
 
 [View](/en/documents/rmp/glivec-epar-risk-management-plan_en.pdf)
 
@@ -390,311 +261,168 @@ English (EN) (38.81 MB - PDF)
 
 Glivec : EPAR - Product Information
 
-English (EN) (702.68 KB - PDF)
+English (EN) (577.13 KB - PDF)
 
-**First published:** 18/08/2009
-
-**Last updated:** 12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/en/documents/product-information/glivec-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-1)
+[Other languages (24)](#file-language-dropdown-459)
 
-български (BG) (1.25 MB - PDF)
+български (BG) (811.27 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/bg/documents/product-information/glivec-epar-product-information_bg.pdf)
 
-español (ES) (556.92 KB - PDF)
+español (ES) (642.84 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/es/documents/product-information/glivec-epar-product-information_es.pdf)
 
-čeština (CS) (1.14 MB - PDF)
+čeština (CS) (732.08 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/cs/documents/product-information/glivec-epar-product-information_cs.pdf)
 
-dansk (DA) (1.02 MB - PDF)
+dansk (DA) (639 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/da/documents/product-information/glivec-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.06 MB - PDF)
+Deutsch (DE) (650.42 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/de/documents/product-information/glivec-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.02 MB - PDF)
+eesti (ET) (638.67 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/et/documents/product-information/glivec-epar-product-information_et.pdf)
 
-ελληνικά (EL) (657.14 KB - PDF)
+ελληνικά (EL) (808.34 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/el/documents/product-information/glivec-epar-product-information_el.pdf)
 
-français (FR) (1.12 MB - PDF)
+français (FR) (695.1 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/fr/documents/product-information/glivec-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.08 MB - PDF)
+hrvatski (HR) (678.87 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/hr/documents/product-information/glivec-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.04 MB - PDF)
+italiano (IT) (677.83 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
-
-[View](/is/documents/product-information/glivec-epar-product-information_is.pdf)
-
-italiano (IT) (554.76 KB - PDF)
-
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/it/documents/product-information/glivec-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.12 MB - PDF)
+latviešu (LV) (722.03 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/lv/documents/product-information/glivec-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.17 MB - PDF)
+lietuvių (LT) (750.28 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/lt/documents/product-information/glivec-epar-product-information_lt.pdf)
 
-magyar (HU) (1.28 MB - PDF)
+magyar (HU) (755.49 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/hu/documents/product-information/glivec-epar-product-information_hu.pdf)
 
-Malti (MT) (1.4 MB - PDF)
+Malti (MT) (815.17 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/mt/documents/product-information/glivec-epar-product-information_mt.pdf)
 
-Nederlands (NL) (580.33 KB - PDF)
+Nederlands (NL) (661.91 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/nl/documents/product-information/glivec-epar-product-information_nl.pdf)
 
-norsk (NO) (577.08 KB - PDF)
+polski (PL) (708.33 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
-
-[View](/no/documents/product-information/glivec-epar-product-information_no.pdf)
-
-polski (PL) (1.09 MB - PDF)
-
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/pl/documents/product-information/glivec-epar-product-information_pl.pdf)
 
-português (PT) (1.03 MB - PDF)
+português (PT) (649.21 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/pt/documents/product-information/glivec-epar-product-information_pt.pdf)
 
-română (RO) (1.09 MB - PDF)
+română (RO) (689.47 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/ro/documents/product-information/glivec-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.09 MB - PDF)
+slovenčina (SK) (687.19 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/sk/documents/product-information/glivec-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.03 MB - PDF)
+slovenščina (SL) (677.09 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/sl/documents/product-information/glivec-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.07 MB - PDF)
+suomi (FI) (673.11 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/fi/documents/product-information/glivec-epar-product-information_fi.pdf)
 
-svenska (SV) (1.06 MB - PDF)
+svenska (SV) (657.83 KB - PDF)
 
-**First published:**
-
-18/08/2009
-
-**Last updated:**
-
-12/11/2025
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
 
 [View](/sv/documents/product-information/glivec-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000290092 16/10/2025
+Íslenska (IS) (625.92 KB - PDF)
+
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
+
+[View](/is/documents/product-information/glivec-epar-product-information_is.pdf)
+
+norsk (NO) (663.16 KB - PDF)
+
+**First published:** 18/08/2009 **Last updated:** 27/10/2026
+
+[View](/no/documents/product-information/glivec-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355356
+
+19/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -708,314 +436,173 @@ Glivec : EPAR - All Authorised presentations
 
 English (EN) (48.02 KB - PDF)
 
-**First published:** 28/10/2005
-
-**Last updated:** 04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/en/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-678)
+[Other languages (24)](#file-language-dropdown-593)
 
 български (BG) (56.27 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/bg/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (47.93 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/es/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (51.02 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/cs/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (49.24 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/da/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (49.29 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/de/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (48.28 KB - PDF)
+eesti (ET) (48.28 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/et/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (55.03 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/el/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (49.69 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/fr/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (51.12 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/hr/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (52.67 KB - PDF)
-
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
-
-[View](/is/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (48.04 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/it/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (78.4 KB - PDF)
+latviešu (LV) (78.4 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/lv/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (53.22 KB - PDF)
+lietuvių (LT) (53.22 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/lt/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (54.56 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/hu/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (72.72 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/mt/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (47.18 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/nl/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (51.51 KB - PDF)
-
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
-
-[View](/no/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (50.22 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/pl/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (48.07 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/pt/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (51.69 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/ro/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (53.13 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/sk/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (52.1 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/sl/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (47.92 KB - PDF)
+suomi (FI) (47.92 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/fi/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (46.91 KB - PDF)
 
-**First published:**
-
-28/10/2005
-
-**Last updated:**
-
-04/08/2025
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
 
 [View](/sv/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (52.67 KB - PDF)
+
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
+
+[View](/is/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (51.51 KB - PDF)
+
+**First published:** 28/10/2005 **Last updated:** 04/08/2025
+
+[View](/no/documents/all-authorised-presentations/glivec-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Glivec Active substance imatinib International non-proprietary name (INN) or common name imatinib Therapeutic area (MeSH)
-
-- Precursor Cell Lymphoblastic Leukemia-Lymphoma
-- Gastrointestinal Stromal Tumors
-- Dermatofibrosarcoma
-- Myelodysplastic-Myeloproliferative Diseases
-- Leukemia, Myelogenous, Chronic, BCR-ABL Positive
-- Hypereosinophilic Syndrome
-
-Anatomical therapeutic chemical (ATC) code L01EA01
+- **Name of medicine**
+    - Glivec
+- **Active substance**
+    - imatinib
+- **International non-proprietary name (INN) or common name**
+    - imatinib
+- **Therapeutic area (MeSH)**
+        - Precursor Cell Lymphoblastic Leukemia-Lymphoma
+        - Gastrointestinal Stromal Tumors
+        - Dermatofibrosarcoma
+        - Myelodysplastic-Myeloproliferative Diseases
+        - Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+        - Hypereosinophilic Syndrome
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EA01
 
 ### Pharmacotherapeutic group
 
@@ -1044,13 +631,21 @@ In adult and paediatric patients, the effectiveness of Glivec is based on overal
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000406 Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted 26/07/2001 Marketing authorisation issued 07/11/2001 Revision 51
+- **EMA product number**
+    - EMEA/H/C/000406
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  
+Elm Park  
+Merrion Road  
+Dublin 4  
+D04 A9N6  
+Ireland
+- **Opinion adopted**
+    - 26/07/2001
+- **Marketing authorisation issued**
+    - 07/11/2001
+- **Revision**
+    - 52
 
 ## Assessment history
 
@@ -1058,15 +653,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Glivec : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (123.7 KB - PDF)
+English (EN) (127.04 KB - PDF)
 
-**First published:** 05/08/2025
-
-**Last updated:** 12/11/2025
+**First published:** 05/08/2025 **Last updated:** 27/10/2026
 
 [View](/en/documents/procedural-steps-after/glivec-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1074,9 +667,7 @@ Glivec : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (427.89 KB - PDF)
 
-**First published:** 18/08/2009
-
-**Last updated:** 12/11/2025
+**First published:** 18/08/2009 **Last updated:** 12/11/2025
 
 [View](/en/documents/procedural-steps-after/glivec-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1088,45 +679,35 @@ English (EN) (127.53 KB - PDF)
 
 **First published:** 05/04/2022
 
-[View](/en/documents/scientific-conclusion/glivec-h-c-psusa-00001725-202105-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/glivec-h-c-psusa-00001725-202105-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Glivec-PSUSA-00001725-201805 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
-Adopted
-
-Reference Number: EMA/224414/2019
+Adopted Reference Number: EMA/224414/2019
 
 English (EN) (66.58 KB - PDF)
 
 **First published:** 17/04/2019
 
-[View](/en/documents/scientific-conclusion/glivec-psusa-00001725-201805-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/glivec-psusa-00001725-201805-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Glivec-H-C-406-P46-0194 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/344123/2015
+Adopted Reference Number: EMA/344123/2015
 
 English (EN) (155.99 KB - PDF)
 
-**First published:** 09/06/2015
-
-**Last updated:** 09/06/2015
+**First published:** 09/06/2015 **Last updated:** 09/06/2015
 
 [View](/en/documents/variation-report/glivec-h-c-406-p46-0194-epar-assessment-report_en.pdf)
 
 Glivec-H-C-406-II-0080 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/161314/2013
+Adopted Reference Number: EMA/CHMP/161314/2013
 
 English (EN) (4.81 MB - PDF)
 
-**First published:** 24/07/2013
-
-**Last updated:** 24/07/2013
+**First published:** 24/07/2013 **Last updated:** 24/07/2013
 
 [View](/en/documents/variation-report/glivec-h-c-406-ii-0080-epar-assessment-report-variation_en.pdf)
 
@@ -1136,9 +717,7 @@ Reference Number: EMA/161384/2013
 
 English (EN) (70.47 KB - PDF)
 
-**First published:** 24/07/2013
-
-**Last updated:** 24/07/2013
+**First published:** 24/07/2013 **Last updated:** 24/07/2013
 
 [View](/en/documents/pip-compliance/glivec-epar-paediatric-investigation-plan-compliance-statement_en.pdf)
 
@@ -1148,9 +727,7 @@ Reference Number: EMA/CHMP/332285/2013
 
 English (EN) (76.8 KB - PDF)
 
-**First published:** 31/05/2013
-
-**Last updated:** 31/05/2013
+**First published:** 31/05/2013 **Last updated:** 31/05/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-glivec_en.pdf)
 
@@ -1158,23 +735,17 @@ Glivec-H-C-406-II-0048 : EPAR - Assessment Report - Variation
 
 English (EN) (223.25 KB - PDF)
 
-**First published:** 17/08/2009
-
-**Last updated:** 17/08/2009
+**First published:** 17/08/2009 **Last updated:** 17/08/2009
 
 [View](/en/documents/variation-report/glivec-h-c-406-ii-0048-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Glivec on 19 March 2009
 
-Adopted
-
-Reference Number: EMEA/CHMP/659495/2008
+Adopted Reference Number: EMEA/CHMP/659495/2008
 
 English (EN) (36.68 KB - PDF)
 
-**First published:** 20/03/2009
-
-**Last updated:** 20/03/2009
+**First published:** 20/03/2009 **Last updated:** 20/03/2009
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-glivec-19-march-2009_en.pdf)
 
@@ -1184,9 +755,7 @@ Adopted
 
 English (EN) (301.12 KB - PDF)
 
-**First published:** 08/05/2007
-
-**Last updated:** 08/05/2007
+**First published:** 08/05/2007 **Last updated:** 08/05/2007
 
 [View](/en/documents/scientific-discussion-variation/glivec-h-c-406-ii-0035-epar-scientific-discussion-variation_en.pdf)
 
@@ -1196,9 +765,7 @@ Adopted
 
 English (EN) (351.75 KB - PDF)
 
-**First published:** 05/03/2007
-
-**Last updated:** 05/03/2007
+**First published:** 05/03/2007 **Last updated:** 05/03/2007
 
 [View](/en/documents/scientific-discussion-variation/glivec-h-c-406-ii-0030-epar-scientific-discussion-variation_en.pdf)
 
@@ -1208,9 +775,7 @@ Adopted
 
 English (EN) (271.09 KB - PDF)
 
-**First published:** 05/03/2007
-
-**Last updated:** 05/03/2007
+**First published:** 05/03/2007 **Last updated:** 05/03/2007
 
 [View](/en/documents/scientific-discussion-variation/glivec-h-c-406-ii-0031-epar-scientific-discussion-variation_en.pdf)
 
@@ -1220,9 +785,7 @@ Adopted
 
 English (EN) (161.01 KB - PDF)
 
-**First published:** 05/03/2007
-
-**Last updated:** 05/03/2007
+**First published:** 05/03/2007 **Last updated:** 05/03/2007
 
 [View](/en/documents/scientific-discussion-variation/glivec-h-c-406-ii-0032-epar-scientific-discussion-variation_en.pdf)
 
@@ -1230,21 +793,17 @@ Glivec : EPAR - Steps taken after authorisation when a cutoff date has been used
 
 English (EN) (85.05 KB - PDF)
 
-**First published:** 28/10/2005
-
-**Last updated:** 28/10/2005
+**First published:** 28/10/2005 **Last updated:** 28/10/2005
 
 [View](/en/documents/steps-after-cutoff/glivec-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Glivec : EPAR - Procedural steps taken before authorisation
 
 English (EN) (74.36 KB - PDF)
 
-**First published:** 28/10/2005
-
-**Last updated:** 28/10/2005
+**First published:** 28/10/2005 **Last updated:** 28/10/2005
 
 [View](/en/documents/procedural-steps/glivec-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1252,323 +811,179 @@ Glivec : EPAR - Scientific Discussion
 
 English (EN) (698.79 KB - PDF)
 
-**First published:** 28/10/2005
-
-**Last updated:** 28/10/2005
+**First published:** 28/10/2005 **Last updated:** 28/10/2005
 
 [View](/en/documents/scientific-discussion/glivec-epar-scientific-discussion_en.pdf)
 
-#### News on Glivec
+## News on Glivec
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2013) 31/05/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2013)
 
-[Novartis withdraws its application to extend the marketing authorisation for Glivec](/en/news/novartis-withdraws-its-application-extend-marketing-authorisation-glivec) 23/10/2006
+31/05/2013
 
-#### Product information - with tracked changes
+[Novartis withdraws its application to extend the marketing authorisation for Glivec](/en/news/novartis-withdraws-its-application-extend-marketing-authorisation-glivec)
+
+23/10/2006
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Glivec : EPAR - Product information - tracked changes
 
-English (EN) (247.58 KB - DOCX)
+English (EN) (234.16 KB - DOCX)
 
-**First published:** 04/08/2025
-
-**Last updated:** 12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/en/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-836)
+[Other languages (24)](#file-language-dropdown-215)
 
-български (BG) (296.12 KB - DOCX)
+български (BG) (264.13 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (275.1 KB - DOCX)
+español (ES) (255.14 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/es/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (264.96 KB - DOCX)
+čeština (CS) (249.7 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (251.96 KB - DOCX)
+dansk (DA) (238.39 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/da/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (264.03 KB - DOCX)
+Deutsch (DE) (244.54 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/de/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (253.48 KB - DOCX)
+eesti (ET) (235.86 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/et/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (302.57 KB - DOCX)
+ελληνικά (EL) (288.96 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/el/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (268.83 KB - DOCX)
+français (FR) (249.83 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (273.08 KB - DOCX)
+hrvatski (HR) (258.36 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (229.24 KB - DOCX)
+italiano (IT) (227.46 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
-
-[View](/is/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (241.36 KB - DOCX)
-
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/it/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (245.08 KB - DOCX)
+latviešu (LV) (230.59 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (247.31 KB - DOCX)
+lietuvių (LT) (235.53 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (322.37 KB - DOCX)
+magyar (HU) (293.07 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (274.67 KB - DOCX)
+Malti (MT) (251.16 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (240.11 KB - DOCX)
+Nederlands (NL) (227.33 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (253.53 KB - DOCX)
+polski (PL) (245.13 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
-
-[View](/no/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (259.89 KB - DOCX)
-
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (230.04 KB - DOCX)
+português (PT) (216.72 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (254.12 KB - DOCX)
+română (RO) (240.34 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (247.01 KB - DOCX)
+slovenčina (SK) (233.63 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (275.7 KB - DOCX)
+slovenščina (SL) (243.32 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (241.65 KB - DOCX)
+suomi (FI) (226.12 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (258.44 KB - DOCX)
+svenska (SV) (243.63 KB - DOCX)
 
-**First published:**
-
-04/08/2025
-
-**Last updated:**
-
-12/11/2025
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Glivec
+Íslenska (IS) (212.9 KB - DOCX)
+
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
+
+[View](/is/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (240.29 KB - DOCX)
+
+**First published:** 04/08/2025 **Last updated:** 27/10/2026
+
+[View](/no/documents/product-information-tracked-changes/glivec-epar-product-information-tracked-changes_no.docx)
+
+## More information on Glivec
 
 Glivec was designated as an orphan medicine for the indications mentioned below. It is no longer an orphan medicine.
 
@@ -1583,18 +998,14 @@ The orphan designations for all other indications were withdrawn in April 2012 o
 - [Treatment of chronic eosinophilic leukaemia and the hypereosinophilic syndrome](/en/medicines/human/orphan-designations/eu305320) (28/10/2005).
 - [Treatment of myelodysplastic / myeloproliferative diseases](/en/medicines/human/orphan-designations/eu305340) (23/12/2005).
 
-#### More information on Glivec
+## More information on Glivec
 
 - [Glivec - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/glivec)
 - [EMEA-000463-PIP02-10 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000463-pip02-10)
 - [EMEA-000463-PIP01-08-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000463-pip01-08-m03)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 12/11/2025
+27/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

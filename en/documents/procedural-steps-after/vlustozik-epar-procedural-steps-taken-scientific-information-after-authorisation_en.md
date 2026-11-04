@@ -1,0 +1,50 @@
+---
+document_datetime: 2026-11-03 15:52:05
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/vlustozik-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: vlustozik-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 2.8447766
+conversion_datetime: 2026-11-04 23:32:48.443407
+docling_version:
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.147.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.24.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+---
+## Vlustozik
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive).
+
+| Application number                       | Scope                                                       | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|------------------------------------------|-------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IA_IN / EMA/VR/0000383247 | Outcome: This was an application for a group of variations. | 03/11/2026                          |                                             | SmPC, Annex II, Labelling        |           |
+
+1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | E.1 Change in the (invented) name of the finished product - E.1.a For centrally authorised medicinal products - Accepted Q.II.b.2.c) Addition or replacement of a site responsible for batch release (QP certification) - Q.II.b.2.c.1 Not including batch control/testing - Accepted Q.II.b.1 Change in the manufacturing site for part or all of the manufacturing process of the finished product (except for batch release and batch control testing sites) - Q.II.b.1.a) Addition or replacement of a site responsible for secondary packaging - Accepted Q.II.b.1 Change in the manufacturing site for part or all of the manufacturing process of the finished product (except for batch release and batch control testing sites) - Q.II.b.1.a) Addition or replacement of a site responsible for secondary packaging -   |            | and PL                                                                                                          |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000350277 | Accepted Outcome: Q.II.f.1.b) Extension of the shelf life of the finished product - Q.II.f.1.b.1 As packaged for sale (supported by real time data, fully in line with the stability protocol) - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 25/06/2026 | SmPC                                                                                                            |
+| Variation type IB / EMA/VR/0000325757 | Outcome: C.2 Change(s) in the summary of product                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 13/02/2026 | SmPC and PL To update Sections 4.4 and 4.8 of the SmPC and Sections 2 and 4 of the PL to include information on |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | characteristics, labelling or package leaflet of a generic/hybrid/biosimilar medicinal products following assessment of the same change for the reference product - C.2.a) Implementation of change(s) for which no new additional data is required to be submitted by the holder - Accepted C.2.a (Type IB) - To update Sections 4.4 and 4.8 of the SmPC and Sections 2 and 4 of the PL to include information on the side effect Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome), following approval of the same change for the reference product Pedea. Additionally, the MAH introduced editorial updates: (1) aligning Section 4.9 of the SmPC and Section 3 of the PL with the reference product, and (2) correcting a typographical error in Table   |            | the side effect Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome), following approval of the same change for the reference product Pedea. Additionally, the MAH introduced editorial updates: (1) aligning Section 4.9 of the SmPC and Section 3 of the PL with the reference product, and (2) correcting a typographical error in Table 1 of Section 4.8 of the NL SmPC.   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000267682 | 1 of Section 4.8 of the NL SmPC. Outcome: B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.1 As packaged for sale (supported by real time data) - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 27/05/2025 | SmPC                                                                                                                                                                                                                                                                                                                                                                                             |

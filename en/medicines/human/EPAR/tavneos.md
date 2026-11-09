@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-21 10:54:00
+document_datetime: 2026-10-30 15:29:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tavneos.html
 document_name: tavneos.html
 version: success
-processing_time: 0.1555066
-conversion_datetime: 2026-08-26 10:57:48.31635
+processing_time: 0.1849836
+conversion_datetime: 2026-11-09 13:11:15.578745
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.122.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.16.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Tavneos
 
 [RSS](/en/individual-human-medicine.xml/67512)
 
-Revoked
+## Revoked
 
 This medicine's authorisation has been revoked
 
 avacopan
 
-Medicine Human Revoked
+MedicineHumanRevoked
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Tavneos](#news-on)
+- [More information on Tavneos](#more-information-on-tavneos-90819)
 - [More information on Tavneos](#related-medicines)
 
 - Application under evaluation
@@ -58,7 +59,7 @@ English (EN) (124.88 KB - PDF)
 
 [View](/en/documents/overview/tavneos-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-636)
+[Other languages (22)](#file-language-dropdown-154)
 
 български (BG) (150.57 KB - PDF)
 
@@ -210,7 +211,7 @@ English (EN) (304.01 KB - PDF)
 
 [View](/en/documents/product-information/tavneos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-802)
+[Other languages (24)](#file-language-dropdown-858)
 
 български (BG) (440 KB - PDF)
 
@@ -356,7 +357,7 @@ norsk (NO) (297.68 KB - PDF)
 
 [View](/no/documents/product-information/tavneos-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010967/202403
+**Latest procedure affecting product information:**PSUSA/00010967/202403
 
 15/01/2025
 
@@ -364,7 +365,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -383,7 +384,7 @@ English (EN) (60.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tavneos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-932)
+[Other languages (24)](#file-language-dropdown-270)
 
 български (BG) (71.05 KB - PDF)
 
@@ -555,12 +556,13 @@ Tavneos, in combination with a rituximab or cyclophosphamide regimen, is indicat
 
 - **EMA product number**
     - EMEA/H/C/005523
-- **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **PRIME: priority medicine**
-    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
+    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853).
 - **Marketing authorisation holder**
-    - Vifor Fresenius Medical Care Renal Pharma France 100-101 Terrasse Boieldieu  Tour Franklin- La Défense 8  92042 Paris la Défense Cedex  France
+    - Vifor Fresenius Medical Care Renal Pharma France 100-101 Terrasse Boieldieu  
+Tour Franklin- La Défense 8  
+92042 Paris la Défense Cedex  
+France
 - **Opinion adopted**
     - 11/11/2021
 - **Marketing authorisation issued**
@@ -690,8 +692,15 @@ English (EN) (164.09 KB - PDF)
 
 ## More information on Tavneos
 
-- [EU/3/14/1373 - orphan designation for treatment of granulomatosis with polyangiitis](/en/medicines/human/orphan-designations/eu-3-14-1373)
-- [EU/3/14/1372 - orphan designation for treatment of microscopic polyangiitis (avacopan)](/en/medicines/human/orphan-designations/eu-3-14-1372)
+This product is no longer an orphan medicine. It was originally designated an orphan medicine for the following orphan indications:
+
+- [treatment of microscopic polyangiitis](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1372) (19 November 2014);
+- [treatment of granulomatosis with polyangiitis](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-14-1373) (19 November 2014).
+
+Tavneos was withdrawn from the Community register of orphan medicinal products by the European Commission in August 2026.
+
+## More information on Tavneos
+
 - [EMEA-002023-PIP01-16-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002023-pip01-16-m07)
 - [Tavneos - referral](/en/medicines/human/referrals/tavneos)
 - [Tavneos - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/tavneos)
@@ -701,6 +710,6 @@ English (EN) (164.09 KB - PDF)
 
 **This page was last updated on**
 
-21/08/2026
+30/10/2026
 
 ## Share this page

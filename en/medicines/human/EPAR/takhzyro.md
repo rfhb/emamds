@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-03 17:00:00
+document_datetime: 2026-10-28 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/takhzyro.html
 document_name: takhzyro.html
 version: success
-processing_time: 0.1738902
-conversion_datetime: 2026-08-07 13:47:40.970631
+processing_time: 0.224157
+conversion_datetime: 2026-11-09 13:11:00.140444
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Takhzyro
 
 [RSS](/en/individual-human-medicine.xml/67160)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 lanadelumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -50,7 +50,7 @@ Takhzyro is a medicine used to prevent attacks of hereditary angioedema in patie
 
 Patients with angioedema have rapid swelling under the skin in areas such as the face, throat, arms and legs. Attacks of hereditary angioedema can be life threatening when the swelling around the throat presses against the airway.
 
-Hereditary angioedema is rare, and Takhzyro was designated an 'orphan medicine' (a medicine used in rare diseases) on 9 October 2015. Further information on the orphan designation can be found here: [ema.europa.eu/medicines/human/orphan-designations/eu3151551](https://www.ema.europa.eu/medicines/human/orphan-designations/eu3151551) .
+Hereditary angioedema is rare, and Takhzyro was designated an 'orphan medicine' (a medicine used in rare diseases) on 9 October 2015. Further information on the orphan designation can be found here: [ema.europa.eu/medicines/human/orphan-designations/eu3151551](https://www.ema.europa.eu/medicines/human/orphan-designations/eu3151551).
 
 Takhzyro contains the active substance lanadelumab.
 
@@ -116,7 +116,7 @@ English (EN) (117.22 KB - PDF)
 
 [View](/en/documents/overview/takhzyro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-921)
+[Other languages (22)](#file-language-dropdown-574)
 
 български (BG) (139.85 KB - PDF)
 
@@ -268,7 +268,7 @@ English (EN) (1.66 MB - PDF)
 
 [View](/en/documents/product-information/takhzyro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-3)
+[Other languages (24)](#file-language-dropdown-446)
 
 български (BG) (2.48 MB - PDF)
 
@@ -414,7 +414,7 @@ norsk (NO) (1.62 MB - PDF)
 
 [View](/no/documents/product-information/takhzyro-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000336197
+**Latest procedure affecting product information:**VR/0000336197
 
 28/05/2026
 
@@ -422,7 +422,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -441,7 +441,7 @@ English (EN) (103.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/takhzyro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-356)
+[Other languages (24)](#file-language-dropdown-701)
 
 български (BG) (103.26 KB - PDF)
 
@@ -613,17 +613,22 @@ Takhzyro is indicated for routine prevention of recurrent attacks of hereditary 
 - **EMA product number**
     - EMEA/H/C/004806
 - **Accelerated assessment**
-    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza  50-58 Baggot Street Lower  Dublin 2  Co Dublin  D02 HW68  Ireland
+    - Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza  
+50-58 Baggot Street Lower  
+Dublin 2  
+Co Dublin  
+D02 HW68  
+Ireland
 - **Opinion adopted**
     - 18/10/2018
 - **Marketing authorisation issued**
     - 22/11/2018
 - **Revision**
-    - 25
+    - 26
 
 ## Assessment history
 
@@ -648,6 +653,16 @@ English (EN) (249.51 KB - PDF)
 **First published:** 01/10/2019 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/takhzyro-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Takhzyro-PAM-0000363716 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-3534806
+
+English (EN) (370.98 KB - PDF)
+
+**First published:** 28/10/2026
+
+[View](/en/documents/variation-report/takhzyro-pam-0000363716-epar-assessment-report_en.pdf)
 
 Takhzyro-PAM-0000326082 : EPAR - Assessment report
 
@@ -844,6 +859,6 @@ English (EN) (71.66 KB - PDF)
 
 **This page was last updated on**
 
-03/08/2026
+28/10/2026
 
 ## Share this page

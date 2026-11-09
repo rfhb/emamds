@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-13 16:50:00
+document_datetime: 2026-11-03 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rinvoq.html
 document_name: rinvoq.html
 version: success
-processing_time: 0.2794055
-conversion_datetime: 2026-10-19 23:51:32.646641
+processing_time: 0.3056557
+conversion_datetime: 2026-11-09 13:08:28.887455
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Rinvoq
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 upadacitinib
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -196,7 +196,7 @@ English (EN) (179.22 KB - PDF)
 
 [View](/en/documents/overview/rinvoq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-240)
+[Other languages (22)](#file-language-dropdown-373)
 
 български (BG) (200.76 KB - PDF)
 
@@ -348,7 +348,7 @@ English (EN) (1.54 MB - PDF)
 
 [View](/en/documents/product-information/rinvoq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-809)
+[Other languages (24)](#file-language-dropdown-312)
 
 български (BG) (1.56 MB - PDF)
 
@@ -494,7 +494,7 @@ norsk (NO) (1.4 MB - PDF)
 
 [View](/no/documents/product-information/rinvoq-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000340945
+**Latest procedure affecting product information:**VR/0000340945
 
 17/09/2026
 
@@ -502,7 +502,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -521,7 +521,7 @@ English (EN) (41.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rinvoq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-393)
 
 български (BG) (48.36 KB - PDF)
 
@@ -780,6 +780,16 @@ English (EN) (169.28 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/rinvoq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Rinvoq-PAM-0000363246 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-3538334
+
+English (EN) (241.63 KB - PDF)
+
+**First published:** 03/11/2026
+
+[View](/en/documents/variation-report/rinvoq-pam-0000363246-epar-assessment-report_en.pdf)
+
 Rinvoq-X-0000304823 : EPAR - Assessment report - Variation
 
 Adopted Reference Number: EMADOC-1700519818-3390189
@@ -976,7 +986,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rinvoq-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-809)
+[Other languages (24)](#file-language-dropdown-826)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1392,6 +1402,6 @@ English (EN) (69.42 KB - PDF)
 
 **This page was last updated on**
 
-13/10/2026
+03/11/2026
 
 ## Share this page

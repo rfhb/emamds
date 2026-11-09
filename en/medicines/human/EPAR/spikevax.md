@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-14 11:40:00
+document_datetime: 2026-10-30 14:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.3375772
-conversion_datetime: 2026-10-19 23:52:03.449387
+processing_time: 0.5877032
+conversion_datetime: 2026-11-09 13:09:44.494034
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Spikevax (previously COVID-19 Vaccine Moderna)
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 COVID-19 mRNA vaccine
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -174,7 +174,7 @@ COVID-19 Vaccine Moderna received a conditional marketing authorisation valid th
 
 The name of the vaccine was changed to Spikevax on 22 June 2021.
 
-More information about the COVID-19 vaccines is available on the [COVID-19 vaccines key facts page](/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/covid-19-vaccines-key-facts) .
+More information about the COVID-19 vaccines is available on the [COVID-19 vaccines key facts page](/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/covid-19-vaccines-key-facts).
 
 ### Key developments since authorisation
 
@@ -224,7 +224,7 @@ English (EN) (176.54 KB - PDF)
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-39)
+[Other languages (22)](#file-language-dropdown-218)
 
 български (BG) (199.95 KB - PDF)
 
@@ -360,9 +360,9 @@ svenska (SV) (170.87 KB - PDF)
 
 Spikevax (previously COVID-19 Vaccine Moderna): EPAR - Risk-management-plan
 
-English (EN) (1.55 MB - PDF)
+English (EN) (1.68 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 30/10/2026
 
 [View](/en/documents/rmp/spikevax-previously-covid-19-vaccine-moderna-epar-risk-management-plan_en.pdf)
 
@@ -370,167 +370,167 @@ English (EN) (1.55 MB - PDF)
 
 Spikevax : EPAR - Product information
 
-English (EN) (1.35 MB - PDF)
+English (EN) (1.32 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-125)
+[Other languages (24)](#file-language-dropdown-489)
 
-български (BG) (1.9 MB - PDF)
+български (BG) (1.66 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/bg/documents/product-information/spikevax-epar-product-information_bg.pdf)
 
-español (ES) (1.43 MB - PDF)
+español (ES) (1.38 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/es/documents/product-information/spikevax-epar-product-information_es.pdf)
 
-čeština (CS) (1.45 MB - PDF)
+čeština (CS) (1.35 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/cs/documents/product-information/spikevax-epar-product-information_cs.pdf)
 
-dansk (DA) (1.46 MB - PDF)
+dansk (DA) (1.35 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/da/documents/product-information/spikevax-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.54 MB - PDF)
+Deutsch (DE) (1.51 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/de/documents/product-information/spikevax-epar-product-information_de.pdf)
 
-eesti (ET) (1.36 MB - PDF)
+eesti (ET) (1.25 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/et/documents/product-information/spikevax-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.76 MB - PDF)
+ελληνικά (EL) (1.65 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/el/documents/product-information/spikevax-epar-product-information_el.pdf)
 
-français (FR) (1.68 MB - PDF)
+français (FR) (1.64 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/fr/documents/product-information/spikevax-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.59 MB - PDF)
+hrvatski (HR) (1.48 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/hr/documents/product-information/spikevax-epar-product-information_hr.pdf)
 
-italiano (IT) (1.53 MB - PDF)
+italiano (IT) (1.25 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/it/documents/product-information/spikevax-epar-product-information_it.pdf)
 
-latviešu (LV) (1.55 MB - PDF)
+latviešu (LV) (1.44 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/lv/documents/product-information/spikevax-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.77 MB - PDF)
+lietuvių (LT) (1.66 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/lt/documents/product-information/spikevax-epar-product-information_lt.pdf)
 
-magyar (HU) (1.75 MB - PDF)
+magyar (HU) (1.69 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/hu/documents/product-information/spikevax-epar-product-information_hu.pdf)
 
-Malti (MT) (1.74 MB - PDF)
+Malti (MT) (1.63 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/mt/documents/product-information/spikevax-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.32 MB - PDF)
+Nederlands (NL) (1.29 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/nl/documents/product-information/spikevax-epar-product-information_nl.pdf)
 
-polski (PL) (1.9 MB - PDF)
+polski (PL) (1.79 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/pl/documents/product-information/spikevax-epar-product-information_pl.pdf)
 
-português (PT) (1.56 MB - PDF)
+português (PT) (1.46 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/pt/documents/product-information/spikevax-epar-product-information_pt.pdf)
 
-română (RO) (1.76 MB - PDF)
+română (RO) (1.66 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/ro/documents/product-information/spikevax-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.75 MB - PDF)
+slovenčina (SK) (1.65 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/sk/documents/product-information/spikevax-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.49 MB - PDF)
+slovenščina (SL) (1.44 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/sl/documents/product-information/spikevax-epar-product-information_sl.pdf)
 
-suomi (FI) (1.44 MB - PDF)
+suomi (FI) (1.41 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/fi/documents/product-information/spikevax-epar-product-information_fi.pdf)
 
-svenska (SV) (1.35 MB - PDF)
+svenska (SV) (1.34 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/sv/documents/product-information/spikevax-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.37 MB - PDF)
+Íslenska (IS) (1.34 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/is/documents/product-information/spikevax-epar-product-information_is.pdf)
 
-norsk (NO) (1.41 MB - PDF)
+norsk (NO) (1.38 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 06/08/2026
+**First published:** 20/01/2021 **Last updated:** 29/10/2026
 
 [View](/no/documents/product-information/spikevax-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000356879
+**Latest procedure affecting product information:**VR/0000371918
 
-28/07/2026
+29/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -549,7 +549,7 @@ English (EN) (108.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-172)
 
 български (BG) (154.86 KB - PDF)
 
@@ -733,7 +733,7 @@ Spikevax XFG is indicated for active immunisation to prevent COVID 19 caused by 
 - **EMA product number**
     - EMEA/H/C/005791
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
     - Moderna Biotech Spain, S.L. C/ Julián Camarillo nº 31  
 28037 Madrid  
@@ -743,7 +743,7 @@ Spain
 - **Marketing authorisation issued**
     - 06/01/2021
 - **Revision**
-    - 63
+    - 65
 
 ## Assessment history
 
@@ -755,9 +755,9 @@ Collapse section
 
 Spikevax : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (216.19 KB - PDF)
+English (EN) (220.8 KB - PDF)
 
-**First published:** 16/04/2025 **Last updated:** 06/08/2026
+**First published:** 16/04/2025 **Last updated:** 30/10/2026
 
 [View](/en/documents/procedural-steps-after/spikevax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -768,6 +768,16 @@ English (EN) (517.36 KB - PDF)
 **First published:** 23/03/2021 **Last updated:** 05/05/2025
 
 [View](/en/documents/procedural-steps-after/spikevax-previously-covid-19-vaccine-moderna-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Spikevax-VR-0000335829 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3009772
+
+English (EN) (1.22 MB - PDF)
+
+**First published:** 30/10/2026
+
+[View](/en/documents/variation-report/spikevax-vr-0000335829-epar-assessment-report-variation_en.pdf)
 
 Spikevax-VR-0000264109 : EPAR - Assessment report - Variation
 
@@ -1561,21 +1571,21 @@ English (EN) (1.17 MB - PDF)
 
 EMA is making data from the marketing authorisation application for Spikevax publicly available. This is in line with the [exceptional transparency measures](/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/transparency-exceptional-measures-covid-19-medicines) that EMA adopted during the COVID-19 pandemic.
 
-The documents relate to residual DNA measurement, some quality and non-clinical aspects of the dossier as of 12 June 2025 or released prior to this date under [Regulation (EC) 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) .
+The documents relate to residual DNA measurement, some quality and non-clinical aspects of the dossier as of 12 June 2025 or released prior to this date under [Regulation (EC) 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng).
 
-You will find quality and non-clinical documents grouped according to the structure presented in [ICH guideline M4 (R4) on common technical document (CTD) for the registration of pharmaceuticals for human use - organisation of CTD](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-guideline-m4-r4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-step-5_en.pdf) .
+You will find quality and non-clinical documents grouped according to the structure presented in [ICH guideline M4 (R4) on common technical document (CTD) for the registration of pharmaceuticals for human use - organisation of CTD](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-guideline-m4-r4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-step-5_en.pdf).
 
 This structure divides the types of documents into 5 modules, of which the sub-modules listed below will be published regularly following consultation with the marketing authorisation holder.
 
-You can subscribe to update notifications by selecting the RSS option available at the top of this page. You will need a news reader or other similar device. To learn more about RSS and news readers, see our [RSS user guide](https://www.ema.europa.eu/en/news-event/rss-feeds#user-guide-section) .
+You can subscribe to update notifications by selecting the RSS option available at the top of this page. You will need a news reader or other similar device. To learn more about RSS and news readers, see our [RSS user guide](https://www.ema.europa.eu/en/news-event/rss-feeds#user-guide-section).
 
 ### Reading guide
 
 In the context of these exceptional transparency measures, documents published by EMA that contain Commercially Confidential Information (CCI) and Protected Personal Data (PPD) shall be subject to redaction prior to their disclosure.
 
-CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf) . This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
+CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf). This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
 
-In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/scientific-guidelines/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd) .
+In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/scientific-guidelines/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd).
 
 As regards the documents published under the exceptional transparency measures, the following pages of the Annex are of relevance:
 
@@ -1594,12 +1604,20 @@ CCI and PPD
 
 <!-- image -->
 
-Documents published within the scope of the exceptional transparency measures that have been **previously released under an access to document procedure** under [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) follow the above-referred principles regarding the redaction of CCI and PPD. However, the formatting of these labels is different, and the overlay text states the exceptions applied in accordance with Article 4 of [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) .
+Documents published within the scope of the exceptional transparency measures that have been **previously released under an access to document procedure** under [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) follow the above-referred principles regarding the redaction of CCI and PPD. However, the formatting of these labels is different, and the overlay text states the exceptions applied in accordance with Article 4 of [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng).
 
-- for CCI: black background with \"4.2 1 ind.\" overlay text (corresponding to Article 4.2 1 st indent of Regulation (EC) No1049/2001) 4.2 1 ind.
+- for CCI: black background with \"4.2 1 ind.\" overlay text (corresponding to Article 4.2 1st indent of Regulation (EC) No1049/2001) 4.2 1 ind.
 - for PPD: black background with \"4.1(b)\" overlay text (corresponding to Article 4.1 (b) of Regulation (EC) No1049/2001) 4.1(b)
 
 **Module 2.3 quality overall summary**
+
+Spikevax : Module 2.3.P drug product
+
+English (EN) (1.44 MB - ZIP)
+
+**First published:** 30/10/2026
+
+[View](/en/documents/other/spikevax-module-23p-drug-product_en.zip)
 
 Spikevax : Module 2.3.S drug substance
 
@@ -1608,6 +1626,14 @@ English (EN) (45.1 MB - ZIP)
 **First published:** 30/01/2026 **Last updated:** 30/09/2026
 
 [View](/en/documents/other/spikevax-module-23-quality-overall-summary_en.zip)
+
+Spikevax : Module 2.3.R regional information
+
+English (EN) (691.69 KB - ZIP)
+
+**First published:** 30/10/2026
+
+[View](/en/documents/other/spikevax-module-23r-regional-information_en.zip)
 
 **Module 2.4 non-clinical overview**
 
@@ -1780,6 +1806,6 @@ English (EN) (2.01 MB - DOCX)
 
 **This page was last updated on**
 
-14/10/2026
+30/10/2026
 
 ## Share this page

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-05-08 12:14:00
+document_datetime: 2026-11-06 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris.html
 document_name: rivaroxaban-viatris.html
 version: success
-processing_time: 0.1273378
-conversion_datetime: 2026-05-10 13:16:26.07995
+processing_time: 0.2082466
+conversion_datetime: 2026-11-09 13:08:44.127986
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Rivaroxaban Viatris (previously Rivaroxaban Mylan)
 
 [RSS](/en/individual-human-medicine.xml/67490)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 rivaroxaban
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -56,37 +56,37 @@ Rivaroxaban Mylan is an anticoagulant medicine (a medicine that prevents blood c
     - after an acute coronary syndrome, when it is used with an antiplatelet medicine (which prevents the formation of blood clots). Acute coronary syndrome consists of conditions such as unstable angina (a severe type of chest pain) and heart attack;
     - at high risk of ischaemic events (problems caused by restricted blood supply) who have coronary artery disease (disease caused by obstructed blood supply to the heart muscle) or peripheral artery disease (disease caused by defective blood flow in the arteries). It is used with aspirin.
 
-Rivaroxaban Mylan contains the active substance rivaroxaban and is a 'generic medicine'. This means that Rivaroxaban Mylan contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Xarelto. For more information on generic medicines, see the question-and-answer document [here](/en/documents/medicine-qa/questions-answers-generic-medicines_en.pdf) .
+Rivaroxaban Mylan contains the active substance rivaroxaban and is a 'generic medicine'. This means that Rivaroxaban Mylan contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Xarelto.
 
 Expand section
 
 Collapse section
 
-## How is Rivaroxaban Mylan used?
+### How is Rivaroxaban Mylan used?
 
 Rivaroxaban Mylan is available as tablets of various strengths. The dose and duration of treatment with Rivaroxaban Mylan depend on what it is being used for and the patient's risk of bleeding. For children, the form, dose and duration of treatment also depend on the patient's age and weight. Rivaroxaban Mylan is given at a lower dose when used in combination with an antiplatelet medicine such as aspirin, clopidogrel or ticlopidine. The doctor will regularly evaluate the benefits of ongoing treatment against the risk of excessive or internal bleeding.
 
 The medicine can only be obtained with a prescription. For more information about using Rivaroxaban Mylan, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Rivaroxaban Mylan work?
+### How does Rivaroxaban Mylan work?
 
 The active substance in Rivaroxaban Mylan, rivaroxaban, is a 'factor Xa inhibitor'. This means that it blocks factor Xa, an enzyme that is involved in the production of thrombin. Thrombin is central to the process of blood clotting. By blocking factor Xa, the levels of thrombin decrease, which reduces the risk of blood clots forming in the veins and arteries, and also treats existing clots.
 
-## How has Rivaroxaban Mylan been studied?
+### How has Rivaroxaban Mylan been studied?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Xarelto, and do not need to be repeated for Rivaroxaban Mylan.
 
 As for every medicine, the company provided data on the quality of Rivaroxaban Mylan. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Rivaroxaban Mylan?
+### What are the benefits and risks of Rivaroxaban Mylan?
 
 Because Rivaroxaban Mylan is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Rivaroxaban Mylan authorised in the EU?
+### Why is Rivaroxaban Mylan authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Rivaroxaban Mylan has been shown to have comparable quality and to be bioequivalent to Xarelto. Therefore, the Agency's view was that, as for Xarelto, the benefits of Rivaroxaban Mylan outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Rivaroxaban Mylan?
+### What measures are being taken to ensure the safe and effective use of Rivaroxaban Mylan?
 
 The company that markets Rivaroxaban Mylan will provide an educational pack for doctors who prescribe Rivaroxaban Mylan, containing important safety information including on the risk of bleeding during treatment with Rivaroxaban Mylan and how to manage this risk. In addition, prescribers will receive a patient alert card to give to patients receiving Rivaroxaban Mylan containing key safety reminders for patients.
 
@@ -94,7 +94,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Rivaroxaban Mylan are continuously monitored. Suspected side effects reported with Rivaroxaban Mylan are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Rivaroxaban Mylan
+### Other information about Rivaroxaban Mylan
 
 Rivaroxaban Mylan received a marketing authorisation valid throughout the EU on 12 November 2021.
 
@@ -108,7 +108,7 @@ English (EN) (167.78 KB - PDF)
 
 [View](/en/documents/overview/rivaroxaban-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-930)
+[Other languages (22)](#file-language-dropdown-402)
 
 български (BG) (182.34 KB - PDF)
 
@@ -140,7 +140,7 @@ Deutsch (DE) (162.9 KB - PDF)
 
 [View](/de/documents/overview/rivaroxaban-mylan-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (146.75 KB - PDF)
+eesti (ET) (146.75 KB - PDF)
 
 **First published:** 29/11/2021
 
@@ -170,13 +170,13 @@ italiano (IT) (158.26 KB - PDF)
 
 [View](/it/documents/overview/rivaroxaban-mylan-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (197.4 KB - PDF)
+latviešu (LV) (197.4 KB - PDF)
 
 **First published:** 29/11/2021
 
 [View](/lv/documents/overview/rivaroxaban-mylan-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (180.99 KB - PDF)
+lietuvių (LT) (180.99 KB - PDF)
 
 **First published:** 29/11/2021
 
@@ -230,7 +230,7 @@ slovenščina (SL) (179.18 KB - PDF)
 
 [View](/sl/documents/overview/rivaroxaban-mylan-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (156.23 KB - PDF)
+suomi (FI) (156.23 KB - PDF)
 
 **First published:** 29/11/2021
 
@@ -254,167 +254,168 @@ English (EN) (565.57 KB - PDF)
 
 Rivaroxaban Viatris : EPAR - Product information
 
-English (EN) (1.3 MB - PDF)
+English (EN) (1.46 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/en/documents/product-information/rivaroxaban-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-960)
+[Other languages (24)](#file-language-dropdown-382)
 
-български (BG) (1.96 MB - PDF)
+български (BG) (1.99 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/bg/documents/product-information/rivaroxaban-viatris-epar-product-information_bg.pdf)
 
-español (ES) (1.59 MB - PDF)
+español (ES) (1.83 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/es/documents/product-information/rivaroxaban-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (1.57 MB - PDF)
+čeština (CS) (2.05 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/cs/documents/product-information/rivaroxaban-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (1.37 MB - PDF)
+dansk (DA) (1.88 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/da/documents/product-information/rivaroxaban-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.31 MB - PDF)
+Deutsch (DE) (1.8 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/de/documents/product-information/rivaroxaban-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.31 MB - PDF)
+eesti (ET) (1.89 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/et/documents/product-information/rivaroxaban-viatris-epar-product-information_et.pdf)
 
 ελληνικά (EL) (2.2 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/el/documents/product-information/rivaroxaban-viatris-epar-product-information_el.pdf)
 
-français (FR) (1.5 MB - PDF)
+français (FR) (1.3 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/fr/documents/product-information/rivaroxaban-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.49 MB - PDF)
+hrvatski (HR) (1.99 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/hr/documents/product-information/rivaroxaban-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.36 MB - PDF)
+italiano (IT) (1.47 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information/rivaroxaban-viatris-epar-product-information_is.pdf)
-
-italiano (IT) (1.45 MB - PDF)
-
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/it/documents/product-information/rivaroxaban-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.64 MB - PDF)
+latviešu (LV) (1.89 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/lv/documents/product-information/rivaroxaban-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.63 MB - PDF)
+lietuvių (LT) (1.87 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/lt/documents/product-information/rivaroxaban-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (1.53 MB - PDF)
+magyar (HU) (2.11 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/hu/documents/product-information/rivaroxaban-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.56 MB - PDF)
+Malti (MT) (2.26 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/mt/documents/product-information/rivaroxaban-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.51 MB - PDF)
+Nederlands (NL) (1.97 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/nl/documents/product-information/rivaroxaban-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (1.42 MB - PDF)
+polski (PL) (2.22 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information/rivaroxaban-viatris-epar-product-information_no.pdf)
-
-polski (PL) (1.72 MB - PDF)
-
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/pl/documents/product-information/rivaroxaban-viatris-epar-product-information_pl.pdf)
 
-português (PT) (1.43 MB - PDF)
+português (PT) (1.7 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/pt/documents/product-information/rivaroxaban-viatris-epar-product-information_pt.pdf)
 
-română (RO) (1.55 MB - PDF)
+română (RO) (2.77 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/ro/documents/product-information/rivaroxaban-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.58 MB - PDF)
+slovenčina (SK) (2.2 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/sk/documents/product-information/rivaroxaban-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.54 MB - PDF)
+slovenščina (SL) (2.27 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/sl/documents/product-information/rivaroxaban-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.41 MB - PDF)
+suomi (FI) (1.94 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/fi/documents/product-information/rivaroxaban-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.21 MB - PDF)
+svenska (SV) (1.06 MB - PDF)
 
-**First published:** 29/11/2021 **Last updated:** 08/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
 
 [View](/sv/documents/product-information/rivaroxaban-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (1.98 MB - PDF)
 
-05/05/2026
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
+
+[View](/is/documents/product-information/rivaroxaban-viatris-epar-product-information_is.pdf)
+
+norsk (NO) (1.44 MB - PDF)
+
+**First published:** 29/11/2021 **Last updated:** 06/11/2026
+
+[View](/no/documents/product-information/rivaroxaban-viatris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**R/0000327079
+
+18/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -432,7 +433,7 @@ English (EN) (84.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-131)
+[Other languages (24)](#file-language-dropdown-782)
 
 български (BG) (123.85 KB - PDF)
 
@@ -464,7 +465,7 @@ Deutsch (DE) (90.3 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (1.71 MB - PDF)
+eesti (ET) (1.71 MB - PDF)
 
 **First published:** 29/11/2021 **Last updated:** 05/11/2025
 
@@ -488,25 +489,19 @@ hrvatski (HR) (129.89 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (77.48 KB - PDF)
-
-**First published:** 29/11/2021 **Last updated:** 05/11/2025
-
-[View](/is/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (58.49 KB - PDF)
 
 **First published:** 29/11/2021 **Last updated:** 05/11/2025
 
 [View](/it/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (103.62 KB - PDF)
+latviešu (LV) (103.62 KB - PDF)
 
 **First published:** 29/11/2021 **Last updated:** 05/11/2025
 
 [View](/lv/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (133.56 KB - PDF)
+lietuvių (LT) (133.56 KB - PDF)
 
 **First published:** 29/11/2021 **Last updated:** 05/11/2025
 
@@ -529,12 +524,6 @@ Nederlands (NL) (90.56 KB - PDF)
 **First published:** 29/11/2021 **Last updated:** 05/11/2025
 
 [View](/nl/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (94.98 KB - PDF)
-
-**First published:** 29/11/2021 **Last updated:** 05/11/2025
-
-[View](/no/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (84.13 KB - PDF)
 
@@ -566,7 +555,7 @@ slovenščina (SL) (116.28 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (101.07 KB - PDF)
+suomi (FI) (101.07 KB - PDF)
 
 **First published:** 29/11/2021 **Last updated:** 05/11/2025
 
@@ -578,33 +567,36 @@ svenska (SV) (1.77 MB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (77.48 KB - PDF)
+
+**First published:** 29/11/2021 **Last updated:** 05/11/2025
+
+[View](/is/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (94.98 KB - PDF)
+
+**First published:** 29/11/2021 **Last updated:** 05/11/2025
+
+[View](/no/documents/all-authorised-presentations/rivaroxaban-viatris-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Rivaroxaban Viatris (previously Rivaroxaban Mylan)
-
-Active substance
-
-rivaroxaban
-
-International non-proprietary name (INN) or common name
-
-rivaroxaban
-
-Therapeutic area (MeSH)
-
-- Venous Thromboembolism
-- Pulmonary Embolism
-- Acute Coronary Syndrome
-- Stroke
-- Coronary Artery Disease
-- Peripheral Arterial Disease
-- Atrial Fibrillation
-
-Anatomical therapeutic chemical (ATC) code
-
-B01AF01
+- **Name of medicine**
+    - Rivaroxaban Viatris (previously Rivaroxaban Mylan)
+- **Active substance**
+    - rivaroxaban
+- **International non-proprietary name (INN) or common name**
+    - rivaroxaban
+- **Therapeutic area (MeSH)**
+        - Venous Thromboembolism
+        - Pulmonary Embolism
+        - Acute Coronary Syndrome
+        - Stroke
+        - Coronary Artery Disease
+        - Peripheral Arterial Disease
+        - Atrial Fibrillation
+- **Anatomical therapeutic chemical (ATC) code**
+    - B01AF01
 
 ### Pharmacotherapeutic group
 
@@ -624,39 +616,28 @@ Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevent
 
 -------
 
-**Adults**
+**Adults** Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation with one or more risk factors, such as congestive heart failure, hypertension, age ? 75 years, diabetes mellitus, prior stroke or transient ischaemic attack.
 
-**Paediatric population**
+**Paediatric population** Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing from 30 kg to 50 kg after at least 5 days of initial parenteral anticoagulation treatment.
 
 **Paediatric population** Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing more than 50 kg after at least 5 days of initial parenteral anticoagulation treatment.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005600
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-16/09/2021
-
-Marketing authorisation issued
-
-12/11/2021
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/005600
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
+- **Opinion adopted**
+    - 16/09/2021
+- **Marketing authorisation issued**
+    - 12/11/2021
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -664,13 +645,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rivaroxaban Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.13 KB - PDF)
+English (EN) (147.61 KB - PDF)
 
-**First published:** 04/06/2025 **Last updated:** 08/05/2026
+**First published:** 04/06/2025 **Last updated:** 06/11/2026
 
 [View](/en/documents/procedural-steps-after/rivaroxaban-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -682,7 +663,7 @@ English (EN) (161.55 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/rivaroxaban-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Rivaroxaban Mylan : EPAR - Public assessment report
 
@@ -754,7 +735,7 @@ Deutsch (DE) (641.06 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (674.59 KB - DOCX)
+eesti (ET) (674.59 KB - DOCX)
 
 **First published:** 04/06/2025
 
@@ -778,25 +759,19 @@ hrvatski (HR) (595.25 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (813.47 KB - DOCX)
-
-**First published:** 04/06/2025
-
-[View](/is/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (764.41 KB - DOCX)
 
 **First published:** 04/06/2025
 
 [View](/it/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (738.44 KB - DOCX)
+latviešu (LV) (738.44 KB - DOCX)
 
 **First published:** 04/06/2025
 
 [View](/lv/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (541.64 KB - DOCX)
+lietuvių (LT) (541.64 KB - DOCX)
 
 **First published:** 04/06/2025
 
@@ -819,12 +794,6 @@ Nederlands (NL) (618.36 KB - DOCX)
 **First published:** 04/06/2025
 
 [View](/nl/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (1.21 MB - DOCX)
-
-**First published:** 04/06/2025
-
-[View](/no/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (807.55 KB - DOCX)
 
@@ -856,7 +825,7 @@ slovenščina (SL) (748.06 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (756.91 KB - DOCX)
+suomi (FI) (756.91 KB - DOCX)
 
 **First published:** 04/06/2025
 
@@ -868,8 +837,20 @@ svenska (SV) (560.41 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (813.47 KB - DOCX)
+
+**First published:** 04/06/2025
+
+[View](/is/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.21 MB - DOCX)
+
+**First published:** 04/06/2025
+
+[View](/no/documents/product-information-tracked-changes/rivaroxaban-mylan-epar-product-information-tracked-changes_no.docx)
+
 **This page was last updated on**
 
-08/05/2026
+06/11/2026
 
 ## Share this page

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-22 12:08:00
+document_datetime: 2026-10-29 15:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-mylan.html
 document_name: dimethyl-fumarate-mylan.html
 version: success
-processing_time: 0.1475557
-conversion_datetime: 2026-07-28 13:01:03.707669
+processing_time: 0.1976731
+conversion_datetime: 2026-11-09 13:01:41.233926
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Dimethyl fumarate Mylan
 
 [RSS](/en/individual-human-medicine.xml/240135)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 dimethyl fumarate
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -102,7 +102,7 @@ English (EN) (125.11 KB - PDF)
 
 [View](/en/documents/overview/dimethyl-fumarate-mylan-epar-medicine-overview_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-534)
+[Other languages (22)](#file-language-dropdown-931)
 
 български (BG) (166.56 KB - PDF)
 
@@ -238,9 +238,9 @@ svenska (SV) (143 KB - PDF)
 
 Dimethyl fumarate Mylan : EPAR - Risk-management-plan
 
-English (EN) (1007.94 KB - PDF)
+English (EN) (370.83 KB - PDF)
 
-**First published:** 11/07/2024
+**First published:** 11/07/2024 **Last updated:** 29/10/2026
 
 [View](/en/documents/rmp-summary/dimethyl-fumarate-mylan-epar-risk-management-plan_en.pdf)
 
@@ -254,7 +254,7 @@ English (EN) (507.25 KB - PDF)
 
 [View](/en/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-445)
+[Other languages (24)](#file-language-dropdown-741)
 
 български (BG) (731.53 KB - PDF)
 
@@ -400,15 +400,15 @@ norsk (NO) (590 KB - PDF)
 
 [View](/no/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** N/0000362350
+**Latest procedure affecting product information:**VR/0000344712
 
-21/07/2026
+29/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -427,7 +427,7 @@ English (EN) (55.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dimethyl-fumarate-mylan-epar-all-authorised-presenations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-492)
+[Other languages (24)](#file-language-dropdown-90)
 
 български (BG) (59.7 KB - PDF)
 
@@ -599,15 +599,18 @@ Dimethyl fumarate Mylan is indicated for the treatment of adult and paediatric p
 - **EMA product number**
     - EMEA/H/C/006397
 - **Generic**
-    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
 - **Marketing authorisation holder**
-    - Mylan Pharmaceuticals Limited Damastown Industrial Park,  Mulhuddart, Dublin 15,  DUBLIN  Ireland
+    - Mylan Pharmaceuticals Limited Damastown Industrial Park,  
+Mulhuddart, Dublin 15,  
+DUBLIN  
+Ireland
 - **Opinion adopted**
     - 21/03/2024
 - **Marketing authorisation issued**
     - 22/04/2024
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -619,9 +622,9 @@ Collapse section
 
 Dimethyl fumarate Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.16 KB - PDF)
+English (EN) (164.73 KB - PDF)
 
-**First published:** 12/05/2025 **Last updated:** 22/07/2026
+**First published:** 12/05/2025 **Last updated:** 29/10/2026
 
 [View](/en/documents/procedural-steps-after/dimethyl-fumarate-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -673,7 +676,7 @@ English (EN) (196.83 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/dimethyl-fumarate-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-864)
+[Other languages (24)](#file-language-dropdown-469)
 
 български (BG) (249.3 KB - DOCX)
 
@@ -821,6 +824,6 @@ norsk (NO) (227.4 KB - DOCX)
 
 **This page was last updated on**
 
-22/07/2026
+29/10/2026
 
 ## Share this page

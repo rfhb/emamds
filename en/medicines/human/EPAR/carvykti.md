@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-01 10:20:00
+document_datetime: 2026-10-29 17:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/carvykti.html
 document_name: carvykti.html
 version: success
-processing_time: 0.126323
-conversion_datetime: 2026-06-04 22:19:10.771945
+processing_time: 0.2132328
+conversion_datetime: 2026-11-09 13:00:25.45433
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Carvykti
 
 [RSS](/en/individual-human-medicine.xml/67564)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 ciltacabtagene autoleucel
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -48,9 +48,9 @@ Page contents
 
 Carvykti is a medicine used to treat adults with multiple myeloma (a cancer of the bone marrow) when the cancer has come back (relapsed) and has not responded to treatment (refractory).
 
-It is used in adults who have received at least one prior therapy, including an immunomodulatory agent and a proteasome inhibitor, whose disease has worsened since the last treatment, and for whom treatment with lenalidomide did not work (refractory) .
+It is used in adults who have received at least one prior therapy, including an immunomodulatory agent and a proteasome inhibitor, whose disease has worsened since the last treatment, and for whom treatment with lenalidomide did not work (refractory).
 
-Multiple myeloma is rare, and Carvykti was designated an 'orphan medicine' (a medicine used in rare diseases) on 28 February 2020. Further information on the orphan designation can be found in the [orphan designation page](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2252) .
+Multiple myeloma is rare, and Carvykti was designated an 'orphan medicine' (a medicine used in rare diseases) on 28 February 2020. Further information on the orphan designation can be found in the [orphan designation page](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2252).
 
 Carvykti contains the active substance ciltacabtagene autoleucel, consisting of genetically modified T cells (a type of white blood cells).
 
@@ -126,7 +126,7 @@ English (EN) (108.78 KB - PDF)
 
 [View](/en/documents/overview/carvykti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-939)
+[Other languages (22)](#file-language-dropdown-846)
 
 български (BG) (136.47 KB - PDF)
 
@@ -262,9 +262,9 @@ svenska (SV) (106.07 KB - PDF)
 
 Carvykti : EPAR - Risk management plan
 
-English (EN) (1.74 MB - PDF)
+English (EN) (1.66 MB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 13/03/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/en/documents/rmp/carvykti-epar-risk-management-plan_en.pdf)
 
@@ -272,167 +272,168 @@ English (EN) (1.74 MB - PDF)
 
 Carvykti : EPAR - Product information
 
-English (EN) (438.88 KB - PDF)
+English (EN) (431.88 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/en/documents/product-information/carvykti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-593)
+[Other languages (24)](#file-language-dropdown-194)
 
-български (BG) (490.46 KB - PDF)
+български (BG) (462.4 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/bg/documents/product-information/carvykti-epar-product-information_bg.pdf)
 
-español (ES) (1020 KB - PDF)
+español (ES) (1017.45 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/es/documents/product-information/carvykti-epar-product-information_es.pdf)
 
-čeština (CS) (968.3 KB - PDF)
+čeština (CS) (848.45 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/cs/documents/product-information/carvykti-epar-product-information_cs.pdf)
 
-dansk (DA) (829.24 KB - PDF)
+dansk (DA) (825.26 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/da/documents/product-information/carvykti-epar-product-information_da.pdf)
 
-Deutsch (DE) (642.03 KB - PDF)
+Deutsch (DE) (639.83 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/de/documents/product-information/carvykti-epar-product-information_de.pdf)
 
-eesti (ET) (655.92 KB - PDF)
+eesti (ET) (651.7 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/et/documents/product-information/carvykti-epar-product-information_et.pdf)
 
-ελληνικά (EL) (691.09 KB - PDF)
+ελληνικά (EL) (685.33 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/el/documents/product-information/carvykti-epar-product-information_el.pdf)
 
-français (FR) (646.25 KB - PDF)
+français (FR) (643.76 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/fr/documents/product-information/carvykti-epar-product-information_fr.pdf)
 
-hrvatski (HR) (902.64 KB - PDF)
+hrvatski (HR) (895.04 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/hr/documents/product-information/carvykti-epar-product-information_hr.pdf)
 
-italiano (IT) (610.95 KB - PDF)
+italiano (IT) (608.57 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/it/documents/product-information/carvykti-epar-product-information_it.pdf)
 
-latviešu (LV) (593.81 KB - PDF)
+latviešu (LV) (590.7 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/lv/documents/product-information/carvykti-epar-product-information_lv.pdf)
 
-lietuvių (LT) (827.92 KB - PDF)
+lietuvių (LT) (825.05 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/lt/documents/product-information/carvykti-epar-product-information_lt.pdf)
 
-magyar (HU) (1.05 MB - PDF)
+magyar (HU) (1.04 MB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/hu/documents/product-information/carvykti-epar-product-information_hu.pdf)
 
-Malti (MT) (1014 KB - PDF)
+Malti (MT) (1010.25 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/mt/documents/product-information/carvykti-epar-product-information_mt.pdf)
 
-Nederlands (NL) (609.76 KB - PDF)
+Nederlands (NL) (607.21 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/nl/documents/product-information/carvykti-epar-product-information_nl.pdf)
 
-polski (PL) (670.88 KB - PDF)
+polski (PL) (668.57 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/pl/documents/product-information/carvykti-epar-product-information_pl.pdf)
 
-português (PT) (591.31 KB - PDF)
+português (PT) (599.92 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/pt/documents/product-information/carvykti-epar-product-information_pt.pdf)
 
-română (RO) (777.87 KB - PDF)
+română (RO) (775.3 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/ro/documents/product-information/carvykti-epar-product-information_ro.pdf)
 
-slovenčina (SK) (463.62 KB - PDF)
+slovenčina (SK) (460.76 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/sk/documents/product-information/carvykti-epar-product-information_sk.pdf)
 
-slovenščina (SL) (806.16 KB - PDF)
+slovenščina (SL) (864.95 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/sl/documents/product-information/carvykti-epar-product-information_sl.pdf)
 
-suomi (FI) (852.59 KB - PDF)
+suomi (FI) (753.38 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/fi/documents/product-information/carvykti-epar-product-information_fi.pdf)
 
-svenska (SV) (517.76 KB - PDF)
+svenska (SV) (515.03 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/sv/documents/product-information/carvykti-epar-product-information_sv.pdf)
 
-Íslenska (IS) (637.06 KB - PDF)
+Íslenska (IS) (634.56 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/is/documents/product-information/carvykti-epar-product-information_is.pdf)
 
-norsk (NO) (836.83 KB - PDF)
+norsk (NO) (902.53 KB - PDF)
 
-**First published:** 13/06/2022 **Last updated:** 01/06/2026
+**First published:** 13/06/2022 **Last updated:** 29/10/2026
 
 [View](/no/documents/product-information/carvykti-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000311150
+**Latest procedure affecting product information:**VR/0000365288
 
-28/05/2026
+15/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -450,7 +451,7 @@ English (EN) (30.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-54)
+[Other languages (24)](#file-language-dropdown-171)
 
 български (BG) (32.29 KB - PDF)
 
@@ -598,25 +599,16 @@ norsk (NO) (31.69 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Carvykti
-
-Active substance
-
-ciltacabtagene autoleucel
-
-International non-proprietary name (INN) or common name
-
-ciltacabtagene autoleucel
-
-Therapeutic area (MeSH)
-
-Multiple Myeloma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XL05
+- **Name of medicine**
+    - Carvykti
+- **Active substance**
+    - ciltacabtagene autoleucel
+- **International non-proprietary name (INN) or common name**
+    - ciltacabtagene autoleucel
+- **Therapeutic area (MeSH)**
+    - Multiple Myeloma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XL05
 
 ### Therapeutic indication
 
@@ -624,43 +616,26 @@ Carvykti is indicated for the treatment of adult patients with relapsed and refr
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005095
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Advanced therapy
-
-This medicine is classified as an advanced therapy medicinal product (ATMP): a medicine for human use that is based on genes, tissues or cells. It offers groundbreaking new opportunities for the treatment of disease and injury. For more information, see [Advanced therapy medicinal products: Overview](/node/69659) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-PRIME: priority medicine
-
-This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
-
-Marketing authorisation holder
-
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-Opinion adopted
-
-24/03/2022
-
-Marketing authorisation issued
-
-25/05/2022
-
-Revision
-
-18
+- **EMA product number**
+    - EMEA/H/C/005095
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Advanced therapy**
+    - This medicine is classified as an advanced therapy medicinal product (ATMP): a medicine for human use that is based on genes, tissues or cells. It offers groundbreaking new opportunities for the treatment of disease and injury. For more information, see [Advanced therapy medicinal products: Overview](/node/69659).
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
+- **PRIME: priority medicine**
+    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853).
+- **Marketing authorisation holder**
+    - Janssen-Cilag International NV Turnhoutseweg 30  
+B-2340 Beerse  
+Belgium
+- **Opinion adopted**
+    - 24/03/2022
+- **Marketing authorisation issued**
+    - 25/05/2022
+- **Revision**
+    - 19
 
 ## Assessment history
 
@@ -672,9 +647,9 @@ Collapse section
 
 Carvykti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (169.87 KB - PDF)
+English (EN) (216.66 KB - PDF)
 
-**First published:** 11/07/2025 **Last updated:** 01/06/2026
+**First published:** 11/07/2025 **Last updated:** 29/10/2026
 
 [View](/en/documents/procedural-steps-after/carvykti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -734,7 +709,7 @@ English (EN) (124.82 KB - PDF)
 
 **First published:** 12/12/2023
 
-[View](/en/documents/scientific-conclusion/carvykti-h-c-psusa-00011000-202302-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/carvykti-h-c-psusa-00011000-202302-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -790,14 +765,14 @@ English (EN) (156.58 KB - PDF)
 
 - [EU/3/20/2252 - orphan designation for treatment of multiple myeloma](/en/medicines/human/orphan-designations/eu-3-20-2252)
 - [Abecma / Breyanzi / Carvykti / Kymriah / Tecartus / Yescarta - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/abecma-breyanzi-carvykti-kymriah-tecartus-yescarta)
+- [Postauthorization Safety Study Survey to Evaluate the Effectiveness of the Ciltacabtagene Autoleucel HCP Educational Program and the Product Handling Training - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000047)
 - [Fitness-for-Use Assessment across Four Data Sources for Real-World Safety and Effectiveness Studies of CAR-T cell therapies - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000955)
 - [Identification, Characterisation, and Data Quality Assessment of Data Sources for Real-World Safety and Effectiveness Studies of Chimeric antigen receptor T-cell (CAR-T cell) therapies - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000954)
 - [A Post-authorization Safety Study to Evaluate the Safety of Multiple Myeloma Patients Treated with Ciltacabtagene Autoleucel - post-authorisation study](https://catalogues.ema.europa.eu/study/50027)
-- [Postauthorization Safety Study Survey to Evaluate the Effectiveness of the Ciltacabtagene Autoleucel HCP Educational Program and the Product Handling Training - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000047)
 - [A Post-authorization Safety Study to Evaluate the Safety of Multiple Myeloma Patients Treated with Ciltacabtagene Autoleucel - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000046)
 
 **This page was last updated on**
 
-01/06/2026
+29/10/2026
 
 ## Share this page

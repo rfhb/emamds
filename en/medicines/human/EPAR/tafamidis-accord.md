@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-08 10:00:00
+document_datetime: 2026-10-29 12:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tafamidis-accord.html
 document_name: tafamidis-accord.html
 version: success
-processing_time: 0.1467957
-conversion_datetime: 2026-10-10 14:03:18.58281
+processing_time: 0.1788773
+conversion_datetime: 2026-11-09 13:10:45.154251
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.137.0
-  docling-core: 2.101.1
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.2
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Tafamidis Accord
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 tafamidis
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -44,10 +44,6 @@ Page contents
 - European Commission decision
 
 ## Overview
-
-Tafamidis Accord is a medicine used to treat hereditary transthyretin amyloidosis, a disease in which abnormal protein fibres called amyloid build up in tissues around the body. It is used in adults with hereditary transthyretin amyloidosis with cardiomyopathy (ATTRh-CM), where amyloid builds up in the heart.
-
-Tafamidis Accord contains the active substance tafamidis and is a 'generic medicine'. This means that Tafamidis Accord contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Tafamidis Accord is Vyndaqel.
 
 Expand section
 
@@ -107,7 +103,7 @@ English (EN) (158.7 KB - PDF)
 
 [View](/en/documents/overview/tafamidis-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-318)
+[Other languages (22)](#file-language-dropdown-922)
 
 български (BG) (159.28 KB - PDF)
 
@@ -253,165 +249,167 @@ English (EN) (1.78 MB - PDF)
 
 Tafamidis Accord : EPAR - Product information
 
-English (EN) (445.47 KB - PDF)
+English (EN) (468.29 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/en/documents/product-information/tafamidis-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-337)
+[Other languages (24)](#file-language-dropdown-685)
 
-български (BG) (836.1 KB - PDF)
+български (BG) (711.37 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/bg/documents/product-information/tafamidis-accord-epar-product-information_bg.pdf)
 
-español (ES) (592.35 KB - PDF)
+español (ES) (499.56 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/es/documents/product-information/tafamidis-accord-epar-product-information_es.pdf)
 
-čeština (CS) (688.3 KB - PDF)
+čeština (CS) (520.04 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/cs/documents/product-information/tafamidis-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (683.1 KB - PDF)
+dansk (DA) (589.25 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/da/documents/product-information/tafamidis-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (697.61 KB - PDF)
+Deutsch (DE) (499.72 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/de/documents/product-information/tafamidis-accord-epar-product-information_de.pdf)
 
-eesti (ET) (631.48 KB - PDF)
+eesti (ET) (536.44 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/et/documents/product-information/tafamidis-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (746.91 KB - PDF)
+ελληνικά (EL) (765.91 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/el/documents/product-information/tafamidis-accord-epar-product-information_el.pdf)
 
-français (FR) (908.08 KB - PDF)
+français (FR) (675.79 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/fr/documents/product-information/tafamidis-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (546.56 KB - PDF)
+hrvatski (HR) (531.44 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/hr/documents/product-information/tafamidis-accord-epar-product-information_hr.pdf)
 
-italiano (IT) (652.1 KB - PDF)
+italiano (IT) (480.96 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/it/documents/product-information/tafamidis-accord-epar-product-information_it.pdf)
 
-latviešu (LV) (721.84 KB - PDF)
+latviešu (LV) (586.43 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/lv/documents/product-information/tafamidis-accord-epar-product-information_lv.pdf)
 
-lietuvių (LT) (686.93 KB - PDF)
+lietuvių (LT) (558.49 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/lt/documents/product-information/tafamidis-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (552.42 KB - PDF)
+magyar (HU) (455.83 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/hu/documents/product-information/tafamidis-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (671.44 KB - PDF)
+Malti (MT) (700.87 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/mt/documents/product-information/tafamidis-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (576.12 KB - PDF)
+Nederlands (NL) (346.05 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/nl/documents/product-information/tafamidis-accord-epar-product-information_nl.pdf)
 
-polski (PL) (619.29 KB - PDF)
+polski (PL) (582.14 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/pl/documents/product-information/tafamidis-accord-epar-product-information_pl.pdf)
 
-português (PT) (663.28 KB - PDF)
+português (PT) (540.07 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/pt/documents/product-information/tafamidis-accord-epar-product-information_pt.pdf)
 
-română (RO) (690.59 KB - PDF)
+română (RO) (673.84 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/ro/documents/product-information/tafamidis-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (659.22 KB - PDF)
+slovenčina (SK) (570.04 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/sk/documents/product-information/tafamidis-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (656.64 KB - PDF)
+slovenščina (SL) (573.44 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/sl/documents/product-information/tafamidis-accord-epar-product-information_sl.pdf)
 
-suomi (FI) (648.63 KB - PDF)
+suomi (FI) (498.25 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/fi/documents/product-information/tafamidis-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (618.94 KB - PDF)
+svenska (SV) (470.05 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/sv/documents/product-information/tafamidis-accord-epar-product-information_sv.pdf)
 
-Íslenska (IS) (662.22 KB - PDF)
+Íslenska (IS) (478.86 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/is/documents/product-information/tafamidis-accord-epar-product-information_is.pdf)
 
-norsk (NO) (669.66 KB - PDF)
+norsk (NO) (560.84 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 29/10/2026
 
 [View](/no/documents/product-information/tafamidis-accord-epar-product-information_no.pdf)
 
-18/09/2026
+**Latest procedure affecting product information:**N/0000384133
+
+28/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -430,7 +428,7 @@ English (EN) (64.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tafamidis-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-396)
+[Other languages (24)](#file-language-dropdown-348)
 
 български (BG) (74.74 KB - PDF)
 
@@ -603,15 +601,35 @@ Tafamidis Accord is indicated for the treatment of hereditary transthyretin amyl
 - **EMA product number**
     - EMEA/H/C/006711
 - **Generic**
-    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
 - **Marketing authorisation holder**
-    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  
+World Trade Center  
+Moll De Barcelona S/n  
+08039 Barcelona  
+SPAIN
 - **Opinion adopted**
     - 23/07/2026
 - **Marketing authorisation issued**
     - 18/09/2026
+- **Revision**
+    - 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Tafamidis Accord : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (141.01 KB - PDF)
+
+**First published:** 29/10/2026
+
+[View](/en/documents/procedural-steps-after/tafamidis-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -643,6 +661,6 @@ English (EN) (118.54 KB - PDF)
 
 **This page was last updated on**
 
-08/10/2026
+29/10/2026
 
 ## Share this page

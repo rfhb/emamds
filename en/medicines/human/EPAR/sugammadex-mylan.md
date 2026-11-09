@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-12 15:42:00
+document_datetime: 2026-11-04 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sugammadex-mylan.html
 document_name: sugammadex-mylan.html
 version: success
-processing_time: 0.1566682
-conversion_datetime: 2026-06-13 19:39:59.168521
+processing_time: 0.2055863
+conversion_datetime: 2026-11-09 13:10:14.758565
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Sugammadex Mylan
 
 [RSS](/en/individual-human-medicine.xml/67492)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 sugammadex
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -100,7 +100,7 @@ English (EN) (133.51 KB - PDF)
 
 [View](/en/documents/overview/sugammadex-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-583)
+[Other languages (22)](#file-language-dropdown-449)
 
 български (BG) (155.95 KB - PDF)
 
@@ -246,167 +246,168 @@ English (EN) (82.72 KB - PDF)
 
 Sugammadex Mylan : EPAR - Product information
 
-English (EN) (499.47 KB - PDF)
+English (EN) (500.73 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/en/documents/product-information/sugammadex-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-768)
+[Other languages (24)](#file-language-dropdown-240)
 
-български (BG) (619.48 KB - PDF)
+български (BG) (510.1 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/bg/documents/product-information/sugammadex-mylan-epar-product-information_bg.pdf)
 
-español (ES) (508.01 KB - PDF)
+español (ES) (487.49 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/es/documents/product-information/sugammadex-mylan-epar-product-information_es.pdf)
 
-čeština (CS) (538.47 KB - PDF)
+čeština (CS) (480.89 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/cs/documents/product-information/sugammadex-mylan-epar-product-information_cs.pdf)
 
-dansk (DA) (527.37 KB - PDF)
+dansk (DA) (526.15 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/da/documents/product-information/sugammadex-mylan-epar-product-information_da.pdf)
 
-Deutsch (DE) (537.25 KB - PDF)
+Deutsch (DE) (464.89 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/de/documents/product-information/sugammadex-mylan-epar-product-information_de.pdf)
 
-eesti (ET) (504.02 KB - PDF)
+eesti (ET) (421.05 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/et/documents/product-information/sugammadex-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (820.67 KB - PDF)
+ελληνικά (EL) (822.08 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/el/documents/product-information/sugammadex-mylan-epar-product-information_el.pdf)
 
-français (FR) (556.92 KB - PDF)
+français (FR) (558.12 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/fr/documents/product-information/sugammadex-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (544.83 KB - PDF)
+hrvatski (HR) (550.54 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/hr/documents/product-information/sugammadex-mylan-epar-product-information_hr.pdf)
 
-italiano (IT) (542.36 KB - PDF)
+italiano (IT) (543.65 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/it/documents/product-information/sugammadex-mylan-epar-product-information_it.pdf)
 
-latviešu (LV) (594.12 KB - PDF)
+latviešu (LV) (639.21 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/lv/documents/product-information/sugammadex-mylan-epar-product-information_lv.pdf)
 
-lietuvių (LT) (550.82 KB - PDF)
+lietuvių (LT) (550.31 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/lt/documents/product-information/sugammadex-mylan-epar-product-information_lt.pdf)
 
-magyar (HU) (584.91 KB - PDF)
+magyar (HU) (584.46 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/hu/documents/product-information/sugammadex-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (598.08 KB - PDF)
+Malti (MT) (582.56 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/mt/documents/product-information/sugammadex-mylan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (525.54 KB - PDF)
+Nederlands (NL) (524.85 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/nl/documents/product-information/sugammadex-mylan-epar-product-information_nl.pdf)
 
-polski (PL) (633.36 KB - PDF)
+polski (PL) (543.69 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/pl/documents/product-information/sugammadex-mylan-epar-product-information_pl.pdf)
 
-português (PT) (522.69 KB - PDF)
+português (PT) (539.92 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/pt/documents/product-information/sugammadex-mylan-epar-product-information_pt.pdf)
 
-română (RO) (542.62 KB - PDF)
+română (RO) (579.53 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/ro/documents/product-information/sugammadex-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (546.6 KB - PDF)
+slovenčina (SK) (543.21 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/sk/documents/product-information/sugammadex-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (569.03 KB - PDF)
+slovenščina (SL) (571.62 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/sl/documents/product-information/sugammadex-mylan-epar-product-information_sl.pdf)
 
-suomi (FI) (525.66 KB - PDF)
+suomi (FI) (516.21 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/fi/documents/product-information/sugammadex-mylan-epar-product-information_fi.pdf)
 
-svenska (SV) (505.18 KB - PDF)
+svenska (SV) (505.13 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/sv/documents/product-information/sugammadex-mylan-epar-product-information_sv.pdf)
 
-Íslenska (IS) (517.54 KB - PDF)
+Íslenska (IS) (518.46 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/is/documents/product-information/sugammadex-mylan-epar-product-information_is.pdf)
 
-norsk (NO) (510.16 KB - PDF)
+norsk (NO) (497.75 KB - PDF)
 
-**First published:** 22/11/2021 **Last updated:** 12/06/2026
+**First published:** 22/11/2021 **Last updated:** 04/11/2026
 
 [View](/no/documents/product-information/sugammadex-mylan-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000326802
+**Latest procedure affecting product information:**VR/0000385250
 
-08/06/2026
+04/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -424,7 +425,7 @@ English (EN) (15.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sugammadex-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-187)
 
 български (BG) (32.11 KB - PDF)
 
@@ -572,25 +573,16 @@ norsk (NO) (16.19 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Sugammadex Mylan
-
-Active substance
-
-sugammadex sodium
-
-International non-proprietary name (INN) or common name
-
-sugammadex
-
-Therapeutic area (MeSH)
-
-Neuromuscular Blockade
-
-Anatomical therapeutic chemical (ATC) code
-
-V03AB35
+- **Name of medicine**
+    - Sugammadex Mylan
+- **Active substance**
+    - sugammadex sodium
+- **International non-proprietary name (INN) or common name**
+    - sugammadex
+- **Therapeutic area (MeSH)**
+    - Neuromuscular Blockade
+- **Anatomical therapeutic chemical (ATC) code**
+    - V03AB35
 
 ### Pharmacotherapeutic group
 
@@ -598,37 +590,27 @@ All other therapeutic products
 
 ### Therapeutic indication
 
-Reversal of neuromuscular blockade induced by   rocuronium or vecuronium in adults.
+Reversal of neuromuscular blockade induced by rocuronium or vecuronium in adults.
 
 For the paediatric population: sugammadex is only recommended for routine reversal of rocuronium induced blockade in children and adolescents aged 2 to 17 years.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005403
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
-
-Opinion adopted
-
-16/09/2021
-
-Marketing authorisation issued
-
-15/11/2021
-
-Revision
-
-7
+- **EMA product number**
+    - EMEA/H/C/005403
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
+- **Marketing authorisation holder**
+    - Mylan Pharmaceuticals Limited Damastown Industrial Park,  
+Mulhuddart, Dublin 15,  
+DUBLIN  
+Ireland
+- **Opinion adopted**
+    - 16/09/2021
+- **Marketing authorisation issued**
+    - 15/11/2021
+- **Revision**
+    - 8
 
 ## Assessment history
 
@@ -640,9 +622,9 @@ Collapse section
 
 Sugammadex Mylan: EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (171.64 KB - PDF)
+English (EN) (187.21 KB - PDF)
 
-**First published:** 12/03/2025 **Last updated:** 12/06/2026
+**First published:** 12/03/2025 **Last updated:** 04/11/2026
 
 [View](/en/documents/procedural-steps-after/sugammadex-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -694,7 +676,7 @@ English (EN) (143.22 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/sugammadex-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-492)
 
 български (BG) (163.21 KB - DOCX)
 
@@ -842,6 +824,6 @@ norsk (NO) (140.7 KB - DOCX)
 
 **This page was last updated on**
 
-12/06/2026
+04/11/2026
 
 ## Share this page

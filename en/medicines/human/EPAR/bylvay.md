@@ -1,108 +1,32 @@
 ---
-document_datetime: 2026-05-08 14:30:00
+document_datetime: 2026-11-06 16:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bylvay.html
 document_name: bylvay.html
 version: success
-processing_time: 0.1246975
-conversion_datetime: 2026-05-10 13:25:43.94171
+processing_time: 0.2338291
+conversion_datetime: 2026-11-09 13:00:10.022294
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Bylvay
-
 # Bylvay
 
 [RSS](/en/individual-human-medicine.xml/67447)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 odevixibat
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -132,43 +56,43 @@ Expand section
 
 Collapse section
 
-## How is Bylvay used?
+### How is Bylvay used?
 
 Bylvay is available as capsules. The recommended dose is 40 micrograms per kilogram body weight. The capsules should be taken once a day in the morning. They can be taken whole or they can be opened and sprinkled on food. If the medicine is not working well enough after three months, the treating physician may increase the dose up to 120 microgram per kilogram body weight.
 
 The medicine can only be obtained with a prescription and treatment should be started and supervised by a doctor who has experience in the management of PFIC. For more information about using Bylvay, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Bylvay work?
+### How does Bylvay work?
 
 The active substance in Bylvay, odevixibat, blocks the actions of a protein in the intestine (known as IBAT) that transports bile acid from the intestines into the liver. By blocking the actions of IBAT, odevixibat reduces the amount of bile acid that is transported from the intestines into the liver. This will prevent the build-up of bile acids and damage to the liver tissue.
 
-## What benefits of Bylvay have been shown in studies?
+### What benefits of Bylvay have been shown in studies?
 
 Bylvay was more effective than a placebo (dummy treatment) at reducing the severity of PFIC in one main study, which involved 62 patients aged between 6 months and 18 years. The main measure of effectiveness was based on the number of patients whose bile acid level in the blood decreased by at least 70% after 24 weeks of treatment.
 
 Bylvay treatment led to the required reduction in around 44% (10 out of 23) of patients who received the standard dose (40 micrograms per kilogram body weight per day) and in around 21% (4 out of 19) of patients who received the maximum daily dose (120 micrograms per kilogram body weight per day), compared with 0% (0 out of 20) of those receiving placebo. The study also showed that Bylvay can improve symptoms such as itching and prevent delayed growth.
 
-## What are the risks associated with Bylvay?
+### What are the risks associated with Bylvay?
 
 The most common side effects with Bylvay (which may affect up to 1 in 10 people) are soft stools, diarrhoea, belly pain, and an enlarged liver. For the full list of side effects of Bylvay, see the package leaflet.
 
-## Why is Bylvay authorised in the EU?
+### Why is Bylvay authorised in the EU?
 
 One main study has shown that Bylvay is effective at reducing the amount of bile acid in the blood of patients with PFIC. Bylvay was also effective at reducing signs and symptoms of PFIC such as itching. Because PFIC is a very rare disease, the study was small but the short-term data available indicated that Bylvay could delay disease progression and the need for surgery and/or liver transplantation. The side effects seen to date are considered manageable. Given the seriousness of the condition and the lack of existing treatments, the European Medicines Agency decided that Bylvay's benefits are greater than its risk and it can be authorised for use in the EU.
 
 Bylvay has been authorised under 'exceptional circumstances'. This means that, because the indication is encountered so rarely, it has not been possible to obtain full information about the medicine. Every year, the European Medicines Agency will review any new information that may become available and this summary will be updated as necessary.
 
-## What information is still awaited for Bylvay?
+### What information is still awaited for Bylvay?
 
 Since Bylvay has been authorised under exceptional circumstances, the company that markets Bylvay will conduct a study to provide data on the long-term effectiveness of Bylvay. The study will also focus on whether Bylvay treatment delays liver-related surgery and/or liver transplantation for PFIC patients.
 
-## What measures are being taken to ensure the safe and effective use of Bylvay?
+### What measures are being taken to ensure the safe and effective use of Bylvay?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Bylvay have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Bylvay are continuously monitored. Suspected side effects reported with Bylvay are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Bylvay
+### Other information about Bylvay
 
 Bylvay received a marketing authorisation valid throughout the EU on 16 July 2021.
 
@@ -182,7 +106,7 @@ English (EN) (110.54 KB - PDF)
 
 [View](/en/documents/overview/bylvay-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-697)
+[Other languages (22)](#file-language-dropdown-335)
 
 български (BG) (134.55 KB - PDF)
 
@@ -214,7 +138,7 @@ Deutsch (DE) (114.31 KB - PDF)
 
 [View](/de/documents/overview/bylvay-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (99.2 KB - PDF)
+eesti (ET) (99.2 KB - PDF)
 
 **First published:** 28/07/2021
 
@@ -244,13 +168,13 @@ italiano (IT) (109.47 KB - PDF)
 
 [View](/it/documents/overview/bylvay-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (148.3 KB - PDF)
+latviešu (LV) (148.3 KB - PDF)
 
 **First published:** 28/07/2021
 
 [View](/lv/documents/overview/bylvay-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (133.54 KB - PDF)
+lietuvių (LT) (133.54 KB - PDF)
 
 **First published:** 28/07/2021
 
@@ -304,7 +228,7 @@ slovenščina (SL) (133.6 KB - PDF)
 
 [View](/sl/documents/overview/bylvay-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (108.7 KB - PDF)
+suomi (FI) (108.7 KB - PDF)
 
 **First published:** 28/07/2021
 
@@ -334,7 +258,7 @@ English (EN) (737.42 KB - PDF)
 
 [View](/en/documents/product-information/bylvay-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-949)
+[Other languages (24)](#file-language-dropdown-174)
 
 български (BG) (734.28 KB - PDF)
 
@@ -366,7 +290,7 @@ Deutsch (DE) (668.37 KB - PDF)
 
 [View](/de/documents/product-information/bylvay-epar-product-information_de.pdf)
 
-eesti keel (ET) (590.25 KB - PDF)
+eesti (ET) (590.25 KB - PDF)
 
 **First published:** 28/07/2021 **Last updated:** 06/06/2025
 
@@ -390,25 +314,19 @@ hrvatski (HR) (816.06 KB - PDF)
 
 [View](/hr/documents/product-information/bylvay-epar-product-information_hr.pdf)
 
-íslenska (IS) (626.08 KB - PDF)
-
-**First published:** 28/07/2021 **Last updated:** 06/06/2025
-
-[View](/is/documents/product-information/bylvay-epar-product-information_is.pdf)
-
 italiano (IT) (779.13 KB - PDF)
 
 **First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/it/documents/product-information/bylvay-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (679.43 KB - PDF)
+latviešu (LV) (679.43 KB - PDF)
 
 **First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/lv/documents/product-information/bylvay-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (725.57 KB - PDF)
+lietuvių (LT) (725.57 KB - PDF)
 
 **First published:** 28/07/2021 **Last updated:** 06/06/2025
 
@@ -431,12 +349,6 @@ Nederlands (NL) (682.32 KB - PDF)
 **First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/nl/documents/product-information/bylvay-epar-product-information_nl.pdf)
-
-norsk (NO) (634 KB - PDF)
-
-**First published:** 28/07/2021 **Last updated:** 06/06/2025
-
-[View](/no/documents/product-information/bylvay-epar-product-information_no.pdf)
 
 polski (PL) (843.7 KB - PDF)
 
@@ -468,7 +380,7 @@ slovenščina (SL) (1.06 MB - PDF)
 
 [View](/sl/documents/product-information/bylvay-epar-product-information_sl.pdf)
 
-Suomi (FI) (631.11 KB - PDF)
+suomi (FI) (631.11 KB - PDF)
 
 **First published:** 28/07/2021 **Last updated:** 06/06/2025
 
@@ -480,7 +392,19 @@ svenska (SV) (1002.26 KB - PDF)
 
 [View](/sv/documents/product-information/bylvay-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000306638
+Íslenska (IS) (626.08 KB - PDF)
+
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
+
+[View](/is/documents/product-information/bylvay-epar-product-information_is.pdf)
+
+norsk (NO) (634 KB - PDF)
+
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
+
+[View](/no/documents/product-information/bylvay-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**R/0000306638
 
 26/03/2026
 
@@ -488,7 +412,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -506,7 +431,7 @@ English (EN) (70.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-91)
+[Other languages (24)](#file-language-dropdown-943)
 
 български (BG) (77.29 KB - PDF)
 
@@ -538,7 +463,7 @@ Deutsch (DE) (61.44 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (60.35 KB - PDF)
+eesti (ET) (60.35 KB - PDF)
 
 **First published:** 28/07/2021
 
@@ -562,25 +487,19 @@ hrvatski (HR) (76.71 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (64.93 KB - PDF)
-
-**First published:** 28/07/2021
-
-[View](/is/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (60.24 KB - PDF)
 
 **First published:** 28/07/2021
 
 [View](/it/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (76.27 KB - PDF)
+latviešu (LV) (76.27 KB - PDF)
 
 **First published:** 28/07/2021
 
 [View](/lv/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (78.31 KB - PDF)
+lietuvių (LT) (78.31 KB - PDF)
 
 **First published:** 28/07/2021
 
@@ -603,12 +522,6 @@ Nederlands (NL) (60.59 KB - PDF)
 **First published:** 28/07/2021
 
 [View](/nl/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (93.48 KB - PDF)
-
-**First published:** 28/07/2021
-
-[View](/no/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (78.03 KB - PDF)
 
@@ -640,7 +553,7 @@ slovenščina (SL) (68.71 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (58.93 KB - PDF)
+suomi (FI) (58.93 KB - PDF)
 
 **First published:** 28/07/2021
 
@@ -652,27 +565,30 @@ svenska (SV) (60.11 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (64.93 KB - PDF)
+
+**First published:** 28/07/2021
+
+[View](/is/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (93.48 KB - PDF)
+
+**First published:** 28/07/2021
+
+[View](/no/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Bylvay
-
-Active substance
-
-odevixibat
-
-International non-proprietary name (INN) or common name
-
-odevixibat
-
-Therapeutic area (MeSH)
-
-Cholestasis, Intrahepatic
-
-Anatomical therapeutic chemical (ATC) code
-
-A05AX
+- **Name of medicine**
+    - Bylvay
+- **Active substance**
+    - odevixibat
+- **International non-proprietary name (INN) or common name**
+    - odevixibat
+- **Therapeutic area (MeSH)**
+    - Cholestasis, Intrahepatic
+- **Anatomical therapeutic chemical (ATC) code**
+    - A05AX
 
 ### Pharmacotherapeutic group
 
@@ -684,43 +600,26 @@ Bylvay is indicated for the treatment of progressive familial intrahepatic chole
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004691
-
-Accelerated assessment
-
-This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-
-Exceptional circumstances
-
-This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-PRIME: priority medicine
-
-This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
-
-Marketing authorisation holder
-
-Ipsen Pharma
-
-70 rue Balard 75015 Paris France
-
-Opinion adopted
-
-20/05/2021
-
-Marketing authorisation issued
-
-16/07/2021
-
-Revision
-
-12
+- **EMA product number**
+    - EMEA/H/C/004691
+- **Accelerated assessment**
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621).
+- **Exceptional circumstances**
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554).
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
+- **PRIME: priority medicine**
+    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853).
+- **Marketing authorisation holder**
+    - Ipsen Pharma 70 rue Balard  
+75015 Paris  
+France
+- **Opinion adopted**
+    - 20/05/2021
+- **Marketing authorisation issued**
+    - 16/07/2021
+- **Revision**
+    - 13
 
 ## Assessment history
 
@@ -728,7 +627,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Bylvay : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -745,6 +644,16 @@ English (EN) (155.31 KB - PDF)
 **First published:** 31/05/2022 **Last updated:** 19/05/2025
 
 [View](/en/documents/procedural-steps-after/bylvay-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Bylvay-PAM-0000366189 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3413698
+
+English (EN) (1.98 MB - PDF)
+
+**First published:** 06/11/2026
+
+[View](/en/documents/variation-report/bylvay-pam-0000366189-epar-assessment-report_en.pdf)
 
 Bylvay : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
@@ -796,7 +705,7 @@ English (EN) (133.51 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-bylvay-ii-11_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Bylvay : Orphan maintenance assessment report (initial authorisation)
 
@@ -858,7 +767,7 @@ English (EN) (525.24 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-119)
+[Other languages (24)](#file-language-dropdown-78)
 
 български (BG) (518.97 KB - DOCX)
 
@@ -890,7 +799,7 @@ Deutsch (DE) (522.34 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (505.7 KB - DOCX)
+eesti (ET) (505.7 KB - DOCX)
 
 **First published:** 19/05/2025 **Last updated:** 08/05/2026
 
@@ -914,25 +823,19 @@ hrvatski (HR) (527.82 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (524.05 KB - DOCX)
-
-**First published:** 19/05/2025 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.39 MB - DOCX)
 
 **First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (513.49 KB - DOCX)
+latviešu (LV) (513.49 KB - DOCX)
 
 **First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (506.14 KB - DOCX)
+lietuvių (LT) (506.14 KB - DOCX)
 
 **First published:** 19/05/2025 **Last updated:** 08/05/2026
 
@@ -955,12 +858,6 @@ Nederlands (NL) (519.93 KB - DOCX)
 **First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (583.29 KB - DOCX)
-
-**First published:** 19/05/2025 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (523.86 KB - DOCX)
 
@@ -992,7 +889,7 @@ slovenščina (SL) (525.1 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (509.1 KB - DOCX)
+suomi (FI) (509.1 KB - DOCX)
 
 **First published:** 19/05/2025 **Last updated:** 08/05/2026
 
@@ -1004,6 +901,18 @@ svenska (SV) (526.58 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (524.05 KB - DOCX)
+
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
+
+[View](/is/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (583.29 KB - DOCX)
+
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
+
+[View](/no/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_no.docx)
+
 ## More information on Bylvay
 
 The orphan designation [EU/3/12/1040](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1040) was withdrawn from the Union Register of orphan medicinal products by the European Commission in November 2023.
@@ -1013,12 +922,14 @@ The orphan designation [EU/3/12/1040](https://www.ema.europa.eu/en/medicines/hum
 - [EU/3/12/1028 - orphan designation for treatment of progressive familial intrahepatic cholestasis](/en/medicines/human/orphan-designations/eu-3-12-1028)
 - [EU/3/12/1040 - orphan designation for treatment of Alagille syndrome](/en/medicines/human/orphan-designations/eu-3-12-1040)
 - [EMEA-002054-PIP01-16-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002054-pip01-16-m03)
+- [EMA/PE/0000240317 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000240317)
 - [Bylvay - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/bylvay-0)
+- [Registry to Document Treatment Effectiveness, Safety, Including Prospective Long-term Outcomes in Participants with Progressive Familial Intrahepatic Cholestasis (PFIC) who take Odevixibat (Bylvay) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000975)
 - [Prospective Registry-Based Study Evaluating the Effectiveness and Safety of Odevixibat in Participants With Alagille Syndrome (ALGS) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000441)
 - [Prospective Registry-Based Study of the Long-Term Safety of Odevixibat in Patients with Progressive Familial Intrahepatic Cholestasis (PFIC) - post-authorisation study](https://catalogues.ema.europa.eu/study/106458)
 
 **This page was last updated on**
 
-08/05/2026
+06/11/2026
 
 ## Share this page

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-15 16:36:00
+document_datetime: 2026-11-06 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entyvio.html
 document_name: entyvio.html
 version: success
-processing_time: 0.163958
-conversion_datetime: 2026-06-16 13:46:23.64933
+processing_time: 0.2366489
+conversion_datetime: 2026-11-09 13:02:26.465846
 docling_version:
-  docling-serve: 1.24.0
-  docling-jobkit: 1.23.1
-  docling: 2.102.2
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Entyvio
 
 [RSS](/en/individual-human-medicine.xml/65725)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 vedolizumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -97,7 +97,7 @@ In one main study in 102 adult patients with active chronic pouchitis in whom co
 
 The most common side effects with Entyvio (which may affect more than 1 in 10 people) are nasopharyngitis (inflammation of the nose and throat such as a cold), headache and arthralgia (joint pain). For the full list of side effects of Entyvio, see the package leaflet.
 
-Entyvio must not be used in people with active serious infections such as tuberculosis, sepsis (infection in the blood), listeriosis (infection with bacteria called *Listeria* ) or opportunistic infections (those seen in patients with a weakened immune system) such as progressive multifocal leukoencephalopathy (PML, a rare brain infection that usually leads to severe disability or death). For the full list of restrictions, see the package leaflet.
+Entyvio must not be used in people with active serious infections such as tuberculosis, sepsis (infection in the blood), listeriosis (infection with bacteria called *Listeria*) or opportunistic infections (those seen in patients with a weakened immune system) such as progressive multifocal leukoencephalopathy (PML, a rare brain infection that usually leads to severe disability or death). For the full list of restrictions, see the package leaflet.
 
 ### Why is Entyvio authorised in the EU?
 
@@ -129,7 +129,7 @@ English (EN) (129.94 KB - PDF)
 
 [View](/en/documents/overview/entyvio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-540)
+[Other languages (22)](#file-language-dropdown-687)
 
 български (BG) (155.39 KB - PDF)
 
@@ -281,7 +281,7 @@ English (EN) (1.41 MB - PDF)
 
 [View](/en/documents/product-information/entyvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-554)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (1.44 MB - PDF)
 
@@ -427,7 +427,7 @@ norsk (NO) (1.29 MB - PDF)
 
 [View](/no/documents/product-information/entyvio-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000255408
+**Latest procedure affecting product information:**VR/0000255408
 
 15/01/2026
 
@@ -435,7 +435,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -453,7 +454,7 @@ English (EN) (45.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entyvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-806)
+[Other languages (24)](#file-language-dropdown-713)
 
 български (BG) (77.75 KB - PDF)
 
@@ -601,22 +602,15 @@ norsk (NO) (46.44 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Entyvio
-
-Active substance
-
-vedolizumab
-
-International non-proprietary name (INN) or common name
-
-vedolizumab
-
-Therapeutic area (MeSH)
-
-- Colitis, Ulcerative
-- Crohn Disease
+- **Name of medicine**
+    - Entyvio
+- **Active substance**
+    - vedolizumab
+- **International non-proprietary name (INN) or common name**
+    - vedolizumab
+- **Therapeutic area (MeSH)**
+        - Colitis, Ulcerative
+        - Crohn Disease
 
 ### Pharmacotherapeutic group
 
@@ -639,27 +633,18 @@ Entyvio is indicated for the treatment of adult patients with moderately to seve
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002782
-
-Marketing authorisation holder
-
-Takeda Pharma A/S
-
-Delta Park 45 2665 Vallensbaek Strand Denmark
-
-Opinion adopted
-
-20/03/2014
-
-Marketing authorisation issued
-
-22/05/2014
-
-Revision
-
-33
+- **EMA product number**
+    - EMEA/H/C/002782
+- **Marketing authorisation holder**
+    - Takeda Pharma A/S Delta Park 45  
+2665 Vallensbaek Strand  
+Denmark
+- **Opinion adopted**
+    - 20/03/2014
+- **Marketing authorisation issued**
+    - 22/05/2014
+- **Revision**
+    - 34
 
 ## Assessment history
 
@@ -684,6 +669,26 @@ English (EN) (291.83 KB - PDF)
 **First published:** 20/05/2015 **Last updated:** 11/04/2025
 
 [View](/en/documents/procedural-steps-after/entyvio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Entyvio-PAM-0000350559 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3202436
+
+English (EN) (3.04 MB - PDF)
+
+**First published:** 06/11/2026
+
+[View](/en/documents/variation-report/entyvio-pam-0000350559-epar-assessment-report_en.pdf)
+
+Entyvio-PAM-0000322264 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2800211
+
+English (EN) (6.98 MB - PDF)
+
+**First published:** 06/11/2026
+
+[View](/en/documents/variation-report/entyvio-pam-0000322264-epar-assessment-report_en.pdf)
 
 Entyvio-PAM-0000323359 : EPAR - Assessment report
 
@@ -761,7 +766,7 @@ English (EN) (113.83 KB - PDF)
 
 **First published:** 16/07/2021
 
-[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-202005-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-202005-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Entyvio-H-C-2782-X-0040 : EPAR - Assessment report - Variation
 
@@ -811,7 +816,7 @@ English (EN) (85.01 KB - PDF)
 
 **First published:** 01/04/2019
 
-[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-201805-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-201805-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Entyvio-H-C-PSUSA-00010186-201711 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -821,7 +826,7 @@ English (EN) (62.81 KB - PDF)
 
 **First published:** 12/02/2019
 
-[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-201711-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-201711-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Entyvio-H-C-PSUSA-00010186-201705 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -831,7 +836,7 @@ English (EN) (63.42 KB - PDF)
 
 **First published:** 01/03/2018 **Last updated:** 01/03/2018
 
-[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-201705-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/entyvio-h-c-psusa-00010186-201705-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -889,10 +894,10 @@ English (EN) (94.73 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-15/06/2026
+06/11/2026
 
 ## Share this page

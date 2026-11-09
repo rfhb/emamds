@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-12 17:00:00
+document_datetime: 2026-10-29 13:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/casgevy.html
 document_name: casgevy.html
 version: success
-processing_time: 0.1713779
-conversion_datetime: 2026-10-15 20:02:00.142442
+processing_time: 0.1838898
+conversion_datetime: 2026-11-09 13:00:40.602283
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.139.0
-  docling-core: 2.101.1
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Casgevy
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 exagamglogene autotemcel
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -52,7 +52,7 @@ For beta thalassaemia, Casgevy is used in patients who require regular blood tra
 
 For sickle cell disease, Casgevy is used in patients with severe disease and recurrent painful crises. Patients with this condition have an abnormal form of haemoglobin that makes red blood cells become rigid and sticky and change from being disc-shaped to being crescent-shaped (like a sickle). These cells can block blood vessels, causing painful crises that affect the chest, abdomen (belly) and other parts of the body.
 
-Beta thalassaemia and sickle cell disease are rare, and Casgevy was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the European Medicine's Agency website ( [beta thalassaemia](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2210) : 17 October 2019; [sickle cell disease](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2242) : 9 January 2020)
+Beta thalassaemia and sickle cell disease are rare, and Casgevy was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the European Medicine's Agency website ([beta thalassaemia](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2210): 17 October 2019; [sickle cell disease](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2242): 9 January 2020)
 
 Casgevy contains as its active substance genetically modified stem cells (cells that can develop into blood cells) taken from the patient's own blood. It is used when stem cell treatments are appropriate and there are no suitable stem cell donors available.
 
@@ -122,7 +122,7 @@ English (EN) (119.25 KB - PDF)
 
 [View](/en/documents/overview/casgevy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-420)
+[Other languages (22)](#file-language-dropdown-536)
 
 български (BG) (136.14 KB - PDF)
 
@@ -268,167 +268,167 @@ English (EN) (15.72 MB - PDF)
 
 Casgevy : EPAR - Product information
 
-English (EN) (674.29 KB - PDF)
+English (EN) (674.83 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/en/documents/product-information/casgevy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-114)
+[Other languages (24)](#file-language-dropdown-280)
 
-български (BG) (944.92 KB - PDF)
+български (BG) (895.48 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/bg/documents/product-information/casgevy-epar-product-information_bg.pdf)
 
-español (ES) (766.67 KB - PDF)
+español (ES) (858.75 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/es/documents/product-information/casgevy-epar-product-information_es.pdf)
 
-čeština (CS) (823.43 KB - PDF)
+čeština (CS) (912.55 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 03/09/2025
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/cs/documents/product-information/casgevy-epar-product-information_cs.pdf)
 
-dansk (DA) (837.99 KB - PDF)
+dansk (DA) (685.28 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 03/09/2025
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/da/documents/product-information/casgevy-epar-product-information_da.pdf)
 
-Deutsch (DE) (623.69 KB - PDF)
+Deutsch (DE) (778.47 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 03/09/2025
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/de/documents/product-information/casgevy-epar-product-information_de.pdf)
 
-eesti (ET) (676.11 KB - PDF)
+eesti (ET) (779.05 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/et/documents/product-information/casgevy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (791.24 KB - PDF)
+ελληνικά (EL) (957.1 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 03/09/2025
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/el/documents/product-information/casgevy-epar-product-information_el.pdf)
 
-français (FR) (553.26 KB - PDF)
+français (FR) (536.08 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/fr/documents/product-information/casgevy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (686.22 KB - PDF)
+hrvatski (HR) (850.55 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/hr/documents/product-information/casgevy-epar-product-information_hr.pdf)
 
-italiano (IT) (785.91 KB - PDF)
+italiano (IT) (771.93 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/it/documents/product-information/casgevy-epar-product-information_it.pdf)
 
-latviešu (LV) (769.05 KB - PDF)
+latviešu (LV) (719.86 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/lv/documents/product-information/casgevy-epar-product-information_lv.pdf)
 
-lietuvių (LT) (804.3 KB - PDF)
+lietuvių (LT) (792.64 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/lt/documents/product-information/casgevy-epar-product-information_lt.pdf)
 
-magyar (HU) (820.86 KB - PDF)
+magyar (HU) (939 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/hu/documents/product-information/casgevy-epar-product-information_hu.pdf)
 
-Malti (MT) (838.31 KB - PDF)
+Malti (MT) (826.75 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/mt/documents/product-information/casgevy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (743.18 KB - PDF)
+Nederlands (NL) (692.88 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/nl/documents/product-information/casgevy-epar-product-information_nl.pdf)
 
-polski (PL) (913.42 KB - PDF)
+polski (PL) (1018.03 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/pl/documents/product-information/casgevy-epar-product-information_pl.pdf)
 
-português (PT) (664.6 KB - PDF)
+português (PT) (765.19 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/pt/documents/product-information/casgevy-epar-product-information_pt.pdf)
 
-română (RO) (782.79 KB - PDF)
+română (RO) (879.93 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/ro/documents/product-information/casgevy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (708.55 KB - PDF)
+slovenčina (SK) (849.9 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/sk/documents/product-information/casgevy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (792.66 KB - PDF)
+slovenščina (SL) (782.83 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/sl/documents/product-information/casgevy-epar-product-information_sl.pdf)
 
-suomi (FI) (622.05 KB - PDF)
+suomi (FI) (582.05 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/fi/documents/product-information/casgevy-epar-product-information_fi.pdf)
 
-svenska (SV) (724.69 KB - PDF)
+svenska (SV) (799.52 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/sv/documents/product-information/casgevy-epar-product-information_sv.pdf)
 
-Íslenska (IS) (682.21 KB - PDF)
+Íslenska (IS) (605.36 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/is/documents/product-information/casgevy-epar-product-information_is.pdf)
 
-norsk (NO) (709.88 KB - PDF)
+norsk (NO) (625.97 KB - PDF)
 
-**First published:** 28/02/2024 **Last updated:** 12/10/2026
+**First published:** 28/02/2024 **Last updated:** 29/10/2026
 
 [View](/no/documents/product-information/casgevy-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000378030
+**Latest procedure affecting product information:**VR/0000314722
 
-12/10/2026
+15/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -447,7 +447,7 @@ English (EN) (69.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/casgevy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-949)
+[Other languages (24)](#file-language-dropdown-412)
 
 български (BG) (81.42 KB - PDF)
 
@@ -626,15 +626,15 @@ Casgevy is indicated for the treatment of severe sickle cell disease (SCD) in pa
 - **EMA product number**
     - EMEA/H/C/005763
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Advanced therapy**
-    - This medicine is classified as an advanced therapy medicinal product (ATMP): a medicine for human use that is based on genes, tissues or cells. It offers groundbreaking new opportunities for the treatment of disease and injury. For more information, see [Advanced therapy medicinal products: Overview](/node/69659) .
+    - This medicine is classified as an advanced therapy medicinal product (ATMP): a medicine for human use that is based on genes, tissues or cells. It offers groundbreaking new opportunities for the treatment of disease and injury. For more information, see [Advanced therapy medicinal products: Overview](/node/69659).
 - **Conditional approval**
-    - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
+    - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **PRIME: priority medicine**
-    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
+    - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853).
 - **Marketing authorisation holder**
     - Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5  
 Northwood Court  
@@ -647,7 +647,7 @@ Ireland
 - **Marketing authorisation issued**
     - 09/02/2024
 - **Revision**
-    - 7
+    - 8
 
 ## Assessment history
 
@@ -659,9 +659,9 @@ Collapse section
 
 Casgevy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (180.54 KB - PDF)
+English (EN) (191.5 KB - PDF)
 
-**First published:** 03/09/2025 **Last updated:** 12/10/2026
+**First published:** 03/09/2025 **Last updated:** 29/10/2026
 
 [View](/en/documents/procedural-steps-after/casgevy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -724,6 +724,6 @@ English (EN) (169.71 KB - PDF)
 
 **This page was last updated on**
 
-12/10/2026
+29/10/2026
 
 ## Share this page

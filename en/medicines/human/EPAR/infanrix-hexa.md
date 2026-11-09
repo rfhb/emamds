@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-10 09:58:00
+document_datetime: 2026-10-29 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa.html
 document_name: infanrix-hexa.html
 version: success
-processing_time: 0.4070862
-conversion_datetime: 2026-07-13 12:35:06.062836
+processing_time: 0.2509403
+conversion_datetime: 2026-11-09 13:03:26.944596
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Infanrix Hexa
 
 [RSS](/en/individual-human-medicine.xml/65960)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed)
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -52,7 +52,7 @@ Infanrix hexa is a vaccine used to protect infants from six weeks of age and tod
 Infanrix hexa contains the following active substances:
 
 - toxoids (chemically weakened toxins) from diphtheria and tetanus;
-- parts of *Bordetella pertussis* ( *pertussis* , a bacterium that causes whooping cough);
+- parts of *Bordetella pertussis* (*pertussis*, a bacterium that causes whooping cough);
 - parts of the hepatitis B virus;
 - inactivated polioviruses;
 - polysaccharides (sugars) from Hib.
@@ -117,7 +117,7 @@ English (EN) (163 KB - PDF)
 
 [View](/en/documents/overview/infanrix-hexa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-12)
+[Other languages (22)](#file-language-dropdown-852)
 
 български (BG) (177.65 KB - PDF)
 
@@ -261,7 +261,7 @@ English (EN) (537.71 KB - PDF)
 
 [View](/en/documents/product-information/infanrix-hexa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-976)
+[Other languages (24)](#file-language-dropdown-873)
 
 български (BG) (639.63 KB - PDF)
 
@@ -407,7 +407,7 @@ norsk (NO) (504.08 KB - PDF)
 
 [View](/no/documents/product-information/infanrix-hexa-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000323859
+**Latest procedure affecting product information:**VR/0000323859
 
 12/02/2026
 
@@ -415,7 +415,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -434,7 +434,7 @@ English (EN) (23.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/infanrix-hexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-665)
+[Other languages (24)](#file-language-dropdown-868)
 
 български (BG) (50.57 KB - PDF)
 
@@ -619,13 +619,15 @@ The use of Infanrix hexa should be in accordance with official recommendations.
 - **EMA product number**
     - EMEA/H/C/000296
 - **Marketing authorisation holder**
-    - GlaxoSmithKline Biologicals S.A. Rue de l'Institut, 89  B-1330 Rixensart  Belgium
+    - GlaxoSmithKline Biologicals S.A. Rue de l'Institut, 89  
+B-1330 Rixensart  
+Belgium
 - **Opinion adopted**
     - 29/06/2000
 - **Marketing authorisation issued**
     - 23/10/2000
 - **Revision**
-    - 50
+    - 51
 
 ## Assessment history
 
@@ -650,6 +652,16 @@ English (EN) (704.53 KB - PDF)
 **First published:** 26/11/2008 **Last updated:** 12/02/2026
 
 [View](/en/documents/procedural-steps-after/infanrix-hexa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Infanrix hexa-PAM-0000365596 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3375885
+
+English (EN) (778.32 KB - PDF)
+
+**First published:** 29/10/2026
+
+[View](/en/documents/variation-report/infanrix-hexa-pam-0000365596-epar-assessment-report_en.pdf)
 
 Infanrix Hexa PAM-0000340642 : EPAR - Assessment report
 
@@ -944,14 +956,15 @@ English (EN) (97.89 KB - PDF)
 ## More information on Infanrix Hexa
 
 - [Infanrix Hexa - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/infanrix-hexa)
+- [The persistence of vaccine-induced HBsAg-specific antibodies and immune memory in adults after complete primary vaccination with the GlaxoSmithKline (GSK) hexavalent Infanrix vaccine at infancy (HEP-IMMUNE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001160)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-- [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
+- [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A76)
 
 **This page was last updated on**
 
-10/07/2026
+29/10/2026
 
 ## Share this page

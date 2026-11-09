@@ -1,108 +1,32 @@
 ---
-document_datetime: 2026-04-28 16:26:00
+document_datetime: 2026-10-29 12:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/micardis.html
 document_name: micardis.html
 version: success
-processing_time: 0.1562435
-conversion_datetime: 2026-04-29 13:11:16.393653
+processing_time: 0.2829055
+conversion_datetime: 2026-11-09 13:05:42.52732
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Micardis
-
 # Micardis
 
 [RSS](/en/individual-human-medicine.xml/65413)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 telmisartan
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -133,11 +57,11 @@ Expand section
 
 Collapse section
 
-## What is Micardis?
+### What is Micardis?
 
 Micardis is a medicine that contains the active substance telmisartan. It is available as tablets (20, 40 and 80 mg).
 
-## What is Micardis used for?
+### What is Micardis used for?
 
 Micardis is used to treat essential hypertension (high blood pressure) in adults. 'Essential' means that the hypertension has no obvious cause.
 
@@ -145,43 +69,43 @@ Micardis is also used to prevent cardiovascular problems (problems with the hear
 
 The medicine can only be obtained with a prescription.
 
-## How is Micardis used?
+### How is Micardis used?
 
 For the treatment of essential hypertension, the usual recommended dose of Micardis is 40 mg once a day, but some patients may benefit from using 20 mg once a day. If the target blood pressure is not reached, the dose can be increased to 80 mg, or another medicine for hypertension can be added, such as hydrochlorothiazide.
 
 For the prevention of cardiovascular problems, the recommended dose is 80 mg once a day. The doctor should monitor the patient's blood pressure closely when starting Micardis, and may decide to adjust the patient's blood-pressure-lowering medication. Patients with severely reduced kidney function should receive a lower starting dose of 20 mg once a day. Patients with mild or moderately reduced liver function should not receive doses higher than 40 mg a day.
 
-## How does Micardis work?
+### How does Micardis work?
 
 The active substance in Micardis, telmisartan, is an 'angiotensin-II-receptor antagonist', which means that it blocks the action of a hormone in the body called angiotensin II. Angiotensin II is a powerful vasoconstrictor (a substance that narrows blood vessels). By blocking the receptors to which angiotensin II normally attaches, telmisartan stops the hormone having an effect, allowing the blood vessels to widen. This allows the blood pressure to drop, reducing the risks associated with high blood pressure, such as having a heart attack or stroke. It also allows the heart to pump blood more easily, which can help to reduce the risk of future cardiovascular problems.
 
-## How has Micardis been studied?
+### How has Micardis been studied?
 
 For the treatment of essential hypertension, Micardis has been studied in 2,647 patients who took Micardis either alone or in combination with hydrochlorothiazide. Various doses of Micardis were compared with placebo (a dummy treatment) and with other medicines for hypertension (atenolol, lisinopril, enalapril and amlodipine). The main measure of effectiveness was the reduction in diastolic blood pressure (the blood pressure measured between two heartbeats).
 
 For the prevention of cardiovascular problems, 80 mg Micardis once a day has been studied in one main study involving almost 26,000 patients aged 55 years or over who had heart or artery disease, had had a stroke, or had diabetes and were at high risk of cardiovascular problems. Micardis was compared with ramipril (another medicine to prevent cardiovascular problems), and with the combination of both medicines. The main measure of effectiveness was the reduction in the number of patients who died or were admitted to hospital, or who had a heart attack or stroke. The patients were followed up for an average of four and a half years.
 
-## What benefit has Micardis shown during the studies?
+### What benefit has Micardis shown during the studies?
 
 In the treatment of essential hypertension, Micardis was more effective than placebo at reducing diastolic blood pressure and had similar effects to the other medicines for hypertension.
 
 In the prevention of cardiovascular problems, Micardis had a similar effect to ramipril, with around 17% of patients dying, being admitted to hospital because of cardiovascular problems, or having a heart attack or stroke. The combination of the two medicines was no more effective than either medicine taken alone and was linked to an increased risk of side effects.
 
-## What is the risk associated with Micardis?
+### What is the risk associated with Micardis?
 
 Side effects with Micardis are not common. However, the following side effects are seen in between 1 and 10 patients in 1,000: upper-respiratory-tract infection (colds) including inflammation of the throat and sinuses, urinary-tract infection (infection of the structures that carry urine) including bladder infection, anaemia (low red-blood-cell counts), hyperkalaemia (high blood potassium levels), depression, insomnia (difficulty sleeping), syncope (fainting), vertigo (a spinning sensation), bradycardia (slow heart rate), hypotension (low blood pressure), dyspnoea (difficulty breathing), cough, abdominal pain (stomach ache), diarrhoea, dyspepsia (heartburn), flatulence (gas), vomiting, hyperhidrosis (excessive sweating), pruritus (itching), rash, myalgia (muscle pain), back pain, muscle spasms, renal impairment (reduced kidney function) including sudden kidney failure, chest pain, asthenia (weakness) and increased blood levels of creatinine (a marker of muscle breakdown). Hypotension may be more common in patients receiving Micardis to prevent cardiovascular problems. For the full list of all side effects reported with Micardis, see the package leaflet.
 
 Micardis must not be used in women who are more than three months pregnant. Its use during the first three months of pregnancy is not recommended. Micardis must not be used in people who have severe liver problems or bile problems. In patients with type 2 diabetes or in patients with moderate or severe kidney impairment, Micardis must also not be used in combination with aliskiren-containing medicines (also used to treat essential hypertension). For the full list of restrictions, see the package leaflet.
 
-## Why has Micardis been approved?
+### Why has Micardis been approved?
 
 The CHMP decided that Micardis's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Micardis?
+### What measures are being taken to ensure the safe and effective use of Micardis?
 
 A risk management plan has been developed to ensure that Micardis is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Micardis, including the appropriate precautions to be followed by healthcare professionals and patients.
 
-## Other information about Micardis
+### Other information about Micardis
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Micardis on 16 December 1998.
 
@@ -195,7 +119,7 @@ English (EN) (77.12 KB - PDF)
 
 [View](/en/documents/overview/micardis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-297)
+[Other languages (22)](#file-language-dropdown-328)
 
 български (BG) (109.19 KB - PDF)
 
@@ -227,7 +151,7 @@ Deutsch (DE) (86 KB - PDF)
 
 [View](/de/documents/overview/micardis-epar-summary-public_de.pdf)
 
-eesti keel (ET) (82.54 KB - PDF)
+eesti (ET) (82.54 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 06/11/2015
 
@@ -257,13 +181,13 @@ italiano (IT) (83.52 KB - PDF)
 
 [View](/it/documents/overview/micardis-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (87.73 KB - PDF)
+latviešu (LV) (87.73 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 06/11/2015
 
 [View](/lv/documents/overview/micardis-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (84.77 KB - PDF)
+lietuvių (LT) (84.77 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 06/11/2015
 
@@ -317,7 +241,7 @@ slovenščina (SL) (81.79 KB - PDF)
 
 [View](/sl/documents/overview/micardis-epar-summary-public_sl.pdf)
 
-Suomi (FI) (82.63 KB - PDF)
+suomi (FI) (82.63 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 06/11/2015
 
@@ -341,167 +265,168 @@ English (EN) (1.2 MB - PDF)
 
 Micardis : EPAR - Product information
 
-English (EN) (808.01 KB - PDF)
+English (EN) (418.05 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/en/documents/product-information/micardis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-959)
+[Other languages (24)](#file-language-dropdown-167)
 
-български (BG) (1.84 MB - PDF)
+български (BG) (628.93 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/bg/documents/product-information/micardis-epar-product-information_bg.pdf)
 
-español (ES) (1.69 MB - PDF)
+español (ES) (526.39 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/es/documents/product-information/micardis-epar-product-information_es.pdf)
 
-čeština (CS) (2.06 MB - PDF)
+čeština (CS) (648.18 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/cs/documents/product-information/micardis-epar-product-information_cs.pdf)
 
-dansk (DA) (1.56 MB - PDF)
+dansk (DA) (519.24 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/da/documents/product-information/micardis-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.7 MB - PDF)
+Deutsch (DE) (548.66 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/de/documents/product-information/micardis-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.63 MB - PDF)
+eesti (ET) (511.97 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/et/documents/product-information/micardis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.49 MB - PDF)
+ελληνικά (EL) (623.86 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/el/documents/product-information/micardis-epar-product-information_el.pdf)
 
-français (FR) (1.57 MB - PDF)
+français (FR) (622.22 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/fr/documents/product-information/micardis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.47 MB - PDF)
+hrvatski (HR) (613.43 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/hr/documents/product-information/micardis-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.57 MB - PDF)
+italiano (IT) (566.6 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
-
-[View](/is/documents/product-information/micardis-epar-product-information_is.pdf)
-
-italiano (IT) (1.73 MB - PDF)
-
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/it/documents/product-information/micardis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.64 MB - PDF)
+latviešu (LV) (655.58 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/lv/documents/product-information/micardis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.59 MB - PDF)
+lietuvių (LT) (599.35 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/lt/documents/product-information/micardis-epar-product-information_lt.pdf)
 
-magyar (HU) (1.77 MB - PDF)
+magyar (HU) (622.03 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/hu/documents/product-information/micardis-epar-product-information_hu.pdf)
 
-Malti (MT) (2.29 MB - PDF)
+Malti (MT) (1009.98 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/mt/documents/product-information/micardis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.85 MB - PDF)
+Nederlands (NL) (616.77 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/nl/documents/product-information/micardis-epar-product-information_nl.pdf)
 
-norsk (NO) (1.57 MB - PDF)
+polski (PL) (701.58 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
-
-[View](/no/documents/product-information/micardis-epar-product-information_no.pdf)
-
-polski (PL) (1.95 MB - PDF)
-
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/pl/documents/product-information/micardis-epar-product-information_pl.pdf)
 
-português (PT) (1.53 MB - PDF)
+português (PT) (562.5 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/pt/documents/product-information/micardis-epar-product-information_pt.pdf)
 
-română (RO) (531.76 KB - PDF)
+română (RO) (625.82 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/ro/documents/product-information/micardis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.97 MB - PDF)
+slovenčina (SK) (668.6 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/sk/documents/product-information/micardis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.65 MB - PDF)
+slovenščina (SL) (617.43 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/sl/documents/product-information/micardis-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.58 MB - PDF)
+suomi (FI) (527.05 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/fi/documents/product-information/micardis-epar-product-information_fi.pdf)
 
-svenska (SV) (1.6 MB - PDF)
+svenska (SV) (511.25 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 17/04/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/sv/documents/product-information/micardis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000288281
+Íslenska (IS) (562.79 KB - PDF)
 
-18/02/2026
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
+
+[View](/is/documents/product-information/micardis-epar-product-information_is.pdf)
+
+norsk (NO) (539.64 KB - PDF)
+
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
+
+[View](/no/documents/product-information/micardis-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000361881
+
+28/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -513,179 +438,170 @@ Product information documents contain:
 
 Micardis : EPAR - All Authorised presentations
 
-English (EN) (30.75 KB - PDF)
+English (EN) (46.42 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/en/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-207)
+[Other languages (24)](#file-language-dropdown-404)
 
-български (BG) (27.09 KB - PDF)
+български (BG) (58.42 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/bg/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (23.42 KB - PDF)
+español (ES) (50.8 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/es/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (25.56 KB - PDF)
+čeština (CS) (50.98 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/cs/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (24.39 KB - PDF)
+dansk (DA) (47.75 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/da/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (24.99 KB - PDF)
+Deutsch (DE) (54.15 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/de/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (29.83 KB - PDF)
+eesti (ET) (49.59 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/et/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (26.1 KB - PDF)
+ελληνικά (EL) (52.54 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/el/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (23.34 KB - PDF)
+français (FR) (55.15 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/fr/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (24.07 KB - PDF)
+hrvatski (HR) (50.7 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/hr/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (30.56 KB - PDF)
+italiano (IT) (52.53 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
-
-[View](/is/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (23.36 KB - PDF)
-
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/it/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (36.43 KB - PDF)
+latviešu (LV) (68.75 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/lv/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.1 KB - PDF)
+lietuvių (LT) (59.31 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/lt/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (26.32 KB - PDF)
+magyar (HU) (60.15 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/hu/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (24.8 KB - PDF)
+Malti (MT) (46.82 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/mt/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (23.78 KB - PDF)
+Nederlands (NL) (40.46 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/nl/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (23.98 KB - PDF)
+polski (PL) (43.45 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
-
-[View](/no/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (24.35 KB - PDF)
-
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/pl/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (23.86 KB - PDF)
+português (PT) (42.22 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/pt/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (23.56 KB - PDF)
+română (RO) (42.58 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/ro/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (25.5 KB - PDF)
+slovenčina (SK) (46.89 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/sk/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (24.87 KB - PDF)
+slovenščina (SL) (46 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/sl/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (30.54 KB - PDF)
+suomi (FI) (49.04 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/fi/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (23.87 KB - PDF)
+svenska (SV) (41.66 KB - PDF)
 
-**First published:** 23/01/2007 **Last updated:** 07/09/2018
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
 
 [View](/sv/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (51.93 KB - PDF)
+
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
+
+[View](/is/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (41.94 KB - PDF)
+
+**First published:** 23/01/2007 **Last updated:** 29/10/2026
+
+[View](/no/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Micardis
-
-Active substance
-
-telmisartan
-
-International non-proprietary name (INN) or common name
-
-telmisartan
-
-Therapeutic area (MeSH)
-
-Hypertension
-
-Anatomical therapeutic chemical (ATC) code
-
-C09CA07
+- **Name of medicine**
+    - Micardis
+- **Active substance**
+    - telmisartan
+- **International non-proprietary name (INN) or common name**
+    - telmisartan
+- **Therapeutic area (MeSH)**
+    - Hypertension
+- **Anatomical therapeutic chemical (ATC) code**
+    - C09CA07
 
 ### Pharmacotherapeutic group
 
@@ -706,23 +622,16 @@ Reduction of cardiovascular morbidity in patients with:
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000209
-
-Marketing authorisation holder
-
-Boehringer Ingelheim International GmbH
-
-Bingerstr. 173
-
-Marketing authorisation issued
-
-16/12/1998
-
-Revision
-
-31
+- **EMA product number**
+    - EMEA/H/C/000209
+- **Marketing authorisation holder**
+    - Boehringer Ingelheim International GmbH Bingerstr. 173  
+55216 Ingelheim am Rheim  
+Germany
+- **Marketing authorisation issued**
+    - 16/12/1998
+- **Revision**
+    - 32
 
 ## Assessment history
 
@@ -730,13 +639,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Micardis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.19 KB - PDF)
+English (EN) (156.5 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 17/04/2026
+**First published:** 23/04/2025 **Last updated:** 29/10/2026
 
 [View](/en/documents/procedural-steps-after/micardis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -772,9 +681,9 @@ English (EN) (48.81 KB - PDF)
 
 **First published:** 25/09/2014 **Last updated:** 25/09/2014
 
-[View](/en/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_en.pdf)
+[View](/en/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-detailed-explanation-scientific-grounds-differences-prac-recommend_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-692)
+[Other languages (22)](#file-language-dropdown-648)
 
 български (BG) (87.49 KB - PDF)
 
@@ -806,7 +715,7 @@ Deutsch (DE) (53.54 KB - PDF)
 
 [View](/de/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_de.pdf)
 
-eesti keel (ET) (50.6 KB - PDF)
+eesti (ET) (50.6 KB - PDF)
 
 **First published:** 25/09/2014 **Last updated:** 25/09/2014
 
@@ -836,13 +745,13 @@ italiano (IT) (51.13 KB - PDF)
 
 [View](/it/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_it.pdf)
 
-latviešu valoda (LV) (81.63 KB - PDF)
+latviešu (LV) (81.63 KB - PDF)
 
 **First published:** 25/09/2014 **Last updated:** 25/09/2014
 
 [View](/lv/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_lv.pdf)
 
-lietuvių kalba (LT) (82.54 KB - PDF)
+lietuvių (LT) (82.54 KB - PDF)
 
 **First published:** 25/09/2014 **Last updated:** 25/09/2014
 
@@ -896,7 +805,7 @@ slovenščina (SL) (79.79 KB - PDF)
 
 [View](/sl/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_sl.pdf)
 
-Suomi (FI) (49.15 KB - PDF)
+suomi (FI) (49.15 KB - PDF)
 
 **First published:** 25/09/2014 **Last updated:** 25/09/2014
 
@@ -928,7 +837,7 @@ English (EN) (67.42 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-micardis_en.pdf)
 
-Micardis-H-C-209-WS-0254 : EPAR -  Assessment Report - Variation
+Micardis-H-C-209-WS-0254 : EPAR - Assessment Report - Variation
 
 Adopted Reference Number: EMA/CHMP/549534/2012
 
@@ -966,7 +875,7 @@ English (EN) (104.66 KB - PDF)
 
 [View](/en/documents/steps-after-cutoff/micardis-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Micardis : EPAR - Procedural steps taken before authorisation (archive)
 
@@ -1012,157 +921,157 @@ The approved product information for this medicine is available below showing th
 
 Micardis : EPAR - Product information - tracked changes
 
-English (EN) (188.04 KB - DOCX)
+English (EN) (202.45 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/en/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-350)
+[Other languages (24)](#file-language-dropdown-77)
 
-български (BG) (201.39 KB - DOCX)
+български (BG) (166.46 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (175.72 KB - DOCX)
+español (ES) (155.89 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/es/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (178.96 KB - DOCX)
+čeština (CS) (139.92 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (166.03 KB - DOCX)
+dansk (DA) (139.61 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/da/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (176.02 KB - DOCX)
+Deutsch (DE) (156.49 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/de/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (176.09 KB - DOCX)
+eesti (ET) (139.23 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/et/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (145.81 KB - DOCX)
+ελληνικά (EL) (138.42 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/el/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (155.82 KB - DOCX)
+français (FR) (158.37 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (148.55 KB - DOCX)
+hrvatski (HR) (144.1 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (162.33 KB - DOCX)
+italiano (IT) (126.37 KB - DOCX)
 
-**First published:** 28/04/2026
-
-[View](/is/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (173.42 KB - DOCX)
-
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/it/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (173.82 KB - DOCX)
+latviešu (LV) (239.28 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (148.28 KB - DOCX)
+lietuvių (LT) (148.04 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (174.85 KB - DOCX)
+magyar (HU) (158.82 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (173.57 KB - DOCX)
+Malti (MT) (147.39 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (183.01 KB - DOCX)
+Nederlands (NL) (200.77 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (166.5 KB - DOCX)
+polski (PL) (207.6 KB - DOCX)
 
-**First published:** 28/04/2026
-
-[View](/no/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (184.06 KB - DOCX)
-
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (160.87 KB - DOCX)
+português (PT) (186.55 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (190.49 KB - DOCX)
+română (RO) (143.26 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (172.97 KB - DOCX)
+slovenčina (SK) (145.37 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (168.63 KB - DOCX)
+slovenščina (SL) (189.27 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (182.68 KB - DOCX)
+suomi (FI) (137.97 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (166.45 KB - DOCX)
+svenska (SV) (131.07 KB - DOCX)
 
-**First published:** 28/04/2026
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (149.36 KB - DOCX)
+
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
+
+[View](/is/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (183.65 KB - DOCX)
+
+**First published:** 28/04/2026 **Last updated:** 29/10/2026
+
+[View](/no/documents/product-information-tracked-changes/micardis-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Micardis
 
@@ -1184,10 +1093,10 @@ English (EN) (511.41 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-28/04/2026
+29/10/2026
 
 ## Share this page

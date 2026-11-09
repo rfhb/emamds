@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-07 14:50:00
+document_datetime: 2026-10-29 12:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sogroya.html
 document_name: sogroya.html
 version: success
-processing_time: 0.1852795
-conversion_datetime: 2026-10-10 14:02:47.492033
+processing_time: 0.2058518
+conversion_datetime: 2026-11-09 13:09:29.40026
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.137.0
-  docling-core: 2.101.1
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.2
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Sogroya
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 somapacitan
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -49,7 +49,7 @@ Page contents
 
 Sogroya is used as replacement therapy in adults who do not produce enough growth hormone (growth hormone deficiency). It is also used to treat children and adolescents who are not growing at the normal rate as a result of growth hormone deficiency and is given to patients from 3 years of age.
 
-Growth hormone deficiency is rare, and Sogroya was designated an 'orphan medicine' (a medicine used in rare diseases) on 24 August 2018. Further information on the orphan designation can be found here: [ema.europa.eu/medicines/human/orphan-designations/eu3182068](http://ema.europa.eu/medicines/human/orphan-designations/eu3182068) .
+Growth hormone deficiency is rare, and Sogroya was designated an 'orphan medicine' (a medicine used in rare diseases) on 24 August 2018. Further information on the orphan designation can be found here: [ema.europa.eu/medicines/human/orphan-designations/eu3182068](http://ema.europa.eu/medicines/human/orphan-designations/eu3182068).
 
 Sogroya contains the active substance somapacitan.
 
@@ -111,7 +111,7 @@ English (EN) (105.63 KB - PDF)
 
 [View](/en/documents/overview/sogroya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-397)
+[Other languages (22)](#file-language-dropdown-504)
 
 български (BG) (124.5 KB - PDF)
 
@@ -263,7 +263,7 @@ English (EN) (994.31 KB - PDF)
 
 [View](/en/documents/product-information/sogroya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-42)
+[Other languages (24)](#file-language-dropdown-630)
 
 български (BG) (1.25 MB - PDF)
 
@@ -409,7 +409,7 @@ norsk (NO) (1.06 MB - PDF)
 
 [View](/no/documents/product-information/sogroya-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** R/0000278080
+**Latest procedure affecting product information:**R/0000278080
 
 21/11/2025
 
@@ -417,7 +417,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -436,7 +436,7 @@ English (EN) (44.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sogroya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-88)
+[Other languages (24)](#file-language-dropdown-510)
 
 български (BG) (70.28 KB - PDF)
 
@@ -608,13 +608,15 @@ Sogroya is indicated for the replacement of endogenous growth hormone (GH) in ch
 - **EMA product number**
     - EMEA/H/C/005030
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
-    - Novo Nordisk A/S Novo Allé  DK-2880 Bagsvaerd  Denmark
+    - Novo Nordisk A/S Novo Allé  
+DK-2880 Bagsvaerd  
+Denmark
 - **Marketing authorisation issued**
     - 31/03/2021
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -639,6 +641,16 @@ English (EN) (100.29 KB - PDF)
 **First published:** 06/07/2022 **Last updated:** 04/12/2025
 
 [View](/en/documents/procedural-steps-after/sogroya-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Sogroya-PAM-0000338023 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3535383
+
+English (EN) (2.07 MB - PDF)
+
+**First published:** 29/10/2026
+
+[View](/en/documents/variation-report/sogroya-pam-0000338023-epar-assessment-report_en.pdf)
 
 Sogroya-H-C-005030-P46-008 : EPAR - Assessment report
 
@@ -751,6 +763,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-07/10/2026
+29/10/2026
 
 ## Share this page

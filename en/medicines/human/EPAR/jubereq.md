@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-05-22 13:25:00
+document_datetime: 2026-10-29 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jubereq.html
 document_name: jubereq.html
 version: success
-processing_time: 0.1192996
-conversion_datetime: 2026-05-23 08:20:15.881154
+processing_time: 0.1647766
+conversion_datetime: 2026-11-09 13:03:42.160194
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Jubereq
 
 [RSS](/en/individual-human-medicine.xml/256953)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 denosumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -49,13 +49,13 @@ Jubereq is a medicine used to prevent bone complications in adults with advanced
 
 Jubereq is also used to treat a type of bone cancer called giant cell tumour of bone in adults and adolescents whose bones have fully developed. It is used in patients who cannot be treated by surgery or in whom surgery is likely to cause complications.
 
-Jubereq contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Jubereq is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Jubereq is Xgeva. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Jubereq contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Jubereq is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Jubereq is Xgeva.
 
 Expand section
 
 Collapse section
 
-## How is Jubereq used?
+### How is Jubereq used?
 
 Jubereq can only be obtained with a prescription. It is available as a solution for injection under the skin in the thigh, belly or upper arm.
 
@@ -65,11 +65,11 @@ Patients should take calcium and vitamin D supplements while being treated with 
 
 For more information about using Jubereq, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Jubereq work?
+### How does Jubereq work?
 
 The active substance in Jubereq, denosumab, is a monoclonal antibody which has been designed to recognise and attach to a protein called RANKL. This protein activates osteoclasts, the cells in the body that are involved in breaking down bone tissue. By attaching to RANKL and blocking it, denosumab reduces the formation and activity of the osteoclasts. This reduces the loss of bone, making fractures and other serious bone complications less likely. RANKL is also involved in activating the osteoclast-like cells in giant cell tumour of bone. Treatment with denosumab therefore prevents them from growing and breaking down bone, allowing normal bone to replace the tumour.
 
-## What benefits of Jubereq have been shown in studies?
+### What benefits of Jubereq have been shown in studies?
 
 Laboratory studies comparing Jubereq with Xgeva have shown that the active substance in Jubereq is highly similar to that in Xgeva in terms of structure, purity and biological activity. Studies have also shown that giving Jubereq produces similar levels of the active substance in the body to those seen with Xgeva.
 
@@ -77,7 +77,7 @@ In addition, a study compared the effectiveness of the denosumab in Jubereq with
 
 Because denosumab works in a similar way in osteoporosis and in the conditions Jubereq is intended to treat, a specific study on the effectiveness of Jubereq in these conditions is not needed.
 
-## What are the risks associated with Jubereq?
+### What are the risks associated with Jubereq?
 
 The safety of Jubereq has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Xgeva.
 
@@ -89,13 +89,13 @@ Hypocalcaemia mostly occurs within the first 2 weeks of starting treatment and c
 
 Jubereq must not be used in patients with wounds from dental or mouth surgery that have not yet healed, or in people with severe, untreated hypocalcaemia.
 
-## Why is Jubereq authorised in the EU?
+### Why is Jubereq authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Jubereq has a highly similar structure, purity and biological activity to Xgeva and is distributed in the body in the same way. In addition, a study has shown that Jubereq and Xgeva are equally safe and effective in Jubereq's intended uses.
 
 All these data were considered sufficient to conclude that Jubereq will have the same effects as Xgeva in its authorised uses. Therefore, the Agency's view was that, as for Xgeva, the benefits of Jubereq outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Jubereq?
+### What measures are being taken to ensure the safe and effective use of Jubereq?
 
 The company that markets Jubereq will provide a card to inform patients about the risk of osteonecrosis of the jaw and to instruct them to contact their doctor if they have symptoms.
 
@@ -103,7 +103,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Jubereq are continuously monitored. Suspected side effects reported with Jubereq are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Jubereq
+### Other information about Jubereq
 
 Jubereq received a marketing authorisation valid throughout the EU on 26 May 2025.
 
@@ -117,7 +117,7 @@ English (EN) (113.51 KB - PDF)
 
 [View](/en/documents/overview/jubereq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-53)
+[Other languages (22)](#file-language-dropdown-562)
 
 български (BG) (139.14 KB - PDF)
 
@@ -149,7 +149,7 @@ Deutsch (DE) (116.29 KB - PDF)
 
 [View](/de/documents/overview/jubereq-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (111.09 KB - PDF)
+eesti (ET) (111.09 KB - PDF)
 
 **First published:** 28/07/2025
 
@@ -179,13 +179,13 @@ italiano (IT) (112.64 KB - PDF)
 
 [View](/it/documents/overview/jubereq-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (142.83 KB - PDF)
+latviešu (LV) (142.83 KB - PDF)
 
 **First published:** 28/07/2025
 
 [View](/lv/documents/overview/jubereq-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (136.78 KB - PDF)
+lietuvių (LT) (136.78 KB - PDF)
 
 **First published:** 28/07/2025
 
@@ -239,7 +239,7 @@ slovenščina (SL) (132.93 KB - PDF)
 
 [View](/sl/documents/overview/jubereq-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (110.88 KB - PDF)
+suomi (FI) (110.88 KB - PDF)
 
 **First published:** 28/07/2025
 
@@ -263,167 +263,168 @@ English (EN) (647.55 KB - PDF)
 
 Jubereq : EPAR - Product information
 
-English (EN) (591.22 KB - PDF)
+English (EN) (500.63 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/en/documents/product-information/jubereq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-24)
+[Other languages (24)](#file-language-dropdown-958)
 
-български (BG) (752.6 KB - PDF)
+български (BG) (520.53 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/bg/documents/product-information/jubereq-epar-product-information_bg.pdf)
 
-español (ES) (654.18 KB - PDF)
+español (ES) (598.25 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/es/documents/product-information/jubereq-epar-product-information_es.pdf)
 
-čeština (CS) (729 KB - PDF)
+čeština (CS) (645.38 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/cs/documents/product-information/jubereq-epar-product-information_cs.pdf)
 
-dansk (DA) (647.34 KB - PDF)
+dansk (DA) (588.18 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/da/documents/product-information/jubereq-epar-product-information_da.pdf)
 
-Deutsch (DE) (705.29 KB - PDF)
+Deutsch (DE) (649.44 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/de/documents/product-information/jubereq-epar-product-information_de.pdf)
 
-eesti keel (ET) (559.18 KB - PDF)
+eesti (ET) (570.24 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/et/documents/product-information/jubereq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (910.24 KB - PDF)
+ελληνικά (EL) (691 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/el/documents/product-information/jubereq-epar-product-information_el.pdf)
 
-français (FR) (665.13 KB - PDF)
+français (FR) (643.81 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/fr/documents/product-information/jubereq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (696.84 KB - PDF)
+hrvatski (HR) (429.08 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/hr/documents/product-information/jubereq-epar-product-information_hr.pdf)
 
-íslenska (IS) (678.79 KB - PDF)
+italiano (IT) (750.3 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
-
-[View](/is/documents/product-information/jubereq-epar-product-information_is.pdf)
-
-italiano (IT) (708.05 KB - PDF)
-
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/it/documents/product-information/jubereq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (737.41 KB - PDF)
+latviešu (LV) (482.78 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/lv/documents/product-information/jubereq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (674.56 KB - PDF)
+lietuvių (LT) (507.22 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/lt/documents/product-information/jubereq-epar-product-information_lt.pdf)
 
-magyar (HU) (698.41 KB - PDF)
+magyar (HU) (706.53 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/hu/documents/product-information/jubereq-epar-product-information_hu.pdf)
 
-Malti (MT) (731.13 KB - PDF)
+Malti (MT) (542.65 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/mt/documents/product-information/jubereq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (651.5 KB - PDF)
+Nederlands (NL) (378.43 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/nl/documents/product-information/jubereq-epar-product-information_nl.pdf)
 
-norsk (NO) (649.27 KB - PDF)
+polski (PL) (543.26 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
-
-[View](/no/documents/product-information/jubereq-epar-product-information_no.pdf)
-
-polski (PL) (732.82 KB - PDF)
-
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/pl/documents/product-information/jubereq-epar-product-information_pl.pdf)
 
-português (PT) (654.24 KB - PDF)
+português (PT) (373.56 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/pt/documents/product-information/jubereq-epar-product-information_pt.pdf)
 
-română (RO) (728.85 KB - PDF)
+română (RO) (530.52 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/ro/documents/product-information/jubereq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (727.36 KB - PDF)
+slovenčina (SK) (499.51 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/sk/documents/product-information/jubereq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (688.57 KB - PDF)
+slovenščina (SL) (500.93 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/sl/documents/product-information/jubereq-epar-product-information_sl.pdf)
 
-Suomi (FI) (568.06 KB - PDF)
+suomi (FI) (557.61 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/fi/documents/product-information/jubereq-epar-product-information_fi.pdf)
 
-svenska (SV) (657.42 KB - PDF)
+svenska (SV) (364.75 KB - PDF)
 
-**First published:** 28/07/2025 **Last updated:** 22/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
 
 [View](/sv/documents/product-information/jubereq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000340077
+Íslenska (IS) (717.37 KB - PDF)
 
-21/05/2026
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
+
+[View](/is/documents/product-information/jubereq-epar-product-information_is.pdf)
+
+norsk (NO) (372.29 KB - PDF)
+
+**First published:** 28/07/2025 **Last updated:** 29/10/2026
+
+[View](/no/documents/product-information/jubereq-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000369316
+
+28/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -441,7 +442,7 @@ English (EN) (162.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-447)
+[Other languages (24)](#file-language-dropdown-748)
 
 български (BG) (168.7 KB - PDF)
 
@@ -473,7 +474,7 @@ Deutsch (DE) (167.11 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (159.21 KB - PDF)
+eesti (ET) (159.21 KB - PDF)
 
 **First published:** 28/07/2025
 
@@ -497,25 +498,19 @@ hrvatski (HR) (161.84 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (88.74 KB - PDF)
-
-**First published:** 28/07/2025
-
-[View](/is/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (162.94 KB - PDF)
 
 **First published:** 28/07/2025
 
 [View](/it/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (165.08 KB - PDF)
+latviešu (LV) (165.08 KB - PDF)
 
 **First published:** 28/07/2025
 
 [View](/lv/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (163.76 KB - PDF)
+lietuvių (LT) (163.76 KB - PDF)
 
 **First published:** 28/07/2025
 
@@ -538,12 +533,6 @@ Nederlands (NL) (161.8 KB - PDF)
 **First published:** 28/07/2025
 
 [View](/nl/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (165.27 KB - PDF)
-
-**First published:** 28/07/2025
-
-[View](/no/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (166.85 KB - PDF)
 
@@ -575,7 +564,7 @@ slovenščina (SL) (85.75 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (159.83 KB - PDF)
+suomi (FI) (159.83 KB - PDF)
 
 **First published:** 28/07/2025
 
@@ -587,28 +576,31 @@ svenska (SV) (162.28 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (88.74 KB - PDF)
+
+**First published:** 28/07/2025
+
+[View](/is/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (165.27 KB - PDF)
+
+**First published:** 28/07/2025
+
+[View](/no/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Jubereq
-
-Active substance
-
-denosumab
-
-International non-proprietary name (INN) or common name
-
-denosumab
-
-Therapeutic area (MeSH)
-
-- Neoplasms, Bone Tissue
-- Giant Cell Tumor of Bone
-
-Anatomical therapeutic chemical (ATC) code
-
-M05BX04
+- **Name of medicine**
+    - Jubereq
+- **Active substance**
+    - denosumab
+- **International non-proprietary name (INN) or common name**
+    - denosumab
+- **Therapeutic area (MeSH)**
+        - Neoplasms, Bone Tissue
+        - Giant Cell Tumor of Bone
+- **Anatomical therapeutic chemical (ATC) code**
+    - M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -616,39 +608,30 @@ Drugs for treatment of bone diseases
 
 ### Therapeutic indication
 
-Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advanced malignancies involving bone. Treatment of adults and skeletally mature adolescents with giant cell tumour of bone that is unresectable or where surgical resection is likely to result in severe morbidity.
+Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advanced malignancies involving bone.
+
+Treatment of adults and skeletally mature adolescents with giant cell tumour of bone that is unresectable or where surgical resection is likely to result in severe morbidity.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006398
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Accord Healthcare S.L.U.
-
-Edificio Este Planta 6a
-
-Opinion adopted
-
-27/03/2025
-
-Marketing authorisation issued
-
-26/05/2025
-
-Revision
-
-1
+- **EMA product number**
+    - EMEA/H/C/006398
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
+- **Marketing authorisation holder**
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  
+World Trade Center  
+Moll De Barcelona S/n  
+08039 Barcelona  
+SPAIN
+- **Opinion adopted**
+    - 27/03/2025
+- **Marketing authorisation issued**
+    - 26/05/2025
+- **Revision**
+    - 2
 
 ## Assessment history
 
@@ -656,17 +639,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Jubereq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (137.1 KB - PDF)
+English (EN) (159.2 KB - PDF)
 
-**First published:** 22/05/2026
+**First published:** 22/05/2026 **Last updated:** 29/10/2026
 
 [View](/en/documents/procedural-steps-after/jubereq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Jubereq : EPAR - Public assessment report
 
@@ -696,6 +679,6 @@ English (EN) (144.44 KB - PDF)
 
 **This page was last updated on**
 
-22/05/2026
+29/10/2026
 
 ## Share this page

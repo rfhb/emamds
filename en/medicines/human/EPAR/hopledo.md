@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-25 17:34:00
+document_datetime: 2026-10-28 11:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hopledo.html
 document_name: hopledo.html
 version: success
-processing_time: 0.1352021
-conversion_datetime: 2026-09-02 22:27:50.064495
+processing_time: 0.1777744
+conversion_datetime: 2026-11-09 13:03:11.699338
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Hopledo
 
 [RSS](/en/individual-human-medicine.xml/282826)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 levodopa / carbidopa
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -117,7 +117,7 @@ English (EN) (125.81 KB - PDF)
 
 [View](/en/documents/overview/hopledo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-518)
+[Other languages (22)](#file-language-dropdown-952)
 
 български (BG) (141.62 KB - PDF)
 
@@ -263,165 +263,161 @@ English (EN) (3.02 MB - PDF)
 
 Hopledo : EPAR - Product information
 
-English (EN) (323.53 KB - PDF)
+English (EN) (733.08 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/en/documents/product-information/hopledo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-201)
+[Other languages (23)](#file-language-dropdown-981)
 
-български (BG) (679.5 KB - PDF)
+български (BG) (758.28 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/bg/documents/product-information/hopledo-epar-product-information_bg.pdf)
 
-español (ES) (302.82 KB - PDF)
+español (ES) (561.71 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/es/documents/product-information/hopledo-epar-product-information_es.pdf)
 
-čeština (CS) (666.01 KB - PDF)
+čeština (CS) (757.99 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/cs/documents/product-information/hopledo-epar-product-information_cs.pdf)
 
-dansk (DA) (297.59 KB - PDF)
+dansk (DA) (733.3 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/da/documents/product-information/hopledo-epar-product-information_da.pdf)
 
-Deutsch (DE) (312.05 KB - PDF)
+Deutsch (DE) (708.75 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/de/documents/product-information/hopledo-epar-product-information_de.pdf)
 
-eesti (ET) (315.63 KB - PDF)
+eesti (ET) (716.26 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/et/documents/product-information/hopledo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (709.58 KB - PDF)
+ελληνικά (EL) (772.64 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/el/documents/product-information/hopledo-epar-product-information_el.pdf)
 
-français (FR) (334.06 KB - PDF)
+français (FR) (755.81 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/fr/documents/product-information/hopledo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (593.09 KB - PDF)
+hrvatski (HR) (734.52 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/hr/documents/product-information/hopledo-epar-product-information_hr.pdf)
 
-italiano (IT) (305.02 KB - PDF)
+italiano (IT) (609.35 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/it/documents/product-information/hopledo-epar-product-information_it.pdf)
 
-latviešu (LV) (663.98 KB - PDF)
+latviešu (LV) (753.53 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/lv/documents/product-information/hopledo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (664.17 KB - PDF)
+lietuvių (LT) (589.43 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/lt/documents/product-information/hopledo-epar-product-information_lt.pdf)
 
-magyar (HU) (504.38 KB - PDF)
+magyar (HU) (766.63 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/hu/documents/product-information/hopledo-epar-product-information_hu.pdf)
 
-Malti (MT) (613.71 KB - PDF)
+Malti (MT) (647.88 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/mt/documents/product-information/hopledo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (305.46 KB - PDF)
+Nederlands (NL) (570.58 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/nl/documents/product-information/hopledo-epar-product-information_nl.pdf)
 
-polski (PL) (643.73 KB - PDF)
+polski (PL) (611.38 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/pl/documents/product-information/hopledo-epar-product-information_pl.pdf)
 
-português (PT) (300.37 KB - PDF)
+português (PT) (566.84 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/pt/documents/product-information/hopledo-epar-product-information_pt.pdf)
 
-română (RO) (636.29 KB - PDF)
+română (RO) (590.9 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/ro/documents/product-information/hopledo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (634.5 KB - PDF)
+slovenčina (SK) (511.06 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/sk/documents/product-information/hopledo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (583.56 KB - PDF)
+slovenščina (SL) (576.3 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/sl/documents/product-information/hopledo-epar-product-information_sl.pdf)
 
-suomi (FI) (297.43 KB - PDF)
+suomi (FI) (699.42 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/fi/documents/product-information/hopledo-epar-product-information_fi.pdf)
 
-svenska (SV) (292.79 KB - PDF)
+svenska (SV) (546.01 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/sv/documents/product-information/hopledo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (293.69 KB - PDF)
+Íslenska (IS) (689.49 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/is/documents/product-information/hopledo-epar-product-information_is.pdf)
 
-norsk (NO) (290.55 KB - PDF)
+**Latest procedure affecting product information:**VR/0000373479
 
-**First published:** 25/08/2026
-
-[View](/no/documents/product-information/hopledo-epar-product-information_no.pdf)
-
-20/08/2026
+28/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -434,157 +430,151 @@ Product information documents contain:
 
 Hopledo : EPAR - All authorised presentations
 
-English (EN) (55.01 KB - PDF)
+English (EN) (54.65 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/en/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-774)
+[Other languages (23)](#file-language-dropdown-184)
 
-български (BG) (72.88 KB - PDF)
+български (BG) (74.97 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/bg/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (54.59 KB - PDF)
+español (ES) (54.82 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/es/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (98.76 KB - PDF)
+čeština (CS) (88.41 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/cs/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (56.41 KB - PDF)
+dansk (DA) (56.46 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/da/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (55.96 KB - PDF)
+Deutsch (DE) (55.98 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/de/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_de.pdf)
 
-eesti (ET) (55.04 KB - PDF)
+eesti (ET) (55.1 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/et/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (84.45 KB - PDF)
+ελληνικά (EL) (86.54 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/el/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (54.94 KB - PDF)
+français (FR) (54.79 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/fr/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (87.27 KB - PDF)
+hrvatski (HR) (88.2 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/hr/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (53.79 KB - PDF)
+italiano (IT) (54.16 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/it/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_it.pdf)
 
-latviešu (LV) (99.09 KB - PDF)
+latviešu (LV) (89.15 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/lv/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių (LT) (86.24 KB - PDF)
+lietuvių (LT) (88.86 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/lt/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (69.08 KB - PDF)
+magyar (HU) (85.88 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/hu/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (87.76 KB - PDF)
+Malti (MT) (89.03 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/mt/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (54.21 KB - PDF)
+Nederlands (NL) (54.79 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/nl/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_nl.pdf)
 
-polski (PL) (85.46 KB - PDF)
+polski (PL) (87.12 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/pl/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (54.81 KB - PDF)
+português (PT) (55.05 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/pt/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (86.28 KB - PDF)
+română (RO) (88.33 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/ro/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (98.09 KB - PDF)
+slovenčina (SK) (88.46 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/sk/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (97.24 KB - PDF)
+slovenščina (SL) (86.59 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/sl/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_sl.pdf)
 
-suomi (FI) (53.97 KB - PDF)
+suomi (FI) (53.9 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/fi/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (54.52 KB - PDF)
+svenska (SV) (55.3 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/sv/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_sv.pdf)
 
-Íslenska (IS) (54.37 KB - PDF)
+Íslenska (IS) (55.06 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 28/10/2026
 
 [View](/is/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_is.pdf)
-
-norsk (NO) (54.91 KB - PDF)
-
-**First published:** 25/08/2026
-
-[View](/no/documents/all-authorised-presentations/hopledo-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -614,13 +604,31 @@ Hopledo is indicated for the treatment of adult patients with Parkinson's diseas
 - **EMA product number**
     - EMEA/H/C/006629
 - **Marketing authorisation holder**
-    - Zambon SpA Via Lillo Del Duca 10  20091 Bresso (Milan)  Italy
+    - Zambon SpA Via Lillo Del Duca 10  
+20091 Bresso (Milan)  
+Italy
 - **Opinion adopted**
     - 25/06/2026
 - **Marketing authorisation issued**
     - 20/08/2026
+- **Revision**
+    - 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Hopledo : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.47 KB - PDF)
+
+**First published:** 28/10/2026
+
+[View](/en/documents/procedural-steps-after/hopledo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -652,6 +660,6 @@ English (EN) (153.53 KB - PDF)
 
 **This page was last updated on**
 
-25/08/2026
+28/10/2026
 
 ## Share this page

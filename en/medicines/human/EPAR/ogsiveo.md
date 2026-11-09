@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-02 16:02:00
+document_datetime: 2026-11-05 14:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ogsiveo.html
 document_name: ogsiveo.html
 version: success
-processing_time: 0.1425665
-conversion_datetime: 2026-09-05 10:49:51.113339
+processing_time: 0.1648357
+conversion_datetime: 2026-11-09 13:06:42.698337
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.95.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.17.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Ogsiveo
 
 [RSS](/en/individual-human-medicine.xml/258706)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 nirogacestat
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -124,7 +124,7 @@ English (EN) (115.73 KB - PDF)
 
 [View](/en/documents/overview/ogsiveo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-461)
+[Other languages (22)](#file-language-dropdown-693)
 
 български (BG) (137.9 KB - PDF)
 
@@ -260,9 +260,9 @@ svenska (SV) (122.46 KB - PDF)
 
 Ogsiveo : EPAR - Risk management plan
 
-English (EN) (1.26 MB - PDF)
+English (EN) (33.83 MB - PDF)
 
-**First published:** 03/10/2025
+**First published:** 03/10/2025 **Last updated:** 05/11/2026
 
 [View](/en/documents/rmp/ogsiveo-epar-risk-management-plan_en.pdf)
 
@@ -276,7 +276,7 @@ English (EN) (465.59 KB - PDF)
 
 [View](/en/documents/product-information/ogsiveo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-408)
+[Other languages (24)](#file-language-dropdown-525)
 
 български (BG) (578.91 KB - PDF)
 
@@ -422,7 +422,7 @@ norsk (NO) (658.12 KB - PDF)
 
 [View](/no/documents/product-information/ogsiveo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000370753
+**Latest procedure affecting product information:**VR/0000370753
 
 31/08/2026
 
@@ -430,7 +430,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -449,7 +449,7 @@ English (EN) (48.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ogsiveo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-150)
+[Other languages (22)](#file-language-dropdown-194)
 
 български (BG) (68.94 KB - PDF)
 
@@ -609,17 +609,19 @@ Ogsiveo as monotherapy is indicated for the treatment of adult patients with pro
 - **EMA product number**
     - EMEA/H/C/006071
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Merck Europe B.V. Gustav Mahlerplein 102  1082 MA Amsterdam  The Netherlands
+    - Merck Europe B.V. Gustav Mahlerplein 102  
+1082 MA Amsterdam  
+The Netherlands
 - **Opinion adopted**
     - 19/06/2025
 - **Marketing authorisation issued**
     - 14/08/2025
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -631,9 +633,9 @@ Collapse section
 
 Ogsiveo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (165.27 KB - PDF)
+English (EN) (172.96 KB - PDF)
 
-**First published:** 31/03/2026 **Last updated:** 02/09/2026
+**First published:** 31/03/2026 **Last updated:** 05/11/2026
 
 [View](/en/documents/procedural-steps-after/ogsiveo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -681,6 +683,6 @@ English (EN) (136.7 KB - PDF)
 
 **This page was last updated on**
 
-02/09/2026
+05/11/2026
 
 ## Share this page

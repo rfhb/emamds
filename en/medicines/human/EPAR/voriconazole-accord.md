@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-22 14:42:00
+document_datetime: 2026-11-05 15:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voriconazole-accord.html
 document_name: voriconazole-accord.html
 version: success
-processing_time: 0.3236638
-conversion_datetime: 2026-07-28 12:51:59.337162
+processing_time: 0.2280178
+conversion_datetime: 2026-11-09 13:13:17.747711
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Voriconazole Accord
 
 [RSS](/en/individual-human-medicine.xml/65476)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 voriconazole
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -58,8 +58,8 @@ Collapse section
 
 Voriconazole Accord is an antifungal medicine that contains the active substance voriconazole. It is used for the treatment of adults and children over the age of two years with:
 
-- invasive aspergillosis (a type of fungal infection due to *Aspergillus* );
-- candidaemia (another type of fungal infection due to *Candida* ) in non?neutropenic patients (patients with a normal white blood cell count);
+- invasive aspergillosis (a type of fungal infection due to *Aspergillus*);
+- candidaemia (another type of fungal infection due to *Candida*) in non?neutropenic patients (patients with a normal white blood cell count);
 - serious invasive *Candida* infections when the fungus is resistant to fluconazole (another antifungal medicine);
 - serious fungal infections caused by *Scedosporium* or *Fusarium* (two different types of fungus).
 
@@ -111,7 +111,7 @@ English (EN) (74.98 KB - PDF)
 
 [View](/en/documents/overview/voriconazole-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-871)
+[Other languages (22)](#file-language-dropdown-231)
 
 български (BG) (109.06 KB - PDF)
 
@@ -257,167 +257,161 @@ English (EN) (1.56 MB - PDF)
 
 Voriconazole Accord : EPAR - Product Information
 
-English (EN) (586.04 KB - PDF)
+English (EN) (438.29 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/en/documents/product-information/voriconazole-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (23)](#file-language-dropdown-293)
 
-български (BG) (832.95 KB - PDF)
+български (BG) (856.35 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/bg/documents/product-information/voriconazole-accord-epar-product-information_bg.pdf)
 
-español (ES) (608.98 KB - PDF)
+español (ES) (653.77 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/es/documents/product-information/voriconazole-accord-epar-product-information_es.pdf)
 
-čeština (CS) (653.21 KB - PDF)
+čeština (CS) (555.61 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/cs/documents/product-information/voriconazole-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (677.63 KB - PDF)
+dansk (DA) (429.5 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/da/documents/product-information/voriconazole-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (779.88 KB - PDF)
+Deutsch (DE) (486.04 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/de/documents/product-information/voriconazole-accord-epar-product-information_de.pdf)
 
-eesti (ET) (662.4 KB - PDF)
+eesti (ET) (668.42 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/et/documents/product-information/voriconazole-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (750.78 KB - PDF)
+ελληνικά (EL) (651.7 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/el/documents/product-information/voriconazole-accord-epar-product-information_el.pdf)
 
-français (FR) (666.59 KB - PDF)
+français (FR) (646.42 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/fr/documents/product-information/voriconazole-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (665.78 KB - PDF)
+hrvatski (HR) (528.83 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/hr/documents/product-information/voriconazole-accord-epar-product-information_hr.pdf)
 
-italiano (IT) (1021.66 KB - PDF)
+italiano (IT) (726.56 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/it/documents/product-information/voriconazole-accord-epar-product-information_it.pdf)
 
-latviešu (LV) (795.28 KB - PDF)
+latviešu (LV) (784.59 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/lv/documents/product-information/voriconazole-accord-epar-product-information_lv.pdf)
 
-lietuvių (LT) (702 KB - PDF)
+lietuvių (LT) (698.08 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/lt/documents/product-information/voriconazole-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (696.02 KB - PDF)
+magyar (HU) (688.23 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/hu/documents/product-information/voriconazole-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (781.06 KB - PDF)
+Malti (MT) (572.73 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/mt/documents/product-information/voriconazole-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (454.97 KB - PDF)
+Nederlands (NL) (453.65 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/nl/documents/product-information/voriconazole-accord-epar-product-information_nl.pdf)
 
-polski (PL) (820.2 KB - PDF)
+polski (PL) (624.6 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/pl/documents/product-information/voriconazole-accord-epar-product-information_pl.pdf)
 
-português (PT) (1.03 MB - PDF)
+português (PT) (616.5 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/pt/documents/product-information/voriconazole-accord-epar-product-information_pt.pdf)
 
-română (RO) (761.27 KB - PDF)
+română (RO) (585.97 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/ro/documents/product-information/voriconazole-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (844.34 KB - PDF)
+slovenčina (SK) (622.84 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/sk/documents/product-information/voriconazole-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (662.84 KB - PDF)
+suomi (FI) (457.81 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
-
-[View](/sl/documents/product-information/voriconazole-accord-epar-product-information_sl.pdf)
-
-suomi (FI) (775.34 KB - PDF)
-
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/fi/documents/product-information/voriconazole-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (719.93 KB - PDF)
+svenska (SV) (762.48 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/sv/documents/product-information/voriconazole-accord-epar-product-information_sv.pdf)
 
-Íslenska (IS) (704.47 KB - PDF)
+Íslenska (IS) (442.79 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/is/documents/product-information/voriconazole-accord-epar-product-information_is.pdf)
 
-norsk (NO) (636.32 KB - PDF)
+norsk (NO) (409.27 KB - PDF)
 
-**First published:** 07/06/2013 **Last updated:** 22/07/2026
+**First published:** 07/06/2013 **Last updated:** 05/11/2026
 
 [View](/no/documents/product-information/voriconazole-accord-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000338366
+**Latest procedure affecting product information:**VR/0000368652
 
-20/07/2026
+05/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -436,7 +430,7 @@ English (EN) (53.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voriconazole-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-98)
+[Other languages (24)](#file-language-dropdown-750)
 
 български (BG) (97.89 KB - PDF)
 
@@ -608,7 +602,7 @@ Voriconazole is a broad-spectrum, triazole antifungal agent and is indicated in 
 
 - treatment of invasive aspergillosis;
 - treatment of candidaemia in non-neutropenic patients;
-- treatment of fluconazole-resistant serious invasive *Candida* infections (including *C. krusei* );
+- treatment of fluconazole-resistant serious invasive *Candida* infections (including *C. krusei*);
 - Treatment of serious fungal infections caused by *Scedosporium* spp. and *Fusarium* spp.
 
 Voriconazole Accord should be administered primarily to patients with progressive, possibly life-threatening infections.
@@ -618,13 +612,17 @@ Voriconazole Accord should be administered primarily to patients with progressiv
 - **EMA product number**
     - EMEA/H/C/002669
 - **Generic**
-    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
 - **Marketing authorisation holder**
-    - Accord Healthcare S.L.U. Edificio Este Planta 6a  World Trade Center  Moll De Barcelona S/n  08039 Barcelona  SPAIN
+    - Accord Healthcare S.L.U. Edificio Este Planta 6a  
+World Trade Center  
+Moll De Barcelona S/n  
+08039 Barcelona  
+SPAIN
 - **Marketing authorisation issued**
     - 16/05/2013
 - **Revision**
-    - 23
+    - 24
 
 ## Assessment history
 
@@ -636,9 +634,9 @@ Collapse section
 
 Voriconazole Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.11 KB - PDF)
+English (EN) (166.91 KB - PDF)
 
-**First published:** 12/05/2025 **Last updated:** 22/07/2026
+**First published:** 12/05/2025 **Last updated:** 05/11/2026
 
 [View](/en/documents/procedural-steps-after/voriconazole-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -684,7 +682,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-434)
+[Other languages (22)](#file-language-dropdown-569)
 
 български (BG) (93.16 KB - PDF)
 
@@ -820,11 +818,11 @@ svenska (SV) (67.11 KB - PDF)
 
 ## Topics
 
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A54)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-22/07/2026
+05/11/2026
 
 ## Share this page

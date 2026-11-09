@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-03 13:53:00
+document_datetime: 2026-10-30 15:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/keytruda.html
 document_name: keytruda.html
 version: success
-processing_time: 0.318927
-conversion_datetime: 2026-09-05 10:48:27.733592
+processing_time: 0.6215797
+conversion_datetime: 2026-11-09 13:04:12.205207
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.95.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.17.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Keytruda
 
 [RSS](/en/individual-human-medicine.xml/66911)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 pembrolizumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -120,7 +120,7 @@ The active substance in Keytruda, pembrolizumab, is a monoclonal antibody, a pro
 
 Keytruda can delay worsening of melanoma and improve survival. Results from a study of 540 previously treated patients with melanoma showed that 2 years after start of treatment, the disease had not worsened in 16% of patients treated with Keytruda compared with less than 1% of patients treated with chemotherapy.
 
-A second study looked at 834 patients with melanoma who received either Keytruda or another medicine, ipilimumab. Patients treated with Keytruda lived for up to 5.6 months without their disease getting worse compared with 2.8 months with ipilimumab. Up to 74% of patients treated with Keytruda lived for at least 12 months after the start of their treatment compared with 59% of patients on ipilimumab.
+A second study looked at 834 patients with melanoma who received either Keytruda or another medicine, ipilimumab. Patients treated with Keytruda lived for a median of 5.6 months without their disease getting worse compared with 2.8 months with ipilimumab. Up to 74% of patients treated with Keytruda lived for at least 12 months after the start of their treatment compared with 59% of patients on ipilimumab.
 
 A third study in 1,019 patients who had had surgery and who were at high risk for their cancer coming back compared Keytruda to placebo (a dummy treatment). After one and a half years, 72% of patients who had Keytruda were still disease-free compared with 54% of patients who had placebo.
 
@@ -132,61 +132,63 @@ Because melanoma in adolescents is similar to the disease in adults, Keytruda is
 
 Keytruda is also effective in delaying worsening of the disease and improving survival in patients with NSCLC.
 
-In a study looking at around 1,000 previously treated patients, patients lived longer with Keytruda given alone (around 11 months) than with another cancer medicine called docetaxel (around 8 months), and the disease did not get worse for around 4 months with both treatments. Keytruda was more effective in patients who tested strongly for PD-L1, with these patients living for 15 months on average, 5 months of which without their disease worsening.
+In a study looking at around 1,000 previously treated patients, patients lived longer with Keytruda given alone (median of around 11 months) than with another cancer medicine called docetaxel (around 8 months), and the disease did not get worse for a median of 4 months with both treatments. Keytruda was more effective in patients who tested strongly for PD-L1, with these patients living for a median of 15 months, 5 months of which without their disease worsening.
 
-In a second study of 305 patients with NSCLC whose tumours tested strongly for PD-L1 and who had not been treated before, patients on Keytruda lived for around 10 months without their disease getting worse compared with 6 months for patients receiving platinum-based chemotherapy.
+In a second study of 305 patients with NSCLC whose tumours tested strongly for PD-L1 and who had not been treated before, patients on Keytruda lived for a median of around 10 months without their disease getting worse compared with 6 months for patients receiving platinum-based chemotherapy.
 
-Keytruda is also effective in combination treatment of a type of NSCLC known as 'non-squamous'. In a study of 616 patients with non-squamous NSCLC that had spread, 69% of patients taking Keytruda with pemetrexed and platinum chemotherapy were alive at 11 months, compared with less than half of patients who had only pemetrexed and platinum chemotherapy. In addition, patients who had Keytruda treatment lived on average for 8.8 months without the disease getting worse, compared with 4.9 months for patients who were not given Keytruda.
+Keytruda is also effective in combination treatment of a type of NSCLC known as 'non-squamous' NSCLC. In a study of 616 patients with non-squamous NSCLC that had spread, 69% of patients taking Keytruda with pemetrexed and platinum chemotherapy were alive at 11 months, compared with less than half of patients who had only pemetrexed and platinum chemotherapy. In addition, patients who had Keytruda treatment lived for a median of 8.8 months without the disease getting worse, compared with 4.9 months for patients who were not given Keytruda.
 
-In a further study of 559 patients with squamous NSCLC that had spread, patients given Keytruda with carboplatin and paclitaxel or nab-paclitaxel lived on average for 15.9 months compared with 11.3 months for patients given placebo with carboplatin and paclitaxel or nab-paclitaxel. Patients in the Keytruda group lived on average for around 6 months without their disease getting worse compared with 4.8 months for patients in the placebo group.
+In a further study of 559 patients with squamous NSCLC that had spread, patients given Keytruda with carboplatin and paclitaxel or nab-paclitaxel lived for a median of 15.9 months compared with 11.3 months for patients given placebo with carboplatin and paclitaxel or nab-paclitaxel. Patients in the Keytruda group lived for a median of around 6 months without their disease getting worse compared with 4.8 months for patients in the placebo group.
 
-In a study involving over 1,000 patients with NSCLC who had their cancer surgically removed and had received chemotherapy after surgery, patients treated with Keytruda for up to one year lived an average of 54 months without the disease coming back, compared with 41 months for patients who received placebo.
+In a study involving over 1,000 patients with NSCLC who had their cancer surgically removed and had received chemotherapy after surgery, patients treated with Keytruda for up to one year lived for a median of around 54 months without the disease coming back, compared with around 41 months for patients who received placebo.
 
-A further study involved close to 800 patients with NSCLC that had not spread and could be removed by surgery. They received either Keytruda with platinum-containing chemotherapy before surgery followed by Keytruda alone after surgery, or placebo with platinum-containing chemotherapy before surgery followed by placebo alone after surgery. Patients who received Keytruda lived an average of 47 months before the disease got worse or came back, or the patient died. This compares with 18 months for patients who received placebo. Patients who received placebo lived an average of 52 months; this time could not be calculated in patients who received Keytruda due to the low number of patients who died during the follow-up period.
+A further study involved close to 800 patients with NSCLC that had not spread and could be removed by surgery. They received either Keytruda with platinum-containing chemotherapy before surgery followed by Keytruda alone after surgery, or placebo with platinum-containing chemotherapy before surgery followed by placebo alone after surgery. Patients who received Keytruda lived for a median of around 47 months before the disease got worse or came back, or the patient died. This compares with around 18 months for patients who received placebo. Patients who received placebo lived for a median of around 52 months; this time could not be calculated in patients who received Keytruda due to the low number of patients who died during the follow-up period.
 
 **Non-epithelioid malignant pleural mesothelioma**
 
-A main study investigated Keytruda in 440 adults with malignant pleural mesothelioma that had not been treated before, was advanced or metastatic and could not be removed by surgery. In a group of 95 patients with non-epithelioid malignant pleural mesothelioma, those who received Keytruda with chemotherapy (cisplatin and pemetrexed) lived for an average of 12.3 months compared with 8.2 months for those who received chemotherapy alone. In addition, patients in the Keytruda group lived for an average of 7.1 months without their disease getting worse, compared with 4.5 months for those who received chemotherapy alone.
+A main study investigated Keytruda in 440 adults with malignant pleural mesothelioma that had not been treated before, was advanced or metastatic and could not be removed by surgery. In a group of 95 patients with non-epithelioid malignant pleural mesothelioma, those who received Keytruda with chemotherapy (cisplatin and pemetrexed) lived for a median of 12.3 months compared with 8.2 months for those who received chemotherapy alone. In addition, patients in the Keytruda group lived for a median of 7.1 months without their disease getting worse, compared with 4.5 months for those who received chemotherapy alone.
 
 **Hodgkin lymphoma**
 
 Keytruda partially or completely clears cancer cells in classical Hodgkin lymphoma that has not improved or has returned after previous treatment.
 
-In a main study of 210 adults, Keytruda produced a complete or partial remission (clearing) of the cancer in 71% of the patients; a complete remission occurred in 28% of them, meaning they no longer had any signs of cancer. The average time that patients lived without their disease getting worse again was around 14 months.
+In a main study of 210 adults, Keytruda produced a complete or partial remission (clearing) of the cancer in 71% of the patients; a complete remission occurred in 28% of them, meaning they no longer had any signs of cancer. The median that patients lived without their disease getting worse was around 14 months.
 
-Another main study of 304 adults showed that Keytruda was also effective in patients who had tried a stem cell transplant and those who had had two other treatments and were unable to have a stem cell transplant. In this study, patients who received Keytruda lived on average for 13 months without their disease getting worse compared with around 8 months for those treated with brentuximab vedotin.
+Another main study of 304 adults showed that Keytruda was also effective in patients who had tried a stem cell transplant and those who had had two other treatments and were unable to have a stem cell transplant. In this study, patients who received Keytruda lived for a median of around 13 months without their disease getting worse compared with around 8 months for those treated with brentuximab vedotin.
 
 Data from a study in children indicate that the medicine could also be effective in that age group.
 
 **Urothelial cancer**
 
-Keytruda improves survival of patients with urothelial cancer. A study looked at 542 patients previously treated with platinum-based medicines who received either Keytruda or another cancer medicine chosen by the doctor (paclitaxel, docetaxel or vinflunine). Patients treated with Keytruda lived on average around 10 months compared with around 7 months with the other cancer medicines. Keytruda did not delay worsening of the disease compared with the other cancer medicines (time to disease worsening was 2 and 3 months, respectively).
+Keytruda improves survival of patients with urothelial cancer. A study looked at 542 patients previously treated with platinum-based medicines who received either Keytruda or another cancer medicine chosen by the doctor (paclitaxel, docetaxel or vinflunine). Patients treated with Keytruda lived for a median of around 10 months compared with around 7 months with the other cancer medicines. Keytruda did not delay worsening of the disease compared with the other cancer medicines (median to disease worsening was 2 and 3 months, respectively).
 
 In a second study involving 370 patients who could not be treated with cisplatin-containing medicines, Keytruda produced a complete or partial remission (clearing) of the cancer in 108 patients (29%); a complete remission occurred in 30 (8%) of them, meaning they no longer had any signs of cancer.
 
-A third study involving 886 patients with advanced or metastatic urothelial cancer that had not yet been treated with systemic (affecting the whole body) therapy compared the benefits of Keytruda in combination with enfortumab vedotin with those of platinum-based chemotherapy and gemcitabine (other cancer medicines). Patients treated with Keytruda plus enfortumab vedotin lived on average for around 13 months without the disease getting worse and for an average of 32 months overall. Patients treated with platinum-based chemotherapy and gemcitabine lived for an average of around 6 months without the disease getting worse and for an average of around 16 months overall.
+A third study involving 886 patients with advanced or metastatic urothelial cancer that had not yet been treated with systemic (affecting the whole body) therapy compared the benefits of Keytruda in combination with enfortumab vedotin with those of platinum-based chemotherapy and gemcitabine (other cancer medicines). Patients treated with Keytruda plus enfortumab vedotin lived for a median of around 13 months without the disease getting worse and around 32 months overall. Patients treated with platinum-based chemotherapy and gemcitabine lived for a median of around 6 months without the disease getting worse and around 16 months overall.
 
-A fourth study involved 344 patients with urothelial cancer that has grown into the muscle layer of the bladder and can be removed by surgery and who could not be treated with cisplatin-containing medicines. Patients were either given Keytruda and enfortumab vedotin before and after surgery or only had surgery. After around 20 months, 72% of patients who took Keytruda with enfortumab vedotin were alive without the disease getting worse, coming back or causing death, compared with 45% of those who only had surgery. In addition, after around 24 months, 80% of patients who received Keytruda plus enfortumab vedotin were alive, compared with 63% of patients who received only surgery.
+A fourth study involved 344 patients with urothelial cancer that has grown into the muscle layer of the bladder (muscle-invasive bladder cancer; MIBC) and can be removed by surgery and who could not be treated with cisplatin-containing medicines. Patients were either given Keytruda and enfortumab vedotin before and after surgery or only had surgery. After around 20 months, 72% of patients who took Keytruda with enfortumab vedotin were alive without the disease getting worse or coming back, compared with 45% of those who only had surgery. In addition, after around 24 months, 80% of patients who received Keytruda plus enfortumab vedotin were alive, compared with 63% of patients who received only surgery.
+
+A fifth study involved 808 patients with MIBC that can be removed by surgery and who could be treated with cisplatin chemotherapy. Patients either received Keytruda in combination with enfortumab vedotin before and after surgery or they received cisplatin and gemcitabine chemotherapy before surgery. After a median of around 31 months, around 79% (318 out of 405) of patients treated with Keytruda plus enfortumab vedotin were alive without the disease getting worse or coming back. This compared with around 64% (257 out of 403) of patients treated with cisplatin and gemcitabine chemotherapy before surgery. In addition, 83% of patients treated with Keytruda plus enfortumab vedotin were still alive compared with around 75% of patients who received cisplatin and gemcitabine chemotherapy before surgery.
 
 **Head and neck cancer**
 
-Keytruda is also effective in improving survival of patients with head and neck squamous cell carcinoma (HNSCC) that has spread or come back. In a study of 495 patients, patients treated with Keytruda who had high levels of PD-L1 lived on average for 11.6 months while those taking standard cancer treatments lived for 6.6 months.
+Keytruda is also effective in improving survival of patients with head and neck squamous cell carcinoma (HNSCC) that has spread or come back. In a study of 495 patients, patients treated with Keytruda who had high levels of PD-L1 lived for a median of 11.6 months while those taking standard cancer treatments lived for a median of 6.6 months.
 
-Another study involving 882 patients with HNSCC showed that Keytruda alone or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy is effective at prolonging patients' lives when the HNSCC has a certain level of PD-L1. Patients taking the Keytruda combination lived on average for 13.6 months compared with 10.4 months for patients taking other standard treatments. In addition, patients taking Keytruda alone lived on average 12.3 months compared with 10.3 months for patients taking other standard treatments.
+Another study involving 882 patients with HNSCC showed that Keytruda alone or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy is effective at prolonging patients' lives when the HNSCC has a certain level of PD-L1. Patients taking the Keytruda combination lived for a median of 13.6 months compared with 10.4 months for patients taking other standard treatments. In addition, patients taking Keytruda alone lived for a median of 12.3 months compared with 10.3 months for patients taking other standard treatments.
 
-In this study, the disease did not get worse for 5.1 months on average in patients taking Keytruda combination, 3.2 months in patients taking Keytruda alone and 5.0 months in patients taking other standard treatments.
+In this study, the disease did not get worse for a median of 5.1 months in patients taking Keytruda combination, 3.2 months in patients taking Keytruda alone and 5.0 months in patients taking other standard treatments.
 
 Another study involved 714 patients with locally advanced HNSCC (Stage III-IVA; when the cancer has grown significantly and may have spread nearby) that can be removed by surgery. Most patients had cancer cells that produced a certain level of PD-L1.
 
 A first group of patients received Keytruda before surgery, followed by, within 6 weeks after surgery, Keytruda in combination with either radiation and chemotherapy for patients who had signs that cancer cells were still present after surgery or had spread, or radiation alone for those not presenting these signs. A second group of patients did not receive treatment before surgery; within 6 weeks after surgery, they received either radiation and chemotherapy or radiation alone, as patients in the first group, but without Keytruda.
 
-Patients in the first group lived an average of 60 months before their disease got worse or came back, or the patient died, compared with 30 months on average for patients in the second group.
+Patients in the first group lived a median of around 60 months before their disease got worse or came back, or the patient died, compared with around 30 months for patients in the second group.
 
 **Kidney cancer**
 
-In a study of 861 patients with renal cell carcinoma, patients given Keytruda in combination with an already authorised medicine for renal cell carcinoma, axitinib, lived for around 15 months without their disease getting worse, compared with 11 months for patients who received treatment with another renal cell carcinoma medicine, sunitinib. Keytruda is also effective in improving survival of patients with renal cell carcinoma. At 18 months, 81% of the patients given the combination were alive, compared with 71% in the sunitinib group.
+In a study of 861 patients with renal cell carcinoma, patients given Keytruda in combination with an already authorised medicine for renal cell carcinoma, axitinib, lived for a median of about 15 months without their disease getting worse, compared with around 11 months for patients who received treatment with another renal cell carcinoma medicine, sunitinib. Keytruda is also effective in improving survival of patients with renal cell carcinoma. At 18 months, 81% of the patients given the combination were alive, compared with 71% in the sunitinib group.
 
-Another study, involving 1,069 patients, with renal cell carcinoma compared the effects of Keytruda or everolimus in combination with lenvatinib with the effects of sunitinib. In this study, patients in the Keytruda plus lenvatinib group lived for around 24 months without their disease getting worse, while those in the sunitinib group lived for 9 months without their disease worsening.
+Another study, involving 1,069 patients, with renal cell carcinoma compared the effects of Keytruda or everolimus in combination with lenvatinib with the effects of sunitinib. In this study, patients in the Keytruda plus lenvatinib group lived for a median of around 24 months without their disease getting worse, while those in the sunitinib group lived for around 9 months without their disease worsening.
 
 A third study looked at the effect of Keytruda after surgery in 994 patients who had a higher risk of their kidney cancer coming back. After one year, the probability of being alive without the disease coming back was 86% for patients receiving Keytruda treatment compared with 76% for patients receiving placebo. After two years, the figures were 77% for those who had Keytruda and 68% for those who had placebo.
 
@@ -194,47 +196,47 @@ A third study looked at the effect of Keytruda after surgery in 994 patients who
 
 A main study of 749 patients with oesophageal cancer that was advanced or had spread compared Keytruda plus chemotherapy with placebo plus chemotherapy.
 
-Keytruda treatment mainly benefited patients whose cancer produced high levels of PD-L1. Among these patients, those who received Keytruda lived on average for around 14 months while those who had placebo lived for 9 months. In addition, those in the Keytruda group lived for 8 months without the disease getting worse, compared with 6 months for those in the placebo group.
+Keytruda treatment mainly benefited patients whose cancer produced high levels of PD-L1. Among these patients, those who received Keytruda lived for a median of around 14 months while those who had placebo lived for around 9 months. In addition, those in the Keytruda group lived for 8 months without the disease getting worse, compared with 6 months for those in the placebo group.
 
 **Gastric and gastro-oesophageal junction adenocarcinoma**
 
-A main study was carried out in 698 patients with HER2-positive advanced gastric or gastro-oesophageal junction adenocarcinoma who had not been treated before and whose cancer could not be removed by surgery. HER2-positive means that the cancer cells produce a protein called HER2 on their surface. The study compared Keytruda with placebo in patients who were also receiving another cancer medicine called trastuzumab and chemotherapy. Keytruda treatment only showed benefits in patients whose cancer produced a certain level of PD-L1. Among these patients, those who received Keytruda lived on average 11 months without their disease getting worse and about 21 months overall, compared with about 7 months and 16 months, respectively, for those who received placebo.
+A main study was carried out in 698 patients with HER2-positive advanced gastric or gastro-oesophageal junction adenocarcinoma who had not been treated before and whose cancer could not be removed by surgery. HER2-positive means that the cancer cells produce a protein called HER2 on their surface. The study compared Keytruda with placebo in patients who were also receiving another cancer medicine called trastuzumab and chemotherapy. Keytruda treatment only showed benefits in patients whose cancer produced a certain level of PD-L1. Among these patients, those who received Keytruda lived for a median of about 11 months without their disease getting worse and about 21 months overall, compared with about 7 months and 16 months, respectively, for those who received placebo.
 
-Another main study was carried out in 1,579 patients with HER2-negative advanced gastric or gastro-oesophageal junction adenocarcinoma who had not previously received systemic therapy for metastatic disease. Patients received either Keytruda or placebo, together with chemotherapy medicines chosen by the doctor (5-FU plus cisplatin or capecitabine plus oxaliplatin). Keytruda treatment showed greater benefits in patients whose cancer produced a certain level of PD-L1. Among these patients, those who were treated with Keytruda lived for 13 months on average, compared with 11.4 months for those who received placebo.
+Another main study was carried out in 1,579 patients with HER2-negative advanced gastric or gastro-oesophageal junction adenocarcinoma who had not previously received systemic therapy for metastatic disease. Patients received either Keytruda or placebo, together with chemotherapy medicines chosen by the doctor (5-FU plus cisplatin or capecitabine plus oxaliplatin). Keytruda treatment showed greater benefits in patients whose cancer produced a certain level of PD-L1. Among these patients, those who were treated with Keytruda lived for a median of 13 months, compared with 11.4 months for those who received placebo.
 
 **Triple-negative breast cancer**
 
 A main study of 1,174 patients with high-risk early-stage triple-negative breast cancer compared the effects of giving Keytruda both before (neoadjuvant treatment) and after (adjuvant treatment) surgery with the effects of giving placebo before and after surgery. All patients in the study, whose cancer was locally advanced and at risk of coming back, also had chemotherapy before surgery. The results showed that 64% of patients given Keytruda as neoadjuvant treatment had no signs of invasive cancer in the breast tissue removed during surgery compared with 55% of patients given placebo. In addition, after 24 months the probability of being alive without the disease coming back was 88% for patients who had Keytruda as neoadjuvant and adjuvant treatment, compared with 81% for those treated with placebo.
 
-Another main study compared Keytruda plus chemotherapy with placebo and chemotherapy in 847 patients with previously untreated triple-negative breast cancer that could not be removed surgically or had spread. Among patients with high levels of PD-L1, those in the Keytruda group lived for almost 10 months without their disease getting worse, while those in the placebo group lived for 5 months without the disease worsening. When the study looked at survival (how long they lived), those in the Keytruda group lived longer: 23 months compared with 16 months.
+Another main study compared Keytruda plus chemotherapy with placebo and chemotherapy in 847 patients with previously untreated triple-negative breast cancer that could not be removed surgically or had spread. Among patients with high levels of PD-L1, those in the Keytruda group lived a median of almost 10 months without their disease getting worse, while those in the placebo group lived for a median of around 5 months without the disease worsening. When the study looked at survival (how long they lived), those in the Keytruda group lived longer: median of 23 months compared with around 16 months.
 
 **Endometrial carcinoma**
 
-A study of 827 patients with endometrial carcinoma compared Keytruda plus lenvatinib with chemotherapy treatments (doxorubicin or paclitaxel). Patients in the Keytruda group lived for around 7 months without their disease getting worse, while patients in the chemotherapy group lived for almost 4 months without their disease worsening. In addition, when the study looked at survival (how long they lived), patients in the Keytruda group lived on average for around 18 months compared with 11 months for patients in the chemotherapy group.
+A study of 827 patients with endometrial carcinoma compared Keytruda plus lenvatinib with chemotherapy treatments (doxorubicin or paclitaxel). Patients in the Keytruda group lived for a median of around 7 months without their disease getting worse, while patients in the chemotherapy group lived for almost 4 months without their disease worsening. In addition, when the study looked at survival (how long they lived), patients in the Keytruda group lived for a median of around 18 months compared with 11 months for patients in the chemotherapy group.
 
-A further study involved 810 patients with advanced or recurrent endometrial carcinoma which was either mismatch repair deficient (dMMR; meaning that the cancer cells lack certain proteins that correct mistakes made when DNA in dividing cells is copied) or mismatch repair proficient (pMMR; meaning that the cancer cells do not have this repair problem). Patients either had not previously received chemotherapy or had received chemotherapy after cancer surgery at least 12 months before the study. During the study, patients received either Keytruda with paclitaxel and carboplatin, or placebo with paclitaxel and carboplatin. In the pMMR group, patients given Keytruda lived an average of 13 months without their disease getting worse compared with about 9 months for patients given placebo. In the dMMR group, patients who received placebo lived an average of 8 months without their disease getting worse; this duration could not be calculated for patients who received Keytruda as not enough people had experienced worsening of the disease to allow the average time to be calculated. However, results showed that, at the time of the analysis, 26% (29 out of 110) of dMMR patients had experienced worsening of their disease with Keytruda compared with 54% (60 out of 112) of patients who received placebo.
+A further study involved 810 patients with advanced or recurrent endometrial carcinoma which was either mismatch repair deficient (dMMR; meaning that the cancer cells lack certain proteins that correct mistakes made when DNA in dividing cells is copied) or mismatch repair proficient (pMMR; meaning that the cancer cells do not have this repair problem). Patients either had not previously received chemotherapy or had received chemotherapy after cancer surgery at least 12 months before the study. During the study, patients received either Keytruda with paclitaxel and carboplatin, or placebo with paclitaxel and carboplatin. In the pMMR group, patients given Keytruda lived a median of around 13 months without their disease getting worse compared with about 9 months for patients given placebo. In the dMMR group, patients who received placebo lived a median of 8 months without their disease getting worse; this duration could not be calculated for patients who received Keytruda as not enough people had experienced worsening of the disease to allow the average time to be calculated. However, results showed that, at the time of the analysis, 26% (29 out of 110) of dMMR patients had experienced worsening of their disease with Keytruda compared with 54% (60 out of 112) of patients who received placebo.
 
 **Cervical cancer**
 
-Keytruda given with other cancer treatments is also effective in patients with cervical cancer that came back after previous treatment or has spread and tested positive for PDL-1 protein.
+Keytruda given with other cancer treatments is also effective in patients with cervical cancer that came back after previous treatment or has spread and tested positive for PD-L1.
 
-Patients who received Keytruda, together with chemotherapy, with or without another cancer medicine called bevacizumab, lived on average 10.4 months without their disease getting worse (273 patients) compared with 8.2 months for those who received only chemotherapy, with or without bevacizumab (275 patients). In addition, early data from the study show that patients who received Keytruda live longer than those who did not.
+Patients who received Keytruda, together with chemotherapy, with or without another cancer medicine called bevacizumab, lived for a median of 10.4 months without their disease getting worse (273 patients) compared with 8.2 months for those who received only chemotherapy, with or without bevacizumab (275 patients). In addition, early data from the study show that patients who received Keytruda live longer than those who did not.
 
-A further study involved 1,060 patients with locally advanced cervical cancer who had not previously received any surgery to completely remove the cancer, radiation, or systemic therapy for cervical cancer; 601 of whom had their cancer classified as FIGO 2014 Stage III-IVA (this means the cancer has started to spread to nearby structures like the vagina, bladder or end gut). Patients received either Keytruda with chemoradiotherapy (cisplatin and external radiotherapy followed by brachytherapy, a type of internal radiation therapy) followed by Keytruda alone, or placebo with chemoradiotherapy. The treatment lasted for up to approximately 2 years. In patients with FIGO 2014 stage III-IVA cancer, not enough people had experienced worsening of the disease to allow the average time they lived without their disease getting worse and the time they lived overall to be calculated in either the Keytruda or the placebo group. However, results showed that 15% of patients (43 out of 296) who received Keytruda with chemoradiotherapy had died compared with 24% (73 out of 305) of patients in the placebo group. In addition, 27% (79 out of 296) of patients had experienced worsening of their disease with Keytruda compared with 41% (125 out of 305) of patients who received placebo.
+A further study involved 1,060 patients with locally advanced cervical cancer who had not previously received any surgery to completely remove the cancer, radiation, or systemic therapy for cervical cancer; 601 of them had their cancer classified as FIGO 2014 Stage III-IVA (this means the cancer has started to spread to nearby structures like the vagina, bladder or end of the gut). Patients received either Keytruda with chemoradiotherapy (cisplatin and external radiotherapy followed by brachytherapy, a type of internal radiation therapy) followed by Keytruda alone, or placebo with chemoradiotherapy. The treatment lasted for up to approximately 2 years. In patients with FIGO 2014 stage III-IVA cancer, not enough people had experienced worsening of the disease to allow the median time they lived without their disease getting worse and the median they lived overall to be calculated in either the Keytruda or the placebo group. However, results showed that 15% of patients (43 out of 296) who received Keytruda with chemoradiotherapy had died compared with 24% (73 out of 305) of patients in the placebo group. In addition, 27% (79 out of 296) of patients had experienced worsening of their disease with Keytruda compared with 41% (125 out of 305) of patients who received placebo.
 
 **Ovarian cancer**
 
 A main study showed that Keytruda was more effective than placebo in prolonging the time patients with either epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer lived without their cancer getting worse.
 
-The study involved 643 women with epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer who had not responded to treatment with one or two previous therapies, including one platinum-based therapy. Keytruda given in combination with paclitaxel, with or without bevacizumab, was compared with placebo given in combination with paclitaxel, with or without bevacizumab. Those who received treatment with Keytruda and whose cancer tested positive for PD-L1 lived without their cancer getting worse for an average of 8.3 months compared with 7.2 months for those given placebo. In addition, those given Keytruda lived on average for 18.2 months compared with 14 months for those given placebo.
+The study involved 643 women with epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer who had not responded to treatment with one or two previous therapies, including one platinum-based therapy. Keytruda given in combination with paclitaxel, with or without bevacizumab, was compared with placebo given in combination with paclitaxel, with or without bevacizumab. Those who received treatment with Keytruda and whose cancer tested positive for PD-L1 lived without their cancer getting worse for a median of 8.3 months compared with 7.2 months for those given placebo. In addition, those given Keytruda lived for a median of 18.2 months compared with 14 months for those given placebo.
 
 **Biliary tract cancer**
 
-In a study in 1,069 patients with locally advanced unresectable or metastatic biliary tract cancer who had not received systemic therapy for their advanced disease before, patients received either Keytruda or placebo, together with gemcitabine and cisplatin. Patients treated with Keytruda lived for 12.7 months on average, compared with 10.9 months for those who received placebo.
+In a study in 1,069 patients with locally advanced unresectable or metastatic biliary tract cancer who had not received systemic therapy for their advanced disease before, patients received either Keytruda or placebo, together with gemcitabine and cisplatin. Patients treated with Keytruda lived for a median of 12.7 months, compared with 10.9 months for those who received placebo.
 
 **MSI-H or dMMR cancers**
 
-A main study compared Keytruda with standard treatment, including chemotherapy, in 307 patients with MSI-H or dMMR colorectal cancer that had spread and who had not received any previous treatment for their cancer. Patients who received Keytruda lived for around 17 months without the disease getting worse compared with 8 months for patients who received standard treatments.
+A main study compared Keytruda with standard treatment, including chemotherapy, in 307 patients with MSI-H or dMMR colorectal cancer that had spread and who had not received any previous treatment for their cancer. Patients who received Keytruda lived for a median of around 17 months without the disease getting worse compared with around 8 months for patients who received standard treatments.
 
 Two additional studies looked at the effect of Keytruda in patients with other MSI-H or dMMR cancers that had spread and come back after previous treatments. Among the patients in the study, 124 had colorectal cancer, 83 had endometrial carcinoma, 51 had gastric cancer, 27 had cancer of the small intestine and 22 had biliary cancer.
 
@@ -282,151 +284,17 @@ Keytruda : EPAR - Medicine overview
 
 Reference Number: EMADOC-1829012207-59128
 
-English (EN) (208.67 KB - PDF)
+English (EN) (211.54 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/en/documents/overview/keytruda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-488)
-
-български (BG) (231.65 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/bg/documents/overview/keytruda-epar-medicine-overview_bg.pdf)
-
-español (ES) (200.54 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/es/documents/overview/keytruda-epar-medicine-overview_es.pdf)
-
-čeština (CS) (234.89 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/cs/documents/overview/keytruda-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (197.03 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/da/documents/overview/keytruda-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (206.34 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/de/documents/overview/keytruda-epar-medicine-overview_de.pdf)
-
-eesti (ET) (214.25 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/et/documents/overview/keytruda-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (237.59 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/el/documents/overview/keytruda-epar-medicine-overview_el.pdf)
-
-français (FR) (201.27 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/fr/documents/overview/keytruda-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (222.6 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/hr/documents/overview/keytruda-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (191.85 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/it/documents/overview/keytruda-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (214.1 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/lv/documents/overview/keytruda-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (220.17 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/lt/documents/overview/keytruda-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (227.17 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/hu/documents/overview/keytruda-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (228.48 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/mt/documents/overview/keytruda-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (203.85 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/nl/documents/overview/keytruda-epar-medicine-overview_nl.pdf)
-
-polski (PL) (234.37 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/pl/documents/overview/keytruda-epar-medicine-overview_pl.pdf)
-
-português (PT) (194.37 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/pt/documents/overview/keytruda-epar-medicine-overview_pt.pdf)
-
-română (RO) (215.36 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/ro/documents/overview/keytruda-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (227.19 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/sk/documents/overview/keytruda-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (224.18 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/sl/documents/overview/keytruda-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (187.69 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/fi/documents/overview/keytruda-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (192.01 KB - PDF)
-
-**First published:** 30/07/2015 **Last updated:** 03/09/2026
-
-[View](/sv/documents/overview/keytruda-epar-medicine-overview_sv.pdf)
-
 Keytruda : EPAR - Risk management plan
 
-English (EN) (1.97 MB - PDF)
+English (EN) (2.87 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/en/documents/rmp/keytruda-epar-risk-management-plan_en.pdf)
 
@@ -434,167 +302,167 @@ English (EN) (1.97 MB - PDF)
 
 Keytruda : EPAR - Product information
 
-English (EN) (6.55 MB - PDF)
+English (EN) (6.3 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/en/documents/product-information/keytruda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-917)
+[Other languages (24)](#file-language-dropdown-927)
 
-български (BG) (13.41 MB - PDF)
+български (BG) (13.94 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/bg/documents/product-information/keytruda-epar-product-information_bg.pdf)
 
-español (ES) (7.59 MB - PDF)
+español (ES) (8.03 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/es/documents/product-information/keytruda-epar-product-information_es.pdf)
 
-čeština (CS) (8.41 MB - PDF)
+čeština (CS) (9.43 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/cs/documents/product-information/keytruda-epar-product-information_cs.pdf)
 
-dansk (DA) (6.32 MB - PDF)
+dansk (DA) (6.16 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/da/documents/product-information/keytruda-epar-product-information_da.pdf)
 
-Deutsch (DE) (9.88 MB - PDF)
+Deutsch (DE) (10.06 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/de/documents/product-information/keytruda-epar-product-information_de.pdf)
 
-eesti (ET) (6.91 MB - PDF)
+eesti (ET) (7.19 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/et/documents/product-information/keytruda-epar-product-information_et.pdf)
 
-ελληνικά (EL) (10.24 MB - PDF)
+ελληνικά (EL) (10.41 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/el/documents/product-information/keytruda-epar-product-information_el.pdf)
 
-français (FR) (7.82 MB - PDF)
+français (FR) (8.18 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/fr/documents/product-information/keytruda-epar-product-information_fr.pdf)
 
-hrvatski (HR) (7.48 MB - PDF)
+hrvatski (HR) (7.91 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/hr/documents/product-information/keytruda-epar-product-information_hr.pdf)
 
-italiano (IT) (7.23 MB - PDF)
+italiano (IT) (7.16 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/it/documents/product-information/keytruda-epar-product-information_it.pdf)
 
-latviešu (LV) (9.84 MB - PDF)
+latviešu (LV) (10.16 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/lv/documents/product-information/keytruda-epar-product-information_lv.pdf)
 
-lietuvių (LT) (8.56 MB - PDF)
+lietuvių (LT) (9.51 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/lt/documents/product-information/keytruda-epar-product-information_lt.pdf)
 
-magyar (HU) (7.98 MB - PDF)
+magyar (HU) (8.61 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/hu/documents/product-information/keytruda-epar-product-information_hu.pdf)
 
-Malti (MT) (8.83 MB - PDF)
+Malti (MT) (9.91 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/mt/documents/product-information/keytruda-epar-product-information_mt.pdf)
 
-Nederlands (NL) (7.04 MB - PDF)
+Nederlands (NL) (7.03 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/nl/documents/product-information/keytruda-epar-product-information_nl.pdf)
 
-polski (PL) (9.17 MB - PDF)
+polski (PL) (9.1 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/pl/documents/product-information/keytruda-epar-product-information_pl.pdf)
 
-português (PT) (6.82 MB - PDF)
+português (PT) (6.51 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/pt/documents/product-information/keytruda-epar-product-information_pt.pdf)
 
-română (RO) (9.16 MB - PDF)
+română (RO) (9.36 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/ro/documents/product-information/keytruda-epar-product-information_ro.pdf)
 
-slovenčina (SK) (9.86 MB - PDF)
+slovenčina (SK) (9.82 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/sk/documents/product-information/keytruda-epar-product-information_sk.pdf)
 
-slovenščina (SL) (9.86 MB - PDF)
+slovenščina (SL) (8.26 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/sl/documents/product-information/keytruda-epar-product-information_sl.pdf)
 
-suomi (FI) (6.51 MB - PDF)
+suomi (FI) (6.67 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/fi/documents/product-information/keytruda-epar-product-information_fi.pdf)
 
-svenska (SV) (6.35 MB - PDF)
+svenska (SV) (6.65 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/sv/documents/product-information/keytruda-epar-product-information_sv.pdf)
 
-Íslenska (IS) (7.2 MB - PDF)
+Íslenska (IS) (7.51 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/is/documents/product-information/keytruda-epar-product-information_is.pdf)
 
 norsk (NO) (6.66 MB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 01/07/2026
+**First published:** 30/07/2015 **Last updated:** 30/10/2026
 
 [View](/no/documents/product-information/keytruda-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000316576; VR/0000316515
+**Latest procedure affecting product information:**VR/0000336194
 
-19/06/2026
+16/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -613,7 +481,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-245)
 
 български (BG) (24.69 KB - PDF)
 
@@ -815,7 +683,7 @@ Keytruda as monotherapy is indicated for the treatment of adult and paediatric p
 
 **Urothelial carcinoma**
 
-Keytruda, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+Keytruda, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC).
 
 Keytruda, in combination with enfortumab vedotin, is indicated for the first-line treatment of unresectable or metastatic urothelial carcinoma in adults.
 
@@ -892,13 +760,15 @@ Keytruda, in combination with paclitaxel, with or without bevacizumab, is indica
 - **EMA product number**
     - EMEA/H/C/003820
 - **Marketing authorisation holder**
-    - Merck Sharp &amp; Dohme B.V. Waarderweg 39  2031 BN Haarlem  The Netherlands
+    - Merck Sharp &amp; Dohme B.V. Waarderweg 39  
+2031 BN Haarlem  
+The Netherlands
 - **Opinion adopted**
     - 20/05/2015
 - **Marketing authorisation issued**
     - 17/07/2015
 - **Revision**
-    - 72
+    - 73
 
 ## Assessment history
 
@@ -910,9 +780,9 @@ Collapse section
 
 Keytruda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (211.67 KB - PDF)
+English (EN) (228.63 KB - PDF)
 
-**First published:** 14/08/2025 **Last updated:** 01/07/2026
+**First published:** 14/08/2025 **Last updated:** 30/10/2026
 
 [View](/en/documents/procedural-steps-after/keytruda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -923,6 +793,26 @@ English (EN) (530.94 KB - PDF)
 **First published:** 29/03/2016 **Last updated:** 14/08/2025
 
 [View](/en/documents/procedural-steps-after/keytruda-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Keytruda-VR-0000336194 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3286447
+
+English (EN) (12.19 MB - PDF)
+
+**First published:** 30/10/2026
+
+[View](/en/documents/variation-report/keytruda-vr-0000336194-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Keytruda (VR-0000336194)
+
+Adopted Reference Number: EMADOC-1700519818-3429056
+
+English (EN) (119.51 KB - PDF)
+
+**First published:** 18/09/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-keytruda-vr-0000336194_en.pdf)
 
 Keytruda-VR-0000316576 : EPAR - Assessment report - Variation
 
@@ -1724,6 +1614,10 @@ English (EN) (69.01 KB - PDF)
 
 ## News on Keytruda
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2026)
+
+18/09/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026)
 
 22/05/2026
@@ -1836,11 +1730,11 @@ English (EN) (69.01 KB - PDF)
 
 27/07/2018
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 May 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-may-2018)
+[EMA restricts use of Keytruda and Tecentriq in bladder cancer](/en/news/ema-restricts-use-keytruda-tecentriq-bladder-cancer)
 
 01/06/2018
 
-[EMA restricts use of Keytruda and Tecentriq in bladder cancer](/en/news/ema-restricts-use-keytruda-tecentriq-bladder-cancer)
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 May 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-may-2018)
 
 01/06/2018
 
@@ -1884,7 +1778,7 @@ English (EN) (129.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-422)
+[Other languages (22)](#file-language-dropdown-288)
 
 български (BG) (145.05 KB - PDF)
 
@@ -2032,16 +1926,17 @@ svenska (SV) (122.23 KB - PDF)
 - [EMEA-001474-PIP03-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip03-22)
 - [PSUSA/00002540/202509 - periodic safety update report single assessment](/en/node/279051)
 - [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-1)
+- [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-2)
+- [Real-world effectiveness of pembrolizumab among patients with TMB-H advanced solid tumors (MK-3475-G34) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000542)
+- [Non-interventional Observational and Nationwide French Study on Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
 - [A Non-interventional Real-World Study on Dose Modifications of Enfortumab Vedotin (EV) in Combination with Pembrolizumab (P) in Previously Untreated Patients with Advanced Urothelial Carcinoma in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000467)
-- [Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment in the Non-interventional Observational and Nationwide French Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
 - [Real-world post-authorization effectiveness study (PAES) of pembrolizumab for the treatment of NSCLC across races, ethnicities, and age groups (MK-3475-G18) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000576)
-- [Real-world effectiveness of pembrolizumab among patients with TMB-H advanced solid tumors (MK-3475-G34) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000542)
 - [A post-licensure prospective observational registry study in real-world Taiwanese cancer patients with microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) genes - post-authorisation study](https://catalogues.ema.europa.eu/study/47306)
 - [Non-interventional post-marketing safety study (PMSS) to collect information on hepatic function disorders among Japanese patients with radically unresectable or metastatic renal cell carcinoma treated with pembrolizumab in combination with axitinib (MK-3475-A97) - post-authorisation study](https://catalogues.ema.europa.eu/study/48486)
 
 **This page was last updated on**
 
-03/09/2026
+30/10/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-15 16:04:00
+document_datetime: 2026-11-06 15:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elaprase.html
 document_name: elaprase.html
 version: success
-processing_time: 0.1986127
-conversion_datetime: 2026-10-19 23:43:33.515009
+processing_time: 0.2041292
+conversion_datetime: 2026-11-09 13:01:56.227983
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Elaprase
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 idursulfase
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -123,7 +123,7 @@ English (EN) (102.2 KB - PDF)
 
 [View](/en/documents/overview/elaprase-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-286)
+[Other languages (22)](#file-language-dropdown-703)
 
 български (BG) (109.85 KB - PDF)
 
@@ -275,7 +275,7 @@ English (EN) (245.53 KB - PDF)
 
 [View](/en/documents/product-information/elaprase-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-782)
 
 български (BG) (309.17 KB - PDF)
 
@@ -421,7 +421,7 @@ norsk (NO) (238.6 KB - PDF)
 
 [View](/no/documents/product-information/elaprase-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000373474
+**Latest procedure affecting product information:**VR/0000373474
 
 15/10/2026
 
@@ -429,7 +429,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -448,7 +448,7 @@ English (EN) (17.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elaprase-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-383)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (77.79 KB - PDF)
 
@@ -620,9 +620,9 @@ Elaprase is indicated for the long-term treatment of patients with Hunter syndro
 - **EMA product number**
     - EMEA/H/C/000700
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Exceptional circumstances**
-    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554).
 - **Marketing authorisation holder**
     - Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza  
 50-58 Baggot Street Lower  
@@ -633,7 +633,7 @@ Ireland
 - **Marketing authorisation issued**
     - 08/01/2007
 - **Revision**
-    - 28
+    - 29
 
 ## Assessment history
 
@@ -658,6 +658,46 @@ English (EN) (3.26 MB - PDF)
 **First published:** 25/03/2009 **Last updated:** 16/04/2025
 
 [View](/en/documents/procedural-steps-after/elaprase-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Elaprase-PAM-0000281794 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2248604
+
+English (EN) (578.72 KB - PDF)
+
+**First published:** 06/11/2026
+
+[View](/en/documents/variation-report/elaprase-pam-0000281794-epar-assessment-report_en.pdf)
+
+Elaprase-PAM-0000326024 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3021513
+
+English (EN) (865.69 KB - PDF)
+
+**First published:** 06/11/2026
+
+[View](/en/documents/variation-report/elaprase-pam-0000326024-epar-assessment-report_en.pdf)
+
+Elaprase-H-C-000700-P46-050 : EPAR - Assessment report
+
+Adopted Reference Number: EMA/96134/2025
+
+English (EN) (1.56 MB - PDF)
+
+**First published:** 06/11/2026
+
+[View](/en/documents/variation-report/elaprase-h-c-000700-p46-050-epar-assessment-report_en.pdf)
+
+Elaprase-H-C-000700-S-0116 : EPAR - Assessment report
+
+Adopted Reference Number: EMA/372734/2024
+
+English (EN) (1.54 MB - PDF)
+
+**First published:** 06/11/2026
+
+[View](/en/documents/variation-report/elaprase-h-c-000700-s-0116-epar-assessment-report_en.pdf)
 
 Elaprase-H-C-700-PSUV-0047 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -691,6 +731,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-15/10/2026
+06/11/2026
 
 ## Share this page

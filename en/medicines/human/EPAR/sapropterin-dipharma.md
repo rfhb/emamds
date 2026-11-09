@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-05-18 12:00:00
+document_datetime: 2026-10-28 11:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sapropterin-dipharma.html
 document_name: sapropterin-dipharma.html
 version: success
-processing_time: 0.0765937
-conversion_datetime: 2026-05-22 22:33:41.640919
+processing_time: 0.1692412
+conversion_datetime: 2026-11-09 13:09:14.341286
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Sapropterin Dipharma
 
 [RSS](/en/individual-human-medicine.xml/67526)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 sapropterin
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -49,13 +49,13 @@ Sapropterin Dipharma is a medicine that is used to treat high blood levels of ph
 
 Patients with these disorders cannot process the amino acid phenylalanine from dietary protein. As a result, phenylalanine builds up in the blood to abnormally high levels, causing problems in the nervous system.
 
-Sapropterin Dipharma contains the active substance sapropterin and is a 'generic medicine'. This means that Sapropterin Dipharma contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Kuvan. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/medicine-qa/questions-answers-generic-medicines_en.pdf) .
+Sapropterin Dipharma contains the active substance sapropterin and is a 'generic medicine'. This means that Sapropterin Dipharma contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Kuvan.
 
 Expand section
 
 Collapse section
 
-## How is Sapropterin Dipharma used?
+### How is Sapropterin Dipharma used?
 
 Sapropterin Dipharma is available as soluble tablets or as a powder, to be dissolved in water and drunk. The medicine can only be obtained with a prescription and treatment must be started and supervised by a doctor who has experience in treating PKU and BH4 deficiency. It is important that patients continue with a diet low in phenylalanine and protein when taking Sapropterin Dipharma, and intake of phenylalanine and protein must be monitored and adjusted to make sure that blood phenylalanine levels and nutritional balance are controlled. Sapropterin Dipharma is intended for long-term use.
 
@@ -65,33 +65,33 @@ A satisfactory response is defined as a reduction in blood phenylalanine levels 
 
 For more information about using Sapropterin Dipharma, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Sapropterin Dipharma work?
+### How does Sapropterin Dipharma work?
 
 The high levels of phenylalanine in the blood are due to a problem with the breakdown of phenylalanine through the enzyme 'phenylalanine hydroxylase'. Patients with PKU have defective versions of the enzyme, and patients with BH4 deficiency have low levels of BH4, a 'cofactor' that this enzyme needs to work properly.
 
 The active substance in Sapropterin Dipharma, sapropterin, is a synthetic copy of BH4. In patients with PKU, it works by enhancing the activity of the defective enzyme, while in patients with BH4 deficiency it replaces the missing cofactor. These actions help restore the ability of the enzyme to convert phenylalanine into tyrosine, thereby reducing phenylalanine levels in the blood.
 
-## How has Sapropterin Dipharma been studied?
+### How has Sapropterin Dipharma been studied?
 
 Studies on the benefits and risks of the active substance in the authorised uses have already been carried out with the reference medicine, Kuvan, and do not need to be repeated for Sapropterin Dipharma.
 
 As for every medicine, the company provided data on the quality of Sapropterin Dipharma. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Sapropterin Dipharma?
+### What are the benefits and risks of Sapropterin Dipharma?
 
 Because Sapropterin Dipharma is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Sapropterin Dipharma authorised in the EU?
+### Why is Sapropterin Dipharma authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Sapropterin Dipharma has been shown to have comparable quality and to be bioequivalent to Kuvan. Therefore, the Agency's view was that, as for Kuvan, the benefits of Sapropterin Dipharma outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Sapropterin Dipharma?
+### What measures are being taken to ensure the safe and effective use of Sapropterin Dipharma?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Sapropterin Dipharma have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Sapropterin Dipharma are continuously monitored. Suspected side effects reported with Sapropterin Dipharma are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Sapropterin Dipharma
+### Other information about Sapropterin Dipharma
 
 Sapropterin Dipharma received a marketing authorisation valid throughout the EU on 16 February 2022.
 
@@ -105,7 +105,7 @@ English (EN) (146.65 KB - PDF)
 
 [View](/en/documents/overview/sapropterin-dipharma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-955)
+[Other languages (22)](#file-language-dropdown-993)
 
 български (BG) (157.95 KB - PDF)
 
@@ -137,7 +137,7 @@ Deutsch (DE) (138.2 KB - PDF)
 
 [View](/de/documents/overview/sapropterin-dipharma-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (122.46 KB - PDF)
+eesti (ET) (122.46 KB - PDF)
 
 **First published:** 16/03/2022
 
@@ -167,13 +167,13 @@ italiano (IT) (133.22 KB - PDF)
 
 [View](/it/documents/overview/sapropterin-dipharma-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (163.96 KB - PDF)
+latviešu (LV) (163.96 KB - PDF)
 
 **First published:** 16/03/2022
 
 [View](/lv/documents/overview/sapropterin-dipharma-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (154.61 KB - PDF)
+lietuvių (LT) (154.61 KB - PDF)
 
 **First published:** 16/03/2022
 
@@ -227,7 +227,7 @@ slovenščina (SL) (151.97 KB - PDF)
 
 [View](/sl/documents/overview/sapropterin-dipharma-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (132.01 KB - PDF)
+suomi (FI) (132.01 KB - PDF)
 
 **First published:** 16/03/2022
 
@@ -251,161 +251,168 @@ English (EN) (117.56 KB - PDF)
 
 Sapropterin Dipharma : EPAR - Product Information
 
-English (EN) (584.65 KB - PDF)
+English (EN) (943.92 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/en/documents/product-information/sapropterin-dipharma-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-336)
+[Other languages (24)](#file-language-dropdown-741)
 
-български (BG) (715.63 KB - PDF)
+български (BG) (1.04 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/bg/documents/product-information/sapropterin-dipharma-epar-product-information_bg.pdf)
 
-español (ES) (620.29 KB - PDF)
+español (ES) (977.66 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/es/documents/product-information/sapropterin-dipharma-epar-product-information_es.pdf)
 
-dansk (DA) (555.83 KB - PDF)
+čeština (CS) (967.02 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
+
+[View](/cs/documents/product-information/sapropterin-dipharma-epar-product-information_cs.pdf)
+
+dansk (DA) (901.17 KB - PDF)
+
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/da/documents/product-information/sapropterin-dipharma-epar-product-information_da.pdf)
 
-Deutsch (DE) (678.94 KB - PDF)
+Deutsch (DE) (1.02 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/de/documents/product-information/sapropterin-dipharma-epar-product-information_de.pdf)
 
-eesti keel (ET) (596.34 KB - PDF)
+eesti (ET) (944.67 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/et/documents/product-information/sapropterin-dipharma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (691.03 KB - PDF)
+ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/el/documents/product-information/sapropterin-dipharma-epar-product-information_el.pdf)
 
-français (FR) (650.5 KB - PDF)
+français (FR) (1.04 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/fr/documents/product-information/sapropterin-dipharma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (646.05 KB - PDF)
+hrvatski (HR) (1007.92 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/hr/documents/product-information/sapropterin-dipharma-epar-product-information_hr.pdf)
 
-íslenska (IS) (598.86 KB - PDF)
+italiano (IT) (1.06 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
-
-[View](/is/documents/product-information/sapropterin-dipharma-epar-product-information_is.pdf)
-
-italiano (IT) (726.75 KB - PDF)
-
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/it/documents/product-information/sapropterin-dipharma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (662.12 KB - PDF)
+latviešu (LV) (1013.81 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/lv/documents/product-information/sapropterin-dipharma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (644.3 KB - PDF)
+lietuvių (LT) (997.55 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/lt/documents/product-information/sapropterin-dipharma-epar-product-information_lt.pdf)
 
-magyar (HU) (702.51 KB - PDF)
+magyar (HU) (1.03 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/hu/documents/product-information/sapropterin-dipharma-epar-product-information_hu.pdf)
 
-Malti (MT) (720.81 KB - PDF)
+Malti (MT) (1.05 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/mt/documents/product-information/sapropterin-dipharma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (626.69 KB - PDF)
+Nederlands (NL) (975 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/nl/documents/product-information/sapropterin-dipharma-epar-product-information_nl.pdf)
 
-norsk (NO) (549.9 KB - PDF)
+polski (PL) (1.03 MB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
-
-[View](/no/documents/product-information/sapropterin-dipharma-epar-product-information_no.pdf)
-
-polski (PL) (702 KB - PDF)
-
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/pl/documents/product-information/sapropterin-dipharma-epar-product-information_pl.pdf)
 
-português (PT) (591.05 KB - PDF)
+português (PT) (584.66 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/pt/documents/product-information/sapropterin-dipharma-epar-product-information_pt.pdf)
 
-română (RO) (689.89 KB - PDF)
+română (RO) (687.4 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/ro/documents/product-information/sapropterin-dipharma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (678.86 KB - PDF)
+slovenčina (SK) (675.69 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/sk/documents/product-information/sapropterin-dipharma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (664.89 KB - PDF)
+slovenščina (SL) (655.62 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/sl/documents/product-information/sapropterin-dipharma-epar-product-information_sl.pdf)
 
-Suomi (FI) (574.04 KB - PDF)
+suomi (FI) (909.06 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/fi/documents/product-information/sapropterin-dipharma-epar-product-information_fi.pdf)
 
-svenska (SV) (580.19 KB - PDF)
+svenska (SV) (579.38 KB - PDF)
 
-**First published:** 16/03/2022 **Last updated:** 18/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
 
 [View](/sv/documents/product-information/sapropterin-dipharma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000347620
+Íslenska (IS) (947.01 KB - PDF)
 
-13/05/2026
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
+
+[View](/is/documents/product-information/sapropterin-dipharma-epar-product-information_is.pdf)
+
+norsk (NO) (907.31 KB - PDF)
+
+**First published:** 16/03/2022 **Last updated:** 28/10/2026
+
+[View](/no/documents/product-information/sapropterin-dipharma-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000380007
+
+28/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -423,7 +430,7 @@ English (EN) (41.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-134)
+[Other languages (25)](#file-language-dropdown-884)
 
 български (BG) (57.17 KB - PDF)
 
@@ -455,7 +462,7 @@ Deutsch (DE) (49.29 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (47.02 KB - PDF)
+eesti (ET) (47.02 KB - PDF)
 
 **First published:** 16/03/2022
 
@@ -473,23 +480,17 @@ français (FR) (48.25 KB - PDF)
 
 [View](/fr/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (125.34 KB - PDF)
-
-**First published:** 16/03/2022
-
-[View](/hr/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (48.32 KB - PDF)
-
-**First published:** 16/03/2022
-
-[View](/is/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_is.pdf)
-
 Gaeilge (GA) (44.39 KB - PDF)
 
 **First published:** 16/03/2022
 
 [View](/ga/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_ga.pdf)
+
+hrvatski (HR) (125.34 KB - PDF)
+
+**First published:** 16/03/2022
+
+[View](/hr/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_hr.pdf)
 
 italiano (IT) (48.16 KB - PDF)
 
@@ -497,13 +498,13 @@ italiano (IT) (48.16 KB - PDF)
 
 [View](/it/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (64.97 KB - PDF)
+latviešu (LV) (64.97 KB - PDF)
 
 **First published:** 16/03/2022
 
 [View](/lv/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (66.38 KB - PDF)
+lietuvių (LT) (66.38 KB - PDF)
 
 **First published:** 16/03/2022
 
@@ -526,12 +527,6 @@ Nederlands (NL) (47.24 KB - PDF)
 **First published:** 16/03/2022
 
 [View](/nl/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (48.29 KB - PDF)
-
-**First published:** 16/03/2022
-
-[View](/no/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (66.42 KB - PDF)
 
@@ -563,7 +558,7 @@ slovenščina (SL) (52.48 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (47.19 KB - PDF)
+suomi (FI) (47.19 KB - PDF)
 
 **First published:** 16/03/2022
 
@@ -575,27 +570,30 @@ svenska (SV) (47.45 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (48.32 KB - PDF)
+
+**First published:** 16/03/2022
+
+[View](/is/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (48.29 KB - PDF)
+
+**First published:** 16/03/2022
+
+[View](/no/documents/all-authorised-presentations/sapropterin-dipharma-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Sapropterin Dipharma
-
-Active substance
-
-sapropterin dihydrochloride
-
-International non-proprietary name (INN) or common name
-
-sapropterin
-
-Therapeutic area (MeSH)
-
-Phenylketonurias
-
-Anatomical therapeutic chemical (ATC) code
-
-A16AX07
+- **Name of medicine**
+    - Sapropterin Dipharma
+- **Active substance**
+    - sapropterin dihydrochloride
+- **International non-proprietary name (INN) or common name**
+    - sapropterin
+- **Therapeutic area (MeSH)**
+    - Phenylketonurias
+- **Anatomical therapeutic chemical (ATC) code**
+    - A16AX07
 
 ### Pharmacotherapeutic group
 
@@ -609,31 +607,20 @@ Sapropterin Dipharma is also indicated for the treatment of hyperphenylalaninaem
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005646
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Dipharma Arzneimittel GmbH
-
-Offheimer Weg 33
-
-Opinion adopted
-
-16/12/2021
-
-Marketing authorisation issued
-
-16/02/2022
-
-Revision
-
-8
+- **EMA product number**
+    - EMEA/H/C/005646
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
+- **Marketing authorisation holder**
+    - Dipharma Arzneimittel GmbH Offheimer Weg 33  
+65549 Limburg a. d. Lahn  
+Germany
+- **Opinion adopted**
+    - 16/12/2021
+- **Marketing authorisation issued**
+    - 16/02/2022
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -641,13 +628,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Sapropterin Dipharma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.73 KB - PDF)
+English (EN) (176.5 KB - PDF)
 
-**First published:** 20/02/2025 **Last updated:** 18/05/2026
+**First published:** 20/02/2025 **Last updated:** 28/10/2026
 
 [View](/en/documents/procedural-steps-after/sapropterin-dipharma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -659,7 +646,7 @@ English (EN) (141.98 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/sapropterin-dipharma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Sapropterin Dipharma : EPAR - Public Assessment Report
 
@@ -689,6 +676,6 @@ English (EN) (156.09 KB - PDF)
 
 **This page was last updated on**
 
-18/05/2026
+28/10/2026
 
 ## Share this page

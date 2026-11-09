@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-06 16:50:00
+document_datetime: 2026-11-03 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/otulfi.html
 document_name: otulfi.html
 version: success
-processing_time: 0.211198
-conversion_datetime: 2026-10-09 18:53:24.751256
+processing_time: 0.2234621
+conversion_datetime: 2026-11-09 13:07:28.020993
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.137.0
-  docling-core: 2.101.1
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.2
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Otulfi
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 ustekinumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -53,7 +53,7 @@ Otulfi is a medicine used to treat:
 - moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children aged 2 years and older whose condition has not improved enough with other treatments or who cannot receive such treatments;
 - moderately to severely active ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) in adults whose condition has not improved enough with other treatments for ulcerative colitis or who cannot receive such treatments.
 
-Otulfi contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Otulfi is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Otulfi is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Otulfi contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Otulfi is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Otulfi is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines).
 
 Expand section
 
@@ -121,7 +121,7 @@ English (EN) (137.81 KB - PDF)
 
 [View](/en/documents/overview/otulfi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-344)
+[Other languages (22)](#file-language-dropdown-857)
 
 български (BG) (166.34 KB - PDF)
 
@@ -267,167 +267,167 @@ English (EN) (534.79 KB - PDF)
 
 Otulfi : EPAR - Product information
 
-English (EN) (1.6 MB - PDF)
+English (EN) (2.24 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/en/documents/product-information/otulfi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-147)
+[Other languages (24)](#file-language-dropdown-807)
 
-български (BG) (3.81 MB - PDF)
+български (BG) (3.16 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/bg/documents/product-information/otulfi-epar-product-information_bg.pdf)
 
-español (ES) (2.69 MB - PDF)
+español (ES) (2.8 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/es/documents/product-information/otulfi-epar-product-information_es.pdf)
 
-čeština (CS) (2.82 MB - PDF)
+čeština (CS) (2.19 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/cs/documents/product-information/otulfi-epar-product-information_cs.pdf)
 
-dansk (DA) (3.03 MB - PDF)
+dansk (DA) (2.65 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/da/documents/product-information/otulfi-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.83 MB - PDF)
+Deutsch (DE) (2.29 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/de/documents/product-information/otulfi-epar-product-information_de.pdf)
 
-eesti (ET) (2.61 MB - PDF)
+eesti (ET) (1.64 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/et/documents/product-information/otulfi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.31 MB - PDF)
+ελληνικά (EL) (2.87 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/el/documents/product-information/otulfi-epar-product-information_el.pdf)
 
-français (FR) (2.5 MB - PDF)
+français (FR) (3.32 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/fr/documents/product-information/otulfi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.37 MB - PDF)
+hrvatski (HR) (2.98 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/hr/documents/product-information/otulfi-epar-product-information_hr.pdf)
 
-italiano (IT) (3.04 MB - PDF)
+italiano (IT) (2.6 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/it/documents/product-information/otulfi-epar-product-information_it.pdf)
 
-latviešu (LV) (3.21 MB - PDF)
+latviešu (LV) (2.92 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/lv/documents/product-information/otulfi-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.75 MB - PDF)
+lietuvių (LT) (2.41 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/lt/documents/product-information/otulfi-epar-product-information_lt.pdf)
 
-magyar (HU) (2.95 MB - PDF)
+magyar (HU) (2.53 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/hu/documents/product-information/otulfi-epar-product-information_hu.pdf)
 
-Malti (MT) (3.54 MB - PDF)
+Malti (MT) (2.89 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/mt/documents/product-information/otulfi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.03 MB - PDF)
+Nederlands (NL) (2.23 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/nl/documents/product-information/otulfi-epar-product-information_nl.pdf)
 
-polski (PL) (2.62 MB - PDF)
+polski (PL) (2.51 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/pl/documents/product-information/otulfi-epar-product-information_pl.pdf)
 
-português (PT) (2.69 MB - PDF)
+português (PT) (2.06 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/pt/documents/product-information/otulfi-epar-product-information_pt.pdf)
 
-română (RO) (2.94 MB - PDF)
+română (RO) (2.76 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/ro/documents/product-information/otulfi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.66 MB - PDF)
+slovenčina (SK) (1.89 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/sk/documents/product-information/otulfi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.62 MB - PDF)
+slovenščina (SL) (2.5 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/sl/documents/product-information/otulfi-epar-product-information_sl.pdf)
 
-suomi (FI) (2.6 MB - PDF)
+suomi (FI) (1.93 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/fi/documents/product-information/otulfi-epar-product-information_fi.pdf)
 
-svenska (SV) (3.06 MB - PDF)
+svenska (SV) (2.65 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/sv/documents/product-information/otulfi-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.85 MB - PDF)
+Íslenska (IS) (2.29 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/is/documents/product-information/otulfi-epar-product-information_is.pdf)
 
-norsk (NO) (2.58 MB - PDF)
+norsk (NO) (2.04 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 23/09/2026
+**First published:** 02/10/2024 **Last updated:** 03/11/2026
 
 [View](/no/documents/product-information/otulfi-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000356308
+**Latest procedure affecting product information:**VR/0000360286
 
-18/09/2026
+09/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -446,7 +446,7 @@ English (EN) (64.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-274)
+[Other languages (24)](#file-language-dropdown-681)
 
 български (BG) (87.86 KB - PDF)
 
@@ -638,17 +638,19 @@ Otulfi is indicated for the treatment of adult patients with moderately to sever
 - **EMA product number**
     - EMEA/H/C/006544
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
-    - Fresenius Kabi Deutschland GmbH Else-Kroner-Strasse 1  61352 Bad Homburg v.d.H.  Germany
+    - Fresenius Kabi Deutschland GmbH Else-Kroner-Strasse 1  
+61352 Bad Homburg v.d.H.  
+Germany
 - **Opinion adopted**
     - 25/07/2024
 - **Marketing authorisation issued**
     - 25/09/2024
 - **Revision**
-    - 7
+    - 8
 
 ## Assessment history
 
@@ -660,9 +662,9 @@ Collapse section
 
 Otulfi : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (156.69 KB - PDF)
+English (EN) (151.72 KB - PDF)
 
-**First published:** 11/09/2025 **Last updated:** 23/09/2026
+**First published:** 11/09/2025 **Last updated:** 03/11/2026
 
 [View](/en/documents/procedural-steps-after/otulfi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -714,7 +716,7 @@ English (EN) (2.23 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-904)
 
 български (BG) (4.82 MB - DOCX)
 
@@ -862,6 +864,6 @@ norsk (NO) (4.25 MB - DOCX)
 
 **This page was last updated on**
 
-06/10/2026
+03/11/2026
 
 ## Share this page

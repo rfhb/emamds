@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-07 16:14:00
+document_datetime: 2026-11-03 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zokinvy.html
 document_name: zokinvy.html
 version: success
-processing_time: 0.1561702
-conversion_datetime: 2026-10-10 14:04:19.858771
+processing_time: 0.1718842
+conversion_datetime: 2026-11-09 13:14:18.582197
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.137.0
-  docling-core: 2.101.1
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.2
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Zokinvy
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 lonafarnib
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -113,7 +113,7 @@ English (EN) (143.11 KB - PDF)
 
 [View](/en/documents/overview/zokinvy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-567)
+[Other languages (22)](#file-language-dropdown-834)
 
 български (BG) (169.05 KB - PDF)
 
@@ -259,167 +259,167 @@ English (EN) (163.88 KB - PDF)
 
 Zokinvy : EPAR - Product information
 
-English (EN) (1.25 MB - PDF)
+English (EN) (1.35 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/en/documents/product-information/zokinvy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-760)
+[Other languages (24)](#file-language-dropdown-123)
 
-български (BG) (1.49 MB - PDF)
+български (BG) (1.41 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/bg/documents/product-information/zokinvy-epar-product-information_bg.pdf)
 
-español (ES) (1.26 MB - PDF)
+español (ES) (1.38 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/es/documents/product-information/zokinvy-epar-product-information_es.pdf)
 
 čeština (CS) (1.31 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/cs/documents/product-information/zokinvy-epar-product-information_cs.pdf)
 
-dansk (DA) (1.25 MB - PDF)
+dansk (DA) (1.37 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/da/documents/product-information/zokinvy-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.23 MB - PDF)
+Deutsch (DE) (1.41 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/de/documents/product-information/zokinvy-epar-product-information_de.pdf)
 
-eesti (ET) (1.01 MB - PDF)
+eesti (ET) (1.2 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/et/documents/product-information/zokinvy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.32 MB - PDF)
+ελληνικά (EL) (1.42 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/el/documents/product-information/zokinvy-epar-product-information_el.pdf)
 
-français (FR) (1001.82 KB - PDF)
+français (FR) (1.3 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/fr/documents/product-information/zokinvy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (916.62 KB - PDF)
+hrvatski (HR) (1.27 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/hr/documents/product-information/zokinvy-epar-product-information_hr.pdf)
 
-italiano (IT) (1.29 MB - PDF)
+italiano (IT) (1.44 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/it/documents/product-information/zokinvy-epar-product-information_it.pdf)
 
-latviešu (LV) (1.32 MB - PDF)
+latviešu (LV) (1.37 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/lv/documents/product-information/zokinvy-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.33 MB - PDF)
+lietuvių (LT) (1.39 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/lt/documents/product-information/zokinvy-epar-product-information_lt.pdf)
 
-magyar (HU) (1.38 MB - PDF)
+magyar (HU) (1.46 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/hu/documents/product-information/zokinvy-epar-product-information_hu.pdf)
 
-Malti (MT) (991.67 KB - PDF)
+Malti (MT) (1.18 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/mt/documents/product-information/zokinvy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.3 MB - PDF)
+Nederlands (NL) (1.56 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/nl/documents/product-information/zokinvy-epar-product-information_nl.pdf)
 
-polski (PL) (1.33 MB - PDF)
+polski (PL) (1.32 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/pl/documents/product-information/zokinvy-epar-product-information_pl.pdf)
 
-português (PT) (1.25 MB - PDF)
+português (PT) (1.32 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/pt/documents/product-information/zokinvy-epar-product-information_pt.pdf)
 
-română (RO) (1.33 MB - PDF)
+română (RO) (1.38 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/ro/documents/product-information/zokinvy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.21 MB - PDF)
+slovenčina (SK) (1.25 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/sk/documents/product-information/zokinvy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.33 MB - PDF)
+slovenščina (SL) (1.3 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/sl/documents/product-information/zokinvy-epar-product-information_sl.pdf)
 
-suomi (FI) (1.25 MB - PDF)
+suomi (FI) (1.36 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/fi/documents/product-information/zokinvy-epar-product-information_fi.pdf)
 
-svenska (SV) (1015.11 KB - PDF)
+svenska (SV) (1.2 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/sv/documents/product-information/zokinvy-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.17 MB - PDF)
+Íslenska (IS) (1.28 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/is/documents/product-information/zokinvy-epar-product-information_is.pdf)
 
-norsk (NO) (1.12 MB - PDF)
+norsk (NO) (1.24 MB - PDF)
 
-**First published:** 01/08/2022 **Last updated:** 07/10/2026
+**First published:** 01/08/2022 **Last updated:** 03/11/2026
 
 [View](/no/documents/product-information/zokinvy-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** T/0000365799
+**Latest procedure affecting product information:**VR/0000380116
 
-11/09/2026
+03/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -438,7 +438,7 @@ English (EN) (50.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zokinvy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-705)
+[Other languages (24)](#file-language-dropdown-331)
 
 български (BG) (61.34 KB - PDF)
 
@@ -609,19 +609,22 @@ Zokinvy is indicated for the treatment of patients 12 months of age and older wi
 - **EMA product number**
     - EMEA/H/C/005271
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Exceptional circumstances**
-    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Integral Pharma Solutions EU Limited 1 Windmill Lane  Dublin  D02 F206  Ireland
+    - Integral Pharma Solutions EU Limited 1 Windmill Lane  
+Dublin  
+D02 F206  
+Ireland
 - **Opinion adopted**
     - 19/05/2022
 - **Marketing authorisation issued**
     - 18/07/2022
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -633,9 +636,9 @@ Collapse section
 
 Zokinvy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (160.16 KB - PDF)
+English (EN) (163.01 KB - PDF)
 
-**First published:** 07/04/2026 **Last updated:** 07/10/2026
+**First published:** 07/04/2026 **Last updated:** 03/11/2026
 
 [View](/en/documents/procedural-steps-after/zokinvy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -695,6 +698,6 @@ English (EN) (160.93 KB - PDF)
 
 **This page was last updated on**
 
-07/10/2026
+03/11/2026
 
 ## Share this page

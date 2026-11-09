@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-30 15:02:00
+document_datetime: 2026-11-06 16:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.3743202
-conversion_datetime: 2026-10-01 18:27:28.470983
+processing_time: 0.3942528
+conversion_datetime: 2026-11-09 13:00:55.827653
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.132.0
-  docling-core: 2.99.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.149.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 COVID-19 mRNA vaccine
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -180,7 +180,7 @@ As for all medicines, data on the use of Comirnaty are continuously monitored. S
 
 Comirnaty received a conditional marketing authorisation valid throughout the EU on 21 December 2020. This was switched to a standard marketing authorisation on 10 October 2022.
 
-More information about the COVID-19 vaccines is available on the [COVID-19 vaccines key facts page](https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/covid-19-vaccines-key-facts) .
+More information about the COVID-19 vaccines is available on the [COVID-19 vaccines key facts page](https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/covid-19-vaccines-key-facts).
 
 ### Key developments since authorisation
 
@@ -228,7 +228,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-272)
+[Other languages (22)](#file-language-dropdown-939)
 
 български (BG) (204.05 KB - PDF)
 
@@ -364,9 +364,9 @@ svenska (SV) (177.37 KB - PDF)
 
 Comirnaty : EPAR - Risk management plan
 
-English (EN) (2.69 MB - PDF)
+English (EN) (2.24 MB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/en/documents/rmp/comirnaty-epar-risk-management-plan_en.pdf)
 
@@ -374,167 +374,167 @@ English (EN) (2.69 MB - PDF)
 
 Comirnaty : EPAR - Product information
 
-English (EN) (2.34 MB - PDF)
+English (EN) (1.19 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-142)
+[Other languages (24)](#file-language-dropdown-934)
 
-български (BG) (5.09 MB - PDF)
+български (BG) (2.15 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/bg/documents/product-information/comirnaty-epar-product-information_bg.pdf)
 
-español (ES) (4.49 MB - PDF)
+español (ES) (2.14 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/es/documents/product-information/comirnaty-epar-product-information_es.pdf)
 
-čeština (CS) (5.07 MB - PDF)
+čeština (CS) (2.36 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/cs/documents/product-information/comirnaty-epar-product-information_cs.pdf)
 
-dansk (DA) (4.47 MB - PDF)
+dansk (DA) (2.12 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/da/documents/product-information/comirnaty-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.65 MB - PDF)
+Deutsch (DE) (1.79 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/de/documents/product-information/comirnaty-epar-product-information_de.pdf)
 
-eesti (ET) (4.36 MB - PDF)
+eesti (ET) (2.08 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/et/documents/product-information/comirnaty-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.98 MB - PDF)
+ελληνικά (EL) (2.27 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/el/documents/product-information/comirnaty-epar-product-information_el.pdf)
 
-français (FR) (4.87 MB - PDF)
+français (FR) (2.28 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.14 MB - PDF)
+hrvatski (HR) (2.16 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/hr/documents/product-information/comirnaty-epar-product-information_hr.pdf)
 
-italiano (IT) (4.85 MB - PDF)
+italiano (IT) (2.26 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/it/documents/product-information/comirnaty-epar-product-information_it.pdf)
 
-latviešu (LV) (4.58 MB - PDF)
+latviešu (LV) (2.2 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/lv/documents/product-information/comirnaty-epar-product-information_lv.pdf)
 
-lietuvių (LT) (4.81 MB - PDF)
+lietuvių (LT) (2.29 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/lt/documents/product-information/comirnaty-epar-product-information_lt.pdf)
 
-magyar (HU) (4.83 MB - PDF)
+magyar (HU) (2.29 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/hu/documents/product-information/comirnaty-epar-product-information_hu.pdf)
 
-Malti (MT) (5.4 MB - PDF)
+Malti (MT) (2.51 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/mt/documents/product-information/comirnaty-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.55 MB - PDF)
+Nederlands (NL) (2.1 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/nl/documents/product-information/comirnaty-epar-product-information_nl.pdf)
 
-polski (PL) (5.15 MB - PDF)
+polski (PL) (2.38 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/pl/documents/product-information/comirnaty-epar-product-information_pl.pdf)
 
-português (PT) (4.57 MB - PDF)
+português (PT) (2.13 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/pt/documents/product-information/comirnaty-epar-product-information_pt.pdf)
 
-română (RO) (4.85 MB - PDF)
+română (RO) (2.26 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/ro/documents/product-information/comirnaty-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.99 MB - PDF)
+slovenčina (SK) (2.34 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/sk/documents/product-information/comirnaty-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.74 MB - PDF)
+slovenščina (SL) (2.19 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/sl/documents/product-information/comirnaty-epar-product-information_sl.pdf)
 
-suomi (FI) (4.6 MB - PDF)
+suomi (FI) (2.2 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/fi/documents/product-information/comirnaty-epar-product-information_fi.pdf)
 
-svenska (SV) (4.4 MB - PDF)
+svenska (SV) (2.07 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/sv/documents/product-information/comirnaty-epar-product-information_sv.pdf)
 
-Íslenska (IS) (4.4 MB - PDF)
+Íslenska (IS) (2.12 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/is/documents/product-information/comirnaty-epar-product-information_is.pdf)
 
-norsk (NO) (4.49 MB - PDF)
+norsk (NO) (2.06 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 06/08/2026
+**First published:** 12/01/2021 **Last updated:** 06/11/2026
 
 [View](/no/documents/product-information/comirnaty-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000355113
+**Latest procedure affecting product information:**VR/0000378722
 
-28/07/2026
+03/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -547,155 +547,155 @@ Product information documents contain:
 
 Comirnaty : EPAR - All authorised presentations
 
-English (EN) (138.46 KB - PDF)
+English (EN) (85.12 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-11)
+[Other languages (24)](#file-language-dropdown-186)
 
-български (BG) (145.79 KB - PDF)
+български (BG) (89.71 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/bg/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (130.71 KB - PDF)
+español (ES) (79.81 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/es/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (133.32 KB - PDF)
+čeština (CS) (83.24 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/cs/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (136.1 KB - PDF)
+dansk (DA) (84.95 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/da/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (113.92 KB - PDF)
+Deutsch (DE) (82.54 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/de/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_de.pdf)
 
-eesti (ET) (128.46 KB - PDF)
+eesti (ET) (81.11 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/et/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (129.29 KB - PDF)
+ελληνικά (EL) (75.93 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/el/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (157.52 KB - PDF)
+français (FR) (81.3 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/fr/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (113.59 KB - PDF)
+hrvatski (HR) (78.86 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/hr/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (138.13 KB - PDF)
+italiano (IT) (82.97 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/it/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_it.pdf)
 
-latviešu (LV) (126.48 KB - PDF)
+latviešu (LV) (74.33 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/lv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių (LT) (141.02 KB - PDF)
+lietuvių (LT) (88.24 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/lt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (141.42 KB - PDF)
+magyar (HU) (83.65 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/hu/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (141.5 KB - PDF)
+Malti (MT) (85.77 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/mt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (137 KB - PDF)
+Nederlands (NL) (79.16 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/nl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_nl.pdf)
 
-polski (PL) (137.94 KB - PDF)
+polski (PL) (84.85 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/pl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (128.15 KB - PDF)
+português (PT) (80.27 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/pt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (136.19 KB - PDF)
+română (RO) (82.31 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/ro/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (140.77 KB - PDF)
+slovenčina (SK) (85.15 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/sk/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (133.89 KB - PDF)
+slovenščina (SL) (80.21 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/sl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sl.pdf)
 
-suomi (FI) (127.22 KB - PDF)
+suomi (FI) (77.24 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/fi/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (131.5 KB - PDF)
+svenska (SV) (79.51 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/sv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sv.pdf)
 
-Íslenska (IS) (132.85 KB - PDF)
+Íslenska (IS) (81.68 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/is/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_is.pdf)
 
-norsk (NO) (129.9 KB - PDF)
+norsk (NO) (81.48 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 12/08/2026
+**First published:** 23/12/2020 **Last updated:** 06/11/2026
 
 [View](/no/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_no.pdf)
 
@@ -718,12 +718,6 @@ Vaccines
 
 ### Therapeutic indication
 
-Comirnaty JN.1 dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
-
-Comirnaty JN.1 concentrate for dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in infants and children aged 6 months to 11 years. The use of this vaccine should be in accordance with official recommendations.
-
-Comirnaty KP.2 dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
-
 Comirnaty LP.8.1 dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
 
 Comirnaty XFG dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
@@ -733,15 +727,17 @@ Comirnaty XFG dispersion for injection is indicated for active immunisation to p
 - **EMA product number**
     - EMEA/H/C/005735
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
-    - BioNTech Manufacturing GmbH An der Goldgrube 12  55131 Mainz  Germany
+    - BioNTech Manufacturing GmbH An der Goldgrube 12  
+55131 Mainz  
+Germany
 - **Opinion adopted**
     - 21/12/2020
 - **Marketing authorisation issued**
     - 21/12/2020
 - **Revision**
-    - 63
+    - 64
 
 ## Assessment history
 
@@ -753,9 +749,9 @@ Collapse section
 
 Comirnaty : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (291.19 KB - PDF)
+English (EN) (339.09 KB - PDF)
 
-**First published:** 08/10/2024 **Last updated:** 06/08/2026
+**First published:** 08/10/2024 **Last updated:** 06/11/2026
 
 [View](/en/documents/procedural-steps-after/comirnaty-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1679,21 +1675,21 @@ English (EN) (1.39 MB - PDF)
 
 EMA is making data from the marketing authorisation application for Comirnaty publicly available. This is in line with the [exceptional transparency measures](/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/transparency-exceptional-measures-covid-19-medicines) that EMA adopted during the COVID-19 pandemic.
 
-The documents relate to residual DNA measurement, some quality and non-clinical aspects of the dossier as of 12 June 2025 or released prior to this date under [Regulation (EC) 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) .
+The documents relate to residual DNA measurement, some quality and non-clinical aspects of the dossier as of 12 June 2025 or released prior to this date under [Regulation (EC) 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng).
 
-You will find quality and non-clinical documents grouped according to the structure presented in [ICH guideline M4 (R4) on common technical document (CTD) for the registration of pharmaceuticals for human use - organisation of CTD](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-guideline-m4-r4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-step-5_en.pdf) .
+You will find quality and non-clinical documents grouped according to the structure presented in [ICH guideline M4 (R4) on common technical document (CTD) for the registration of pharmaceuticals for human use - organisation of CTD](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-guideline-m4-r4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-step-5_en.pdf).
 
 This structure divides the types of documents into 5 modules, of which the sub-modules listed below will be published regularly following consultation with the marketing authorisation holder.
 
-You can subscribe to update notifications by selecting the RSS option available at the top of this page. You will need a news reader or other similar device. To learn more about RSS and news readers, see our [RSS user guide](https://www.ema.europa.eu/en/news-event/rss-feeds#user-guide-section) .
+You can subscribe to update notifications by selecting the RSS option available at the top of this page. You will need a news reader or other similar device. To learn more about RSS and news readers, see our [RSS user guide](https://www.ema.europa.eu/en/news-event/rss-feeds#user-guide-section).
 
 ### Reading guide
 
 In the context of these exceptional transparency measures, documents published by EMA that contain Commercially Confidential Information (CCI) and Protected Personal Data (PPD) shall be subject to redaction prior to their disclosure.
 
-CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf) . This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
+CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf). This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
 
-In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/scientific-guidelines/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd) .
+In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/scientific-guidelines/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd).
 
 As regards the documents published under the exceptional transparency measures, the following pages of the Annex are of relevance:
 
@@ -1712,9 +1708,9 @@ CCI and PPD
 
 <!-- image -->
 
-Documents published within the scope of the exceptional transparency measures that have been **previously released under an access to document procedure** under [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) follow the above-referred principles regarding the redaction of CCI and PPD. However, the formatting of these labels is different, and the overlay text states the exceptions applied in accordance with Article 4 of [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) .
+Documents published within the scope of the exceptional transparency measures that have been **previously released under an access to document procedure** under [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) follow the above-referred principles regarding the redaction of CCI and PPD. However, the formatting of these labels is different, and the overlay text states the exceptions applied in accordance with Article 4 of [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng).
 
-- for CCI: black background with \"4.2 1 ind.\" overlay text (corresponding to Article 4.2 1 st indent of Regulation (EC) No1049/2001) 4.2 1 ind.
+- for CCI: black background with \"4.2 1 ind.\" overlay text (corresponding to Article 4.2 1st indent of Regulation (EC) No1049/2001) 4.2 1 ind.
 - for PPD: black background with \"4.1(b)\" overlay text (corresponding to Article 4.1 (b) of Regulation (EC) No1049/2001) 4.1(b)
 
 **Module 2.3 - quality overall summary**
@@ -1729,9 +1725,9 @@ English (EN) (3.83 MB - ZIP)
 
 Comirnaty : 2.3.S drug substance
 
-English (EN) (27.28 MB - ZIP)
+English (EN) (28.06 MB - ZIP)
 
-**First published:** 25/07/2025 **Last updated:** 24/07/2026
+**First published:** 25/07/2025 **Last updated:** 30/10/2026
 
 [View](/en/documents/other/comirnaty-23s-drug-substance_en.zip)
 
@@ -1835,7 +1831,7 @@ English (EN) (813.79 KB - PDF)
 
 ## Publications
 
-- [The European Medicines Agency's EU conditional marketing authorisations for COVID-19 vaccines](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00085-4/fulltext)
+- [The European Medicines Agency's EU conditional marketing authorisations for COVID-19 vaccines](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2900085-4/fulltext)
 
 ## External links
 
@@ -1845,6 +1841,7 @@ English (EN) (813.79 KB - PDF)
 
 - [EMA/PE/0000221583 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221583)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
+- [Real-World Effectiveness of COVID-19 Vaccines in the Netherlands: Causal Inference From A Retrospective Cohort Study Using the Target Trial Emulation framework Within the PharmLines Initiative - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000785)
 - [Study of brand-specific COVID-19 vaccine effectiveness against severe COVID-19 disease in Europe (former COVIDRIVE) - post-authorisation study](https://catalogues.ema.europa.eu/study/49374)
 - [DARWIN EU® Effectiveness of COVID-19 vaccines on severe COVID-19 and post acute outcomes of SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/107616)
 - [Interim Analysis of Myocarditis and Pericarditis Associated with COMIRNATY in Persons Less Than 21 Years of Age - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000600)
@@ -1873,6 +1870,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-30/09/2026
+06/11/2026
 
 ## Share this page

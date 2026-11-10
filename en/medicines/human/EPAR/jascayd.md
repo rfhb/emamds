@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-30 12:40:00
+document_datetime: 2026-11-09 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jascayd.html
 document_name: jascayd.html
 version: success
-processing_time: 0.1256844
-conversion_datetime: 2026-08-01 11:36:09.877038
+processing_time: 0.1855481
+conversion_datetime: 2026-11-10 20:51:30.779476
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.117.0
-  docling-core: 2.89.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.150.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Jascayd
 
 [RSS](/en/individual-human-medicine.xml/277545)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 nerandomilast
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -107,7 +107,7 @@ English (EN) (131.93 KB - PDF)
 
 [View](/en/documents/overview/jascayd-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-192)
+[Other languages (22)](#file-language-dropdown-514)
 
 български (BG) (147.55 KB - PDF)
 
@@ -253,163 +253,167 @@ English (EN) (945.95 KB - PDF)
 
 Jascayd : EPAR - Product information
 
-English (EN) (1.5 MB - PDF)
+English (EN) (1.49 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/en/documents/product-information/jascayd-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-291)
+[Other languages (24)](#file-language-dropdown-96)
 
 български (BG) (1.62 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/bg/documents/product-information/jascayd-epar-product-information_bg.pdf)
 
 español (ES) (1.5 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/es/documents/product-information/jascayd-epar-product-information_es.pdf)
 
-čeština (CS) (1.64 MB - PDF)
+čeština (CS) (1.65 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/cs/documents/product-information/jascayd-epar-product-information_cs.pdf)
 
 dansk (DA) (1.55 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/da/documents/product-information/jascayd-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.52 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/de/documents/product-information/jascayd-epar-product-information_de.pdf)
 
 eesti (ET) (1.45 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/et/documents/product-information/jascayd-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.69 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/el/documents/product-information/jascayd-epar-product-information_el.pdf)
 
 français (FR) (1.6 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/fr/documents/product-information/jascayd-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.45 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/hr/documents/product-information/jascayd-epar-product-information_hr.pdf)
 
 italiano (IT) (1.53 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/it/documents/product-information/jascayd-epar-product-information_it.pdf)
 
 latviešu (LV) (1.62 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/lv/documents/product-information/jascayd-epar-product-information_lv.pdf)
 
 lietuvių (LT) (1.67 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/lt/documents/product-information/jascayd-epar-product-information_lt.pdf)
 
 magyar (HU) (1.65 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/hu/documents/product-information/jascayd-epar-product-information_hu.pdf)
 
 Malti (MT) (1.63 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/mt/documents/product-information/jascayd-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.51 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/nl/documents/product-information/jascayd-epar-product-information_nl.pdf)
 
 polski (PL) (1.72 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/pl/documents/product-information/jascayd-epar-product-information_pl.pdf)
 
-português (PT) (1.5 MB - PDF)
+português (PT) (1.51 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/pt/documents/product-information/jascayd-epar-product-information_pt.pdf)
 
 română (RO) (1.58 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/ro/documents/product-information/jascayd-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.67 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/sk/documents/product-information/jascayd-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.27 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/sl/documents/product-information/jascayd-epar-product-information_sl.pdf)
 
 suomi (FI) (1.53 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/fi/documents/product-information/jascayd-epar-product-information_fi.pdf)
 
 svenska (SV) (1.47 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/sv/documents/product-information/jascayd-epar-product-information_sv.pdf)
 
 Íslenska (IS) (1.48 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/is/documents/product-information/jascayd-epar-product-information_is.pdf)
 
 norsk (NO) (1.5 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 09/11/2026
 
 [View](/no/documents/product-information/jascayd-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000382616
+
+09/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -428,7 +432,7 @@ English (EN) (84.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jascayd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-428)
+[Other languages (24)](#file-language-dropdown-486)
 
 български (BG) (75.37 KB - PDF)
 
@@ -602,15 +606,33 @@ Jascayd is indicated for the treatment of adult patients with Progressive Pulmon
 - **EMA product number**
     - EMEA/H/C/006405
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
-    - Boehringer Ingelheim International GmbH Binger Strasse 173  55216 Ingelheim am Rhein  Germany
+    - Boehringer Ingelheim International GmbH Binger Strasse 173  
+55216 Ingelheim am Rhein  
+Germany
 - **Opinion adopted**
     - 21/05/2026
 - **Marketing authorisation issued**
     - 15/07/2026
+- **Revision**
+    - 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Jascayd : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (143.34 KB - PDF)
+
+**First published:** 09/11/2026
+
+[View](/en/documents/procedural-steps-after/jascayd-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -646,6 +668,6 @@ English (EN) (152.93 KB - PDF)
 
 **This page was last updated on**
 
-30/07/2026
+09/11/2026
 
 ## Share this page

@@ -1,109 +1,32 @@
 ---
-document_datetime: 2026-09-16 16:58:00
+document_datetime: 2026-11-09 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wezenla.html
 document_name: wezenla.html
 version: success
-processing_time: 0.187287
-conversion_datetime: 2026-09-23 07:37:17.17835
+processing_time: 0.2337502
+conversion_datetime: 2026-11-10 20:52:31.009375
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.150.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Campaigns](/en/news-events/ema-campaigns)
-    - [Speeches](/en/news-events/speeches)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Wezenla
-
 # Wezenla
 
 [RSS](/en/individual-human-medicine.xml/241792)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 ustekinumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -127,7 +50,9 @@ Wezenla is a medicine used to treat:
 
 - moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in adults and children above the age of 6 years whose condition has not improved with, or who cannot use, other systemic (whole-body) psoriasis treatments, such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine called psoralen, before being exposed to ultraviolet light;
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Wezenla may be used alone or combined with methotrexate (a DMARD);
-- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children weighing at least 40 kg whose condition has not improved enough with other treatments or who cannot receive such treatments. Wezenla contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Wezenla is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Wezenla is Stelara.
+- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children from 2 years of age whose condition has not improved enough with other treatments or who cannot receive such treatments.
+
+Wezenla contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Wezenla is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Wezenla is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines).
 
 Expand section
 
@@ -141,11 +66,13 @@ In plaque psoriasis and psoriatic arthritis, Wezenla is injected under the skin.
 
 In Crohn's disease, treatment is started Wezenla as an infusion (drip) into a vein lasting at least 1 hour. Eight weeks after the first infusion, Wezenla is given as an injection under the skin. Patients then continue with Wezenla injected under the skin every 8 or 12 weeks depending on how well the treatment is working.
 
-Patients or their caregivers may inject Wezenla once they have been trained, if their doctor thinks that this is appropriate. For more information about using Wezenla, see the package leaflet or contact your doctor or pharmacist.
+Patients or their caregivers may inject Wezenla themselves once they have been trained, if their doctor considers this is appropriate.
+
+For more information about using Wezenla, see the package leaflet or contact your doctor or pharmacist.
 
 ### How does Wezenla work?
 
-The active substance in Wezenla, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
+The active substance in Wezenla, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to two messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By attaching to them and blocking their activity, ustekinumab reduces inflammation and other immune system activity, helping to reduce the symptoms of these diseases.
 
 ### What benefits of Wezenla have been shown in studies?
 
@@ -153,21 +80,25 @@ Laboratory studies comparing Wezenla with Stelara have shown that the active sub
 
 In addition, a study in 563 patients with moderate to severe plaque psoriasis showed that Wezenla was as effective as Stelara in treating this condition. After 12 weeks improvement in symptom scores (PASI) was around 82% in patients given either of these medicines.
 
-Because Wezenla is a biosimilar medicine, the studies on effectiveness of ustekinumab carried out with Stelara do not all need to be repeated for Wezenla.
+Because Wezenla is a biosimilar medicine, the studies on the effectiveness of ustekinumab carried out with Stelara do not all need to be repeated for Wezenla.
 
-### What are the risks associated with Wezenla?
+Studies carried out with Wezenla are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Wezenla?
 
 The safety of Wezenla has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
 
 For the complete list of side effects and restrictions of Wezenla, see the package leaflet.
 
-The most common side effects with ustekinumab (seen in more than 1 in 20 people during clinical trials) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported is serious hypersensitivity (allergic reaction).
+The most common side effects with ustekinumab (which may affect up to 1 in 10) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported is serious hypersensitivity, including anaphylaxis (a sudden, severe allergic reaction).
+
+Wezenla must not be used in patients who have an active infection that the doctor considers important.
 
 ### Why is Wezenla authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Wezenla has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, studies in plaque psoriasis have shown that Wezenla and Stelara are equivalent in terms of safety and effectiveness for this condition.
 
-All these data were considered sufficient to conclude that Wezenla will have the same effects as Stelara in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Wezenla outweigh the identified risks and it can be authorised for use in the EU.
+All these data were considered sufficient to conclude that, for the uses for which it is authorised, Wezenla will have the same effects as Stelara. Therefore, the Agency's view was that, as for Stelara, the benefits of Wezenla outweigh the identified risks and it can be authorised for use in the EU.
 
 ### What measures are being taken to ensure the safe and effective use of Wezenla?
 
@@ -181,143 +112,145 @@ Wezenla received a marketing authorisation valid throughout the EU on 20 June 20
 
 Wezenla : EPAR - Medicine overview
 
-English (EN) (134.76 KB - PDF)
+Reference Number: EMADOC-1829012207-74120
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+English (EN) (149.44 KB - PDF)
+
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/en/documents/overview/wezenla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-629)
+[Other languages (22)](#file-language-dropdown-316)
 
-български (BG) (162.8 KB - PDF)
+български (BG) (165.93 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/bg/documents/overview/wezenla-epar-medicine-overview_bg.pdf)
 
-español (ES) (135.22 KB - PDF)
+español (ES) (138.23 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/es/documents/overview/wezenla-epar-medicine-overview_es.pdf)
 
-čeština (CS) (159.67 KB - PDF)
+čeština (CS) (163.09 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/cs/documents/overview/wezenla-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (135.83 KB - PDF)
+dansk (DA) (139.2 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/da/documents/overview/wezenla-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (138.54 KB - PDF)
+Deutsch (DE) (141.85 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/de/documents/overview/wezenla-epar-medicine-overview_de.pdf)
 
-eesti (ET) (132.48 KB - PDF)
+eesti (ET) (135.48 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/et/documents/overview/wezenla-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (162.5 KB - PDF)
+ελληνικά (EL) (165.63 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/el/documents/overview/wezenla-epar-medicine-overview_el.pdf)
 
-français (FR) (136.12 KB - PDF)
+français (FR) (139.55 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/fr/documents/overview/wezenla-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (157.12 KB - PDF)
+hrvatski (HR) (159.35 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/hr/documents/overview/wezenla-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (134.11 KB - PDF)
+italiano (IT) (137.21 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/it/documents/overview/wezenla-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (164.93 KB - PDF)
+latviešu (LV) (157.73 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/lv/documents/overview/wezenla-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (159.11 KB - PDF)
+lietuvių (LT) (162.52 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/lt/documents/overview/wezenla-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (158.12 KB - PDF)
+magyar (HU) (161.81 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/hu/documents/overview/wezenla-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (160.19 KB - PDF)
+Malti (MT) (163.06 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/mt/documents/overview/wezenla-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (137.84 KB - PDF)
+Nederlands (NL) (139.47 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/nl/documents/overview/wezenla-epar-medicine-overview_nl.pdf)
 
-polski (PL) (161.31 KB - PDF)
+polski (PL) (164.93 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/pl/documents/overview/wezenla-epar-medicine-overview_pl.pdf)
 
-português (PT) (135.6 KB - PDF)
+português (PT) (138.65 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/pt/documents/overview/wezenla-epar-medicine-overview_pt.pdf)
 
-română (RO) (154.41 KB - PDF)
+română (RO) (157.95 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/ro/documents/overview/wezenla-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (159 KB - PDF)
+slovenčina (SK) (162.58 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/sk/documents/overview/wezenla-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (156.43 KB - PDF)
+slovenščina (SL) (160.56 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/sl/documents/overview/wezenla-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (131.77 KB - PDF)
+suomi (FI) (135.15 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/fi/documents/overview/wezenla-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (133.48 KB - PDF)
+svenska (SV) (137.1 KB - PDF)
 
-**First published:** 18/07/2024 **Last updated:** 19/09/2025
+**First published:** 18/07/2024 **Last updated:** 09/11/2026
 
 [View](/sv/documents/overview/wezenla-epar-medicine-overview_sv.pdf)
 
@@ -339,7 +272,7 @@ English (EN) (1.65 MB - PDF)
 
 [View](/en/documents/product-information/wezenla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-531)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (2.35 MB - PDF)
 
@@ -485,7 +418,7 @@ norsk (NO) (1.82 MB - PDF)
 
 [View](/no/documents/product-information/wezenla-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000357811
+**Latest procedure affecting product information:**VR/0000357811
 
 11/09/2026
 
@@ -493,7 +426,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -512,7 +445,7 @@ English (EN) (48.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wezenla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-427)
+[Other languages (24)](#file-language-dropdown-675)
 
 български (BG) (56.01 KB - PDF)
 
@@ -679,20 +612,39 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-**Crohn's disease** Wezenla is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+**Crohn's disease**
 
-**Pediatric Crohn's disease** Wezenla is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy. **Plaque psoriasis** Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1). **Paediatric plaque psoriasis** Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1). **Psoriatic arthritis (PsA)** Wezenla, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+Wezenla is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+
+**Pediatric Crohn's disease**
+
+Wezenla is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+
+**Plaque psoriasis**
+
+Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
+
+**Paediatric plaque psoriasis**
+
+Wezenla is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
+
+**Psoriatic arthritis (PsA)**
+
+Wezenla, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
 ## Authorisation details
 
 - **EMA product number**
     - EMEA/H/C/006132
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
-    - Amgen Technology (Ireland) UC Pottery Road  Dun Laoghaire  Co. Dublin  Ireland
+    - Amgen Technology (Ireland) UC Pottery Road  
+Dun Laoghaire  
+Co. Dublin  
+Ireland
 - **Opinion adopted**
     - 25/04/2024
 - **Marketing authorisation issued**
@@ -764,7 +716,7 @@ English (EN) (9.93 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/wezenla-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-480)
 
 български (BG) (8.66 MB - DOCX)
 
@@ -912,6 +864,6 @@ norsk (NO) (10.15 MB - DOCX)
 
 **This page was last updated on**
 
-16/09/2026
+09/11/2026
 
 ## Share this page

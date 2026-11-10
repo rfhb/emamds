@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-02 12:18:33
+document_datetime: 2026-11-09 11:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/itvisma.html
 document_name: itvisma.html
 version: success
-processing_time: 0.1281139
-conversion_datetime: 2026-10-04 16:22:26.890177
+processing_time: 0.1836088
+conversion_datetime: 2026-11-10 20:51:15.312329
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.133.0
-  docling-core: 2.99.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.150.0
+  docling-core: 2.106.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Itvisma
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 onasemnogene abeparvovec
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -94,7 +94,7 @@ Itvisma has been shown to lead to clinically meaningful improvements in motor fu
 
 The company that markets Itvisma will provide educational materials to healthcare professionals, patients and caregivers with information on SMA, how to use the medicine safely, the risks associated with the medicine and how to identify and report side effects.
 
-These materials may be made available by national competent authorities on their websites. A list of national repositories is available on the [EMA website](/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/risk-minimisation-measures-rmm#national-repositories-76380) .
+These materials may be made available by national competent authorities on their websites. A list of national repositories is available on the [EMA website](/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/risk-minimisation-measures-rmm#national-repositories-76380).
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Itvisma have also been included in the summary of product characteristics and the package leaflet.
 
@@ -116,7 +116,7 @@ English (EN) (134.54 KB - PDF)
 
 [View](/en/documents/overview/itvisma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-508)
+[Other languages (22)](#file-language-dropdown-649)
 
 български (BG) (149.06 KB - PDF)
 
@@ -262,167 +262,167 @@ English (EN) (7.67 MB - PDF)
 
 Itvisma: EPAR - Product information
 
-English (EN) (595.41 KB - PDF)
+English (EN) (403.56 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/en/documents/product-information/itvisma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-143)
+[Other languages (24)](#file-language-dropdown-944)
 
-български (BG) (480.15 KB - PDF)
+български (BG) (495.16 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/bg/documents/product-information/itvisma-epar-product-information_bg.pdf)
 
-español (ES) (813.79 KB - PDF)
+español (ES) (438.09 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/es/documents/product-information/itvisma-epar-product-information_es.pdf)
 
-čeština (CS) (861.02 KB - PDF)
+čeština (CS) (476.23 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/cs/documents/product-information/itvisma-epar-product-information_cs.pdf)
 
-dansk (DA) (835.01 KB - PDF)
+dansk (DA) (453.28 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/da/documents/product-information/itvisma-epar-product-information_da.pdf)
 
-Deutsch (DE) (812 KB - PDF)
+Deutsch (DE) (440.25 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/de/documents/product-information/itvisma-epar-product-information_de.pdf)
 
-eesti (ET) (797.35 KB - PDF)
+eesti (ET) (420.7 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/et/documents/product-information/itvisma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (902.33 KB - PDF)
+ελληνικά (EL) (503.66 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/el/documents/product-information/itvisma-epar-product-information_el.pdf)
 
-français (FR) (893.62 KB - PDF)
+français (FR) (492.96 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/fr/documents/product-information/itvisma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (851.92 KB - PDF)
+hrvatski (HR) (461.23 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/hr/documents/product-information/itvisma-epar-product-information_hr.pdf)
 
-italiano (IT) (814.23 KB - PDF)
+italiano (IT) (435.28 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/it/documents/product-information/itvisma-epar-product-information_it.pdf)
 
-latviešu (LV) (823.52 KB - PDF)
+latviešu (LV) (448.87 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/lv/documents/product-information/itvisma-epar-product-information_lv.pdf)
 
-lietuvių (LT) (910.62 KB - PDF)
+lietuvių (LT) (507.64 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/lt/documents/product-information/itvisma-epar-product-information_lt.pdf)
 
-magyar (HU) (845.52 KB - PDF)
+magyar (HU) (468.99 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/hu/documents/product-information/itvisma-epar-product-information_hu.pdf)
 
-Malti (MT) (903.88 KB - PDF)
+Malti (MT) (493.31 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/mt/documents/product-information/itvisma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (615.38 KB - PDF)
+Nederlands (NL) (499.14 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/nl/documents/product-information/itvisma-epar-product-information_nl.pdf)
 
-polski (PL) (885.35 KB - PDF)
+polski (PL) (493.6 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/pl/documents/product-information/itvisma-epar-product-information_pl.pdf)
 
-português (PT) (578.44 KB - PDF)
+português (PT) (461.29 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/pt/documents/product-information/itvisma-epar-product-information_pt.pdf)
 
-română (RO) (841.36 KB - PDF)
+română (RO) (456.8 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/ro/documents/product-information/itvisma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (896.53 KB - PDF)
+slovenčina (SK) (496.78 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/sk/documents/product-information/itvisma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (857.97 KB - PDF)
+slovenščina (SL) (466 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/sl/documents/product-information/itvisma-epar-product-information_sl.pdf)
 
-suomi (FI) (834.78 KB - PDF)
+suomi (FI) (443.93 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/fi/documents/product-information/itvisma-epar-product-information_fi.pdf)
 
-svenska (SV) (790.2 KB - PDF)
+svenska (SV) (420.95 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/sv/documents/product-information/itvisma-epar-product-information_sv.pdf)
 
-Íslenska (IS) (790.72 KB - PDF)
+Íslenska (IS) (420.18 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/is/documents/product-information/itvisma-epar-product-information_is.pdf)
 
-norsk (NO) (883.49 KB - PDF)
+norsk (NO) (498.95 KB - PDF)
 
-**First published:** 28/07/2026
+**First published:** 28/07/2026 **Last updated:** 09/11/2026
 
 [View](/no/documents/product-information/itvisma-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000372159
+**Latest procedure affecting product information:**VR/0000379332
 
-30/09/2026
+06/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -441,7 +441,7 @@ English (EN) (67.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/itvisma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-719)
+[Other languages (24)](#file-language-dropdown-438)
 
 български (BG) (73.12 KB - PDF)
 
@@ -613,9 +613,14 @@ Itvisma is indicated for the treatment of 5q spinal muscular atrophy (SMA) with 
 - **EMA product number**
     - EMEA/H/C/006498
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
-    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  D04 A9N6  Ireland
+    - Novartis Europharm Limited Vista Building  
+Elm Park  
+Merrion Road  
+Dublin 4  
+D04 A9N6  
+Ireland
 - **Opinion adopted**
     - 23/04/2026
 - **Opinion status**
@@ -623,7 +628,7 @@ Itvisma is indicated for the treatment of 5q spinal muscular atrophy (SMA) with 
 - **Marketing authorisation issued**
     - 30/06/2026
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -635,9 +640,9 @@ Collapse section
 
 Itvisma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (163.55 KB - PDF)
+English (EN) (142.86 KB - PDF)
 
-**First published:** 02/10/2026
+**First published:** 02/10/2026 **Last updated:** 09/11/2026
 
 [View](/en/documents/procedural-steps-after/itvisma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -685,6 +690,6 @@ English (EN) (162.06 KB - PDF)
 
 **This page was last updated on**
 
-02/10/2026
+09/11/2026
 
 ## Share this page

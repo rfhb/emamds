@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-23 12:42:00
+document_datetime: 2026-11-09 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trixeo-aerosphere.html
 document_name: trixeo-aerosphere.html
 version: success
-processing_time: 0.1508943
-conversion_datetime: 2026-10-25 15:28:11.497338
+processing_time: 0.2875052
+conversion_datetime: 2026-11-10 20:52:00.788314
 docling_version:
-  docling-serve: 1.38.1
+  docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling: 2.150.0
+  docling-core: 2.106.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.25.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
 ---
 # Trixeo Aerosphere
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 formoterol / glycopyrronium bromide / budesonide
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -126,9 +126,143 @@ Reference Number: EMADOC-1829012207-74190
 
 English (EN) (128.93 KB - PDF)
 
-**First published:** 05/01/2021 **Last updated:** 23/10/2026
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
 
 [View](/en/documents/overview/trixeo-aerosphere-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-86)
+
+български (BG) (148.99 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/bg/documents/overview/trixeo-aerosphere-epar-medicine-overview_bg.pdf)
+
+español (ES) (118.09 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/es/documents/overview/trixeo-aerosphere-epar-medicine-overview_es.pdf)
+
+čeština (CS) (143.31 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/cs/documents/overview/trixeo-aerosphere-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (119.77 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/da/documents/overview/trixeo-aerosphere-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (123.89 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/de/documents/overview/trixeo-aerosphere-epar-medicine-overview_de.pdf)
+
+eesti (ET) (128.83 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/et/documents/overview/trixeo-aerosphere-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (145 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/el/documents/overview/trixeo-aerosphere-epar-medicine-overview_el.pdf)
+
+français (FR) (122.04 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/fr/documents/overview/trixeo-aerosphere-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (141.85 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/hr/documents/overview/trixeo-aerosphere-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (117.66 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/it/documents/overview/trixeo-aerosphere-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (157.94 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/lv/documents/overview/trixeo-aerosphere-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (143.79 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/lt/documents/overview/trixeo-aerosphere-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (144.07 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/hu/documents/overview/trixeo-aerosphere-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (144.07 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/mt/documents/overview/trixeo-aerosphere-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (120.46 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/nl/documents/overview/trixeo-aerosphere-epar-medicine-overview_nl.pdf)
+
+polski (PL) (146.25 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/pl/documents/overview/trixeo-aerosphere-epar-medicine-overview_pl.pdf)
+
+português (PT) (120.63 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/pt/documents/overview/trixeo-aerosphere-epar-medicine-overview_pt.pdf)
+
+română (RO) (137.99 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/ro/documents/overview/trixeo-aerosphere-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (144.32 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/sk/documents/overview/trixeo-aerosphere-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (141.77 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/sl/documents/overview/trixeo-aerosphere-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (116.68 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/fi/documents/overview/trixeo-aerosphere-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (117.47 KB - PDF)
+
+**First published:** 05/01/2021 **Last updated:** 09/11/2026
+
+[View](/sv/documents/overview/trixeo-aerosphere-epar-medicine-overview_sv.pdf)
 
 Trixeo Aerosphere : EPAR - Risk management plan
 
@@ -148,7 +282,7 @@ English (EN) (2.14 MB - PDF)
 
 [View](/en/documents/product-information/trixeo-aerosphere-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-219)
+[Other languages (24)](#file-language-dropdown-62)
 
 български (BG) (819.52 KB - PDF)
 
@@ -294,7 +428,7 @@ norsk (NO) (620.57 KB - PDF)
 
 [View](/no/documents/product-information/trixeo-aerosphere-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** X/0000287664
+**Latest procedure affecting product information:**X/0000287664
 
 18/09/2025
 
@@ -302,7 +436,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -321,7 +455,7 @@ English (EN) (38.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trixeo-aerosphere-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-785)
+[Other languages (24)](#file-language-dropdown-691)
 
 български (BG) (46.26 KB - PDF)
 
@@ -594,6 +728,6 @@ English (EN) (144.96 KB - PDF)
 
 **This page was last updated on**
 
-23/10/2026
+09/11/2026
 
 ## Share this page

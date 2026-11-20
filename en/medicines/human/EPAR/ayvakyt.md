@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-29 15:10:00
+document_datetime: 2026-11-09 17:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ayvakyt.html
 document_name: ayvakyt.html
 version: success
-processing_time: 0.2286076
-conversion_datetime: 2026-11-09 12:59:24.412973
+processing_time: 0.1792869
+conversion_datetime: 2026-11-20 19:11:39.260596
 docling_version:
   docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.149.0
-  docling-core: 2.106.0
+  docling: 2.151.1
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.25.0
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Ayvakyt
 
@@ -138,7 +138,7 @@ English (EN) (124.53 KB - PDF)
 
 [View](/en/documents/overview/ayvakyt-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-145)
+[Other languages (22)](#file-language-dropdown-365)
 
 български (BG) (141.24 KB - PDF)
 
@@ -284,161 +284,161 @@ English (EN) (1.51 MB - PDF)
 
 Ayvakyt : EPAR - Product information
 
-English (EN) (672.49 KB - PDF)
+English (EN) (718.8 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/en/documents/product-information/ayvakyt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-404)
 
-български (BG) (936.48 KB - PDF)
+български (BG) (896.36 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/bg/documents/product-information/ayvakyt-epar-product-information_bg.pdf)
 
-español (ES) (760.54 KB - PDF)
+español (ES) (747.77 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/es/documents/product-information/ayvakyt-epar-product-information_es.pdf)
 
-čeština (CS) (835.17 KB - PDF)
+čeština (CS) (838.64 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/cs/documents/product-information/ayvakyt-epar-product-information_cs.pdf)
 
-dansk (DA) (719 KB - PDF)
+dansk (DA) (723.01 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/da/documents/product-information/ayvakyt-epar-product-information_da.pdf)
 
-Deutsch (DE) (879.57 KB - PDF)
+Deutsch (DE) (779.51 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/de/documents/product-information/ayvakyt-epar-product-information_de.pdf)
 
-eesti (ET) (816.16 KB - PDF)
+eesti (ET) (762.14 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/et/documents/product-information/ayvakyt-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.16 MB - PDF)
+ελληνικά (EL) (968.28 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/el/documents/product-information/ayvakyt-epar-product-information_el.pdf)
 
-français (FR) (805.74 KB - PDF)
+français (FR) (811.23 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/fr/documents/product-information/ayvakyt-epar-product-information_fr.pdf)
 
-hrvatski (HR) (816.46 KB - PDF)
+hrvatski (HR) (828.06 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/hr/documents/product-information/ayvakyt-epar-product-information_hr.pdf)
 
-italiano (IT) (785.17 KB - PDF)
+italiano (IT) (751.77 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/it/documents/product-information/ayvakyt-epar-product-information_it.pdf)
 
-latviešu (LV) (844.97 KB - PDF)
+latviešu (LV) (855.23 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/lv/documents/product-information/ayvakyt-epar-product-information_lv.pdf)
 
-lietuvių (LT) (841.4 KB - PDF)
+lietuvių (LT) (836.21 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/lt/documents/product-information/ayvakyt-epar-product-information_lt.pdf)
 
-magyar (HU) (897.22 KB - PDF)
+magyar (HU) (922.55 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/hu/documents/product-information/ayvakyt-epar-product-information_hu.pdf)
 
-Malti (MT) (922.14 KB - PDF)
+Malti (MT) (871.15 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/mt/documents/product-information/ayvakyt-epar-product-information_mt.pdf)
 
-Nederlands (NL) (734.46 KB - PDF)
+Nederlands (NL) (718.16 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/nl/documents/product-information/ayvakyt-epar-product-information_nl.pdf)
 
-polski (PL) (928.91 KB - PDF)
+polski (PL) (933.88 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/pl/documents/product-information/ayvakyt-epar-product-information_pl.pdf)
 
-português (PT) (739.79 KB - PDF)
+português (PT) (746.89 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/pt/documents/product-information/ayvakyt-epar-product-information_pt.pdf)
 
-română (RO) (885.29 KB - PDF)
+română (RO) (842.95 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/ro/documents/product-information/ayvakyt-epar-product-information_ro.pdf)
 
-slovenčina (SK) (877.62 KB - PDF)
+slovenčina (SK) (909.24 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/sk/documents/product-information/ayvakyt-epar-product-information_sk.pdf)
 
-slovenščina (SL) (840.62 KB - PDF)
+slovenščina (SL) (856.36 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/sl/documents/product-information/ayvakyt-epar-product-information_sl.pdf)
 
-suomi (FI) (761.91 KB - PDF)
+suomi (FI) (771.91 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/fi/documents/product-information/ayvakyt-epar-product-information_fi.pdf)
 
-svenska (SV) (744.14 KB - PDF)
+svenska (SV) (756.39 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/sv/documents/product-information/ayvakyt-epar-product-information_sv.pdf)
 
-Íslenska (IS) (713.72 KB - PDF)
+Íslenska (IS) (701 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/is/documents/product-information/ayvakyt-epar-product-information_is.pdf)
 
-norsk (NO) (735.77 KB - PDF)
+norsk (NO) (700.41 KB - PDF)
 
-**First published:** 30/09/2020 **Last updated:** 29/10/2026
+**First published:** 30/09/2020 **Last updated:** 09/11/2026
 
 [View](/no/documents/product-information/ayvakyt-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:**VR/0000348944
+**Latest procedure affecting product information:**VR/0000343110
 
-16/10/2026
+24/09/2026
 
 icon globe
 
@@ -463,7 +463,7 @@ English (EN) (26.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ayvakyt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-471)
+[Other languages (24)](#file-language-dropdown-719)
 
 български (BG) (61.33 KB - PDF)
 
@@ -660,7 +660,7 @@ Netherlands
 - **Marketing authorisation issued**
     - 24/09/2020
 - **Revision**
-    - 12
+    - 13
 
 ## Assessment history
 
@@ -672,9 +672,9 @@ Collapse section
 
 Ayvakyt : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (178.48 KB - PDF)
+English (EN) (155.66 KB - PDF)
 
-**First published:** 09/01/2026 **Last updated:** 29/10/2026
+**First published:** 09/01/2026 **Last updated:** 09/11/2026
 
 [View](/en/documents/procedural-steps-after/ayvakyt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -811,6 +811,6 @@ English (EN) (148.57 KB - PDF)
 
 **This page was last updated on**
 
-29/10/2026
+09/11/2026
 
 ## Share this page

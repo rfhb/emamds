@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-19 11:55:00
+document_datetime: 2026-11-10 16:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eydenzelt.html
 document_name: eydenzelt.html
 version: success
-processing_time: 0.1711152
-conversion_datetime: 2026-10-25 15:17:27.387629
+processing_time: 0.1842479
+conversion_datetime: 2026-11-20 19:14:28.791364
 docling_version:
-  docling-serve: 1.38.1
+  docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling: 2.151.1
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Eydenzelt
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 aflibercept
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -118,7 +118,7 @@ English (EN) (146.95 KB - PDF)
 
 [View](/en/documents/overview/eydenzelt-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-881)
+[Other languages (22)](#file-language-dropdown-339)
 
 български (BG) (172 KB - PDF)
 
@@ -270,7 +270,7 @@ English (EN) (2.27 MB - PDF)
 
 [View](/en/documents/product-information/eydenzelt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-381)
+[Other languages (24)](#file-language-dropdown-767)
 
 български (BG) (2.07 MB - PDF)
 
@@ -416,7 +416,7 @@ norsk (NO) (1.81 MB - PDF)
 
 [View](/no/documents/product-information/eydenzelt-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000336116
+**Latest procedure affecting product information:**PSUR/0000336116
 
 18/09/2026
 
@@ -424,7 +424,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -443,7 +443,7 @@ English (EN) (14.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eydenzelt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-295)
+[Other languages (24)](#file-language-dropdown-212)
 
 български (BG) (38.33 KB - PDF)
 
@@ -624,9 +624,9 @@ Eydenzelt is indicated for adults for the treatment of:
 - **EMA product number**
     - EMEA/H/C/005899
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
     - Celltrion Healthcare Hungary Kft. 1062 Budapest  
 Váci út 1-3. WestEnd Office Building B torony  
@@ -670,9 +670,9 @@ Eydenzelt : EPAR - Public assessment report
 
 Adopted Reference Number: EMA/1268/2025
 
-English (EN) (3.21 MB - PDF)
+English (EN) (3.4 MB - PDF)
 
-**First published:** 27/03/2025
+**First published:** 27/03/2025 **Last updated:** 10/11/2026
 
 [View](/en/documents/assessment-report/eydenzelt-epar-public-assessment-report_en.pdf)
 
@@ -694,6 +694,6 @@ English (EN) (169.74 KB - PDF)
 
 **This page was last updated on**
 
-19/10/2026
+10/11/2026
 
 ## Share this page

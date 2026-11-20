@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-20 15:14:00
+document_datetime: 2026-11-12 14:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/intrarosa.html
 document_name: intrarosa.html
 version: success
-processing_time: 0.1404619
-conversion_datetime: 2026-07-28 12:59:13.770361
+processing_time: 0.1888295
+conversion_datetime: 2026-11-20 19:17:23.303549
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Intrarosa
 
 [RSS](/en/individual-human-medicine.xml/66645)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 prasterone
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -115,7 +115,7 @@ English (EN) (77.5 KB - PDF)
 
 [View](/en/documents/overview/intrarosa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-89)
+[Other languages (22)](#file-language-dropdown-473)
 
 български (BG) (103.62 KB - PDF)
 
@@ -249,15 +249,13 @@ svenska (SV) (75.17 KB - PDF)
 
 [View](/sv/documents/overview/intrarosa-epar-summary-public_sv.pdf)
 
-Intrarosa : EPAR - Risk-management-plan summary
+Intrarosa : EPAR - Risk management plan
 
-Reference Number: EMA/70766/2018
+English (EN) (527.11 KB - PDF)
 
-English (EN) (104.18 KB - PDF)
+**First published:** 14/02/2018 **Last updated:** 12/11/2026
 
-**First published:** 14/02/2018 **Last updated:** 14/02/2018
-
-[View](/en/documents/rmp-summary/intrarosa-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/intrarosa-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -269,7 +267,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/product-information/intrarosa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-278)
+[Other languages (24)](#file-language-dropdown-892)
 
 български (BG) (1.17 MB - PDF)
 
@@ -415,7 +413,7 @@ norsk (NO) (1.14 MB - PDF)
 
 [View](/no/documents/product-information/intrarosa-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000361408
+**Latest procedure affecting product information:**VR/0000361408
 
 20/07/2026
 
@@ -423,7 +421,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -442,7 +440,7 @@ English (EN) (45.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/intrarosa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-965)
+[Other languages (24)](#file-language-dropdown-448)
 
 български (BG) (34.74 KB - PDF)
 
@@ -614,13 +612,15 @@ Intrarosa is indicated for the treatment of vulvar and vaginal atrophy in postme
 - **EMA product number**
     - EMEA/H/C/004138
 - **Marketing authorisation holder**
-    - Endoceutics S.A. Rue Belliard 40  1040 Brussels  Belgium
+    - Endoceutics S.A. Rue Belliard 40  
+1040 Brussels  
+Belgium
 - **Opinion adopted**
     - 09/11/2017
 - **Marketing authorisation issued**
     - 08/01/2018
 - **Revision**
-    - 8
+    - 9
 
 ## Assessment history
 
@@ -632,9 +632,9 @@ Collapse section
 
 Intrarosa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (139.72 KB - PDF)
+English (EN) (154.56 KB - PDF)
 
-**First published:** 20/07/2026
+**First published:** 20/07/2026 **Last updated:** 12/11/2026
 
 [View](/en/documents/procedural-steps-after/intrarosa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -690,10 +690,10 @@ English (EN) (68.69 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-20/07/2026
+12/11/2026
 
 ## Share this page

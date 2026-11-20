@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-22 16:30:00
+document_datetime: 2026-11-11 15:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cejemly.html
 document_name: cejemly.html
 version: success
-processing_time: 0.1691506
-conversion_datetime: 2026-10-25 15:13:56.143356
+processing_time: 0.1866161
+conversion_datetime: 2026-11-20 19:12:10.482305
 docling_version:
-  docling-serve: 1.38.1
+  docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling: 2.151.1
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Cejemly
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 sugemalimab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -76,7 +76,7 @@ Two main studies found that Cejemly increased the time people with non-small cel
 
 **Metastatic NSCLC**
 
-A main study involved 479 adults with metastatic NSCLC with no changes affecting the *EGFR* , *ALK* , *ROS1* or *RET* genes. They received either Cejemly or placebo (a dummy treatment), each given together with platinum-based chemotherapy. The study found that people who received Cejemly lived for an average of 9 months before their cancer got worse compared with 5 months for people who received placebo. Overall, people who received Cejemly with chemotherapy lived for around 25 months, while those who received placebo with chemotherapy lived for around 17 months.
+A main study involved 479 adults with metastatic NSCLC with no changes affecting the *EGFR*, *ALK*, *ROS1* or *RET* genes. They received either Cejemly or placebo (a dummy treatment), each given together with platinum-based chemotherapy. The study found that people who received Cejemly lived for an average of 9 months before their cancer got worse compared with 5 months for people who received placebo. Overall, people who received Cejemly with chemotherapy lived for around 25 months, while those who received placebo with chemotherapy lived for around 17 months.
 
 **Locally advanced unresectable NSCLC**
 
@@ -116,7 +116,7 @@ English (EN) (151.62 KB - PDF)
 
 [View](/en/documents/overview/cejemly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-220)
+[Other languages (22)](#file-language-dropdown-636)
 
 български (BG) (179.48 KB - PDF)
 
@@ -268,7 +268,7 @@ English (EN) (1.18 MB - PDF)
 
 [View](/en/documents/product-information/cejemly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-546)
 
 български (BG) (884.16 KB - PDF)
 
@@ -414,7 +414,7 @@ norsk (NO) (641.82 KB - PDF)
 
 [View](/no/documents/product-information/cejemly-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** N/0000383517
+**Latest procedure affecting product information:**N/0000383517
 
 22/10/2026
 
@@ -422,7 +422,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -441,7 +441,7 @@ English (EN) (42.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cejemly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-219)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (45.42 KB - PDF)
 
@@ -617,7 +617,7 @@ Cejemly as monotherapy is indicated for the treatment of unresectable stage III 
 - **EMA product number**
     - EMEA/H/C/006088
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
     - Cstone Pharmaceuticals Ireland Limited 117-126 Sheriff Street Upper  
 Dublin 1  
@@ -628,7 +628,7 @@ Ireland
 - **Marketing authorisation issued**
     - 24/07/2024
 - **Revision**
-    - 8
+    - 9
 
 ## Assessment history
 
@@ -640,9 +640,9 @@ Collapse section
 
 Cejemly : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (196.41 KB - PDF)
+English (EN) (180.66 KB - PDF)
 
-**First published:** 17/03/2025 **Last updated:** 22/10/2026
+**First published:** 17/03/2025 **Last updated:** 11/11/2026
 
 [View](/en/documents/procedural-steps-after/cejemly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -653,6 +653,16 @@ English (EN) (103.77 KB - PDF)
 **First published:** 13/12/2024 **Last updated:** 17/03/2025
 
 [View](/en/documents/procedural-steps-after/cejemly-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Cejemly-PSUSA-00011080-202512 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3321119
+
+English (EN) (148.73 KB - PDF)
+
+**First published:** 11/11/2026
+
+[View](/en/documents/scientific-conclusion/cejemly-psusa-00011080-202512-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Cejemly-VR-0000261157 : EPAR - Assessment report
 
@@ -718,6 +728,6 @@ English (EN) (110.99 KB - PDF)
 
 **This page was last updated on**
 
-22/10/2026
+11/11/2026
 
 ## Share this page

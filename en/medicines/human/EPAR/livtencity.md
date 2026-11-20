@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-11 15:45:00
+document_datetime: 2026-11-10 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/livtencity.html
 document_name: livtencity.html
 version: success
-processing_time: 0.1612576
-conversion_datetime: 2026-06-13 19:41:29.547361
+processing_time: 0.2082168
+conversion_datetime: 2026-11-20 19:19:45.129056
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Livtencity
 
 [RSS](/en/individual-human-medicine.xml/67617)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 maribavir
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -113,7 +113,7 @@ English (EN) (131.56 KB - PDF)
 
 [View](/en/documents/overview/livtencity-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-760)
+[Other languages (22)](#file-language-dropdown-802)
 
 български (BG) (159.02 KB - PDF)
 
@@ -259,161 +259,168 @@ English (EN) (814.94 KB - PDF)
 
 Livtencity : EPAR - Product Information
 
-English (EN) (348.43 KB - PDF)
+English (EN) (361.02 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/livtencity-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-306)
+[Other languages (24)](#file-language-dropdown-865)
 
-български (BG) (427.14 KB - PDF)
+български (BG) (491.69 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/livtencity-epar-product-information_bg.pdf)
 
-español (ES) (352.27 KB - PDF)
+español (ES) (317.64 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/livtencity-epar-product-information_es.pdf)
 
-čeština (CS) (404.55 KB - PDF)
+čeština (CS) (602.55 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/livtencity-epar-product-information_cs.pdf)
 
-dansk (DA) (332.46 KB - PDF)
+dansk (DA) (286.05 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/livtencity-epar-product-information_da.pdf)
 
-Deutsch (DE) (390.84 KB - PDF)
+Deutsch (DE) (445.05 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/livtencity-epar-product-information_de.pdf)
 
-eesti (ET) (357.99 KB - PDF)
+eesti (ET) (367.38 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/livtencity-epar-product-information_et.pdf)
 
-français (FR) (381.04 KB - PDF)
+ελληνικά (EL) (487.53 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
+
+[View](/el/documents/product-information/livtencity-epar-product-information_el.pdf)
+
+français (FR) (331.24 KB - PDF)
+
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/livtencity-epar-product-information_fr.pdf)
 
-hrvatski (HR) (411.12 KB - PDF)
+hrvatski (HR) (431.55 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/livtencity-epar-product-information_hr.pdf)
 
-italiano (IT) (364.45 KB - PDF)
+italiano (IT) (325.51 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/livtencity-epar-product-information_it.pdf)
 
-latviešu (LV) (429.11 KB - PDF)
+latviešu (LV) (451.61 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/livtencity-epar-product-information_lv.pdf)
 
-lietuvių (LT) (412.35 KB - PDF)
+lietuvių (LT) (471.88 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/livtencity-epar-product-information_lt.pdf)
 
-magyar (HU) (379.93 KB - PDF)
+magyar (HU) (336.41 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/livtencity-epar-product-information_hu.pdf)
 
-Malti (MT) (436.16 KB - PDF)
+Malti (MT) (420.42 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/livtencity-epar-product-information_mt.pdf)
 
-Nederlands (NL) (406.9 KB - PDF)
+Nederlands (NL) (321.96 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/livtencity-epar-product-information_nl.pdf)
 
-polski (PL) (428.86 KB - PDF)
+polski (PL) (452.63 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/livtencity-epar-product-information_pl.pdf)
 
-português (PT) (356.66 KB - PDF)
+português (PT) (500.72 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/livtencity-epar-product-information_pt.pdf)
 
-română (RO) (411.98 KB - PDF)
+română (RO) (398.92 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/livtencity-epar-product-information_ro.pdf)
 
-slovenčina (SK) (433.5 KB - PDF)
+slovenčina (SK) (474.34 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/livtencity-epar-product-information_sk.pdf)
 
-slovenščina (SL) (405.02 KB - PDF)
+slovenščina (SL) (433.85 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/livtencity-epar-product-information_sl.pdf)
 
-suomi (FI) (361.15 KB - PDF)
+suomi (FI) (322.96 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/livtencity-epar-product-information_fi.pdf)
 
-svenska (SV) (358.74 KB - PDF)
+svenska (SV) (320.17 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/livtencity-epar-product-information_sv.pdf)
 
-Íslenska (IS) (352.44 KB - PDF)
+Íslenska (IS) (592.92 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/is/documents/product-information/livtencity-epar-product-information_is.pdf)
 
-norsk (NO) (365.38 KB - PDF)
+norsk (NO) (407 KB - PDF)
 
-**First published:** 24/11/2022 **Last updated:** 11/06/2026
+**First published:** 24/11/2022 **Last updated:** 10/11/2026
 
 [View](/no/documents/product-information/livtencity-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** N/0000354589
+**Latest procedure affecting product information:**VR/0000362476
 
-09/06/2026
+01/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -431,7 +438,7 @@ English (EN) (27.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/livtencity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-259)
+[Other languages (24)](#file-language-dropdown-16)
 
 български (BG) (29.88 KB - PDF)
 
@@ -579,25 +586,16 @@ norsk (NO) (28.69 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Livtencity
-
-Active substance
-
-Maribavir
-
-International non-proprietary name (INN) or common name
-
-maribavir
-
-Therapeutic area (MeSH)
-
-Cytomegalovirus Infections
-
-Anatomical therapeutic chemical (ATC) code
-
-J05AX10
+- **Name of medicine**
+    - Livtencity
+- **Active substance**
+    - Maribavir
+- **International non-proprietary name (INN) or common name**
+    - maribavir
+- **Therapeutic area (MeSH)**
+    - Cytomegalovirus Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AX10
 
 ### Pharmacotherapeutic group
 
@@ -611,35 +609,25 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005787
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 Co Dublin D02 HW68 Ireland
-
-Opinion adopted
-
-15/09/2022
-
-Marketing authorisation issued
-
-09/11/2022
-
-Revision
-
-8
+- **EMA product number**
+    - EMEA/H/C/005787
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
+- **Marketing authorisation holder**
+    - Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza  
+50-58 Baggot Street Lower  
+Dublin 2  
+Co Dublin  
+D02 HW68  
+Ireland
+- **Opinion adopted**
+    - 15/09/2022
+- **Marketing authorisation issued**
+    - 09/11/2022
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -651,9 +639,9 @@ Collapse section
 
 Livtencity : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (177.57 KB - PDF)
+English (EN) (175.74 KB - PDF)
 
-**First published:** 05/08/2025 **Last updated:** 11/06/2026
+**First published:** 05/08/2025 **Last updated:** 10/11/2026
 
 [View](/en/documents/procedural-steps-after/livtencity-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -725,7 +713,7 @@ English (EN) (133.46 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/livtencity-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-97)
+[Other languages (24)](#file-language-dropdown-641)
 
 български (BG) (103.18 KB - DOCX)
 
@@ -880,6 +868,6 @@ norsk (NO) (95.81 KB - DOCX)
 
 **This page was last updated on**
 
-11/06/2026
+10/11/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-30 15:24:00
+document_datetime: 2026-11-17 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/keytruda.html
 document_name: keytruda.html
 version: success
-processing_time: 0.6215797
-conversion_datetime: 2026-11-09 13:04:12.205207
+processing_time: 0.5765501
+conversion_datetime: 2026-11-20 19:18:41.064026
 docling_version:
   docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.149.0
-  docling-core: 2.106.0
+  docling: 2.151.1
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.25.0
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Keytruda
 
@@ -51,39 +51,22 @@ Page contents
 Keytruda is a cancer medicine used to treat:
 
 - melanoma, a skin cancer;
-
 - non-small cell lung cancer (NSCLC), a type of lung cancer;
-
 - non-epithelioid malignant pleural mesothelioma, a cancer of the lining of the lungs;
-
 - classical Hodgkin lymphoma, a cancer of the white blood cells;
-
 - urothelial cancer, a cancer of the bladder and urinary tract;
-
 - head and neck squamous cell carcinoma (HNSCC), a cancer affecting the head and neck;
-
 - renal cell carcinoma, a type of kidney cancer;
-
 - oesophageal cancer, a cancer of the oesophagus (gullet or food pipe);
-
 - gastric and gastro-oesophageal junction adenocarcinoma, types of cancer of the stomach and junction between the oesophagus and the stomach, respectively;
-
 - triple-negative breast cancer, a type of breast cancer;
-
 - endometrial carcinoma, a cancer of the lining of the womb;
-
 - cervical cancer, a cancer of the cervix;
-
 - epithelial ovarian cancer (cancer that forms in the tissue covering the ovaries), fallopian tube cancer (cancer of the tubes that connect the ovaries to the womb), and primary peritoneal cancer (cancer that forms in the tissue that lines the belly wall and covers organs in the belly);
-
 - biliary tract cancer, a cancer of the bile ducts (the tubes that carry bile from the liver and gallbladder to the gut or the gallbladder);
-
 - the following cancers when described as microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR):
-
 - colorectal cancer, a cancer of the colon or rectum (the lower part of the gut);
-
 - endometrial carcinoma;
-
 - gastric cancer, small intestine cancer or biliary cancer.
 
 Keytruda is mainly used in adults for cancers that are advanced, have spread or returned, are not responding to other treatments or cannot be removed by surgery. Keytruda is also used in children aged 3 years and older with classical Hodgkin lymphoma and in adolescents aged 12 years and older with melanoma.
@@ -286,9 +269,143 @@ Reference Number: EMADOC-1829012207-59128
 
 English (EN) (211.54 KB - PDF)
 
-**First published:** 30/07/2015 **Last updated:** 30/10/2026
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
 
 [View](/en/documents/overview/keytruda-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-349)
+
+български (BG) (218.8 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/bg/documents/overview/keytruda-epar-medicine-overview_bg.pdf)
+
+español (ES) (186.05 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/es/documents/overview/keytruda-epar-medicine-overview_es.pdf)
+
+čeština (CS) (221.28 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/cs/documents/overview/keytruda-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (187.26 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/da/documents/overview/keytruda-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (196.32 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/de/documents/overview/keytruda-epar-medicine-overview_de.pdf)
+
+eesti (ET) (202.32 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/et/documents/overview/keytruda-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (224.3 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/el/documents/overview/keytruda-epar-medicine-overview_el.pdf)
+
+français (FR) (191.84 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/fr/documents/overview/keytruda-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (207.74 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/hr/documents/overview/keytruda-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (181.77 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/it/documents/overview/keytruda-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (211.35 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/lv/documents/overview/keytruda-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (206.94 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/lt/documents/overview/keytruda-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (214.47 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/hu/documents/overview/keytruda-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (215.17 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/mt/documents/overview/keytruda-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (193.6 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/nl/documents/overview/keytruda-epar-medicine-overview_nl.pdf)
+
+polski (PL) (218.79 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/pl/documents/overview/keytruda-epar-medicine-overview_pl.pdf)
+
+português (PT) (185.25 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/pt/documents/overview/keytruda-epar-medicine-overview_pt.pdf)
+
+română (RO) (203.94 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/ro/documents/overview/keytruda-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (213.97 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/sk/documents/overview/keytruda-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (210.31 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/sl/documents/overview/keytruda-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (178.9 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/fi/documents/overview/keytruda-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (180.92 KB - PDF)
+
+**First published:** 30/07/2015 **Last updated:** 17/11/2026
+
+[View](/sv/documents/overview/keytruda-epar-medicine-overview_sv.pdf)
 
 Keytruda : EPAR - Risk management plan
 
@@ -308,7 +425,7 @@ English (EN) (6.3 MB - PDF)
 
 [View](/en/documents/product-information/keytruda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-927)
+[Other languages (24)](#file-language-dropdown-20)
 
 български (BG) (13.94 MB - PDF)
 
@@ -481,7 +598,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (24.69 KB - PDF)
 
@@ -1778,7 +1895,7 @@ English (EN) (129.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-288)
+[Other languages (22)](#file-language-dropdown-727)
 
 български (BG) (145.05 KB - PDF)
 
@@ -1924,7 +2041,6 @@ svenska (SV) (122.23 KB - PDF)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda-0)
 - [EMEA-001474-PIP03-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip03-22)
-- [PSUSA/00002540/202509 - periodic safety update report single assessment](/en/node/279051)
 - [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-1)
 - [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-2)
 - [Real-world effectiveness of pembrolizumab among patients with TMB-H advanced solid tumors (MK-3475-G34) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000542)
@@ -1937,6 +2053,6 @@ svenska (SV) (122.23 KB - PDF)
 
 **This page was last updated on**
 
-30/10/2026
+17/11/2026
 
 ## Share this page

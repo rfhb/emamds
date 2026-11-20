@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-20 13:10:00
+document_datetime: 2026-11-12 14:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jivi.html
 document_name: jivi.html
 version: success
-processing_time: 0.1883645
-conversion_datetime: 2026-10-25 15:20:37.375726
+processing_time: 0.2063088
+conversion_datetime: 2026-11-20 19:17:54.333277
 docling_version:
-  docling-serve: 1.38.1
+  docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling: 2.151.1
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Jivi
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 damoctocog alfa pegol
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -123,7 +123,7 @@ English (EN) (135.34 KB - PDF)
 
 [View](/en/documents/overview/jivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-892)
+[Other languages (22)](#file-language-dropdown-566)
 
 български (BG) (159.34 KB - PDF)
 
@@ -259,9 +259,9 @@ svenska (SV) (133.47 KB - PDF)
 
 Jivi : EPAR - Risk management plan
 
-English (EN) (2.7 MB - PDF)
+English (EN) (7.5 MB - PDF)
 
-**First published:** 28/01/2019 **Last updated:** 20/10/2026
+**First published:** 28/01/2019 **Last updated:** 12/11/2026
 
 [View](/en/documents/rmp/jivi-epar-risk-management-plan_en.pdf)
 
@@ -275,7 +275,7 @@ English (EN) (754.43 KB - PDF)
 
 [View](/en/documents/product-information/jivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-728)
 
 български (BG) (1 MB - PDF)
 
@@ -421,7 +421,7 @@ norsk (NO) (875.02 KB - PDF)
 
 [View](/no/documents/product-information/jivi-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000326847
+**Latest procedure affecting product information:**VR/0000326847
 
 21/08/2026
 
@@ -429,7 +429,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -448,7 +448,7 @@ English (EN) (71.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-186)
+[Other languages (24)](#file-language-dropdown-451)
 
 български (BG) (82.9 KB - PDF)
 
@@ -627,7 +627,7 @@ Germany
 - **Marketing authorisation issued**
     - 22/11/2018
 - **Revision**
-    - 9
+    - 10
 
 ## Assessment history
 
@@ -639,9 +639,9 @@ Collapse section
 
 Jivi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.19 KB - PDF)
+English (EN) (176.37 KB - PDF)
 
-**First published:** 13/08/2025 **Last updated:** 20/10/2026
+**First published:** 13/08/2025 **Last updated:** 12/11/2026
 
 [View](/en/documents/procedural-steps-after/jivi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -770,6 +770,6 @@ This product is no longer an orphan medicine. It was originally designated [an o
 
 **This page was last updated on**
 
-20/10/2026
+12/11/2026
 
 ## Share this page

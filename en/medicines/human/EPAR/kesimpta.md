@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-20 11:42:00
+document_datetime: 2026-11-10 11:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kesimpta.html
 document_name: kesimpta.html
 version: success
-processing_time: 0.1465783
-conversion_datetime: 2026-08-22 23:26:23.862448
+processing_time: 0.1673001
+conversion_datetime: 2026-11-20 19:18:25.332784
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Kesimpta
 
 [RSS](/en/individual-human-medicine.xml/67426)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 ofatumumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -108,7 +108,7 @@ English (EN) (119.19 KB - PDF)
 
 [View](/en/documents/overview/kesimpta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-605)
+[Other languages (22)](#file-language-dropdown-917)
 
 български (BG) (142.71 KB - PDF)
 
@@ -254,167 +254,167 @@ English (EN) (69.99 KB - PDF)
 
 Kesimpta : EPAR - Product information
 
-English (EN) (827.87 KB - PDF)
+English (EN) (836.3 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/kesimpta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-985)
+[Other languages (24)](#file-language-dropdown-932)
 
-български (BG) (890.88 KB - PDF)
+български (BG) (926.07 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/kesimpta-epar-product-information_bg.pdf)
 
-español (ES) (857.55 KB - PDF)
+español (ES) (921.04 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/kesimpta-epar-product-information_es.pdf)
 
-čeština (CS) (909.84 KB - PDF)
+čeština (CS) (941.57 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/kesimpta-epar-product-information_cs.pdf)
 
-dansk (DA) (867.43 KB - PDF)
+dansk (DA) (895.33 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/kesimpta-epar-product-information_da.pdf)
 
-Deutsch (DE) (912.3 KB - PDF)
+Deutsch (DE) (941.77 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/kesimpta-epar-product-information_de.pdf)
 
-eesti (ET) (846.4 KB - PDF)
+eesti (ET) (904.29 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/kesimpta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (935.95 KB - PDF)
+ελληνικά (EL) (1011.66 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/el/documents/product-information/kesimpta-epar-product-information_el.pdf)
 
-français (FR) (935.94 KB - PDF)
+français (FR) (980.38 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/kesimpta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (883.81 KB - PDF)
+hrvatski (HR) (922.88 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/kesimpta-epar-product-information_hr.pdf)
 
-italiano (IT) (986.29 KB - PDF)
+italiano (IT) (1021.07 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/kesimpta-epar-product-information_it.pdf)
 
-latviešu (LV) (861.99 KB - PDF)
+latviešu (LV) (872.21 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/kesimpta-epar-product-information_lv.pdf)
 
-lietuvių (LT) (921.14 KB - PDF)
+lietuvių (LT) (954.85 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/kesimpta-epar-product-information_lt.pdf)
 
-magyar (HU) (993.63 KB - PDF)
+magyar (HU) (1.02 MB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/kesimpta-epar-product-information_hu.pdf)
 
-Malti (MT) (997.42 KB - PDF)
+Malti (MT) (1.02 MB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/kesimpta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (927.89 KB - PDF)
+Nederlands (NL) (937.82 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/kesimpta-epar-product-information_nl.pdf)
 
-polski (PL) (903.82 KB - PDF)
+polski (PL) (920.85 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/kesimpta-epar-product-information_pl.pdf)
 
-português (PT) (925.53 KB - PDF)
+português (PT) (945.38 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/kesimpta-epar-product-information_pt.pdf)
 
-română (RO) (892.38 KB - PDF)
+română (RO) (939.67 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/kesimpta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (904.77 KB - PDF)
+slovenčina (SK) (932.24 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/kesimpta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (906.35 KB - PDF)
+slovenščina (SL) (926.01 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/kesimpta-epar-product-information_sl.pdf)
 
-suomi (FI) (867.29 KB - PDF)
+suomi (FI) (895.3 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/kesimpta-epar-product-information_fi.pdf)
 
-svenska (SV) (838 KB - PDF)
+svenska (SV) (877.14 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/kesimpta-epar-product-information_sv.pdf)
 
-Íslenska (IS) (894.81 KB - PDF)
+Íslenska (IS) (930.13 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/is/documents/product-information/kesimpta-epar-product-information_is.pdf)
 
-norsk (NO) (862.54 KB - PDF)
+norsk (NO) (874.28 KB - PDF)
 
-**First published:** 16/04/2021 **Last updated:** 20/08/2026
+**First published:** 16/04/2021 **Last updated:** 10/11/2026
 
 [View](/no/documents/product-information/kesimpta-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000315689
+**Latest procedure affecting product information:**VR/0000386317
 
-09/07/2026
+09/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -433,7 +433,7 @@ English (EN) (93.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kesimpta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-159)
+[Other languages (24)](#file-language-dropdown-296)
 
 български (BG) (98.32 KB - PDF)
 
@@ -604,14 +604,17 @@ Kesimpta is indicated for the treatment of adult patients with relapsing forms o
 
 - **EMA product number**
     - EMEA/H/C/005410
-- **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  D04 A9N6  Ireland
+    - Novartis Europharm Limited Vista Building  
+Elm Park  
+Merrion Road  
+Dublin 4  
+D04 A9N6  
+Ireland
 - **Marketing authorisation issued**
     - 26/03/2021
 - **Revision**
-    - 16
+    - 17
 
 ## Assessment history
 
@@ -623,9 +626,9 @@ Collapse section
 
 Kesimpta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (181.27 KB - PDF)
+English (EN) (168.83 KB - PDF)
 
-**First published:** 16/12/2025 **Last updated:** 20/08/2026
+**First published:** 16/12/2025 **Last updated:** 10/11/2026
 
 [View](/en/documents/procedural-steps-after/kesimpta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -694,6 +697,6 @@ English (EN) (134.48 KB - PDF)
 
 **This page was last updated on**
 
-20/08/2026
+10/11/2026
 
 ## Share this page

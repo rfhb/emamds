@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-05-29 14:52:00
+document_datetime: 2026-11-16 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyepti.html
 document_name: vyepti.html
 version: success
-processing_time: 0.2265961
-conversion_datetime: 2026-06-01 16:56:13.192748
+processing_time: 0.1781128
+conversion_datetime: 2026-11-20 19:27:18.848757
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Vyepti
 
 [RSS](/en/individual-human-medicine.xml/67517)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 eptinezumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -54,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Vyepti used?
+### How is Vyepti used?
 
 The medicine can only be obtained with a prescription. Treatment should be started and monitored by healthcare professionals experienced in the diagnosis and treatment of migraine.
 
@@ -62,11 +62,11 @@ Vyepti is given by infusion (drip) into a vein over 30 minutes once every 12 wee
 
 For more information about using Vyepti, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Vyepti work?
+### How does Vyepti work?
 
 A substance in the body called calcitonin gene-related peptide (CGRP) contributes to the development of migraine. The [active substance](/en/node/43123) in Vyepti, eptinezumab, is a monoclonal antibody (a type of protein) designed to attach to CGRP and prevent it from binding to its target on the body's cells, thereby helping to prevent migraines from occurring.
 
-## What benefits of Vyepti have been shown in studies?
+### What benefits of Vyepti have been shown in studies?
 
 Two main studies showed that Vyepti is effective at reducing the number of days patients suffer from migraines.
 
@@ -74,23 +74,23 @@ The first was a 48-week study involving 898 adults who had at least 4 migraine d
 
 The second was a 24-week study involving 1,121 adults who had migraines for at least 8 days a month and between 15 and 26 headache days a month. Those treated with 100 mg or 300 mg Vyepti had on average 8 fewer days with migraines per month during the first 12 weeks of treatment compared with around 6 fewer days for patients on placebo.
 
-## What are the risks associated with Vyepti?
+### What are the risks associated with Vyepti?
 
 The most common side effects with Vyepti (which may affect up to 1 in 10 people) are nasopharyngitis (inflammation of the nose and throat), hypersensitivity (allergic) reactions and tiredness.
 
 For the full list of side effects of Vyepti, see the package leaflet.
 
-## Why is Vyepti authorised in the EU?
+### Why is Vyepti authorised in the EU?
 
 The European Medicines Agency decided that Vyepti's benefits are greater than its risks and it can be authorised for use in the EU. Two main studies have shown that Vyepti is effective at reducing the number of days patients suffer from migraines. The side effects are considered manageable.
 
-## What measures are being taken to ensure the safe and effective use of Vyepti?
+### What measures are being taken to ensure the safe and effective use of Vyepti?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Vyepti have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Vyepti are continuously monitored. Suspected side effects reported with Vyepti are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Vyepti
+### Other information about Vyepti
 
 Vyepti received a marketing authorisation valid throughout the EU on 24 January 2022.
 
@@ -104,7 +104,7 @@ English (EN) (115.19 KB - PDF)
 
 [View](/en/documents/overview/vyepti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-912)
+[Other languages (22)](#file-language-dropdown-236)
 
 български (BG) (140.44 KB - PDF)
 
@@ -136,7 +136,7 @@ Deutsch (DE) (118.27 KB - PDF)
 
 [View](/de/documents/overview/vyepti-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (103.83 KB - PDF)
+eesti (ET) (103.83 KB - PDF)
 
 **First published:** 15/02/2022
 
@@ -166,13 +166,13 @@ italiano (IT) (114.39 KB - PDF)
 
 [View](/it/documents/overview/vyepti-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (144.97 KB - PDF)
+latviešu (LV) (144.97 KB - PDF)
 
 **First published:** 15/02/2022
 
 [View](/lv/documents/overview/vyepti-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (136.38 KB - PDF)
+lietuvių (LT) (136.38 KB - PDF)
 
 **First published:** 15/02/2022
 
@@ -226,7 +226,7 @@ slovenščina (SL) (135.22 KB - PDF)
 
 [View](/sl/documents/overview/vyepti-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (113.5 KB - PDF)
+suomi (FI) (113.5 KB - PDF)
 
 **First published:** 15/02/2022
 
@@ -238,173 +238,180 @@ svenska (SV) (114.6 KB - PDF)
 
 [View](/sv/documents/overview/vyepti-epar-medicine-overview_sv.pdf)
 
-Vyepti : EPAR - Risk management plan summary
+Vyepti : EPAR - Risk management plan
 
-English (EN) (208.89 KB - PDF)
+English (EN) (2.31 MB - PDF)
 
-**First published:** 15/02/2022
+**First published:** 15/02/2022 **Last updated:** 16/11/2026
 
-[View](/en/documents/rmp-summary/vyepti-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/vyepti-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Vyepti : EPAR - Product information
 
-English (EN) (515.18 KB - PDF)
+English (EN) (513.99 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/vyepti-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-995)
+[Other languages (24)](#file-language-dropdown-513)
 
-български (BG) (380.3 KB - PDF)
+български (BG) (378.35 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/vyepti-epar-product-information_bg.pdf)
 
-español (ES) (311.59 KB - PDF)
+español (ES) (308.1 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/vyepti-epar-product-information_es.pdf)
 
-čeština (CS) (718.75 KB - PDF)
+čeština (CS) (716.22 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/vyepti-epar-product-information_cs.pdf)
 
-dansk (DA) (365.32 KB - PDF)
+dansk (DA) (360.82 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/vyepti-epar-product-information_da.pdf)
 
-Deutsch (DE) (365.64 KB - PDF)
+Deutsch (DE) (330.71 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/vyepti-epar-product-information_de.pdf)
 
-eesti keel (ET) (370.94 KB - PDF)
+eesti (ET) (367.2 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/vyepti-epar-product-information_et.pdf)
 
-ελληνικά (EL) (377.19 KB - PDF)
+ελληνικά (EL) (376.44 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/el/documents/product-information/vyepti-epar-product-information_el.pdf)
 
-français (FR) (744.96 KB - PDF)
+français (FR) (745.69 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/vyepti-epar-product-information_fr.pdf)
 
-hrvatski (HR) (424.42 KB - PDF)
+hrvatski (HR) (420.55 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/vyepti-epar-product-information_hr.pdf)
 
-italiano (IT) (416.9 KB - PDF)
+italiano (IT) (412.34 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/vyepti-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (412.52 KB - PDF)
+latviešu (LV) (409.48 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/vyepti-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (272.86 KB - PDF)
+lietuvių (LT) (268.73 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/vyepti-epar-product-information_lt.pdf)
 
-magyar (HU) (407.36 KB - PDF)
+magyar (HU) (403.44 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/vyepti-epar-product-information_hu.pdf)
 
-Malti (MT) (439.14 KB - PDF)
+Malti (MT) (435.33 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/vyepti-epar-product-information_mt.pdf)
 
-Nederlands (NL) (399.61 KB - PDF)
+Nederlands (NL) (397.61 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/vyepti-epar-product-information_nl.pdf)
 
-norsk (NO) (391.94 KB - PDF)
+polski (PL) (430.22 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
-
-[View](/no/documents/product-information/vyepti-epar-product-information_no.pdf)
-
-polski (PL) (432.09 KB - PDF)
-
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/vyepti-epar-product-information_pl.pdf)
 
-português (PT) (393.69 KB - PDF)
+português (PT) (399.76 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/vyepti-epar-product-information_pt.pdf)
 
-română (RO) (411.06 KB - PDF)
+română (RO) (408.3 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/vyepti-epar-product-information_ro.pdf)
 
-slovenčina (SK) (422.47 KB - PDF)
+slovenčina (SK) (419.17 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/vyepti-epar-product-information_sk.pdf)
 
-slovenščina (SL) (411.89 KB - PDF)
+slovenščina (SL) (409.13 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/vyepti-epar-product-information_sl.pdf)
 
-Suomi (FI) (407.84 KB - PDF)
+suomi (FI) (405.35 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/vyepti-epar-product-information_fi.pdf)
 
-svenska (SV) (405.41 KB - PDF)
+svenska (SV) (402.73 KB - PDF)
 
-**First published:** 15/02/2022 **Last updated:** 29/05/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/vyepti-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000324932
+Íslenska (IS) (401.59 KB - PDF)
 
-10/04/2026
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
+
+[View](/is/documents/product-information/vyepti-epar-product-information_is.pdf)
+
+norsk (NO) (390.14 KB - PDF)
+
+**First published:** 15/02/2022 **Last updated:** 10/11/2026
+
+[View](/no/documents/product-information/vyepti-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**X/0000296350
+
+18/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -422,7 +429,7 @@ English (EN) (58.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-65)
+[Other languages (24)](#file-language-dropdown-262)
 
 български (BG) (93.75 KB - PDF)
 
@@ -454,7 +461,7 @@ Deutsch (DE) (57.8 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (54.39 KB - PDF)
+eesti (ET) (54.39 KB - PDF)
 
 **First published:** 15/02/2022 **Last updated:** 12/12/2023
 
@@ -478,25 +485,19 @@ hrvatski (HR) (116.31 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (56.46 KB - PDF)
-
-**First published:** 15/02/2022 **Last updated:** 12/12/2023
-
-[View](/is/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (55.59 KB - PDF)
 
 **First published:** 15/02/2022 **Last updated:** 12/12/2023
 
 [View](/it/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (72.82 KB - PDF)
+latviešu (LV) (72.82 KB - PDF)
 
 **First published:** 15/02/2022 **Last updated:** 12/12/2023
 
 [View](/lv/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (73.55 KB - PDF)
+lietuvių (LT) (73.55 KB - PDF)
 
 **First published:** 15/02/2022 **Last updated:** 12/12/2023
 
@@ -519,12 +520,6 @@ Nederlands (NL) (55.27 KB - PDF)
 **First published:** 15/02/2022 **Last updated:** 12/12/2023
 
 [View](/nl/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (57 KB - PDF)
-
-**First published:** 15/02/2022 **Last updated:** 12/12/2023
-
-[View](/no/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (78.81 KB - PDF)
 
@@ -556,7 +551,7 @@ slovenščina (SL) (64.73 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (55 KB - PDF)
+suomi (FI) (55 KB - PDF)
 
 **First published:** 15/02/2022 **Last updated:** 12/12/2023
 
@@ -568,27 +563,30 @@ svenska (SV) (56.01 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (56.46 KB - PDF)
+
+**First published:** 15/02/2022 **Last updated:** 12/12/2023
+
+[View](/is/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (57 KB - PDF)
+
+**First published:** 15/02/2022 **Last updated:** 12/12/2023
+
+[View](/no/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Vyepti
-
-Active substance
-
-Eptinezumab
-
-International non-proprietary name (INN) or common name
-
-eptinezumab
-
-Therapeutic area (MeSH)
-
-Migraine Disorders
-
-Anatomical therapeutic chemical (ATC) code
-
-N02CD
+- **Name of medicine**
+    - Vyepti
+- **Active substance**
+    - Eptinezumab
+- **International non-proprietary name (INN) or common name**
+    - eptinezumab
+- **Therapeutic area (MeSH)**
+    - Migraine Disorders
+- **Anatomical therapeutic chemical (ATC) code**
+    - N02CD
 
 ### Pharmacotherapeutic group
 
@@ -600,27 +598,18 @@ Vyepti is indicated for the prophylaxis of migraine in adults who have at least 
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005287
-
-Marketing authorisation holder
-
-H. Lundbeck A/S
-
-Ottiliavej 9
-
-Opinion adopted
-
-11/11/2021
-
-Marketing authorisation issued
-
-24/01/2022
-
-Revision
-
-8
+- **EMA product number**
+    - EMEA/H/C/005287
+- **Marketing authorisation holder**
+    - H. Lundbeck A/S Ottiliavej 9  
+DK-2500 Valby  
+Denmark
+- **Opinion adopted**
+    - 11/11/2021
+- **Marketing authorisation issued**
+    - 24/01/2022
+- **Revision**
+    - 10
 
 ## Assessment history
 
@@ -628,23 +617,33 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
-Vypeti : EPAR - Procedural steps taken and scientific information after authorisation
+Vyepti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.23 KB - PDF)
+English (EN) (138.94 KB - PDF)
 
-**First published:** 29/05/2026
+**First published:** 29/05/2026 **Last updated:** 16/11/2026
 
-[View](/en/documents/procedural-steps-after/vypeti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/vyepti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-Vypeti : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+Vyepti : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (167.3 KB - PDF)
 
 **First published:** 25/07/2022 **Last updated:** 29/05/2026
 
-[View](/en/documents/procedural-steps-after/vypeti-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+[View](/en/documents/procedural-steps-after/vyepti-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Vyepti-H-C-005287-X-0000296350 : EPAR - Assessment report- Variation
+
+Adopted Reference Number: EMADOC-1700519818-2516511
+
+English (EN) (888.23 KB - PDF)
+
+**First published:** 10/11/2026
+
+[View](/en/documents/variation-report/vyepti-h-c-005287-x-0000296350-epar-assessment-report-variation_en.pdf)
 
 Vyepti-H-C-005287-P46-006 : EPAR - Assessment report
 
@@ -666,7 +665,7 @@ English (EN) (4.47 MB - PDF)
 
 [View](/en/documents/variation-report/vyepti-h-c-005287-p46-005-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vyepti : EPAR - Public Assessment Report
 
@@ -697,11 +696,12 @@ English (EN) (102.03 KB - PDF)
 ## More information on Vyepti
 
 - [Long-term cardiovascular safety and real-world use of eptinezumab - An observational, historical cohort study of patients initiating eptinezumab in routine clinical practice - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000882)
+- [Network meta-analysis of reported adverse events in randomized trials comparing CGRPs for the prophylaxis of episodic migraine - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000874)
 - [Vyepti Pregnancy Registry: A prospective, comparative cohort study of maternal, fetal and infant safety in pregnant women exposed to eptinezumab in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000936)
 - [Pregnancy, fetal and infant outcomes of pregnancies exposed to eptinezumab compared to two migraine control cohorts unexposed to eptinezumab: a claims database study in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000938)
 
 **This page was last updated on**
 
-29/05/2026
+16/11/2026
 
 ## Share this page

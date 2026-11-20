@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-04 15:13:00
+document_datetime: 2026-11-10 14:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spinraza.html
 document_name: spinraza.html
 version: success
-processing_time: 0.1399416
-conversion_datetime: 2026-08-07 13:48:27.749617
+processing_time: 0.1906223
+conversion_datetime: 2026-11-20 19:25:28.075286
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Spinraza
 
 [RSS](/en/individual-human-medicine.xml/66504)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 nusinersen
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -49,7 +49,7 @@ Page contents
 
 Spinraza is a medicine used to treat 5q spinal muscular atrophy (SMA), a genetic disease that causes weakness and wasting of the muscles including the lung muscles. The disease is linked to a defect on chromosome 5q and symptoms usually start shortly after birth.
 
-SMA is rare, and Spinraza was designated an 'orphan medicine' (a medicine used in rare diseases) on 2 April 2012. Further information on the orphan designation can be found on the [EMA website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-976) .
+SMA is rare, and Spinraza was designated an 'orphan medicine' (a medicine used in rare diseases) on 2 April 2012. Further information on the orphan designation can be found on the [EMA website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-976).
 
 Spinraza contains the active substance nusinersen.
 
@@ -121,7 +121,7 @@ English (EN) (126.38 KB - PDF)
 
 [View](/en/documents/overview/spinraza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-324)
+[Other languages (22)](#file-language-dropdown-97)
 
 български (BG) (132.17 KB - PDF)
 
@@ -257,9 +257,9 @@ svenska (SV) (116.48 KB - PDF)
 
 Spinraza : EPAR - Risk management plan
 
-English (EN) (1.57 MB - PDF)
+English (EN) (2.63 MB - PDF)
 
-**First published:** 09/10/2019 **Last updated:** 29/01/2026
+**First published:** 09/10/2019 **Last updated:** 10/11/2026
 
 [View](/en/documents/rmp/spinraza-epar-risk-management-plan_en.pdf)
 
@@ -267,167 +267,167 @@ English (EN) (1.57 MB - PDF)
 
 Spinraza : EPAR - Product Information
 
-English (EN) (853.28 KB - PDF)
+English (EN) (844.15 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/spinraza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-529)
+[Other languages (24)](#file-language-dropdown-348)
 
 български (BG) (1.06 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/spinraza-epar-product-information_bg.pdf)
 
-español (ES) (1.09 MB - PDF)
+español (ES) (1013.24 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/spinraza-epar-product-information_es.pdf)
 
-čeština (CS) (978.37 KB - PDF)
+čeština (CS) (1.11 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/spinraza-epar-product-information_cs.pdf)
 
-dansk (DA) (924.58 KB - PDF)
+dansk (DA) (925.59 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/spinraza-epar-product-information_da.pdf)
 
-Deutsch (DE) (1 MB - PDF)
+Deutsch (DE) (1.03 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/spinraza-epar-product-information_de.pdf)
 
-eesti (ET) (1000.29 KB - PDF)
+eesti (ET) (1.01 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/spinraza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.05 MB - PDF)
+ελληνικά (EL) (1.1 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/el/documents/product-information/spinraza-epar-product-information_el.pdf)
 
-français (FR) (1.02 MB - PDF)
+français (FR) (1.01 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/spinraza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.05 MB - PDF)
+hrvatski (HR) (946.36 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/spinraza-epar-product-information_hr.pdf)
 
-italiano (IT) (1 MB - PDF)
+italiano (IT) (960.67 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/spinraza-epar-product-information_it.pdf)
 
-latviešu (LV) (1.1 MB - PDF)
+latviešu (LV) (1.03 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/spinraza-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.16 MB - PDF)
+lietuvių (LT) (1.02 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/spinraza-epar-product-information_lt.pdf)
 
-magyar (HU) (1.01 MB - PDF)
+magyar (HU) (1.08 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/spinraza-epar-product-information_hu.pdf)
 
-Malti (MT) (1.02 MB - PDF)
+Malti (MT) (1.05 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/spinraza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.37 MB - PDF)
+Nederlands (NL) (1020.47 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/spinraza-epar-product-information_nl.pdf)
 
-polski (PL) (1.01 MB - PDF)
+polski (PL) (1.03 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/spinraza-epar-product-information_pl.pdf)
 
-português (PT) (887.66 KB - PDF)
+português (PT) (965.51 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/spinraza-epar-product-information_pt.pdf)
 
-română (RO) (964.17 KB - PDF)
+română (RO) (1 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/spinraza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (982.54 KB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/spinraza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (964.8 KB - PDF)
+slovenščina (SL) (1.02 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/spinraza-epar-product-information_sl.pdf)
 
-suomi (FI) (1.01 MB - PDF)
+suomi (FI) (1.04 MB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/spinraza-epar-product-information_fi.pdf)
 
-svenska (SV) (909.86 KB - PDF)
+svenska (SV) (929.32 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/spinraza-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.02 MB - PDF)
+Íslenska (IS) (942.71 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/is/documents/product-information/spinraza-epar-product-information_is.pdf)
 
-norsk (NO) (863.16 KB - PDF)
+norsk (NO) (989.75 KB - PDF)
 
-**First published:** 21/06/2017 **Last updated:** 04/08/2026
+**First published:** 21/06/2017 **Last updated:** 10/11/2026
 
 [View](/no/documents/product-information/spinraza-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000343430
+**Latest procedure affecting product information:**VR/0000343403
 
-09/07/2026
+01/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -446,7 +446,7 @@ English (EN) (63.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-51)
+[Other languages (23)](#file-language-dropdown-557)
 
 български (BG) (47.05 KB - PDF)
 
@@ -612,17 +612,19 @@ Spinraza is indicated for the treatment of 5q Spinal Muscular Atrophy.
 - **EMA product number**
     - EMEA/H/C/004312
 - **Accelerated assessment**
-    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Biogen Netherlands B.V. Prins Mauritslaan 13  1171 LP Badhoevedorp  The Netherlands
+    - Biogen Netherlands B.V. Prins Mauritslaan 13  
+1171 LP Badhoevedorp  
+The Netherlands
 - **Opinion adopted**
     - 21/04/2017
 - **Marketing authorisation issued**
     - 30/05/2017
 - **Revision**
-    - 21
+    - 22
 
 ## Assessment history
 
@@ -634,9 +636,9 @@ Collapse section
 
 Spinraza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.19 KB - PDF)
+English (EN) (152.11 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 04/08/2026
+**First published:** 11/01/2018 **Last updated:** 10/11/2026
 
 [View](/en/documents/procedural-steps-after/spinraza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -730,10 +732,10 @@ English (EN) (112.75 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-04/08/2026
+10/11/2026
 
 ## Share this page

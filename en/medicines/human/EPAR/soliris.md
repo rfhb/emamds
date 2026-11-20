@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-19 11:00:00
+document_datetime: 2026-11-16 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/soliris.html
 document_name: soliris.html
 version: success
-processing_time: 0.1554577
-conversion_datetime: 2026-02-25 11:35:41.21349
+processing_time: 0.2941797
+conversion_datetime: 2026-11-20 19:24:41.578724
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Soliris
 
 [RSS](/en/individual-human-medicine.xml/66691)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-eculizumab Medicine Human Authorised
+eculizumab
+
+MedicineHumanAuthorised
 
 Page contents
 
@@ -56,13 +58,13 @@ Soliris is also used to treat adults with neuromyelitis optica spectrum disorder
 
 Soliris contains the active substance eculizumab.
 
-These diseases are rare, and Soliris was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the European Medicines Agency's website ( [PNH](/en/medicines/human/orphan-designations/eu-3-03-166) : 17 October 2003; [aHUS](/en/medicines/human/orphan-designations/eu-3-09-653) : 24 July 2009; [myasthenia gravis](/en/medicines/human/orphan-designations/eu-3-14-1304) : 29 July 2014; [NMOSD](/en/medicines/human/orphan-designations/eu-3-13-1185) : 24 April 2019).
+These diseases are rare, and Soliris was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the European Medicines Agency's website ([PNH](/en/medicines/human/orphan-designations/eu-3-03-166): 17 October 2003; [aHUS](/en/medicines/human/orphan-designations/eu-3-09-653): 24 July 2009; [myasthenia gravis](/en/medicines/human/orphan-designations/eu-3-14-1304): 29 July 2014; [NMOSD](/en/medicines/human/orphan-designations/eu-3-13-1185): 24 April 2019).
 
 Expand section
 
 Collapse section
 
-## How is Soliris used?
+### How is Soliris used?
 
 The medicine can only be obtained with a prescription and must be given under the supervision of a doctor who has experience in the management of patients with kidney disorders and disorders affecting the nervous system or the blood.
 
@@ -76,13 +78,13 @@ Soliris should be given for life unless the patient develops serious side effect
 
 For more information about using Soliris, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Soliris work?
+### How does Soliris work?
 
 The active substance in Soliris, eculizumab, is a monoclonal antibody (a type of protein) that has been designed to attach to the C5 complement protein, which is a part of the body's defence system called the 'complement system'.
 
 In patients with PNH, aHUS, refractory gMG and NMOSD, the complement proteins are over-active and damage the patients' own cells. By blocking the C5 complement protein, eculizumab prevents complement proteins from damaging cells, thereby helping to relieve the symptoms of these diseases.
 
-## What benefits of Soliris have been shown in studies?
+### What benefits of Soliris have been shown in studies?
 
 **PNH**
 
@@ -110,7 +112,7 @@ Similar results were seen in children. A main study in 11 children aged above 12
 
 For NMOSD, Soliris was compared with placebo in one main study involving 143 adults with NMOSD whose disease was relapsing. The main measure of effectiveness was the time it took until a certain number of patients experienced a relapse. After around 22 months on average, 3% of patients treated with Soliris had experienceda relapse, whereas 43% of patients treated with placebo had already a relapse after around 9 months on average.
 
-## What are the risks associated with Soliris?
+### What are the risks associated with Soliris?
 
 For the full list of side effects and restrictions with Soliris, see the package leaflet.
 
@@ -118,19 +120,19 @@ The most common side effect with Soliris (which may affect more than 1 in 10 peo
 
 Because of the increased risk of developing meningococcal sepsis, Soliris must not be given to people who have an infection caused by Neisseria meningitides; it must also not be given to patients who have not been vaccinated against this bacterium, unless they have the vaccination and take appropriate antibiotics to reduce the risk of infection for two weeks after vaccination.
 
-## Why is Soliris authorised in the EU?
+### Why is Soliris authorised in the EU?
 
 Soliris was shown to benefit patients with these rare diseases. The safety profile was similar for all the diseases and was considered acceptable. The European Medicines Agency decided that Soliris' benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Soliris?
+### What measures are being taken to ensure the safe and effective use of Soliris?
 
-The company that markets Soliris will ensure that distribution of the medicine occurs only after checking that the patient has been vaccinated appropriately against Neisseria meningitides. The company will also provide prescribers and patients with information on the safety of the medicine, and will send reminders to prescribers and pharmacists to check if any further vaccination is needed for patients taking Soliris. Patients will also be given a  card that explains the symptoms of certain types of infection, instructing patients to seek medical care immediately if they experience them.
+The company that markets Soliris will ensure that distribution of the medicine occurs only after checking that the patient has been vaccinated appropriately against Neisseria meningitides. The company will also provide prescribers and patients with information on the safety of the medicine, and will send reminders to prescribers and pharmacists to check if any further vaccination is needed for patients taking Soliris. Patients will also be given a card that explains the symptoms of certain types of infection, instructing patients to seek medical care immediately if they experience them.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Soliris have also been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Soliris are continuously monitored. Side effects reported with Soliris are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Soliris
+### Other information about Soliris
 
 Soliris received a marketing authorisation valid throughout the EU on 20 June 2007.
 
@@ -138,275 +140,141 @@ Soliris : EPAR - Medicine overview
 
 English (EN) (132.47 KB - PDF)
 
-**First published:** 01/07/2009
-
-**Last updated:** 08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/en/documents/overview/soliris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-161)
+[Other languages (22)](#file-language-dropdown-495)
 
 български (BG) (154.93 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/bg/documents/overview/soliris-epar-medicine-overview_bg.pdf)
 
 español (ES) (128.07 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/es/documents/overview/soliris-epar-medicine-overview_es.pdf)
 
 čeština (CS) (159.5 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/cs/documents/overview/soliris-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (128.54 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/da/documents/overview/soliris-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (133.8 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/de/documents/overview/soliris-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (122.48 KB - PDF)
+eesti (ET) (122.48 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/et/documents/overview/soliris-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (170.63 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/el/documents/overview/soliris-epar-medicine-overview_el.pdf)
 
 français (FR) (133.93 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/fr/documents/overview/soliris-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (119.48 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/hr/documents/overview/soliris-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (128.88 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/it/documents/overview/soliris-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (165.1 KB - PDF)
+latviešu (LV) (165.1 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/lv/documents/overview/soliris-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (158.25 KB - PDF)
+lietuvių (LT) (158.25 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/lt/documents/overview/soliris-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (155.03 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/hu/documents/overview/soliris-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (162.53 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/mt/documents/overview/soliris-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (129.8 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/nl/documents/overview/soliris-epar-medicine-overview_nl.pdf)
 
 polski (PL) (158.92 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/pl/documents/overview/soliris-epar-medicine-overview_pl.pdf)
 
 português (PT) (131.56 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/pt/documents/overview/soliris-epar-medicine-overview_pt.pdf)
 
 română (RO) (152.57 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/ro/documents/overview/soliris-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (156.95 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/sk/documents/overview/soliris-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (158.41 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/sl/documents/overview/soliris-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (127.87 KB - PDF)
+suomi (FI) (127.87 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/fi/documents/overview/soliris-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (128.56 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-08/08/2023
+**First published:** 01/07/2009 **Last updated:** 08/08/2023
 
 [View](/sv/documents/overview/soliris-epar-medicine-overview_sv.pdf)
 
@@ -414,9 +282,7 @@ Soliris : EPAR - Risk management plan
 
 English (EN) (12.72 MB - PDF)
 
-**First published:** 04/09/2019
-
-**Last updated:** 19/06/2025
+**First published:** 04/09/2019 **Last updated:** 19/06/2025
 
 [View](/en/documents/rmp/soliris-epar-risk-management-plan_en.pdf)
 
@@ -424,311 +290,168 @@ English (EN) (12.72 MB - PDF)
 
 Soliris : EPAR - Product Information
 
-English (EN) (753.31 KB - PDF)
+English (EN) (773.01 KB - PDF)
 
-**First published:** 01/07/2009
-
-**Last updated:** 18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information/soliris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-504)
 
-български (BG) (1.04 MB - PDF)
+български (BG) (835.57 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information/soliris-epar-product-information_bg.pdf)
 
-español (ES) (779.58 KB - PDF)
+español (ES) (1020.51 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information/soliris-epar-product-information_es.pdf)
 
-čeština (CS) (1.02 MB - PDF)
+čeština (CS) (853.01 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information/soliris-epar-product-information_cs.pdf)
 
-dansk (DA) (833.92 KB - PDF)
+dansk (DA) (725.85 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information/soliris-epar-product-information_da.pdf)
 
-Deutsch (DE) (926.47 KB - PDF)
+Deutsch (DE) (763.09 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information/soliris-epar-product-information_de.pdf)
 
-eesti keel (ET) (760.84 KB - PDF)
+eesti (ET) (709.99 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information/soliris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (962.36 KB - PDF)
+ελληνικά (EL) (819.66 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information/soliris-epar-product-information_el.pdf)
 
-français (FR) (901 KB - PDF)
+français (FR) (1.17 MB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information/soliris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (925.94 KB - PDF)
+hrvatski (HR) (1.03 MB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information/soliris-epar-product-information_hr.pdf)
 
-íslenska (IS) (762.05 KB - PDF)
+italiano (IT) (1.08 MB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
-
-[View](/is/documents/product-information/soliris-epar-product-information_is.pdf)
-
-italiano (IT) (812.18 KB - PDF)
-
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information/soliris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (821.16 KB - PDF)
+latviešu (LV) (707.44 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information/soliris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (949 KB - PDF)
+lietuvių (LT) (762.66 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information/soliris-epar-product-information_lt.pdf)
 
-magyar (HU) (1009.84 KB - PDF)
+magyar (HU) (764.78 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information/soliris-epar-product-information_hu.pdf)
 
-Malti (MT) (955.31 KB - PDF)
+Malti (MT) (813.3 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information/soliris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (795.75 KB - PDF)
+Nederlands (NL) (739.2 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information/soliris-epar-product-information_nl.pdf)
 
-norsk (NO) (717.83 KB - PDF)
+polski (PL) (1.09 MB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
-
-[View](/no/documents/product-information/soliris-epar-product-information_no.pdf)
-
-polski (PL) (953.37 KB - PDF)
-
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information/soliris-epar-product-information_pl.pdf)
 
-português (PT) (880.72 KB - PDF)
+português (PT) (651.98 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information/soliris-epar-product-information_pt.pdf)
 
-română (RO) (873.89 KB - PDF)
+română (RO) (766.33 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information/soliris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (875.1 KB - PDF)
+slovenčina (SK) (1.01 MB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information/soliris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (820.43 KB - PDF)
+slovenščina (SL) (695.5 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information/soliris-epar-product-information_sl.pdf)
 
-Suomi (FI) (790.17 KB - PDF)
+suomi (FI) (715 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information/soliris-epar-product-information_fi.pdf)
 
-svenska (SV) (705.33 KB - PDF)
+svenska (SV) (965.57 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-18/07/2025
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information/soliris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000279366 17/07/2025
+Íslenska (IS) (712.05 KB - PDF)
+
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
+
+[View](/is/documents/product-information/soliris-epar-product-information_is.pdf)
+
+norsk (NO) (575.36 KB - PDF)
+
+**First published:** 01/07/2009 **Last updated:** 16/11/2026
+
+[View](/no/documents/product-information/soliris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000379757
+
+16/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -742,593 +465,316 @@ Soliris : EPAR - All Authorised presentations
 
 English (EN) (12.34 KB - PDF)
 
-**First published:** 29/06/2007
-
-**Last updated:** 29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/en/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-751)
+[Other languages (24)](#file-language-dropdown-991)
 
 български (BG) (76.71 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/bg/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (12.85 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/es/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (79.59 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/cs/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (12.79 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/da/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (12.89 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/de/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (12.52 KB - PDF)
+eesti (ET) (12.52 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/et/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (72.96 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/el/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (12.81 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/fr/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (40.37 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/hr/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (11.24 KB - PDF)
-
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
-
-[View](/is/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (12.36 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/it/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (79.14 KB - PDF)
+latviešu (LV) (79.14 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/lv/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (77.96 KB - PDF)
+lietuvių (LT) (77.96 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/lt/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (42.95 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/hu/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (79.06 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/mt/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (12.25 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/nl/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (11.23 KB - PDF)
-
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
-
-[View](/no/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (81.81 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/pl/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (12.87 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/pt/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (74.63 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/ro/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (77.4 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/sk/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (12.42 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/sl/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (12.47 KB - PDF)
+suomi (FI) (12.47 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/fi/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (12.77 KB - PDF)
 
-**First published:**
-
-29/06/2007
-
-**Last updated:**
-
-29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/sv/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (11.24 KB - PDF)
+
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
+
+[View](/is/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (11.23 KB - PDF)
+
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
+
+[View](/no/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_no.pdf)
 
 Soliris : EPAR - Conditions imposed on member states for safe and effective use - Annex IV
 
 English (EN) (125.17 KB - PDF)
 
-**First published:** 01/07/2009
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
-**Last updated:** 09/07/2012
+[View](/en/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[View](/en/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
-
-[Other languages (23)](#file-language-dropdown-516)
+[Other languages (23)](#file-language-dropdown-836)
 
 български (BG) (180.08 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/bg/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (34.52 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/es/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (255.6 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/cs/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (61 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/da/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (105.99 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/de/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
-eesti keel (ET) (133.61 KB - PDF)
+eesti (ET) (133.61 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/et/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (180.84 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/el/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (175.56 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/fr/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
-íslenska (IS) (221.22 KB - PDF)
-
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
-
-[View](/is/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
-
 italiano (IT) (252.26 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/it/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
-latviešu valoda (LV) (187.22 KB - PDF)
+latviešu (LV) (187.22 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/lv/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
-lietuvių kalba (LT) (191.11 KB - PDF)
+lietuvių (LT) (191.11 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/lt/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (176.19 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/hu/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (183.08 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/mt/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (139.86 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/nl/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
-norsk (NO) (136.09 KB - PDF)
-
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
-
-[View](/no/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
-
 polski (PL) (183.66 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/pl/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (60.95 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/pt/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (179.47 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/ro/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (185.75 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/sk/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (173.15 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/sl/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
-Suomi (FI) (62.04 KB - PDF)
+suomi (FI) (62.04 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/fi/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (71.44 KB - PDF)
 
-**First published:**
-
-01/07/2009
-
-**Last updated:**
-
-09/07/2012
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
 
 [View](/sv/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
+Íslenska (IS) (221.22 KB - PDF)
+
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
+
+[View](/is/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
+
+norsk (NO) (136.09 KB - PDF)
+
+**First published:** 01/07/2009 **Last updated:** 09/07/2012
+
+[View](/no/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
+
 ## Product details
 
-Name of medicine Soliris Active substance Eculizumab International non-proprietary name (INN) or common name eculizumab Therapeutic area (MeSH) Hemoglobinuria, Paroxysmal Anatomical therapeutic chemical (ATC) code L04AA25
+- **Name of medicine**
+    - Soliris
+- **Active substance**
+    - Eculizumab
+- **International non-proprietary name (INN) or common name**
+    - eculizumab
+- **Therapeutic area (MeSH)**
+    - Hemoglobinuria, Paroxysmal
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AA25
 
 ### Pharmacotherapeutic group
 
@@ -1351,23 +797,20 @@ Soliris is indicated in adults for the treatment of:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000791
-
-Accelerated assessment
-
-This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Alexion Europe SAS
-
-103-105 rue Anatole France
-
-Marketing authorisation issued 20/06/2007 Revision 41
+- **EMA product number**
+    - EMEA/H/C/000791
+- **Accelerated assessment**
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621).
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
+- **Marketing authorisation holder**
+    - Alexion Europe SAS 103-105 rue Anatole France  
+92300 Levallois-Perret  
+France
+- **Marketing authorisation issued**
+    - 20/06/2007
+- **Revision**
+    - 42
 
 ## Assessment history
 
@@ -1375,13 +818,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Soliris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.64 KB - PDF)
+English (EN) (163.27 KB - PDF)
 
-**First published:** 18/07/2025
+**First published:** 18/07/2025 **Last updated:** 16/11/2026
 
 [View](/en/documents/procedural-steps-after/soliris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1389,9 +832,7 @@ Soliris : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (380.61 KB - PDF)
 
-**First published:** 01/07/2009
-
-**Last updated:** 19/06/2025
+**First published:** 01/07/2009 **Last updated:** 19/06/2025
 
 [View](/en/documents/procedural-steps-after/soliris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1407,9 +848,7 @@ English (EN) (1.82 MB - PDF)
 
 Soliris-H-C-000791-P46-063 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/271142/2024
+Adopted Reference Number: EMA/271142/2024
 
 English (EN) (468.4 KB - PDF)
 
@@ -1429,9 +868,7 @@ English (EN) (121.31 KB - PDF)
 
 Soliris-H-C-000791-II-0126 : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/319068/2023
+Adopted Reference Number: EMA/319068/2023
 
 English (EN) (10.07 MB - PDF)
 
@@ -1441,9 +878,7 @@ English (EN) (10.07 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Soliris (II-126)
 
-Adopted
-
-Reference Number: EMA/266855/2023
+Adopted Reference Number: EMA/266855/2023
 
 English (EN) (143.52 KB - PDF)
 
@@ -1453,9 +888,7 @@ English (EN) (143.52 KB - PDF)
 
 Soliris-H-C-791-II-0105 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/400124/2019
+Adopted Reference Number: EMA/CHMP/400124/2019
 
 English (EN) (4.36 MB - PDF)
 
@@ -1465,9 +898,7 @@ English (EN) (4.36 MB - PDF)
 
 Soliris : Orphan maintenance assessment report (post-authorisation)
 
-Adopted
-
-Reference Number: EMADOC-2005359794-116160
+Adopted Reference Number: EMADOC-2005359794-116160
 
 English (EN) (261.48 KB - PDF)
 
@@ -1477,9 +908,7 @@ English (EN) (261.48 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Soliris (II-105)
 
-Adopted
-
-Reference Number: EMA/CHMP/410407/2019
+Adopted Reference Number: EMA/CHMP/410407/2019
 
 English (EN) (66.58 KB - PDF)
 
@@ -1489,153 +918,111 @@ English (EN) (66.58 KB - PDF)
 
 Soliris-H-C-791-II-0090 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/410939/2017
+Adopted Reference Number: EMA/410939/2017
 
 English (EN) (4.38 MB - PDF)
 
-**First published:** 25/08/2017
-
-**Last updated:** 25/08/2017
+**First published:** 25/08/2017 **Last updated:** 25/08/2017
 
 [View](/en/documents/variation-report/soliris-h-c-791-ii-0090-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Soliris
 
-Adopted
-
-Reference Number: EMA/CHMP/377462/2017
+Adopted Reference Number: EMA/CHMP/377462/2017
 
 English (EN) (72.47 KB - PDF)
 
-**First published:** 23/06/2017
-
-**Last updated:** 23/06/2017
+**First published:** 23/06/2017 **Last updated:** 23/06/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-soliris_en.pdf-1)
 
 Soliris-H-C-791-II-0066 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/204109/2015
+Adopted Reference Number: EMA/CHMP/204109/2015
 
 English (EN) (1.12 MB - PDF)
 
-**First published:** 23/04/2015
-
-**Last updated:** 23/04/2015
+**First published:** 23/04/2015 **Last updated:** 23/04/2015
 
 [View](/en/documents/variation-report/soliris-h-c-791-ii-0066-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Soliris
 
-Adopted
-
-Reference Number: EMA/CHMP/94647/2015
+Adopted Reference Number: EMA/CHMP/94647/2015
 
 English (EN) (67.45 KB - PDF)
 
-**First published:** 27/02/2015
-
-**Last updated:** 27/02/2015
+**First published:** 27/02/2015 **Last updated:** 27/02/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-soliris_en.pdf)
 
 Soliris-H-C-791-PSUV-0057 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/22108/2014
+Adopted Reference Number: EMA/22108/2014
 
 English (EN) (67.09 KB - PDF)
 
-**First published:** 20/01/2014
+**First published:** 20/01/2014 **Last updated:** 20/01/2014
 
-**Last updated:** 20/01/2014
-
-[View](/en/documents/scientific-conclusion/soliris-h-c-791-psuv-0057-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/soliris-h-c-791-psuv-0057-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Soliris-H-C-791-II-0050 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/126714/2013
+Adopted Reference Number: EMA/CHMP/126714/2013
 
 English (EN) (902.37 KB - PDF)
 
-**First published:** 21/05/2013
-
-**Last updated:** 21/05/2013
+**First published:** 21/05/2013 **Last updated:** 21/05/2013
 
 [View](/en/documents/variation-report/soliris-h-c-791-ii-0050-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Soliris
 
-Adopted
-
-Reference Number: EMA/CHMP/179438/2013
+Adopted Reference Number: EMA/CHMP/179438/2013
 
 English (EN) (72.02 KB - PDF)
 
-**First published:** 22/03/2013
-
-**Last updated:** 22/03/2013
+**First published:** 22/03/2013 **Last updated:** 22/03/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-soliris_en.pdf-0)
 
 Soliris-H-C-791-A20-0036 : EPAR - Assessment Report - Article 20
 
-Adopted
-
-Reference Number: EMA/303403/2012
+Adopted Reference Number: EMA/303403/2012
 
 English (EN) (94.13 KB - PDF)
 
-**First published:** 09/07/2012
-
-**Last updated:** 09/07/2012
+**First published:** 09/07/2012 **Last updated:** 09/07/2012
 
 [View](/en/documents/variation-report/soliris-h-c-791-a20-0036-epar-assessment-report-article-20_en.pdf)
 
 Soliris-H-C-791-II-0027 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/785583/2011
+Adopted Reference Number: EMA/785583/2011
 
 English (EN) (3.07 MB - PDF)
 
-**First published:** 15/12/2011
-
-**Last updated:** 10/02/2015
+**First published:** 15/12/2011 **Last updated:** 10/02/2015
 
 [View](/en/documents/variation-report/soliris-h-c-791-ii-0027-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Soliris
 
-Adopted
-
-Reference Number: EMA/CHMP/771662/2011
+Adopted Reference Number: EMA/CHMP/771662/2011
 
 English (EN) (53.18 KB - PDF)
 
-**First published:** 23/09/2011
-
-**Last updated:** 23/09/2011
+**First published:** 23/09/2011 **Last updated:** 23/09/2011
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-soliris_en.pdf-2)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Soliris : EPAR - Scientific Discussion
 
 English (EN) (293.37 KB - PDF)
 
-**First published:** 29/06/2007
-
-**Last updated:** 29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/en/documents/scientific-discussion/soliris-epar-scientific-discussion_en.pdf)
 
@@ -1643,37 +1030,59 @@ Soliris : EPAR - Procedural steps taken before authorisation
 
 English (EN) (21.94 KB - PDF)
 
-**First published:** 29/06/2007
-
-**Last updated:** 29/06/2007
+**First published:** 29/06/2007 **Last updated:** 29/06/2007
 
 [View](/en/documents/procedural-steps/soliris-epar-procedural-steps-taken-authorisation_en.pdf)
 
 ## News on Soliris
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2023) 23/06/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019) 26/07/2019
+23/06/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2017) 23/06/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2015) 27/02/2015
+26/07/2019
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2013) 22/03/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2017)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 February 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-february-2012) 17/02/2012
+23/06/2017
 
-[European Medicines Agency gives final recommendations for 12 centrally authorised medicines manufactured at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-final-recommendations-12-centrally-authorised-medicines-manufactured-ben-venue-laboratories) 16/02/2012
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2015)
 
-[European Medicines Agency recommends precautionary recall of remaining batch of Vistide manufactured at Ben Venue Laboratories](/en/news/european-medicines-agency-recommends-precautionary-recall-remaining-batch-vistide-manufactured-ben-venue-laboratories) 13/12/2011
+27/02/2015
 
-[European Medicines Agency gives further interim recommendations on dealing with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-further-interim-recommendations-dealing-shortcomings-quality-assurance-ben-venue-laboratories) 09/12/2011
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2013)
 
-[European Medicines Agency gives interim recommendations to deal with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-interim-recommendations-deal-shortcomings-quality-assurance-ben-venue-laboratories) 22/11/2011
+22/03/2013
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 September 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-september-2011) 23/09/2011
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 February 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-february-2012)
 
-[European Medicines Agency concludes first accelerated assessment for a medicine for human use](/en/news/european-medicines-agency-concludes-first-accelerated-assessment-medicine-human-use) 27/04/2007
+17/02/2012
+
+[European Medicines Agency gives final recommendations for 12 centrally authorised medicines manufactured at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-final-recommendations-12-centrally-authorised-medicines-manufactured-ben-venue-laboratories)
+
+16/02/2012
+
+[European Medicines Agency recommends precautionary recall of remaining batch of Vistide manufactured at Ben Venue Laboratories](/en/news/european-medicines-agency-recommends-precautionary-recall-remaining-batch-vistide-manufactured-ben-venue-laboratories)
+
+13/12/2011
+
+[European Medicines Agency gives further interim recommendations on dealing with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-further-interim-recommendations-dealing-shortcomings-quality-assurance-ben-venue-laboratories)
+
+09/12/2011
+
+[European Medicines Agency gives interim recommendations to deal with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-interim-recommendations-deal-shortcomings-quality-assurance-ben-venue-laboratories)
+
+22/11/2011
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 September 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-september-2011)
+
+23/09/2011
+
+[European Medicines Agency concludes first accelerated assessment for a medicine for human use](/en/news/european-medicines-agency-concludes-first-accelerated-assessment-medicine-human-use)
+
+27/04/2007
 
 ## Product information - with tracked changes
 
@@ -1681,303 +1090,157 @@ The approved product information for this medicine is available below showing th
 
 Soliris : EPAR - Product information - tracked changes
 
-English (EN) (302.77 KB - DOCX)
+English (EN) (300.2 KB - DOCX)
 
-**First published:** 16/07/2025
-
-**Last updated:** 18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-230)
+[Other languages (24)](#file-language-dropdown-588)
 
-български (BG) (469.17 KB - DOCX)
+български (BG) (468.75 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (449.29 KB - DOCX)
+español (ES) (449.54 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (463.7 KB - DOCX)
+čeština (CS) (464.56 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (365.41 KB - DOCX)
+dansk (DA) (370.55 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (369.47 KB - DOCX)
+Deutsch (DE) (377.55 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (369.53 KB - DOCX)
+eesti (ET) (375.52 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (475.75 KB - DOCX)
+ελληνικά (EL) (474.34 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (470.18 KB - DOCX)
+français (FR) (475.07 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (428.87 KB - DOCX)
+hrvatski (HR) (426.88 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (444.71 KB - DOCX)
+italiano (IT) (469.01 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
-
-[View](/is/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (459.02 KB - DOCX)
-
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (359.58 KB - DOCX)
+latviešu (LV) (362.79 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (345.85 KB - DOCX)
+lietuvių (LT) (356.73 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (408.29 KB - DOCX)
+magyar (HU) (412.59 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (347.27 KB - DOCX)
+Malti (MT) (351.73 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (368.51 KB - DOCX)
+Nederlands (NL) (363.07 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (411.08 KB - DOCX)
+polski (PL) (470.12 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
-
-[View](/no/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (461.17 KB - DOCX)
-
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (464.77 KB - DOCX)
+português (PT) (469.92 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (368.67 KB - DOCX)
+română (RO) (357.42 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (370.47 KB - DOCX)
+slovenčina (SK) (371.17 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (367.08 KB - DOCX)
+slovenščina (SL) (369.9 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (352.8 KB - DOCX)
+suomi (FI) (357.01 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (331.88 KB - DOCX)
+svenska (SV) (341.92 KB - DOCX)
 
-**First published:**
-
-16/07/2025
-
-**Last updated:**
-
-18/07/2025
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (448.2 KB - DOCX)
+
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
+
+[View](/is/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (417.56 KB - DOCX)
+
+**First published:** 16/07/2025 **Last updated:** 16/11/2026
+
+[View](/no/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Soliris
 
@@ -1987,9 +1250,7 @@ Reference Number: EMA/946321/2011
 
 English (EN) (71.91 KB - PDF)
 
-**First published:** 13/12/2011
-
-**Last updated:** 13/12/2011
+**First published:** 13/12/2011 **Last updated:** 13/12/2011
 
 [View](/en/documents/medicine-qa/questions-and-answers-shortcomings-quality-assurance-ben-venue-laboratories_en.pdf)
 
@@ -1999,15 +1260,13 @@ Reference Number: EMA/106872/2012
 
 English (EN) (188.14 KB - PDF)
 
-**First published:** 16/02/2012
-
-**Last updated:** 22/02/2012
+**First published:** 16/02/2012 **Last updated:** 22/02/2012
 
 [View](/en/documents/medicine-qa/final-recommendations-12-centrally-authorised-medicines-manufactured-ben-venue-laboratories_en.pdf)
 
-This product originally had an orphan designation for treatment of paroxysmal nocturnal haemoglobinuria ( [EU/3/03/166](/en/medicines/human/orphan-designations/eu-3-03-166) ), granted on 17 October 2003. This designation was withdrawn from the Community register of orphan medicinal products in June 2019 at the end of the 12-year period of market exclusivity.
+This product originally had an orphan designation for treatment of paroxysmal nocturnal haemoglobinuria ([EU/3/03/166](/en/medicines/human/orphan-designations/eu-3-03-166)), granted on 17 October 2003. This designation was withdrawn from the Community register of orphan medicinal products in June 2019 at the end of the 12-year period of market exclusivity.
 
-This product originally had an orphan designation for treatment of atypical haemolytic uremic syndrome ( [EU/3/09/653](https://beta.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-653) ), granted on 24 July 2009. This designation was withdrawn from the Community register of orphan medicinal products in November 2023 at the end of the 12-year period of market exclusivity.
+This product originally had an orphan designation for treatment of atypical haemolytic uremic syndrome ([EU/3/09/653](https://beta.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-653)), granted on 24 July 2009. This designation was withdrawn from the Community register of orphan medicinal products in November 2023 at the end of the 12-year period of market exclusivity.
 
 ## More information on Soliris
 
@@ -2022,8 +1281,8 @@ This product originally had an orphan designation for treatment of atypical haem
 - [Implementation of controlled access to and distribution of medicinal products in European Union (CONTROL-EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000313)
 - [Long-Term, Observational, Global Registry of Patients With Generalized Myasthenia Gravis Who Have Received Treatment With Complement C5 Inhibition Therapies - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000478)
 
-**This page was last updated on** 19/02/2026
+**This page was last updated on**
+
+16/11/2026
 
 ## Share this page
-
-[Back to top](#main-content)

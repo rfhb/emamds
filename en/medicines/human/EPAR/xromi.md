@@ -1,108 +1,32 @@
 ---
-document_datetime: 2026-04-28 16:44:00
+document_datetime: 2026-11-04 15:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xromi.html
 document_name: xromi.html
 version: success
-processing_time: 0.1283242
-conversion_datetime: 2026-04-29 13:15:43.286586
+processing_time: 0.2048793
+conversion_datetime: 2026-11-20 19:28:06.480998
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Xromi
-
 # Xromi
 
 [RSS](/en/individual-human-medicine.xml/67219)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 hydroxycarbamide
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -116,7 +40,6 @@ Page contents
 - [News on Xromi](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-77305)
 - [More information on Xromi](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -132,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Xromi used?
+### How is Xromi used?
 
 Xromi can only be obtained with a prescription and treatment must be supervised by a healthcare professional experienced in the management of sickle cell disease.
 
@@ -140,13 +63,13 @@ Xromi is available as a liquid to be swallowed; the dose is based on the patient
 
 For more information about using Xromi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Xromi work?
+### How does Xromi work?
 
 The active substance in Xromi, hydroxycarbamide, blocks the growth and reproduction of some cells, such as blood cells. Although the way that it works in sickle cell disease is not fully understood, hydroxycarbamide can reduce the numbers of cells that are circulating in the blood, as well as prevent red blood cells changing shape in patients with this disease. This reduces the risk of blood vessels becoming blocked.
 
 Hydroxycarbamide, which used to be known as hydroxyurea, has been used for many years to treat sickle cell disease, and has been authorised in EU countries for several decades as Hydrea for use in some types of cancer.
 
-## What benefits of Xromi have been shown in studies?
+### What benefits of Xromi have been shown in studies?
 
 Because hydroxycarbamide is a well-established substance that has been used for many years in the EU, the company provided information from the published literature on the benefits and risks of hydroxycarbamide in its approved uses. This included information from 4 main studies in sickle cell disease, including 3 studies involving 384 adults and children in whom hydroxycarbamide was shown to substantially reduce the risk of severe, painful blockages of blood supply (called vaso-occlusive crises) compared with a dummy treatment, and a fourth study involving 121 children that showed hydroxycarbamide to be at least as effective as a standard treatment using blood transfusions in reducing blood vessel damage in the brain and the risk of stroke.
 
@@ -154,7 +77,7 @@ Data from an additional study suggest that Xromi is expected to work in the same
 
 The company also provided information from a variety of supportive studies. As for every medicine, this included studies showing that the medicine was of acceptable quality. It also carried out a study that showed Xromi is bioequivalent to the reference medicine, Hydrea. Two medicines are bioequivalent when they produce the same levels of the active substance in the body.
 
-## What are the risks associated with Xromi?
+### What are the risks associated with Xromi?
 
 For the full list of side effects and restriction of Xromi, see the package leaflet.
 
@@ -162,11 +85,11 @@ The most common side effects with Xromi (which may affect more than 1 in 10 peop
 
 Xromi must not be used in people who have severe problems with their kidneys or liver, or who have dangerously low blood cell counts. It must not be used in pregnancy, and breast-feeding must be stopped while taking the medicine. Xromi must also not be used in patients taking medicines to treat HIV infection.
 
-## Why is Xromi authorised in the EU?
+### Why is Xromi authorised in the EU?
 
 The company provided updated information showing the benefits of hydroxcarbamide in preventing complications of sickle cell disease in patients over 9 months of age. The safety issues with hydroxycarbamide are well understood, and Xromi has been shown to be bioequivalent to an authorised hydroxycarbamide medicine. Therefore, the European Medicines Agency decided that Xromi's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Xromi?
+### What measures are being taken to ensure the safe and effective use of Xromi?
 
 The company that markets Xromi will provide educational materials for doctors and patients about the correct use of the medicine and how to minimise its risks.
 
@@ -174,7 +97,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Xromi are continuously monitored. Side effects reported with Xromi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Xromi
+### Other information about Xromi
 
 Xromi received a marketing authorisation valid throughout the EU on 1 July 2019.
 
@@ -188,7 +111,7 @@ English (EN) (133.61 KB - PDF)
 
 [View](/en/documents/overview/xromi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-566)
+[Other languages (22)](#file-language-dropdown-257)
 
 български (BG) (143.62 KB - PDF)
 
@@ -220,7 +143,7 @@ Deutsch (DE) (123.04 KB - PDF)
 
 [View](/de/documents/overview/xromi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (118.99 KB - PDF)
+eesti (ET) (118.99 KB - PDF)
 
 **First published:** 08/07/2019 **Last updated:** 11/04/2024
 
@@ -250,13 +173,13 @@ italiano (IT) (118.37 KB - PDF)
 
 [View](/it/documents/overview/xromi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (156.63 KB - PDF)
+latviešu (LV) (156.63 KB - PDF)
 
 **First published:** 08/07/2019 **Last updated:** 11/04/2024
 
 [View](/lv/documents/overview/xromi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (141.25 KB - PDF)
+lietuvių (LT) (141.25 KB - PDF)
 
 **First published:** 08/07/2019 **Last updated:** 11/04/2024
 
@@ -310,7 +233,7 @@ slovenščina (SL) (139.59 KB - PDF)
 
 [View](/sl/documents/overview/xromi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (117.05 KB - PDF)
+suomi (FI) (117.05 KB - PDF)
 
 **First published:** 08/07/2019 **Last updated:** 11/04/2024
 
@@ -334,167 +257,168 @@ English (EN) (977.49 KB - PDF)
 
 Xromi : EPAR - Product Information
 
-English (EN) (345.56 KB - PDF)
+English (EN) (716.28 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/en/documents/product-information/xromi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-497)
+[Other languages (24)](#file-language-dropdown-247)
 
-български (BG) (486.68 KB - PDF)
+български (BG) (416.7 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/bg/documents/product-information/xromi-epar-product-information_bg.pdf)
 
-español (ES) (351.31 KB - PDF)
+español (ES) (756.99 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/es/documents/product-information/xromi-epar-product-information_es.pdf)
 
-čeština (CS) (438.97 KB - PDF)
+čeština (CS) (823.64 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/cs/documents/product-information/xromi-epar-product-information_cs.pdf)
 
-dansk (DA) (349.4 KB - PDF)
+dansk (DA) (716.15 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/da/documents/product-information/xromi-epar-product-information_da.pdf)
 
-Deutsch (DE) (437.58 KB - PDF)
+Deutsch (DE) (847.14 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/de/documents/product-information/xromi-epar-product-information_de.pdf)
 
-eesti keel (ET) (335.35 KB - PDF)
+eesti (ET) (734.77 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/et/documents/product-information/xromi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (497.42 KB - PDF)
+ελληνικά (EL) (781.4 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/el/documents/product-information/xromi-epar-product-information_el.pdf)
 
-français (FR) (790.95 KB - PDF)
+français (FR) (783.49 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/fr/documents/product-information/xromi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (681.69 KB - PDF)
+hrvatski (HR) (675.26 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/hr/documents/product-information/xromi-epar-product-information_hr.pdf)
 
-íslenska (IS) (696.18 KB - PDF)
+italiano (IT) (720.53 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information/xromi-epar-product-information_is.pdf)
-
-italiano (IT) (348.99 KB - PDF)
-
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/it/documents/product-information/xromi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (444.72 KB - PDF)
+latviešu (LV) (377.48 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/lv/documents/product-information/xromi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (462.6 KB - PDF)
+lietuvių (LT) (392.27 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/lt/documents/product-information/xromi-epar-product-information_lt.pdf)
 
-magyar (HU) (825.7 KB - PDF)
+magyar (HU) (818.86 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/hu/documents/product-information/xromi-epar-product-information_hu.pdf)
 
-Malti (MT) (494.36 KB - PDF)
+Malti (MT) (851.51 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/mt/documents/product-information/xromi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (353.81 KB - PDF)
+Nederlands (NL) (806.08 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/nl/documents/product-information/xromi-epar-product-information_nl.pdf)
 
-norsk (NO) (303.78 KB - PDF)
+polski (PL) (785.01 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information/xromi-epar-product-information_no.pdf)
-
-polski (PL) (470.83 KB - PDF)
-
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/pl/documents/product-information/xromi-epar-product-information_pl.pdf)
 
-português (PT) (367.33 KB - PDF)
+português (PT) (736.2 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/pt/documents/product-information/xromi-epar-product-information_pt.pdf)
 
-română (RO) (445.02 KB - PDF)
+română (RO) (942.58 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/ro/documents/product-information/xromi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (439.33 KB - PDF)
+slovenčina (SK) (803.73 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/sk/documents/product-information/xromi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (437.32 KB - PDF)
+slovenščina (SL) (841.16 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/sl/documents/product-information/xromi-epar-product-information_sl.pdf)
 
-Suomi (FI) (322.32 KB - PDF)
+suomi (FI) (801.53 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/fi/documents/product-information/xromi-epar-product-information_fi.pdf)
 
-svenska (SV) (334.79 KB - PDF)
+svenska (SV) (668.82 KB - PDF)
 
-**First published:** 08/07/2019 **Last updated:** 28/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
 
 [View](/sv/documents/product-information/xromi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000296554
+Íslenska (IS) (689.34 KB - PDF)
 
-07/04/2026
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
+
+[View](/is/documents/product-information/xromi-epar-product-information_is.pdf)
+
+norsk (NO) (822.98 KB - PDF)
+
+**First published:** 08/07/2019 **Last updated:** 04/11/2026
+
+[View](/no/documents/product-information/xromi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000385628
+
+03/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -512,7 +436,7 @@ English (EN) (61.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-969)
+[Other languages (24)](#file-language-dropdown-822)
 
 български (BG) (41.54 KB - PDF)
 
@@ -544,7 +468,7 @@ Deutsch (DE) (19.84 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (19.59 KB - PDF)
+eesti (ET) (19.59 KB - PDF)
 
 **First published:** 08/07/2019
 
@@ -568,25 +492,19 @@ hrvatski (HR) (30.75 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (70.28 KB - PDF)
-
-**First published:** 08/07/2019
-
-[View](/is/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (17.98 KB - PDF)
 
 **First published:** 08/07/2019
 
 [View](/it/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (37.11 KB - PDF)
+latviešu (LV) (37.11 KB - PDF)
 
 **First published:** 08/07/2019
 
 [View](/lv/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.92 KB - PDF)
+lietuvių (LT) (32.92 KB - PDF)
 
 **First published:** 08/07/2019
 
@@ -609,12 +527,6 @@ Nederlands (NL) (17.97 KB - PDF)
 **First published:** 08/07/2019
 
 [View](/nl/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (48.9 KB - PDF)
-
-**First published:** 08/07/2019
-
-[View](/no/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (26.54 KB - PDF)
 
@@ -646,7 +558,7 @@ slovenščina (SL) (26.2 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (17.83 KB - PDF)
+suomi (FI) (17.83 KB - PDF)
 
 **First published:** 08/07/2019
 
@@ -658,27 +570,30 @@ svenska (SV) (17.93 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (70.28 KB - PDF)
+
+**First published:** 08/07/2019
+
+[View](/is/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (48.9 KB - PDF)
+
+**First published:** 08/07/2019
+
+[View](/no/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Xromi
-
-Active substance
-
-hydroxycarbamide
-
-International non-proprietary name (INN) or common name
-
-hydroxycarbamide
-
-Therapeutic area (MeSH)
-
-Anemia, Sickle Cell
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XX05
+- **Name of medicine**
+    - Xromi
+- **Active substance**
+    - hydroxycarbamide
+- **International non-proprietary name (INN) or common name**
+    - hydroxycarbamide
+- **Therapeutic area (MeSH)**
+    - Anemia, Sickle Cell
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XX05
 
 ### Pharmacotherapeutic group
 
@@ -690,23 +605,16 @@ Xromi is indicated for the prevention of vaso-occlusive complications of Sickle 
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004837
-
-Marketing authorisation holder
-
-Lipomed GmbH
-
-Hegenheimer Strasse 2
-
-Marketing authorisation issued
-
-01/07/2019
-
-Revision
-
-13
+- **EMA product number**
+    - EMEA/H/C/004837
+- **Marketing authorisation holder**
+    - Lipomed GmbH Hegenheimer Strasse 2  
+79576 Weil am Rhein  
+Germany
+- **Marketing authorisation issued**
+    - 01/07/2019
+- **Revision**
+    - 14
 
 ## Assessment history
 
@@ -714,13 +622,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Xromi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (131.19 KB - PDF)
+English (EN) (162.53 KB - PDF)
 
-**First published:** 17/06/2025 **Last updated:** 28/04/2026
+**First published:** 17/06/2025 **Last updated:** 04/11/2026
 
 [View](/en/documents/procedural-steps-after/xromi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -780,9 +688,9 @@ English (EN) (152.79 KB - PDF)
 
 **First published:** 22/06/2021
 
-[View](/en/documents/scientific-conclusion/xromi-epar-emeahcpsusa00001692202006-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/xromi-epar-emea-h-c-psusa-00001692-202006-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Xromi : EPAR - Public assessment report
 
@@ -830,7 +738,7 @@ English (EN) (352.29 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-12)
+[Other languages (24)](#file-language-dropdown-947)
 
 български (BG) (316.17 KB - DOCX)
 
@@ -862,7 +770,7 @@ Deutsch (DE) (370.36 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (311.29 KB - DOCX)
+eesti (ET) (311.29 KB - DOCX)
 
 **First published:** 17/06/2025
 
@@ -886,25 +794,19 @@ hrvatski (HR) (345.15 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (321.67 KB - DOCX)
-
-**First published:** 17/06/2025
-
-[View](/is/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (321.61 KB - DOCX)
 
 **First published:** 17/06/2025
 
 [View](/it/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (311.1 KB - DOCX)
+latviešu (LV) (311.1 KB - DOCX)
 
 **First published:** 17/06/2025
 
 [View](/lv/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (310.57 KB - DOCX)
+lietuvių (LT) (310.57 KB - DOCX)
 
 **First published:** 17/06/2025
 
@@ -927,12 +829,6 @@ Nederlands (NL) (314.87 KB - DOCX)
 **First published:** 17/06/2025
 
 [View](/nl/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (680 KB - DOCX)
-
-**First published:** 17/06/2025
-
-[View](/no/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (337.27 KB - DOCX)
 
@@ -964,7 +860,7 @@ slovenščina (SL) (305.4 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (492.24 KB - DOCX)
+suomi (FI) (492.24 KB - DOCX)
 
 **First published:** 17/06/2025
 
@@ -976,16 +872,24 @@ svenska (SV) (303.89 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (321.67 KB - DOCX)
+
+**First published:** 17/06/2025
+
+[View](/is/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (680 KB - DOCX)
+
+**First published:** 17/06/2025
+
+[View](/no/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_no.docx)
+
 ## More information on Xromi
 
 - [A comparative observational study to evaluate the safety and effectiveness of Xromi® (hydroxycarbamide oral solution 100mg/ml) for the prevention of vaso-occlusive complications of sickle cell disease in children under 2 years of age. [PRECISE PASS] - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000076)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-28/04/2026
+04/11/2026
 
 ## Share this page

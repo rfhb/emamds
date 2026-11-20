@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-21 14:50:00
+document_datetime: 2026-11-11 15:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fetcroja.html
 document_name: fetcroja.html
 version: success
-processing_time: 0.1371015
-conversion_datetime: 2026-07-28 13:00:00.482737
+processing_time: 0.1821549
+conversion_datetime: 2026-11-20 19:15:00.404431
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Fetcroja
 
 [RSS](/en/individual-human-medicine.xml/67298)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 cefiderocol
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -104,7 +104,7 @@ English (EN) (106.82 KB - PDF)
 
 [View](/en/documents/overview/fetcroja-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-743)
+[Other languages (22)](#file-language-dropdown-269)
 
 български (BG) (130.68 KB - PDF)
 
@@ -250,167 +250,167 @@ English (EN) (336.06 KB - PDF)
 
 Fetcroja : EPAR - Product information
 
-English (EN) (509.85 KB - PDF)
+English (EN) (506.37 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/en/documents/product-information/fetcroja-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-848)
+[Other languages (24)](#file-language-dropdown-642)
 
-български (BG) (617.15 KB - PDF)
+български (BG) (623.97 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/bg/documents/product-information/fetcroja-epar-product-information_bg.pdf)
 
-español (ES) (495.45 KB - PDF)
+español (ES) (501.53 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/es/documents/product-information/fetcroja-epar-product-information_es.pdf)
 
-čeština (CS) (622.09 KB - PDF)
+čeština (CS) (576.48 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/cs/documents/product-information/fetcroja-epar-product-information_cs.pdf)
 
-dansk (DA) (473.86 KB - PDF)
+dansk (DA) (476.96 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/da/documents/product-information/fetcroja-epar-product-information_da.pdf)
 
-Deutsch (DE) (529.79 KB - PDF)
+Deutsch (DE) (538.65 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/de/documents/product-information/fetcroja-epar-product-information_de.pdf)
 
-eesti (ET) (532.61 KB - PDF)
+eesti (ET) (538.7 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/et/documents/product-information/fetcroja-epar-product-information_et.pdf)
 
-ελληνικά (EL) (638.32 KB - PDF)
+ελληνικά (EL) (615.6 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/el/documents/product-information/fetcroja-epar-product-information_el.pdf)
 
-français (FR) (555.74 KB - PDF)
+français (FR) (616.89 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/fr/documents/product-information/fetcroja-epar-product-information_fr.pdf)
 
-hrvatski (HR) (658.72 KB - PDF)
+hrvatski (HR) (564.75 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/hr/documents/product-information/fetcroja-epar-product-information_hr.pdf)
 
-italiano (IT) (578.69 KB - PDF)
+italiano (IT) (523.26 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/it/documents/product-information/fetcroja-epar-product-information_it.pdf)
 
-latviešu (LV) (513.41 KB - PDF)
+latviešu (LV) (549.67 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/lv/documents/product-information/fetcroja-epar-product-information_lv.pdf)
 
-lietuvių (LT) (610.24 KB - PDF)
+lietuvių (LT) (607.13 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/lt/documents/product-information/fetcroja-epar-product-information_lt.pdf)
 
-magyar (HU) (567.81 KB - PDF)
+magyar (HU) (569.47 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/hu/documents/product-information/fetcroja-epar-product-information_hu.pdf)
 
-Malti (MT) (688.59 KB - PDF)
+Malti (MT) (664.72 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/mt/documents/product-information/fetcroja-epar-product-information_mt.pdf)
 
-Nederlands (NL) (477.22 KB - PDF)
+Nederlands (NL) (516.14 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/nl/documents/product-information/fetcroja-epar-product-information_nl.pdf)
 
-polski (PL) (584.52 KB - PDF)
+polski (PL) (629.23 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/pl/documents/product-information/fetcroja-epar-product-information_pl.pdf)
 
-português (PT) (512.6 KB - PDF)
+português (PT) (491.34 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/pt/documents/product-information/fetcroja-epar-product-information_pt.pdf)
 
-română (RO) (548.76 KB - PDF)
+română (RO) (613.89 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/ro/documents/product-information/fetcroja-epar-product-information_ro.pdf)
 
-slovenčina (SK) (590.17 KB - PDF)
+slovenčina (SK) (564.41 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/sk/documents/product-information/fetcroja-epar-product-information_sk.pdf)
 
-slovenščina (SL) (513.54 KB - PDF)
+slovenščina (SL) (545.94 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/sl/documents/product-information/fetcroja-epar-product-information_sl.pdf)
 
-suomi (FI) (495.01 KB - PDF)
+suomi (FI) (503.83 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/fi/documents/product-information/fetcroja-epar-product-information_fi.pdf)
 
-svenska (SV) (463.19 KB - PDF)
+svenska (SV) (533.73 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/sv/documents/product-information/fetcroja-epar-product-information_sv.pdf)
 
-Íslenska (IS) (473.44 KB - PDF)
+Íslenska (IS) (513.08 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/is/documents/product-information/fetcroja-epar-product-information_is.pdf)
 
-norsk (NO) (465.97 KB - PDF)
+norsk (NO) (506.58 KB - PDF)
 
-**First published:** 29/04/2020 **Last updated:** 21/07/2026
+**First published:** 29/04/2020 **Last updated:** 11/11/2026
 
 [View](/no/documents/product-information/fetcroja-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000340424
+**Latest procedure affecting product information:**VR/0000341324
 
-25/06/2025
+15/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -429,7 +429,7 @@ English (EN) (39.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fetcroja-epar-all-available-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-419)
+[Other languages (24)](#file-language-dropdown-587)
 
 български (BG) (49.11 KB - PDF)
 
@@ -603,11 +603,14 @@ Consideration should be given to official guidance on the appropriate use of ant
 - **EMA product number**
     - EMEA/H/C/004829
 - **Marketing authorisation holder**
-    - Shionogi B.V. Herengracht 464  1017 CA  Amsterdam  The Netherlands
+    - Shionogi B.V. Herengracht 464  
+1017 CA  
+Amsterdam  
+The Netherlands
 - **Marketing authorisation issued**
     - 23/04/2020
 - **Revision**
-    - 13
+    - 14
 
 ## Assessment history
 
@@ -619,9 +622,9 @@ Collapse section
 
 Fetcroja : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (122.63 KB - PDF)
+English (EN) (150.52 KB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 11/11/2026
 
 [View](/en/documents/procedural-steps-after/fetcroja-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -707,6 +710,6 @@ English (EN) (150.23 KB - PDF)
 
 **This page was last updated on**
 
-21/07/2026
+11/11/2026
 
 ## Share this page

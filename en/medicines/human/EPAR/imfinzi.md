@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-13 17:01:00
+document_datetime: 2026-11-10 11:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imfinzi.html
 document_name: imfinzi.html
 version: success
-processing_time: 0.4493119
-conversion_datetime: 2026-10-19 23:45:37.6132
+processing_time: 0.2669976
+conversion_datetime: 2026-11-20 19:16:51.283396
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Imfinzi
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 durvalumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -208,7 +208,7 @@ English (EN) (168.45 KB - PDF)
 
 [View](/en/documents/overview/imfinzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-282)
+[Other languages (22)](#file-language-dropdown-765)
 
 български (BG) (203.85 KB - PDF)
 
@@ -354,167 +354,167 @@ English (EN) (807.99 KB - PDF)
 
 Imfinzi : EPAR - Product information
 
-English (EN) (5.56 MB - PDF)
+English (EN) (4.92 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/imfinzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-498)
+[Other languages (24)](#file-language-dropdown-218)
 
-български (BG) (1.76 MB - PDF)
+български (BG) (1.78 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/imfinzi-epar-product-information_bg.pdf)
 
-español (ES) (1.76 MB - PDF)
+español (ES) (1.75 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/imfinzi-epar-product-information_es.pdf)
 
-čeština (CS) (8.75 MB - PDF)
+čeština (CS) (5.7 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/imfinzi-epar-product-information_cs.pdf)
 
-dansk (DA) (8.08 MB - PDF)
+dansk (DA) (5.39 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/imfinzi-epar-product-information_da.pdf)
 
-Deutsch (DE) (8.45 MB - PDF)
+Deutsch (DE) (5.57 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/imfinzi-epar-product-information_de.pdf)
 
-eesti (ET) (1.65 MB - PDF)
+eesti (ET) (1.64 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/imfinzi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (8.02 MB - PDF)
+ελληνικά (EL) (5.53 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/el/documents/product-information/imfinzi-epar-product-information_el.pdf)
 
-français (FR) (2.02 MB - PDF)
+français (FR) (2.05 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/imfinzi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.72 MB - PDF)
+hrvatski (HR) (1.71 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/imfinzi-epar-product-information_hr.pdf)
 
-italiano (IT) (1.71 MB - PDF)
+italiano (IT) (1.7 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/imfinzi-epar-product-information_it.pdf)
 
 latviešu (LV) (1.71 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/imfinzi-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.79 MB - PDF)
+lietuvių (LT) (1.76 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/imfinzi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.79 MB - PDF)
+magyar (HU) (1.82 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/imfinzi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.81 MB - PDF)
+Malti (MT) (1.83 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/imfinzi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.93 MB - PDF)
+Nederlands (NL) (1.95 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/imfinzi-epar-product-information_nl.pdf)
 
-polski (PL) (7.64 MB - PDF)
+polski (PL) (5.48 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/imfinzi-epar-product-information_pl.pdf)
 
-português (PT) (1.66 MB - PDF)
+português (PT) (1.65 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/imfinzi-epar-product-information_pt.pdf)
 
-română (RO) (1.69 MB - PDF)
+română (RO) (1.68 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/imfinzi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.76 MB - PDF)
+slovenčina (SK) (1.79 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/imfinzi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.76 MB - PDF)
+slovenščina (SL) (1.75 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/imfinzi-epar-product-information_sl.pdf)
 
-suomi (FI) (1.66 MB - PDF)
+suomi (FI) (1.64 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/imfinzi-epar-product-information_fi.pdf)
 
-svenska (SV) (1.66 MB - PDF)
+svenska (SV) (1.65 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/imfinzi-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.66 MB - PDF)
+Íslenska (IS) (1.68 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/is/documents/product-information/imfinzi-epar-product-information_is.pdf)
 
-norsk (NO) (1.68 MB - PDF)
+norsk (NO) (1.67 MB - PDF)
 
-**First published:** 30/10/2018 **Last updated:** 18/05/2026
+**First published:** 30/10/2018 **Last updated:** 10/11/2026
 
 [View](/no/documents/product-information/imfinzi-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000282058
+**Latest procedure affecting product information:**VR/0000361735
 
-12/03/2026
+24/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -533,7 +533,7 @@ English (EN) (27.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-851)
 
 български (BG) (30.76 KB - PDF)
 
@@ -732,7 +732,7 @@ Sweden
 - **Marketing authorisation issued**
     - 21/09/2018
 - **Revision**
-    - 28
+    - 29
 
 ## Assessment history
 
@@ -744,9 +744,9 @@ Collapse section
 
 Imfinzi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (132.36 KB - PDF)
+English (EN) (142.4 KB - PDF)
 
-**First published:** 19/02/2026 **Last updated:** 18/05/2026
+**First published:** 19/02/2026 **Last updated:** 10/11/2026
 
 [View](/en/documents/procedural-steps-after/imfinzi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1084,7 +1084,7 @@ English (EN) (4.69 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-821)
+[Other languages (23)](#file-language-dropdown-650)
 
 български (BG) (4.65 MB - DOCX)
 
@@ -1237,6 +1237,6 @@ norsk (NO) (4.7 MB - DOCX)
 
 **This page was last updated on**
 
-13/10/2026
+10/11/2026
 
 ## Share this page

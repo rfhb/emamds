@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-06 15:08:00
+document_datetime: 2026-11-12 12:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/myalepta.html
 document_name: myalepta.html
 version: success
-processing_time: 0.2236564
-conversion_datetime: 2026-10-09 18:52:38.918448
+processing_time: 0.2331882
+conversion_datetime: 2026-11-20 19:21:20.258812
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.137.0
-  docling-core: 2.101.1
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.2
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Myalepta
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 metreleptin
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -54,7 +54,7 @@ Myalepta is a medicine used in addition to diet to treat lipodystrophy, where pa
 
 Myalepta contains the active substance metreleptin.
 
-Because the number of patients with the various forms of lipodystrophy is low, the diseases are considered 'rare', and Myalepta was designated an 'orphan medicine' (a medicine used in rare diseases) on 17 July 2012. Further information on the orphan designations can be found on the European Medicines Agency's website: ema.europa.eu/Find medicine/Human medicines/Rare disease designation ( [Bernardinelli-Seip syndrome](/en/medicines/human/orphan-designations/eu3121025) : 17/07/12; [Lawrence syndrome](/en/medicines/human/orphan-designations/eu3121024) : 17/07/12; [familial partial lipodystrophy](/en/medicines/human/orphan-designations/eu3121022) : 17/07/12; [Barraquer-Simons syndrome](/en/medicines/human/orphan-designations/eu3121023) : 17/07/12).
+Because the number of patients with the various forms of lipodystrophy is low, the diseases are considered 'rare', and Myalepta was designated an 'orphan medicine' (a medicine used in rare diseases) on 17 July 2012.
 
 Expand section
 
@@ -114,7 +114,7 @@ English (EN) (84.64 KB - PDF)
 
 [View](/en/documents/overview/myalepta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-78)
+[Other languages (22)](#file-language-dropdown-526)
 
 български (BG) (110.89 KB - PDF)
 
@@ -248,179 +248,179 @@ svenska (SV) (82.15 KB - PDF)
 
 [View](/sv/documents/overview/myalepta-epar-medicine-overview_sv.pdf)
 
-Myalepta : EPAR - Risk-management-plan summary
+Myalepta : EPAR - Risk management plan
 
-English (EN) (219.01 KB - PDF)
+English (EN) (777.73 KB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 27/10/2022
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
-[View](/en/documents/rmp-summary/myalepta-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/myalepta-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Myalepta : EPAR - Product Information
 
-English (EN) (1.75 MB - PDF)
+English (EN) (1.51 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/en/documents/product-information/myalepta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-61)
+[Other languages (24)](#file-language-dropdown-118)
 
-български (BG) (1.67 MB - PDF)
+български (BG) (1.65 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/bg/documents/product-information/myalepta-epar-product-information_bg.pdf)
 
-español (ES) (1.77 MB - PDF)
+español (ES) (1.53 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/es/documents/product-information/myalepta-epar-product-information_es.pdf)
 
-čeština (CS) (1.83 MB - PDF)
+čeština (CS) (1.59 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/cs/documents/product-information/myalepta-epar-product-information_cs.pdf)
 
-dansk (DA) (1.81 MB - PDF)
+dansk (DA) (1.57 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/da/documents/product-information/myalepta-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.88 MB - PDF)
+Deutsch (DE) (1.63 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/de/documents/product-information/myalepta-epar-product-information_de.pdf)
 
-eesti (ET) (1.73 MB - PDF)
+eesti (ET) (1.5 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/et/documents/product-information/myalepta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.84 MB - PDF)
+ελληνικά (EL) (1.62 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/el/documents/product-information/myalepta-epar-product-information_el.pdf)
 
-français (FR) (1.85 MB - PDF)
+français (FR) (1.61 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/fr/documents/product-information/myalepta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.8 MB - PDF)
+hrvatski (HR) (1.55 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/hr/documents/product-information/myalepta-epar-product-information_hr.pdf)
 
-italiano (IT) (1.66 MB - PDF)
+italiano (IT) (1.5 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/it/documents/product-information/myalepta-epar-product-information_it.pdf)
 
-latviešu (LV) (1.79 MB - PDF)
+latviešu (LV) (1.55 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/lv/documents/product-information/myalepta-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.76 MB - PDF)
+lietuvių (LT) (1.58 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/lt/documents/product-information/myalepta-epar-product-information_lt.pdf)
 
-magyar (HU) (1.85 MB - PDF)
+magyar (HU) (1.61 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/hu/documents/product-information/myalepta-epar-product-information_hu.pdf)
 
-Malti (MT) (1.92 MB - PDF)
+Malti (MT) (1.71 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/mt/documents/product-information/myalepta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.77 MB - PDF)
+Nederlands (NL) (1.53 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/nl/documents/product-information/myalepta-epar-product-information_nl.pdf)
 
-polski (PL) (1.97 MB - PDF)
+polski (PL) (1.71 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/pl/documents/product-information/myalepta-epar-product-information_pl.pdf)
 
-português (PT) (2.37 MB - PDF)
+português (PT) (1.54 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/pt/documents/product-information/myalepta-epar-product-information_pt.pdf)
 
-română (RO) (1.86 MB - PDF)
+română (RO) (1.61 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/ro/documents/product-information/myalepta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.81 MB - PDF)
+slovenčina (SK) (1.57 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/sk/documents/product-information/myalepta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.82 MB - PDF)
+slovenščina (SL) (1.58 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/sl/documents/product-information/myalepta-epar-product-information_sl.pdf)
 
-suomi (FI) (1.67 MB - PDF)
+suomi (FI) (1.43 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/fi/documents/product-information/myalepta-epar-product-information_fi.pdf)
 
-svenska (SV) (1.68 MB - PDF)
+svenska (SV) (1.44 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/sv/documents/product-information/myalepta-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.75 MB - PDF)
+Íslenska (IS) (1.52 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/is/documents/product-information/myalepta-epar-product-information_is.pdf)
 
-norsk (NO) (1.77 MB - PDF)
+norsk (NO) (1.5 MB - PDF)
 
-**First published:** 06/08/2018 **Last updated:** 06/10/2026
+**First published:** 06/08/2018 **Last updated:** 12/11/2026
 
 [View](/no/documents/product-information/myalepta-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000371325
+**Latest procedure affecting product information:**VR/0000356904
 
-05/10/2026
+01/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -439,7 +439,7 @@ English (EN) (25.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/myalepta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-20)
+[Other languages (24)](#file-language-dropdown-567)
 
 български (BG) (54.54 KB - PDF)
 
@@ -606,27 +606,29 @@ Other alimentary tract and metabolism products
 
 Myalepta is indicated as an adjunct to diet as a replacement therapy to treat the complications of leptin deficiency in lipodystrophy (LD) patients:
 
-- with confirmed congenital generalised LD ( *Berardinelli-Seip syndrome* ) or acquired generalised LD ( *Lawrence syndrome* ) in adults and children 2 years of age and above
-- with confirmed familial partial LD or acquired partial LD ( *Barraquer-Simons syndrome* ), in adults and children 12 years of age and above for whom standard treatments have failed to achieve adequate metabolic control.
+- with confirmed congenital generalised LD (*Berardinelli-Seip syndrome*) or acquired generalised LD (*Lawrence syndrome*) in adults and children 2 years of age and above
+- with confirmed familial partial LD or acquired partial LD (*Barraquer-Simons syndrome*), in adults and children 12 years of age and above for whom standard treatments have failed to achieve adequate metabolic control.
 
 ## Authorisation details
 
 - **EMA product number**
     - EMEA/H/C/004218
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Exceptional circumstances**
-    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Chiesi Farmaceutici S.p.A. Via Palermo 26/A  43122 Parma  Italy
+    - Chiesi Farmaceutici S.p.A. Via Palermo 26/A  
+43122 Parma  
+Italy
 - **Opinion adopted**
     - 31/05/2018
 - **Marketing authorisation issued**
     - 30/07/2018
 - **Revision**
-    - 16
+    - 17
 
 ## Assessment history
 
@@ -638,9 +640,9 @@ Collapse section
 
 Myalepta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (162.32 KB - PDF)
+English (EN) (177.16 KB - PDF)
 
-**First published:** 21/08/2025 **Last updated:** 06/10/2026
+**First published:** 21/08/2025 **Last updated:** 12/11/2026
 
 [View](/en/documents/procedural-steps-after/myalepta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -706,7 +708,7 @@ English (EN) (113.82 KB - PDF)
 
 [View](/en/documents/medication-error/myalepta-educational-material-patients-and-healthcare-professionals-ensure-myalepta-used-correctly_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-354)
+[Other languages (22)](#file-language-dropdown-330)
 
 български (BG) (135.68 KB - PDF)
 
@@ -852,6 +854,6 @@ svenska (SV) (116.42 KB - PDF)
 
 **This page was last updated on**
 
-06/10/2026
+12/11/2026
 
 ## Share this page

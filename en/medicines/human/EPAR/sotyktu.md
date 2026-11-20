@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-03 15:10:00
+document_datetime: 2026-11-18 14:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sotyktu.html
 document_name: sotyktu.html
 version: success
-processing_time: 0.1270359
-conversion_datetime: 2026-06-04 22:15:48.044486
+processing_time: 0.1810497
+conversion_datetime: 2026-11-20 19:24:56.840753
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Sotyktu
 
 [RSS](/en/individual-human-medicine.xml/67656)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 deucravacitinib
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -124,7 +124,7 @@ English (EN) (138.84 KB - PDF)
 
 [View](/en/documents/overview/sotyktu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-258)
+[Other languages (22)](#file-language-dropdown-518)
 
 български (BG) (152.88 KB - PDF)
 
@@ -260,9 +260,9 @@ svenska (SV) (132.59 KB - PDF)
 
 Sotyktu : EPAR - Risk Management Plan
 
-English (EN) (4.5 MB - PDF)
+English (EN) (5.72 MB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 03/06/2026
+**First published:** 31/03/2023 **Last updated:** 18/11/2026
 
 [View](/en/documents/rmp/sotyktu-epar-risk-management-plan_en.pdf)
 
@@ -276,7 +276,7 @@ English (EN) (381.92 KB - PDF)
 
 [View](/en/documents/product-information/sotyktu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-527)
+[Other languages (24)](#file-language-dropdown-89)
 
 български (BG) (428.66 KB - PDF)
 
@@ -422,7 +422,7 @@ norsk (NO) (315.6 KB - PDF)
 
 [View](/no/documents/product-information/sotyktu-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000309456
+**Latest procedure affecting product information:**VR/0000309456
 
 10/04/2026
 
@@ -430,7 +430,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -448,7 +449,7 @@ English (EN) (49.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-860)
+[Other languages (24)](#file-language-dropdown-962)
 
 български (BG) (66.39 KB - PDF)
 
@@ -596,25 +597,16 @@ norsk (NO) (46.36 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Sotyktu
-
-Active substance
-
-deucravacitinib
-
-International non-proprietary name (INN) or common name
-
-deucravacitinib
-
-Therapeutic area (MeSH)
-
-Psoriasis
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AF07
+- **Name of medicine**
+    - Sotyktu
+- **Active substance**
+    - deucravacitinib
+- **International non-proprietary name (INN) or common name**
+    - deucravacitinib
+- **Therapeutic area (MeSH)**
+    - Psoriasis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AF07
 
 ### Pharmacotherapeutic group
 
@@ -622,37 +614,29 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Plaque psoriasis Sotyktu is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
+Plaque psoriasis  
+Sotyktu is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
 
-Psoriatic arthritis Sotyktu, alone or in combination with methotrexate (MTX), is indicated for the treatment of active psoriatic arthritis (PsA) in adults who have had an inadequate response or who have been intolerant to a prior disease-modifying antirheumatic (DMARD) therapy.
+Psoriatic arthritis  
+Sotyktu, alone or in combination with methotrexate (MTX), is indicated for the treatment of active psoriatic arthritis (PsA) in adults who have had an inadequate response or who have been intolerant to a prior disease-modifying antirheumatic (DMARD) therapy.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005755
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Bristol-Myers Squibb Pharma EEIG
-
-Plaza 254
-
-Opinion adopted
-
-26/01/2023
-
-Marketing authorisation issued
-
-24/03/2023
-
-Revision
-
-6
+- **EMA product number**
+    - EMEA/H/C/005755
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Marketing authorisation holder**
+    - Bristol-Myers Squibb Pharma EEIG Plaza 254  
+Blanchardstown Corporate Park 2  
+Dublin 15, D15 T867  
+Ireland
+- **Opinion adopted**
+    - 26/01/2023
+- **Marketing authorisation issued**
+    - 24/03/2023
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -664,9 +648,9 @@ Collapse section
 
 Sotyktu : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (163.96 KB - PDF)
+English (EN) (165.86 KB - PDF)
 
-**First published:** 12/05/2026 **Last updated:** 03/06/2026
+**First published:** 12/05/2026 **Last updated:** 18/11/2026
 
 [View](/en/documents/procedural-steps-after/sotyktu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -732,13 +716,13 @@ English (EN) (129.72 KB - PDF)
 
 ## More information on Sotyktu
 
-- [EMEA-002350-PIP01-18-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002350-pip01-18-m03)
+- [EMA/PE/0000228305 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228305)
 - [EMEA-002350-PIP02-20-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002350-pip02-20-m01)
 - [EMEA-002350-PIP05-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002350-pip05-23)
 - [Long-term, observational cohort study of adults with plaque psoriasis (PsO), who are new users of deucravacitinib, tumour necrosis factor inhibitor (TNFi) biologics, non-TNFi biologics, or non-biologic therapies in the real-world clinical setting - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000659)
 
 **This page was last updated on**
 
-03/06/2026
+18/11/2026
 
 ## Share this page

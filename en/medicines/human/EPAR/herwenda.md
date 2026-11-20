@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-18 17:58:00
+document_datetime: 2026-11-10 12:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/herwenda.html
 document_name: herwenda.html
 version: success
-processing_time: 0.1450597
-conversion_datetime: 2026-08-22 23:27:59.821118
+processing_time: 0.1772223
+conversion_datetime: 2026-11-20 19:16:35.270806
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Herwenda
 
 [RSS](/en/individual-human-medicine.xml/77398)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 trastuzumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -115,7 +115,7 @@ English (EN) (165.74 KB - PDF)
 
 [View](/en/documents/overview/herwenda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-609)
+[Other languages (22)](#file-language-dropdown-557)
 
 български (BG) (162.45 KB - PDF)
 
@@ -249,13 +249,13 @@ svenska (SV) (145 KB - PDF)
 
 [View](/sv/documents/overview/herwenda-epar-medicine-overview_sv.pdf)
 
-Herwenda : EPAR - Risk management plan summary
+Herwenda : EPAR - Risk management plan
 
-English (EN) (55.34 KB - PDF)
+English (EN) (747.34 KB - PDF)
 
-**First published:** 23/11/2023
+**First published:** 23/11/2023 **Last updated:** 10/11/2026
 
-[View](/en/documents/rmp-summary/herwenda-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/herwenda-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -267,7 +267,7 @@ English (EN) (3.23 MB - PDF)
 
 [View](/en/documents/product-information/herwenda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-524)
+[Other languages (24)](#file-language-dropdown-632)
 
 български (BG) (4.02 MB - PDF)
 
@@ -413,7 +413,7 @@ norsk (NO) (3.45 MB - PDF)
 
 [View](/no/documents/product-information/herwenda-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000343075
+**Latest procedure affecting product information:**VR/0000343075
 
 09/07/2026
 
@@ -421,7 +421,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -440,7 +440,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/all-authorised-presentations/herwenda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-882)
+[Other languages (24)](#file-language-dropdown-13)
 
 български (BG) (1.05 MB - PDF)
 
@@ -613,17 +613,19 @@ Treatment of metastatic and early breast cancer and metastatic gastric cancer (M
 - **EMA product number**
     - EMEA/H/C/005769
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
-    - Sandoz GmbH Biochemiestrasse 10  AT-6250 Kundl  Austria
+    - Sandoz GmbH Biochemiestrasse 10  
+AT-6250 Kundl  
+Austria
 - **Opinion adopted**
     - 14/09/2023
 - **Marketing authorisation issued**
     - 15/11/2023
 - **Revision**
-    - 3
+    - 4
 
 ## Assessment history
 
@@ -635,9 +637,9 @@ Collapse section
 
 Herwenda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.11 KB - PDF)
+English (EN) (160.45 KB - PDF)
 
-**First published:** 20/10/2025 **Last updated:** 18/08/2026
+**First published:** 20/10/2025 **Last updated:** 10/11/2026
 
 [View](/en/documents/procedural-steps-after/herwenda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -671,6 +673,6 @@ English (EN) (172.84 KB - PDF)
 
 **This page was last updated on**
 
-18/08/2026
+10/11/2026
 
 ## Share this page

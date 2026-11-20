@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-04-14 12:52:00
+document_datetime: 2026-11-13 15:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spevigo.html
 document_name: spevigo.html
 version: success
-processing_time: 0.1206416
-conversion_datetime: 2026-04-17 15:56:00.257692
+processing_time: 0.195563
+conversion_datetime: 2026-11-20 19:25:12.487167
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Spevigo
 
 [RSS](/en/individual-human-medicine.xml/67638)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 spesolimab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -54,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Spevigo used?
+### How is Spevigo used?
 
 Spevigo can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in managing patients with inflammatory skin diseases.
 
@@ -64,17 +64,17 @@ When used to treat flare-ups, the medicine is given once as an infusion (drip) i
 
 For more information about using Spevigo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Spevigo work?
+### How does Spevigo work?
 
 The active substance in Spevigo, spesolimab, is a monoclonal antibody (a type of protein) that binds to and blocks the receptor (target) for a protein involved in inflammation called interleukin-36 (IL-36). By preventing IL-36 from attaching to its receptor, Spevigo reduces inflammation and improves the symptoms of generalised pustular psoriasis.
 
-## What benefits of Spevigo have been shown in studies?
+### What benefits of Spevigo have been shown in studies?
 
 A main study involving 53 adults with generalised pustular psoriasis flare-ups of moderate to severe intensity showed that Spevigo was more effective than placebo (a dummy treatment) at improving symptoms of the disease. After one week, 54% (19 out of 35 patients) of those who received a single dose of Spevigo had no visible pustules compared with 6% (1 out of 18 patients) of those who were given placebo, as measured using the GPPGA pustulation subscore (a measure of the severity of the pustules).
 
 Another main study involved 123 adults and adolescents with a history of generalised pustular psoriasis. Over 48 weeks of treatment, 10% (3 out of 30) of patients using Spevigo had one or more flare-ups, compared with 52% (16 out of 31) of patients on placebo.
 
-## What are the risks associated with Spevigo?
+### What are the risks associated with Spevigo?
 
 For the full list of side effects and restrictions with Spevigo, see the package leaflet.
 
@@ -82,7 +82,7 @@ The most common side effects with Spevigo (which may affect more than 1 in 10 pe
 
 Spevigo must not be given to patients who have an active infection that the doctor considers important.
 
-## Why is Spevigo authorised in the EU?
+### Why is Spevigo authorised in the EU?
 
 The severity of generalised pustular psoriasis flare-ups varies but can lead to organ failure and sepsis (blood poisoning). The disease is therefore a considerable burden on patients' lives. At the time of approval, there were no approved treatments for flare-ups of generalised pustular psoriasis and most therapies used in clinical practice had limited data on safety and efficacy.
 
@@ -92,17 +92,17 @@ Spevigo has been given 'conditional authorisation'. This means that it has been 
 
 The company must provide further data on Spevigo. It must submit data from a study of the medicine in the treatment of recurrent flare-ups in patients with generalised pustular psoriasis to confirm its safety and effectiveness. Every year, the Agency will review any new information that becomes available.
 
-## What information is still awaited for Spevigo?
+### What information is still awaited for Spevigo?
 
 Since Spevigo has been given conditional authorisation, the company that markets the medicine will provide data from a study of the medicine in the treatment of recurrent flare-ups in patients with generalised pustular psoriasis to confirm its safety and effectiveness.
 
-## What measures are being taken to ensure the safe and effective use of Spevigo?
+### What measures are being taken to ensure the safe and effective use of Spevigo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Spevigo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Spevigo are continuously monitored. Suspected side effects reported with Spevigo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Spevigo
+### Other information about Spevigo
 
 Spevigo received a conditional marketing authorisation valid throughout the EU on 09 December 2022.
 
@@ -116,7 +116,7 @@ English (EN) (112.25 KB - PDF)
 
 [View](/en/documents/overview/spevigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-405)
+[Other languages (22)](#file-language-dropdown-778)
 
 български (BG) (138.4 KB - PDF)
 
@@ -148,7 +148,7 @@ Deutsch (DE) (114.03 KB - PDF)
 
 [View](/de/documents/overview/spevigo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (108.91 KB - PDF)
+eesti (ET) (108.91 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 10/10/2024
 
@@ -178,13 +178,13 @@ italiano (IT) (110.71 KB - PDF)
 
 [View](/it/documents/overview/spevigo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (141.56 KB - PDF)
+latviešu (LV) (141.56 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 10/10/2024
 
 [View](/lv/documents/overview/spevigo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (133.59 KB - PDF)
+lietuvių (LT) (133.59 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 10/10/2024
 
@@ -238,7 +238,7 @@ slovenščina (SL) (132.36 KB - PDF)
 
 [View](/sl/documents/overview/spevigo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (109.17 KB - PDF)
+suomi (FI) (109.17 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 10/10/2024
 
@@ -262,159 +262,159 @@ English (EN) (2.44 MB - PDF)
 
 Spevigo : EPAR - Product Information
 
-English (EN) (5.53 MB - PDF)
+English (EN) (1.73 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/en/documents/product-information/spevigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-710)
 
-български (BG) (13.17 MB - PDF)
+български (BG) (1.85 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/bg/documents/product-information/spevigo-epar-product-information_bg.pdf)
 
-español (ES) (12.41 MB - PDF)
+español (ES) (1.68 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/es/documents/product-information/spevigo-epar-product-information_es.pdf)
 
-čeština (CS) (13.52 MB - PDF)
+čeština (CS) (1.82 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/cs/documents/product-information/spevigo-epar-product-information_cs.pdf)
 
-dansk (DA) (19.62 MB - PDF)
+dansk (DA) (1.73 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/da/documents/product-information/spevigo-epar-product-information_da.pdf)
 
-Deutsch (DE) (5.06 MB - PDF)
+Deutsch (DE) (1.73 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/de/documents/product-information/spevigo-epar-product-information_de.pdf)
 
-eesti keel (ET) (4.92 MB - PDF)
+eesti (ET) (1.57 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/et/documents/product-information/spevigo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (6.51 MB - PDF)
+ελληνικά (EL) (1.82 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/el/documents/product-information/spevigo-epar-product-information_el.pdf)
 
-français (FR) (5.09 MB - PDF)
+français (FR) (1.61 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/fr/documents/product-information/spevigo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (5.53 MB - PDF)
+hrvatski (HR) (1.61 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/hr/documents/product-information/spevigo-epar-product-information_hr.pdf)
 
-íslenska (IS) (12.23 MB - PDF)
-
-**First published:** 08/02/2023 **Last updated:** 14/04/2026
-
-[View](/is/documents/product-information/spevigo-epar-product-information_is.pdf)
-
-italiano (IT) (6.43 MB - PDF)
+italiano (IT) (1.83 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/it/documents/product-information/spevigo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (5.7 MB - PDF)
+latviešu (LV) (1.63 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/lv/documents/product-information/spevigo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (5.67 MB - PDF)
+lietuvių (LT) (1.76 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/lt/documents/product-information/spevigo-epar-product-information_lt.pdf)
 
-magyar (HU) (5.52 MB - PDF)
+magyar (HU) (1.73 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/hu/documents/product-information/spevigo-epar-product-information_hu.pdf)
 
-Malti (MT) (16.33 MB - PDF)
+Malti (MT) (1.91 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/mt/documents/product-information/spevigo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (5.02 MB - PDF)
+Nederlands (NL) (1.66 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/nl/documents/product-information/spevigo-epar-product-information_nl.pdf)
 
-norsk (NO) (5.43 MB - PDF)
-
-**First published:** 08/02/2023 **Last updated:** 14/04/2026
-
-[View](/no/documents/product-information/spevigo-epar-product-information_no.pdf)
-
-polski (PL) (13.43 MB - PDF)
+polski (PL) (1.9 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/pl/documents/product-information/spevigo-epar-product-information_pl.pdf)
 
-português (PT) (5.62 MB - PDF)
+português (PT) (2.05 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/pt/documents/product-information/spevigo-epar-product-information_pt.pdf)
 
-română (RO) (13.02 MB - PDF)
+română (RO) (1.81 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/ro/documents/product-information/spevigo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (19.15 MB - PDF)
+slovenčina (SK) (2.01 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/sk/documents/product-information/spevigo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (5.58 MB - PDF)
+slovenščina (SL) (1.83 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/sl/documents/product-information/spevigo-epar-product-information_sl.pdf)
 
-Suomi (FI) (12.29 MB - PDF)
+suomi (FI) (1.61 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/fi/documents/product-information/spevigo-epar-product-information_fi.pdf)
 
-svenska (SV) (12.83 MB - PDF)
+svenska (SV) (1.72 MB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 14/04/2026
 
 [View](/sv/documents/product-information/spevigo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000337921
+Íslenska (IS) (1.63 MB - PDF)
+
+**First published:** 08/02/2023 **Last updated:** 14/04/2026
+
+[View](/is/documents/product-information/spevigo-epar-product-information_is.pdf)
+
+norsk (NO) (1.73 MB - PDF)
+
+**First published:** 08/02/2023 **Last updated:** 14/04/2026
+
+[View](/no/documents/product-information/spevigo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000337921
 
 14/04/2026
 
@@ -422,7 +422,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -440,7 +441,7 @@ English (EN) (47.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-275)
+[Other languages (24)](#file-language-dropdown-61)
 
 български (BG) (55.13 KB - PDF)
 
@@ -472,7 +473,7 @@ Deutsch (DE) (50.42 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.48 KB - PDF)
+eesti (ET) (45.48 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 21/08/2025
 
@@ -496,25 +497,19 @@ hrvatski (HR) (48.93 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.68 KB - PDF)
-
-**First published:** 08/02/2023 **Last updated:** 21/08/2025
-
-[View](/is/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.37 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 21/08/2025
 
 [View](/it/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (51.42 KB - PDF)
+latviešu (LV) (51.42 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 21/08/2025
 
 [View](/lv/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (51.39 KB - PDF)
+lietuvių (LT) (51.39 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 21/08/2025
 
@@ -537,12 +532,6 @@ Nederlands (NL) (45.94 KB - PDF)
 **First published:** 08/02/2023 **Last updated:** 21/08/2025
 
 [View](/nl/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (49.43 KB - PDF)
-
-**First published:** 08/02/2023 **Last updated:** 21/08/2025
-
-[View](/no/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (53.09 KB - PDF)
 
@@ -574,7 +563,7 @@ slovenščina (SL) (47.35 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.62 KB - PDF)
+suomi (FI) (45.62 KB - PDF)
 
 **First published:** 08/02/2023 **Last updated:** 21/08/2025
 
@@ -586,27 +575,30 @@ svenska (SV) (47.81 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.68 KB - PDF)
+
+**First published:** 08/02/2023 **Last updated:** 21/08/2025
+
+[View](/is/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (49.43 KB - PDF)
+
+**First published:** 08/02/2023 **Last updated:** 21/08/2025
+
+[View](/no/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Spevigo
-
-Active substance
-
-spesolimab
-
-International non-proprietary name (INN) or common name
-
-spesolimab
-
-Therapeutic area (MeSH)
-
-Psoriasis
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC22
+- **Name of medicine**
+    - Spevigo
+- **Active substance**
+    - spesolimab
+- **International non-proprietary name (INN) or common name**
+    - spesolimab
+- **Therapeutic area (MeSH)**
+    - Psoriasis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC22
 
 ### Pharmacotherapeutic group
 
@@ -620,35 +612,22 @@ Spevigo is indicated for the treatment of generalised pustular psoriasis (GPP) f
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005874
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Conditional approval
-
-This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
-
-Marketing authorisation holder
-
-LEO Pharma A/S
-
-Industriparken 55
-
-Opinion adopted
-
-13/10/2022
-
-Marketing authorisation issued
-
-09/12/2022
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/005874
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Conditional approval**
+    - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774).
+- **Marketing authorisation holder**
+    - LEO Pharma A/S Industriparken 55  
+2750 Ballerup  
+Denmark
+- **Opinion adopted**
+    - 13/10/2022
+- **Marketing authorisation issued**
+    - 09/12/2022
+- **Revision**
+    - 6
 
 ## Assessment history
 
@@ -656,13 +635,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Spevigo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.96 KB - PDF)
+English (EN) (157.36 KB - PDF)
 
-**First published:** 16/06/2025 **Last updated:** 14/04/2026
+**First published:** 16/06/2025 **Last updated:** 13/11/2026
 
 [View](/en/documents/procedural-steps-after/spevigo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -712,7 +691,7 @@ English (EN) (121.99 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-opinion-spevigo-x-06-g_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Spevigo : EPAR - Public assessment report
 
@@ -748,11 +727,11 @@ English (EN) (98.55 KB - PDF)
 
 - [EMA/PE/0000232315 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232315)
 - [EMEA-002475-PIP04-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002475-pip04-23)
-- [A regulatory requirement non-interventional study to monitor the safety and effectiveness of Spesolimab in Korean patients with flares with generalized pustular psoriasis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000278)
 - [Post-marketing Surveillance of Spesolimab I.V. Infusion in improvement of Generalized Pustular Psoriasis (GPP) with acute symptoms in Japan (PMS for GPP with acute symptoms) - post-authorisation study](https://catalogues.ema.europa.eu/study/49954)
+- [A regulatory requirement non-interventional study to monitor the safety and effectiveness of Spesolimab in Korean patients with flares with generalized pustular psoriasis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000278)
 
 **This page was last updated on**
 
-14/04/2026
+13/11/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-14 16:40:00
+document_datetime: 2026-11-18 16:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fymskina.html
 document_name: fymskina.html
 version: success
-processing_time: 0.1887897
-conversion_datetime: 2026-10-19 23:44:04.236833
+processing_time: 0.3939411
+conversion_datetime: 2026-11-20 19:15:47.430092
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Fymskina
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 ustekinumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -52,7 +52,7 @@ Fymskina is a medicine used to treat:
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Fymskina may be used alone or combined with methotrexate (a DMARD);
 - moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children weighing at least 40 kg whose condition has not improved enough with other treatments for Crohn's disease or who cannot receive such treatments.
 
-Fymskina contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Fymskina is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Fymskina is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Fymskina contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Fymskina is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Fymskina is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines).
 
 Expand section
 
@@ -120,7 +120,7 @@ English (EN) (149.53 KB - PDF)
 
 [View](/en/documents/overview/fymskina-epar-medicine-overview_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-608)
+[Other languages (20)](#file-language-dropdown-192)
 
 български (BG) (164.37 KB - PDF)
 
@@ -244,9 +244,9 @@ suomi (FI) (141.77 KB - PDF)
 
 Fymskina : EPAR - Risk management plan
 
-English (EN) (541.34 KB - PDF)
+English (EN) (710.27 KB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 02/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/en/documents/rmp/fymskina-epar-risk-management-plan_en.pdf)
 
@@ -254,167 +254,167 @@ English (EN) (541.34 KB - PDF)
 
 Fymskina : EPAR - Product information
 
-English (EN) (2.02 MB - PDF)
+English (EN) (1.07 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/en/documents/product-information/fymskina-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-922)
 
-български (BG) (1.51 MB - PDF)
+български (BG) (1.66 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/bg/documents/product-information/fymskina-epar-product-information_bg.pdf)
 
-español (ES) (1.24 MB - PDF)
+español (ES) (1.36 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/es/documents/product-information/fymskina-epar-product-information_es.pdf)
 
-čeština (CS) (1.45 MB - PDF)
+čeština (CS) (1.6 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/cs/documents/product-information/fymskina-epar-product-information_cs.pdf)
 
-dansk (DA) (1.19 MB - PDF)
+dansk (DA) (1.34 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/da/documents/product-information/fymskina-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.36 MB - PDF)
+Deutsch (DE) (1.5 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/de/documents/product-information/fymskina-epar-product-information_de.pdf)
 
-eesti (ET) (1.23 MB - PDF)
+eesti (ET) (1.37 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/et/documents/product-information/fymskina-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.56 MB - PDF)
+ελληνικά (EL) (1.67 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/el/documents/product-information/fymskina-epar-product-information_el.pdf)
 
-français (FR) (1.34 MB - PDF)
+français (FR) (1.5 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/fr/documents/product-information/fymskina-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.38 MB - PDF)
+hrvatski (HR) (1.53 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/hr/documents/product-information/fymskina-epar-product-information_hr.pdf)
 
-italiano (IT) (1.33 MB - PDF)
+italiano (IT) (1.47 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/it/documents/product-information/fymskina-epar-product-information_it.pdf)
 
-latviešu (LV) (1.42 MB - PDF)
+latviešu (LV) (1.57 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/lv/documents/product-information/fymskina-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.47 MB - PDF)
+lietuvių (LT) (1.63 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/lt/documents/product-information/fymskina-epar-product-information_lt.pdf)
 
-magyar (HU) (1.45 MB - PDF)
+magyar (HU) (1.62 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/hu/documents/product-information/fymskina-epar-product-information_hu.pdf)
 
-Malti (MT) (1.49 MB - PDF)
+Malti (MT) (1.65 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/mt/documents/product-information/fymskina-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.32 MB - PDF)
+Nederlands (NL) (1.47 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/nl/documents/product-information/fymskina-epar-product-information_nl.pdf)
 
-polski (PL) (1.53 MB - PDF)
+polski (PL) (1.69 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/pl/documents/product-information/fymskina-epar-product-information_pl.pdf)
 
-português (PT) (1.38 MB - PDF)
+português (PT) (1.43 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/pt/documents/product-information/fymskina-epar-product-information_pt.pdf)
 
-română (RO) (1.45 MB - PDF)
+română (RO) (1.61 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/ro/documents/product-information/fymskina-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.47 MB - PDF)
+slovenčina (SK) (1.62 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/sk/documents/product-information/fymskina-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.4 MB - PDF)
+slovenščina (SL) (1.56 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/sl/documents/product-information/fymskina-epar-product-information_sl.pdf)
 
-suomi (FI) (1.32 MB - PDF)
+suomi (FI) (1.47 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/fi/documents/product-information/fymskina-epar-product-information_fi.pdf)
 
-svenska (SV) (1.38 MB - PDF)
+svenska (SV) (1.54 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/sv/documents/product-information/fymskina-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.26 MB - PDF)
+Íslenska (IS) (1.39 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/is/documents/product-information/fymskina-epar-product-information_is.pdf)
 
-norsk (NO) (1.38 MB - PDF)
+norsk (NO) (1.52 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 14/10/2026
+**First published:** 07/10/2024 **Last updated:** 18/11/2026
 
 [View](/no/documents/product-information/fymskina-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000360508
+**Latest procedure affecting product information:**VR/0000362273
 
-17/09/2026
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -433,7 +433,7 @@ English (EN) (24.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fymskina-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-727)
+[Other languages (24)](#file-language-dropdown-58)
 
 български (BG) (50.4 KB - PDF)
 
@@ -608,6 +608,10 @@ Paediatric Crohn's Disease
 
 Fymskina is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
+Ulcerative colitis
+
+Fymskina is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
+
 Plaque psoriasis
 
 Fymskina is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
@@ -625,7 +629,7 @@ Fymskina, alone or in combination with MTX, is indicated for the treatment of ac
 - **EMA product number**
     - EMEA/H/C/005805
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
     - Formycon AG Fraunhoferstrasse 15  
 Martinsried 82152  
@@ -636,7 +640,7 @@ Germany
 - **Marketing authorisation issued**
     - 25/09/2024
 - **Revision**
-    - 7
+    - 8
 
 ## Assessment history
 
@@ -656,9 +660,9 @@ English (EN) (141.28 KB - PDF)
 
 Fymskina : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.75 KB - PDF)
+English (EN) (172.97 KB - PDF)
 
-**First published:** 03/03/2025 **Last updated:** 14/10/2026
+**First published:** 03/03/2025 **Last updated:** 18/11/2026
 
 [View](/en/documents/procedural-steps-after/fymskina-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -702,7 +706,7 @@ English (EN) (602.91 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/fymskina-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-314)
+[Other languages (24)](#file-language-dropdown-821)
 
 български (BG) (739.06 KB - DOCX)
 
@@ -850,6 +854,6 @@ norsk (NO) (749.1 KB - DOCX)
 
 **This page was last updated on**
 
-14/10/2026
+18/11/2026
 
 ## Share this page

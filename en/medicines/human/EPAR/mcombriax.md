@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-22 17:20:00
+document_datetime: 2026-11-16 15:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mcombriax.html
 document_name: mcombriax.html
 version: success
-processing_time: 0.1434437
-conversion_datetime: 2026-09-25 19:54:45.549209
+processing_time: 0.1821472
+conversion_datetime: 2026-11-20 19:20:16.724351
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # mCombriax
 
 [RSS](/en/individual-human-medicine.xml/274657)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 influenza mRNA vaccine / COVID-19 mRNA vaccine
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -139,7 +139,7 @@ English (EN) (139.01 KB - PDF)
 
 [View](/en/documents/overview/mcombriax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-478)
+[Other languages (22)](#file-language-dropdown-56)
 
 български (BG) (160.51 KB - PDF)
 
@@ -285,167 +285,167 @@ English (EN) (527.08 KB - PDF)
 
 mCombriax : EPAR - Product information
 
-English (EN) (364.61 KB - PDF)
+English (EN) (365.71 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information/mcombriax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-174)
+[Other languages (24)](#file-language-dropdown-131)
 
-български (BG) (434.73 KB - PDF)
+български (BG) (437.52 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information/mcombriax-epar-product-information_bg.pdf)
 
-español (ES) (388.2 KB - PDF)
+español (ES) (528.33 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information/mcombriax-epar-product-information_es.pdf)
 
-čeština (CS) (397.94 KB - PDF)
+čeština (CS) (400.21 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information/mcombriax-epar-product-information_cs.pdf)
 
-dansk (DA) (374.83 KB - PDF)
+dansk (DA) (376.44 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information/mcombriax-epar-product-information_da.pdf)
 
-Deutsch (DE) (408.91 KB - PDF)
+Deutsch (DE) (410.29 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information/mcombriax-epar-product-information_de.pdf)
 
-eesti (ET) (399.99 KB - PDF)
+eesti (ET) (402.32 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information/mcombriax-epar-product-information_et.pdf)
 
-ελληνικά (EL) (464.2 KB - PDF)
+ελληνικά (EL) (467.14 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information/mcombriax-epar-product-information_el.pdf)
 
-français (FR) (398.68 KB - PDF)
+français (FR) (399.81 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information/mcombriax-epar-product-information_fr.pdf)
 
-hrvatski (HR) (436.37 KB - PDF)
+hrvatski (HR) (439.4 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information/mcombriax-epar-product-information_hr.pdf)
 
-italiano (IT) (393.26 KB - PDF)
+italiano (IT) (396.17 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information/mcombriax-epar-product-information_it.pdf)
 
-latviešu (LV) (422.09 KB - PDF)
+latviešu (LV) (424.16 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information/mcombriax-epar-product-information_lv.pdf)
 
-lietuvių (LT) (402.98 KB - PDF)
+lietuvių (LT) (404.96 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 23/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information/mcombriax-epar-product-information_lt.pdf)
 
-magyar (HU) (416.01 KB - PDF)
+magyar (HU) (417.97 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information/mcombriax-epar-product-information_hu.pdf)
 
-Malti (MT) (452 KB - PDF)
+Malti (MT) (453.15 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information/mcombriax-epar-product-information_mt.pdf)
 
-Nederlands (NL) (380.61 KB - PDF)
+Nederlands (NL) (382.06 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information/mcombriax-epar-product-information_nl.pdf)
 
-polski (PL) (422.05 KB - PDF)
+polski (PL) (424.56 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information/mcombriax-epar-product-information_pl.pdf)
 
-português (PT) (391.18 KB - PDF)
+português (PT) (392.58 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information/mcombriax-epar-product-information_pt.pdf)
 
-română (RO) (394.97 KB - PDF)
+română (RO) (396.3 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information/mcombriax-epar-product-information_ro.pdf)
 
-slovenčina (SK) (423.28 KB - PDF)
+slovenčina (SK) (424.79 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information/mcombriax-epar-product-information_sk.pdf)
 
-slovenščina (SL) (408.85 KB - PDF)
+slovenščina (SL) (411.31 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information/mcombriax-epar-product-information_sl.pdf)
 
-suomi (FI) (374.27 KB - PDF)
+suomi (FI) (375.69 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information/mcombriax-epar-product-information_fi.pdf)
 
-svenska (SV) (398.71 KB - PDF)
+svenska (SV) (401.67 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information/mcombriax-epar-product-information_sv.pdf)
 
-Íslenska (IS) (392.32 KB - PDF)
+Íslenska (IS) (392.95 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/is/documents/product-information/mcombriax-epar-product-information_is.pdf)
 
-norsk (NO) (390.78 KB - PDF)
+norsk (NO) (392.41 KB - PDF)
 
-**First published:** 30/04/2026 **Last updated:** 22/09/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/no/documents/product-information/mcombriax-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000347770
+**Latest procedure affecting product information:**VR/0000368302
 
-03/09/2026
+13/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -458,155 +458,155 @@ Product information documents contain:
 
 mCombriax : EPAR - All authorised presentations
 
-English (EN) (79.04 KB - PDF)
+English (EN) (78.97 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/en/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-628)
+[Other languages (24)](#file-language-dropdown-908)
 
-български (BG) (82.29 KB - PDF)
+български (BG) (82.12 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/bg/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (68.02 KB - PDF)
+español (ES) (67.84 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/es/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (108.29 KB - PDF)
+čeština (CS) (108.1 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/cs/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (89.9 KB - PDF)
+dansk (DA) (89.83 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/da/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (71.58 KB - PDF)
+Deutsch (DE) (71.24 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/de/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_de.pdf)
 
-eesti (ET) (58.91 KB - PDF)
+eesti (ET) (60.03 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/et/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (91.68 KB - PDF)
+ελληνικά (EL) (91.73 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/el/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (67.55 KB - PDF)
+français (FR) (67.51 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/fr/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (90.87 KB - PDF)
+hrvatski (HR) (91.02 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/hr/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (69.58 KB - PDF)
+italiano (IT) (69.62 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/it/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_it.pdf)
 
-latviešu (LV) (93.66 KB - PDF)
+latviešu (LV) (93.34 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/lv/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių (LT) (89.25 KB - PDF)
+lietuvių (LT) (88.92 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/lt/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (91.73 KB - PDF)
+magyar (HU) (89.52 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/hu/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (90.86 KB - PDF)
+Malti (MT) (90.74 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/mt/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (67.53 KB - PDF)
+Nederlands (NL) (67.63 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/nl/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_nl.pdf)
 
-polski (PL) (96.75 KB - PDF)
+polski (PL) (96.36 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/pl/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (69.25 KB - PDF)
+português (PT) (69.24 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/pt/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (71.89 KB - PDF)
+română (RO) (71.95 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/ro/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (88.08 KB - PDF)
+slovenčina (SK) (87.7 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/sk/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (88.36 KB - PDF)
+slovenščina (SL) (88.37 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/sl/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_sl.pdf)
 
-suomi (FI) (67.07 KB - PDF)
+suomi (FI) (67 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/fi/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (67.37 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/sv/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_sv.pdf)
 
-Íslenska (IS) (68.98 KB - PDF)
+Íslenska (IS) (68.94 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/is/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_is.pdf)
 
-norsk (NO) (59.8 KB - PDF)
+norsk (NO) (59.49 KB - PDF)
 
-**First published:** 30/04/2026
+**First published:** 30/04/2026 **Last updated:** 16/11/2026
 
 [View](/no/documents/all-authorised-presentations/mcombriax-epar-all-authorised-presentations_no.pdf)
 
@@ -640,15 +640,17 @@ The use of this vaccine should be in accordance with official recommendations.
 - **EMA product number**
     - EMEA/H/C/006472
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
-    - Moderna Biotech Spain, S.L. C/ Julián Camarillo nº 31  28037 Madrid  Spain
+    - Moderna Biotech Spain, S.L. C/ Julián Camarillo nº 31  
+28037 Madrid  
+Spain
 - **Opinion adopted**
     - 26/02/2026
 - **Marketing authorisation issued**
     - 20/04/2026
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -660,9 +662,9 @@ Collapse section
 
 mCombriax : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (158 KB - PDF)
+English (EN) (166.57 KB - PDF)
 
-**First published:** 22/09/2026
+**First published:** 22/09/2026 **Last updated:** 16/11/2026
 
 [View](/en/documents/procedural-steps-after/mcombriax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -700,6 +702,6 @@ English (EN) (131.8 KB - PDF)
 
 **This page was last updated on**
 
-22/09/2026
+16/11/2026
 
 ## Share this page

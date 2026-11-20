@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-03 09:52:00
+document_datetime: 2026-11-10 10:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/advagraf.html
 document_name: advagraf.html
 version: success
-processing_time: 0.1509029
-conversion_datetime: 2026-07-04 13:13:35.803762
+processing_time: 0.2790022
+conversion_datetime: 2026-11-20 19:11:08.198827
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Advagraf
 
 [RSS](/en/individual-human-medicine.xml/65664)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 tacrolimus
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -107,7 +107,7 @@ English (EN) (105.15 KB - PDF)
 
 [View](/en/documents/overview/advagraf-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-597)
+[Other languages (21)](#file-language-dropdown-906)
 
 español (ES) (106.39 KB - PDF)
 
@@ -253,7 +253,7 @@ English (EN) (399.7 KB - PDF)
 
 [View](/en/documents/product-information/advagraf-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-487)
 
 български (BG) (3.79 MB - PDF)
 
@@ -399,7 +399,7 @@ norsk (NO) (3.28 MB - PDF)
 
 [View](/no/documents/product-information/advagraf-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00002839/202403
+**Latest procedure affecting product information:**PSUSA/00002839/202403
 
 12/02/2025
 
@@ -407,7 +407,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -426,7 +426,7 @@ English (EN) (32.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/advagraf-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-780)
+[Other languages (22)](#file-language-dropdown-328)
 
 български (BG) (119.95 KB - PDF)
 
@@ -588,11 +588,13 @@ Treatment of allograft rejection resistant to treatment with other immunosuppres
 - **EMA product number**
     - EMEA/H/C/000712
 - **Marketing authorisation holder**
-    - Astellas Pharma Europe BV Sylviusweg 62  2333 BE Leiden  The Netherlands
+    - Astellas Pharma Europe BV Sylviusweg 62  
+2333 BE Leiden  
+The Netherlands
 - **Marketing authorisation issued**
     - 23/04/2007
 - **Revision**
-    - 29
+    - 30
 
 ## Assessment history
 
@@ -609,6 +611,16 @@ English (EN) (301.37 KB - PDF)
 **First published:** 19/05/2009 **Last updated:** 27/02/2025
 
 [View](/en/documents/procedural-steps-after/advagraf-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Advagraf-PAM-0000341171: Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006
+
+Adopted Reference Number: EMADOC-1700519818-3554281
+
+English (EN) (5.66 MB - PDF)
+
+**First published:** 10/11/2026
+
+[View](/en/documents/variation-report/advagraf-pam-0000341171-assessment-report-paediatric-studies-submitted-according-article-46-regulation-ec-no-1901-2006_en.pdf)
 
 Advagraf-H-C-PSUSA-00002839-202403 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -661,10 +673,10 @@ English (EN) (40.08 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-03/07/2026
+10/11/2026
 
 ## Share this page

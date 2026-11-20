@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-20 12:40:00
+document_datetime: 2026-11-18 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enzalutamide-viatris.html
 document_name: enzalutamide-viatris.html
 version: success
-processing_time: 0.1691167
-conversion_datetime: 2026-10-25 15:16:56.707384
+processing_time: 0.1808665
+conversion_datetime: 2026-11-20 19:13:26.63701
 docling_version:
-  docling-serve: 1.38.1
+  docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling: 2.151.1
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Enzalutamide Viatris
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 enzalutamide
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -106,7 +106,7 @@ English (EN) (183.39 KB - PDF)
 
 [View](/en/documents/overview/enzalutamide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-943)
+[Other languages (22)](#file-language-dropdown-69)
 
 български (BG) (206.28 KB - PDF)
 
@@ -252,167 +252,167 @@ English (EN) (419.66 KB - PDF)
 
 Enzalutamide Viatris : EPAR - Product information
 
-English (EN) (1.61 MB - PDF)
+English (EN) (1.3 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/en/documents/product-information/enzalutamide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-378)
+[Other languages (24)](#file-language-dropdown-601)
 
-български (BG) (1.08 MB - PDF)
+български (BG) (1.74 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/bg/documents/product-information/enzalutamide-viatris-epar-product-information_bg.pdf)
 
-español (ES) (1.51 MB - PDF)
+español (ES) (1.98 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/es/documents/product-information/enzalutamide-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (1.94 MB - PDF)
+čeština (CS) (2.23 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/cs/documents/product-information/enzalutamide-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (1.11 MB - PDF)
+dansk (DA) (1.17 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/da/documents/product-information/enzalutamide-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.52 MB - PDF)
+Deutsch (DE) (1.07 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/de/documents/product-information/enzalutamide-viatris-epar-product-information_de.pdf)
 
-eesti (ET) (1.01 MB - PDF)
+eesti (ET) (1.21 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/et/documents/product-information/enzalutamide-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.29 MB - PDF)
+ελληνικά (EL) (1.48 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/el/documents/product-information/enzalutamide-viatris-epar-product-information_el.pdf)
 
-français (FR) (1.1 MB - PDF)
+français (FR) (1.17 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/fr/documents/product-information/enzalutamide-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.89 MB - PDF)
+hrvatski (HR) (2.13 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/hr/documents/product-information/enzalutamide-viatris-epar-product-information_hr.pdf)
 
-italiano (IT) (856.94 KB - PDF)
+italiano (IT) (1.29 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/it/documents/product-information/enzalutamide-viatris-epar-product-information_it.pdf)
 
-latviešu (LV) (1.4 MB - PDF)
+latviešu (LV) (901.98 KB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/lv/documents/product-information/enzalutamide-viatris-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.23 MB - PDF)
+lietuvių (LT) (1.22 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/lt/documents/product-information/enzalutamide-viatris-epar-product-information_lt.pdf)
 
 magyar (HU) (1.45 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/hu/documents/product-information/enzalutamide-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.77 MB - PDF)
+Malti (MT) (1.84 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/mt/documents/product-information/enzalutamide-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.04 MB - PDF)
+Nederlands (NL) (1.51 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/nl/documents/product-information/enzalutamide-viatris-epar-product-information_nl.pdf)
 
-polski (PL) (1012.17 KB - PDF)
+polski (PL) (1.41 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/pl/documents/product-information/enzalutamide-viatris-epar-product-information_pl.pdf)
 
-português (PT) (925.83 KB - PDF)
+português (PT) (1.44 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/pt/documents/product-information/enzalutamide-viatris-epar-product-information_pt.pdf)
 
-română (RO) (1.2 MB - PDF)
+română (RO) (1.61 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/ro/documents/product-information/enzalutamide-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.82 MB - PDF)
+slovenčina (SK) (1.7 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/sk/documents/product-information/enzalutamide-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.93 MB - PDF)
+slovenščina (SL) (1.36 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/sl/documents/product-information/enzalutamide-viatris-epar-product-information_sl.pdf)
 
-suomi (FI) (1.03 MB - PDF)
+suomi (FI) (2.13 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/fi/documents/product-information/enzalutamide-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.38 MB - PDF)
+svenska (SV) (1.33 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/sv/documents/product-information/enzalutamide-viatris-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.27 MB - PDF)
+Íslenska (IS) (1.22 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/is/documents/product-information/enzalutamide-viatris-epar-product-information_is.pdf)
 
-norsk (NO) (1.61 MB - PDF)
+norsk (NO) (1.66 MB - PDF)
 
-**First published:** 09/10/2024 **Last updated:** 23/06/2026
+**First published:** 09/10/2024 **Last updated:** 18/11/2026
 
 [View](/no/documents/product-information/enzalutamide-viatris-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000350515
+**Latest procedure affecting product information:**VR/0000383244
 
-18/06/2026
+18/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -431,7 +431,7 @@ English (EN) (15.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enzalutamide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-983)
 
 български (BG) (68.77 KB - PDF)
 
@@ -608,7 +608,7 @@ Enzalutamide Viatris is indicated:
 - **EMA product number**
     - EMEA/H/C/006299
 - **Generic**
-    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
 - **Marketing authorisation holder**
     - Viatris Limited Damastown Industrial Park  
 Dublin 15  
@@ -618,7 +618,7 @@ Ireland
 - **Marketing authorisation issued**
     - 22/08/2024
 - **Revision**
-    - 6
+    - 7
 
 ## Assessment history
 
@@ -630,9 +630,9 @@ Collapse section
 
 Enzalutamide Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.97 KB - PDF)
+English (EN) (140.55 KB - PDF)
 
-**First published:** 23/05/2025 **Last updated:** 23/06/2026
+**First published:** 23/05/2025 **Last updated:** 18/11/2026
 
 [View](/en/documents/procedural-steps-after/enzalutamide-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -684,6 +684,6 @@ English (EN) (149.14 KB - PDF)
 
 **This page was last updated on**
 
-20/10/2026
+18/11/2026
 
 ## Share this page

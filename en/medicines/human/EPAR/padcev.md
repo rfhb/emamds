@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-16 17:05:00
+document_datetime: 2026-11-16 17:03:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/padcev.html
 document_name: padcev.html
 version: success
-processing_time: 0.2089243
-conversion_datetime: 2026-10-19 23:49:29.045248
+processing_time: 0.2211541
+conversion_datetime: 2026-11-20 19:22:22.235218
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Padcev
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 enfortumab vedotin
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -48,9 +48,8 @@ Page contents
 
 Padcev is a cancer medicine used in adults for treating:
 
-- urothelial cancer (a cancer of the bladder and urinary tract). It is used on its own in patients whose cancer is advanced or metastatic (has spread to other parts of the body) and who have already had platinum-based chemotherapy and an immunotherapy targeting PD-1 or PD-L1. Padcev can also be used in combination with pembrolizumab (another cancer medicine) when the cancer is metastatic or cannot be removed by surgery and patients have not been treated yet;
-
-- muscle invasive bladder cancer (MIBC), a type of cancer that has spread into or through the muscle layer of the bladder. It is used as a preliminary treatment to shrink the cancer (neoadjuvant treatment) before surgical removal of the bladder and then continued after surgery to lower the risk of the cancer coming back (adjuvant treatment). It is used in combination with pembrolizumab in adults for whom treatment with cisplatin-containing chemotherapy is not suitable.
+- urothelial cancer (a cancer of the bladder and urinary tract). It is used on its own in patients whose cancer is advanced or metastatic (has spread to other parts of the body) and who have already had platinum-based chemotherapy and an immunotherapy targeting PD-1 or PD-L1. Padcev can also be used in combination with pembrolizumab (another cancer medicine) when the cancer is metastatic or unresectable (cannot be removed by surgery) and patients have not been treated yet;
+- muscle invasive bladder cancer (MIBC), a type of urothelial cancer that has spread into or through the muscle layer of the bladder. It is used in combination with pembrolizumab as a preliminary treatment to shrink the cancer (neoadjuvant treatment) before surgical removal of the bladder and then continued after surgery to lower the risk of the cancer coming back (adjuvant treatment).
 
 It contains the active substance enfortumab vedotin.
 
@@ -62,9 +61,11 @@ Collapse section
 
 Padcev can only be obtained with a prescription, and treatment should be started and supervised by a doctor experienced in the use of cancer medicines. Padcev is given as an infusion (drip) into a vein over 30 minutes. When Padcev is used on its own, the patient should have an infusion three times over the course of 28 days (on days 1, 8 and 15). When used with pembrolizumab, Padcev is given twice over the course of 21 days (on days 1 and 8).
 
-Treatment should continue until the disease gets worse or the side effects become intolerable.
+For MIBC, treatment is given for a number of cycles before and after surgery or until the disease gets worse or the side effects become intolerable.
 
-If the patient experiences severe side effects the doctor may stop treatment or reduce the dose. For more information about using Padcev, see the package leaflet or contact your doctor or pharmacist.
+For unresectable or metastatic urothelial cancer, treatment should continue until the disease gets worse or the side effects become intolerable.
+
+If the patient experiences severe side effects the doctor may have to stop treatment or reduce the dose. For more information about using Padcev, see the package leaflet or contact your doctor or pharmacist.
 
 ### How does Padcev work?
 
@@ -76,11 +77,15 @@ The active substance in Padcev, enfortumab vedotin, consists of an antibody (a t
 
 Padcev was more effective than chemotherapy at prolonging patients' lives in a main study of 608 patients with advanced urothelial cancer who had already had platinum-based chemotherapy and an immunotherapy. In this study, patients treated with Padcev lived for a median of around 13 months while those who had chemotherapy lived for a median of 9 months.
 
-Another study involving 886 patients with advanced or metastatic urothelial cancer who had not yet received treatment compared the benefits of Padcev in combination with pembrolizumab with those of platinum-based chemotherapy and gemcitabine (another cancer medicine). Patients treated with Padcev plus pembrolizumab lived for a median of around 13 months without the disease getting worse, and for a median of32 months overall. Patients treated with platinum-based chemotherapy and gemcitabine lived for a median of around 6 months without the disease getting worse, and for an average of around 16 months overall.
+Another study involving 886 patients with advanced or metastatic urothelial cancer who had not yet received treatment compared the benefits of Padcev in combination with pembrolizumab with those of platinum-based chemotherapy and gemcitabine (another cancer medicine). Patients treated with Padcev plus pembrolizumab lived for a median of around 13 months without the disease getting worse, and for a median of 32 months overall. Patients treated with platinum-based chemotherapy and gemcitabine lived for a median of around 6 months without the disease getting worse, and for an average of around 16 months overall.
 
 **Muscle invasive bladder cancer (MIBC)**
 
-A main study showed that adults given Padcev in combination with pembrolizumab both before and after their bladder was surgically removed lived longer without their cancer worsening, returning, or causing complications when compared with adults who only had surgery. The study included adults with MIBC for whom treatment with cisplatin-based chemotherapy was not suitable. Results showed that 28% of patients who received Padcev together with pembrolizumab (48 out of 170) experienced an event, meaning their cancer worsened, returned, or led to other cancer-related complications. This compared with 55% of patients who only had surgery to remove the bladder and lymph nodes (95 out of 174).
+Two studies showed that Padcev given in combination with pembrolizumab both before and after surgery to remove the bladder increased the time patients lived without their cancer worsening, returning, or causing complications.
+
+One study involved 344 adults with MIBC for whom treatment with cisplatin-based chemotherapy was not suitable and who had surgery to remove the bladder and lymph nodes. After a median of around 19 months, 72% of patients (122 out of 170) who received Padcev together with pembrolizumab were alive without the disease getting worse or coming back, compared with 45% (79 out of 174) of those who only had surgery. In addition, after around 24 months, 80% of patients who received Padcev together with pembrolizumab were alive, compared with 63% of patients who received only surgery.
+
+A second study involved 808 adults with MIBC who had not yet received treatment and for whom cisplatin chemotherapy was suitable. Patients either received Padcev in combination with pembrolizumab before and after surgery or cisplatin chemotherapy and gemcitabine before surgery. After a median of around 31 months, around 79% (318 out of 405) of patients treated with Padcev together with pembrolizumab were alive without the disease getting worse or coming back. This compared with around 64% (257 out of 403) of patients treated with platinum-based chemotherapy and gemcitabine before surgery. In addition, 83% (336 out of 405) of patients treated with Padcev plus pembrolizumab were still alive compared with around 75% (304 out of 403) of patients who received platinum-based chemotherapy and gemcitabine before surgery.
 
 Studies carried out with Padcev are described in more detail in the medicine's assessment reports.
 
@@ -88,15 +93,15 @@ Studies carried out with Padcev are described in more detail in the medicine's a
 
 For the full list of side effects and restrictions with Padcev, see the package leaflet.
 
-When Padcev is used on its own, the most common side effects (which may affect more than 1 in 10 people) include alopecia (hair loss), tiredness, reduced appetite, peripheral sensory neuropathy (nerve damage affecting sensation of pain, temperature and touch), diarrhoea, nausea (feeling sick), itching, dysgeusia (taste disturbance), anaemia (low red blood cell counts), weight loss, rash, dry skin, dry eyes, vomiting, increased levels of liver enzymes and hyperglycaemia (high blood glucose levels).
+When Padcev is used on its own, the most common side effects (which may affect more than 1 in 10 people) include alopecia (hair loss), tiredness, reduced appetite, peripheral sensory neuropathy (nerve damage affecting sensation of pain, temperature and touch), diarrhoea, nausea (feeling sick), itching, dysgeusia (taste disturbance), anaemia (low red blood cell counts), weight loss, rash, including maculopapular rash (a rash with both flat and raised bumps), dry skin, dry eyes, vomiting, increased levels of liver enzymes and hyperglycaemia (high blood glucose levels).
 
-When Padcev is used in combination with pembrolizumab for the treatment of urothelial cancer or MIBC, the most common side effects include peripheral sensory neuropathy, itching, tiredness, diarrhoea, alopecia, rash, weight loss, decreased appetite, nausea, anaemia, dysgeusia, dry skin, increased levels of liver enzymes, hyperglycaemia and hypothyroidism (an underactive thyroid gland). Some side effects were reported in only one of these treatment settings.
+When Padcev is used in combination with pembrolizumab, the most common side effects include peripheral sensory neuropathy, itching, tiredness, diarrhoea, alopecia, rash, including maculopapular rash, weight loss, decreased appetite, nausea, vomiting, anaemia, dysgeusia, dry skin, increased levels of liver enzymes, hyperglycaemia, neutropenia (low levels of neutrophils, a type of white blood cell), hypothyroidism (an underactive thyroid gland) and dry eyes.
 
-When Padcev is used in combination with pembrolizumab for the treatment of urothelial cancer, dry eyes, vomiting and neutropenia (low levels of neutrophils, a type of white blood cell) also affect more than 1 in 10 people. When Padcev is used in combination with pembrolizumab for the treatment of MIBC, peripheral neuropathy (nerve damage in arms and legs) also affects more than 1 in 10 people.
+Some side effects can be serious. When Padcev is used on its own, the most frequent (which may affect up to 1 in 10 people) include diarrhoea and hyperglycaemia. When Padcev is used with pembrolizumab, the most frequent serious side effects include sepsis (blood poisoning), diarrhoea, pneumonia (infection of the lungs) and pneumonitis (inflammation in the lungs).
 
 ### Why is Padcev authorised in the EU?
 
-At the time of approval, there were few treatment choices for patients with advanced or metastatic urothelial cancer. Padcev, on its own or in combination with pembrolizumab, was shown to prolong the lives of these patients. For patients with MIBC, the mainstay of treatment at the time of approval was cisplatin-based neoadjuvant chemotherapy followed by surgery. However, cisplatin-based chemotherapy was not suitable for up to 50% of patients with MIBC. In this context, Padcev given in combination with pembrolizumab was shown to improve the time patients lived without their MIBC worsening, returning or causing complications. However, due to the study design, it was not possible to determine the specific contribution of Padcev and pembrolizumab to the overall treatment effect or to distinguish the effects of treatment given before surgery from those of treatment given after surgery.
+At the time of approval, there were few treatment choices for patients with advanced or metastatic urothelial cancer. Padcev, on its own or in combination with pembrolizumab, was shown to prolong the lives of these patients. For patients with MIBC, the mainstay of treatment at the time of approval was cisplatin-based neoadjuvant chemotherapy followed by surgery. However, cisplatin-based chemotherapy was not suitable for up to 50% of patients with MIBC. In this context, Padcev given in combination with pembrolizumab before and after surgery was shown to improve the time patients lived without their MIBC worsening, returning or causing complications. However, due to the study design, it was not possible to distinguish the effects of treatment given before surgery from those of treatment given after surgery.
 
 The side effects of Padcev were considered acceptable for a cancer medicine with the measures in place to minimise the risks.
 
@@ -116,145 +121,145 @@ Padcev received a marketing authorisation valid throughout the EU on 13 April 20
 
 Padcev : EPAR - Medicine overview
 
-Reference Number: EMA/360964/2024
+Reference Number: EMADOC-1829012207-73097
 
-English (EN) (163.59 KB - PDF)
+English (EN) (167.22 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/en/documents/overview/padcev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-717)
+[Other languages (22)](#file-language-dropdown-762)
 
-български (BG) (180.97 KB - PDF)
+български (BG) (183.89 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/bg/documents/overview/padcev-epar-medicine-overview_bg.pdf)
 
-español (ES) (151.67 KB - PDF)
+español (ES) (153.43 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/es/documents/overview/padcev-epar-medicine-overview_es.pdf)
 
-čeština (CS) (179.23 KB - PDF)
+čeština (CS) (181.56 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/cs/documents/overview/padcev-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (152.06 KB - PDF)
+dansk (DA) (154.74 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/da/documents/overview/padcev-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (167.24 KB - PDF)
+Deutsch (DE) (158.66 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/de/documents/overview/padcev-epar-medicine-overview_de.pdf)
 
-eesti (ET) (148.53 KB - PDF)
+eesti (ET) (149.66 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/et/documents/overview/padcev-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (179.97 KB - PDF)
+ελληνικά (EL) (183.06 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/el/documents/overview/padcev-epar-medicine-overview_el.pdf)
 
-français (FR) (153.23 KB - PDF)
+français (FR) (155.45 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/fr/documents/overview/padcev-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (176.47 KB - PDF)
+hrvatski (HR) (178.87 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/hr/documents/overview/padcev-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (150.77 KB - PDF)
+italiano (IT) (152.87 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/it/documents/overview/padcev-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (191.38 KB - PDF)
+latviešu (LV) (192.83 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/lv/documents/overview/padcev-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (175.84 KB - PDF)
+lietuvių (LT) (178.34 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/lt/documents/overview/padcev-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (177.64 KB - PDF)
+magyar (HU) (179.79 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/hu/documents/overview/padcev-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (177.96 KB - PDF)
+Malti (MT) (180.48 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/mt/documents/overview/padcev-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (154.63 KB - PDF)
+Nederlands (NL) (156.61 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/nl/documents/overview/padcev-epar-medicine-overview_nl.pdf)
 
-polski (PL) (180.34 KB - PDF)
+polski (PL) (183.3 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/pl/documents/overview/padcev-epar-medicine-overview_pl.pdf)
 
-português (PT) (153.28 KB - PDF)
+português (PT) (154.78 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/pt/documents/overview/padcev-epar-medicine-overview_pt.pdf)
 
-română (RO) (172.72 KB - PDF)
+română (RO) (175.03 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/ro/documents/overview/padcev-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (177.73 KB - PDF)
+slovenčina (SK) (180.46 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/sk/documents/overview/padcev-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (176.27 KB - PDF)
+slovenščina (SL) (179.08 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/sl/documents/overview/padcev-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (149.54 KB - PDF)
+suomi (FI) (151.37 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/fi/documents/overview/padcev-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (150.35 KB - PDF)
+svenska (SV) (152.68 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 11/11/2026
 
 [View](/sv/documents/overview/padcev-epar-medicine-overview_sv.pdf)
 
@@ -270,167 +275,167 @@ English (EN) (1.03 MB - PDF)
 
 Padcev : EPAR - Product information
 
-English (EN) (760.59 KB - PDF)
+English (EN) (760.16 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information/padcev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-329)
+[Other languages (24)](#file-language-dropdown-481)
 
-български (BG) (684.82 KB - PDF)
+български (BG) (830.89 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information/padcev-epar-product-information_bg.pdf)
 
-español (ES) (641.76 KB - PDF)
+español (ES) (706.48 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information/padcev-epar-product-information_es.pdf)
 
-čeština (CS) (652.33 KB - PDF)
+čeština (CS) (751.08 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information/padcev-epar-product-information_cs.pdf)
 
-dansk (DA) (701.04 KB - PDF)
+dansk (DA) (672.16 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information/padcev-epar-product-information_da.pdf)
 
-Deutsch (DE) (723.42 KB - PDF)
+Deutsch (DE) (679.89 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information/padcev-epar-product-information_de.pdf)
 
-eesti (ET) (702.17 KB - PDF)
+eesti (ET) (767.6 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information/padcev-epar-product-information_et.pdf)
 
-ελληνικά (EL) (758.48 KB - PDF)
+ελληνικά (EL) (860.74 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information/padcev-epar-product-information_el.pdf)
 
-français (FR) (840.67 KB - PDF)
+français (FR) (1002.48 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information/padcev-epar-product-information_fr.pdf)
 
-hrvatski (HR) (671.76 KB - PDF)
+hrvatski (HR) (796.26 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information/padcev-epar-product-information_hr.pdf)
 
-italiano (IT) (774.87 KB - PDF)
+italiano (IT) (712.56 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information/padcev-epar-product-information_it.pdf)
 
-latviešu (LV) (682.18 KB - PDF)
+latviešu (LV) (734.91 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information/padcev-epar-product-information_lv.pdf)
 
-lietuvių (LT) (637.63 KB - PDF)
+lietuvių (LT) (746.59 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information/padcev-epar-product-information_lt.pdf)
 
-magyar (HU) (713.58 KB - PDF)
+magyar (HU) (769.83 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information/padcev-epar-product-information_hu.pdf)
 
-Malti (MT) (739.38 KB - PDF)
+Malti (MT) (805.07 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information/padcev-epar-product-information_mt.pdf)
 
-Nederlands (NL) (698.54 KB - PDF)
+Nederlands (NL) (686.31 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information/padcev-epar-product-information_nl.pdf)
 
-polski (PL) (739.11 KB - PDF)
+polski (PL) (764.31 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information/padcev-epar-product-information_pl.pdf)
 
-português (PT) (696.96 KB - PDF)
+português (PT) (683.63 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information/padcev-epar-product-information_pt.pdf)
 
-română (RO) (626.04 KB - PDF)
+română (RO) (723.8 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information/padcev-epar-product-information_ro.pdf)
 
-slovenčina (SK) (728.77 KB - PDF)
+slovenčina (SK) (780.09 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information/padcev-epar-product-information_sk.pdf)
 
-slovenščina (SL) (688.77 KB - PDF)
+slovenščina (SL) (838.94 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information/padcev-epar-product-information_sl.pdf)
 
-suomi (FI) (725.64 KB - PDF)
+suomi (FI) (719.35 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information/padcev-epar-product-information_fi.pdf)
 
-svenska (SV) (703.92 KB - PDF)
+svenska (SV) (770.17 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information/padcev-epar-product-information_sv.pdf)
 
-Íslenska (IS) (644.65 KB - PDF)
+Íslenska (IS) (722.45 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/is/documents/product-information/padcev-epar-product-information_is.pdf)
 
-norsk (NO) (681.58 KB - PDF)
+norsk (NO) (662.31 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 16/10/2026
+**First published:** 05/05/2022 **Last updated:** 16/11/2026
 
 [View](/no/documents/product-information/padcev-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000336191
+**Latest procedure affecting product information:**R/0000351076
 
-15/10/2026
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -449,7 +454,7 @@ English (EN) (19.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/padcev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-300)
+[Other languages (24)](#file-language-dropdown-703)
 
 български (BG) (43.13 KB - PDF)
 
@@ -631,8 +636,6 @@ Padcev as monotherapy is indicated for the treatment of adult patients with loca
 
 - **EMA product number**
     - EMEA/H/C/005392
-- **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
     - Astellas Pharma Europe B.V. Sylviusweg 62  
 2333 BE Leiden  
@@ -642,7 +645,7 @@ The Netherlands
 - **Marketing authorisation issued**
     - 13/04/2022
 - **Revision**
-    - 11
+    - 12
 
 ## Assessment history
 
@@ -654,13 +657,13 @@ Collapse section
 
 Padcev : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (189.9 KB - PDF)
+English (EN) (171.2 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 16/10/2026
+**First published:** 17/07/2025 **Last updated:** 16/11/2026
 
 [View](/en/documents/procedural-steps-after/padcev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-660)
+[Other languages (24)](#file-language-dropdown-910)
 
 български (BG) (565.79 KB - PDF)
 
@@ -940,6 +943,6 @@ English (EN) (116.48 KB - PDF)
 
 **This page was last updated on**
 
-16/10/2026
+16/11/2026
 
 ## Share this page

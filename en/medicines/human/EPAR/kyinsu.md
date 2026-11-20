@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-12 13:16:00
+document_datetime: 2026-11-16 17:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kyinsu.html
 document_name: kyinsu.html
 version: success
-processing_time: 0.0917896
-conversion_datetime: 2026-02-21 12:40:34.097168
+processing_time: 0.1656258
+conversion_datetime: 2026-11-20 19:19:12.353335
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Kyinsu
 
 [RSS](/en/individual-human-medicine.xml/266961)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-insulin icodec / semaglutide Medicine Human Authorised
+insulin icodec / semaglutide
+
+MedicineHumanAuthorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Kyinsu](#news-on)
+- [More information on Kyinsu](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -51,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Kyinsu used?
+### How is Kyinsu used?
 
 Kyinsu is available as prefilled pens. It is given once a week as an injection under the skin, in the thigh, the upper arm, or belly. Patients can inject themselves with Kyinsu if they have been trained appropriately.
 
@@ -59,7 +62,7 @@ Before starting Kyinsu, treatment with an insulin medicine or GLP-1 receptor ago
 
 Kyinsu can only be obtained with a prescription. For more information about using Kyinsu, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Kyinsu work?
+### How does Kyinsu work?
 
 Type 2 diabetes is a disease in which the body does not produce enough insulin to control the level of blood glucose or the body is unable to use insulin effectively.
 
@@ -67,7 +70,7 @@ Kyinsu contains two active substances: insulin icodec and semaglutide which both
 
 Semaglutide, a GLP-1 receptor agonist, acts in the same way as GLP-1 (a hormone produced in the gut) by increasing the amount of insulin that the pancreas releases in response to food. This helps with the control of blood glucose levels.
 
-## What benefits of Kyinsu have been shown in studies?
+### What benefits of Kyinsu have been shown in studies?
 
 Weekly injections of Kyinsu have been shown to improve the control of blood glucose in three main studies involving over 2,600 adults with type 2 diabetes that was not satisfactorily controlled either with basal insulin or with a GLP-1 receptor agonist.
 
@@ -77,13 +80,13 @@ The main measure of effectiveness for all three studies was the levels of a subs
 - The second study involved 683 adults whose blood glucose levels were not sufficiently controlled with a GLP-1 receptor agonist. They received either Kyinsu or semaglutide with or without oral antidiabetic medicines. After one year, Kyinsu lowered patients' HbA1c levels on average by 1.35 percentage points compared with 0.90 for those who received semaglutide. In this study, people treated with Kyinsu gained weight while those on semaglutide lost weight.
 - The third study involved 679 adults whose blood glucose levels were not sufficiently controlled with daily basal insulin. They received either Kyinsu or insulin glargine and insulin aspart, two other types of insulin medicines, with or without oral antidiabetic medicines. Kyinsu lowered HbA1c levels by 1.47 percentage points on average compared with 1.40 for those who received insulin glargine and insulin aspart. In addition, treatment with Kyinsu was associated with weight loss.
 
-## What are the risks associated with Kyinsu?
+### What are the risks associated with Kyinsu?
 
 For the full list of side effects and restrictions with Kyinsu, see the package leaflet.
 
 The most common side effects with Kyinsu (which may affect more than 1 in 10 people) include hypoglycaemia (low blood glucose levels) and gastrointestinal adverse reactions (stomach and gut problems), including nausea and diarrhoea.
 
-## Why is Kyinsu authorised in the EU?
+### Why is Kyinsu authorised in the EU?
 
 Combining basal insulin with a GLP-1 receptor agonist offers an effective treatment option in patients with type 2 diabetes previously treated with basal insulin, providing improved glycaemic control with less weight gain and a lower risk of hypoglycaemia compared to intensifying insulin treatment. Kyinsu has been shown to improve blood glucose control in adults with type 2 diabetes who were not sufficiently controlled with insulin, with the added benefit of weight loss. In patients not sufficiently controlled with a GLP-1 receptor agonist, Kyinsu also improved blood glucose control, although it was associated with weight gain, in contrast to the weight loss typically seen with GLP-1 receptor agonists alone.
 
@@ -93,7 +96,7 @@ The side effects of Kyinsu are in line with those seen with the individual activ
 
 The European Medicines Agency decided that Kyinsu's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Kyinsu?
+### What measures are being taken to ensure the safe and effective use of Kyinsu?
 
 The company that markets Kyinsu will have to provide an educational guide to all patients treated with the medicine to reduce the risk of medication errors. The guide will contain information and instructions to avoid dosing errors and mix-ups with other injectable diabetes treatments when switching to once weekly Kyinsu.
 
@@ -101,7 +104,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Kyinsu are continuously monitored. Suspected side effects reported with Kyinsu are carefully evaluated and any necessary action is taken to protect patients.
 
-## Other information about Kyinsu
+### Other information about Kyinsu
 
 Kyinsu received a marketing authorisation valid throughout the EU on 24 November 2025.
 
@@ -115,181 +118,137 @@ English (EN) (149.31 KB - PDF)
 
 [View](/en/documents/overview/kyinsu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-845)
+[Other languages (22)](#file-language-dropdown-562)
 
 български (BG) (173.53 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/bg/documents/overview/kyinsu-epar-medicine-overview_bg.pdf)
 
 español (ES) (147.97 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/es/documents/overview/kyinsu-epar-medicine-overview_es.pdf)
 
 čeština (CS) (172.33 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/cs/documents/overview/kyinsu-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (146.88 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/da/documents/overview/kyinsu-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (151.35 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/de/documents/overview/kyinsu-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (158 KB - PDF)
+eesti (ET) (158 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/et/documents/overview/kyinsu-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (171.35 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/el/documents/overview/kyinsu-epar-medicine-overview_el.pdf)
 
 français (FR) (149.2 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/fr/documents/overview/kyinsu-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (170.29 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/hr/documents/overview/kyinsu-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (146.83 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/it/documents/overview/kyinsu-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (187.43 KB - PDF)
+latviešu (LV) (187.43 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/lv/documents/overview/kyinsu-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (171.58 KB - PDF)
+lietuvių (LT) (171.58 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/lt/documents/overview/kyinsu-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (171.75 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/hu/documents/overview/kyinsu-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (173.91 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/mt/documents/overview/kyinsu-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (137.24 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/nl/documents/overview/kyinsu-epar-medicine-overview_nl.pdf)
 
 polski (PL) (173.35 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/pl/documents/overview/kyinsu-epar-medicine-overview_pl.pdf)
 
 português (PT) (149 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/pt/documents/overview/kyinsu-epar-medicine-overview_pt.pdf)
 
 română (RO) (169.11 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/ro/documents/overview/kyinsu-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (172.5 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/sk/documents/overview/kyinsu-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (169.19 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/sl/documents/overview/kyinsu-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (146.42 KB - PDF)
+suomi (FI) (146.42 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/fi/documents/overview/kyinsu-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (147.14 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/sv/documents/overview/kyinsu-epar-medicine-overview_sv.pdf)
 
@@ -305,211 +264,168 @@ English (EN) (1.83 MB - PDF)
 
 Kyinsu : EPAR - Product information
 
-English (EN) (605.1 KB - PDF)
+English (EN) (609.88 KB - PDF)
 
-**First published:** 12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information/kyinsu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-610)
 
-български (BG) (783.27 KB - PDF)
+български (BG) (787.71 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information/kyinsu-epar-product-information_bg.pdf)
 
-español (ES) (629.07 KB - PDF)
+español (ES) (639.02 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information/kyinsu-epar-product-information_es.pdf)
 
-čeština (CS) (734.62 KB - PDF)
+čeština (CS) (745.58 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information/kyinsu-epar-product-information_cs.pdf)
 
-dansk (DA) (627.17 KB - PDF)
+dansk (DA) (632.14 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information/kyinsu-epar-product-information_da.pdf)
 
-Deutsch (DE) (637.64 KB - PDF)
+Deutsch (DE) (644.7 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information/kyinsu-epar-product-information_de.pdf)
 
-eesti keel (ET) (601.45 KB - PDF)
+eesti (ET) (606.14 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information/kyinsu-epar-product-information_et.pdf)
 
-ελληνικά (EL) (848.45 KB - PDF)
+ελληνικά (EL) (828.04 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information/kyinsu-epar-product-information_el.pdf)
 
-français (FR) (624.1 KB - PDF)
+français (FR) (630.05 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information/kyinsu-epar-product-information_fr.pdf)
 
-hrvatski (HR) (722.05 KB - PDF)
+hrvatski (HR) (728.62 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information/kyinsu-epar-product-information_hr.pdf)
 
-íslenska (IS) (591.91 KB - PDF)
+italiano (IT) (651.47 KB - PDF)
 
-**First published:**
-
-12/02/2026
-
-[View](/is/documents/product-information/kyinsu-epar-product-information_is.pdf)
-
-italiano (IT) (646.2 KB - PDF)
-
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information/kyinsu-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (733.33 KB - PDF)
+latviešu (LV) (740.49 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information/kyinsu-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (727.34 KB - PDF)
+lietuvių (LT) (732.99 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information/kyinsu-epar-product-information_lt.pdf)
 
-magyar (HU) (744.78 KB - PDF)
+magyar (HU) (754.98 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information/kyinsu-epar-product-information_hu.pdf)
 
-Malti (MT) (1.12 MB - PDF)
+Malti (MT) (787.6 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information/kyinsu-epar-product-information_mt.pdf)
 
-Nederlands (NL) (605.57 KB - PDF)
+Nederlands (NL) (612.79 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information/kyinsu-epar-product-information_nl.pdf)
 
-norsk (NO) (595.61 KB - PDF)
+polski (PL) (768.23 KB - PDF)
 
-**First published:**
-
-12/02/2026
-
-[View](/no/documents/product-information/kyinsu-epar-product-information_no.pdf)
-
-polski (PL) (763.82 KB - PDF)
-
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information/kyinsu-epar-product-information_pl.pdf)
 
-português (PT) (624.57 KB - PDF)
+português (PT) (632.13 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information/kyinsu-epar-product-information_pt.pdf)
 
-română (RO) (773.88 KB - PDF)
+română (RO) (782.97 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information/kyinsu-epar-product-information_ro.pdf)
 
-slovenčina (SK) (759.84 KB - PDF)
+slovenčina (SK) (763.88 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information/kyinsu-epar-product-information_sk.pdf)
 
-slovenščina (SL) (736.15 KB - PDF)
+slovenščina (SL) (745.08 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information/kyinsu-epar-product-information_sl.pdf)
 
-Suomi (FI) (629.1 KB - PDF)
+suomi (FI) (635.45 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information/kyinsu-epar-product-information_fi.pdf)
 
-svenska (SV) (612.84 KB - PDF)
+svenska (SV) (619.69 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information/kyinsu-epar-product-information_sv.pdf)
+
+Íslenska (IS) (595.34 KB - PDF)
+
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
+
+[View](/is/documents/product-information/kyinsu-epar-product-information_is.pdf)
+
+norsk (NO) (600.18 KB - PDF)
+
+**First published:** 12/02/2026 **Last updated:** 16/11/2026
+
+[View](/no/documents/product-information/kyinsu-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000380695
+
+16/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -527,213 +443,166 @@ English (EN) (20.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-988)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (45.45 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/bg/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (22.48 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/es/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (45.46 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/cs/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (20.43 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/da/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (22.07 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/de/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (20.31 KB - PDF)
+eesti (ET) (20.31 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/et/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (44.83 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/el/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (20.92 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/fr/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (42.7 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/hr/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (21.9 KB - PDF)
-
-**First published:**
-
-12/02/2026
-
-[View](/is/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (20.44 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/it/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (45.19 KB - PDF)
+latviešu (LV) (45.19 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/lv/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (42.45 KB - PDF)
+lietuvių (LT) (42.45 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/lt/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (42.43 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/hu/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (44.48 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/mt/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (20.97 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/nl/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (20.53 KB - PDF)
-
-**First published:**
-
-12/02/2026
-
-[View](/no/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (42.47 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/pl/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (19.36 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/pt/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (44.82 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/ro/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (44.11 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/sk/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (39.31 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/sl/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (21.4 KB - PDF)
+suomi (FI) (21.4 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/fi/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (20.09 KB - PDF)
 
-**First published:**
-
-12/02/2026
+**First published:** 12/02/2026
 
 [View](/sv/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (21.9 KB - PDF)
+
+**First published:** 12/02/2026
+
+[View](/is/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (20.53 KB - PDF)
+
+**First published:** 12/02/2026
+
+[View](/no/documents/all-authorised-presentations/kyinsu-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Kyinsu Active substance
-
-- insulin icodec
-- semaglutide
-
-International non-proprietary name (INN) or common name
-
-- insulin icodec
-- semaglutide
-
-Therapeutic area (MeSH) Diabetes Mellitus, Type 2 Anatomical therapeutic chemical (ATC) code A10AE57
+- **Name of medicine**
+    - Kyinsu
+- **Active substance**
+        - insulin icodec
+        - semaglutide
+- **International non-proprietary name (INN) or common name**
+        - insulin icodec
+        - semaglutide
+- **Therapeutic area (MeSH)**
+    - Diabetes Mellitus, Type 2
+- **Anatomical therapeutic chemical (ATC) code**
+    - A10AE57
 
 ### Pharmacotherapeutic group
 
@@ -747,29 +616,42 @@ For study results with respect to combinations, effects on glycaemic control, an
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006279
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Novo Nordisk A/S
-
-Novo Alle 1 DK-2880 Bagsvaerd Denmark
-
-Opinion adopted 18/09/2025 Marketing authorisation issued 24/11/2025
+- **EMA product number**
+    - EMEA/H/C/006279
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Marketing authorisation holder**
+    - Novo Nordisk A/S Novo Alle 1  
+DK-2880 Bagsvaerd  
+Denmark
+- **Opinion adopted**
+    - 18/09/2025
+- **Marketing authorisation issued**
+    - 24/11/2025
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Kyinsu : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (154.75 KB - PDF)
+
+**First published:** 16/11/2026
+
+[View](/en/documents/procedural-steps-after/kyinsu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Kyinsu : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/290792/2025
+Adopted Reference Number: EMA/CHMP/290792/2025
 
 English (EN) (6.17 MB - PDF)
 
@@ -779,9 +661,7 @@ English (EN) (6.17 MB - PDF)
 
 CHMP summary of positive opinion for Kyinsu
 
-Adopted
-
-Reference Number: EMA/CHMP/297654/2025
+Adopted Reference Number: EMA/CHMP/297654/2025
 
 English (EN) (150.82 KB - PDF)
 
@@ -789,12 +669,22 @@ English (EN) (150.82 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-kyinsu_en.pdf)
 
-#### News on Kyinsu
+## News on Kyinsu
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2026)
 
-**This page was last updated on** 12/02/2026
+16/10/2026
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025)
+
+19/09/2025
+
+## More information on Kyinsu
+
+- [Kyinsu - opinion on variation to marketing authorisation](/en/medicines/human/variation/kyinsu)
+
+**This page was last updated on**
+
+16/11/2026
 
 ## Share this page
-
-[Back to top](#main-content)

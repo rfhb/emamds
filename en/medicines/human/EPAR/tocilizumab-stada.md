@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-20 16:30:00
+document_datetime: 2026-11-11 10:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tocilizumab-stada.html
 document_name: tocilizumab-stada.html
 version: success
-processing_time: 0.1983703
-conversion_datetime: 2026-10-25 15:27:41.220468
+processing_time: 0.2088945
+conversion_datetime: 2026-11-20 19:26:47.245285
 docling_version:
-  docling-serve: 1.38.1
+  docling-serve: 1.38.2
   docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling: 2.151.1
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Tosmova (previously Tocilizumab STADA and Tofidence)
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 tocilizumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -46,214 +46,214 @@ Page contents
 
 ## Overview
 
-Tocilizumab STADA is a medicine used to treat:
+Tosmova is a medicine used to treat:
 
 - adults with severe rheumatoid arthritis that is getting worse, who have not been previously treated with a medicine called methotrexate;
 - adults with moderate to severe active rheumatoid arthritis in whom previous treatments with disease modifying antirheumatic drugs (DMARDs), such as methotrexate or medicines known as tumour necrosis factor (TNF) blockers, have not worked well enough or were not tolerated;
 - children from 2 years of age with active systemic juvenile idiopathic arthritis in whom other treatments (anti-inflammatory medicines called NSAIDs and corticosteroids) have not worked well enough;
 - children from 2 years of age with juvenile idiopathic polyarthritis in whom treatment with methotrexate has not worked well enough.
 
-Tocilizumab STADA is used in combination with methotrexate for these conditions but it can be used on its own in patients for whom methotrexate is inappropriate.
+Tosmova is used in combination with methotrexate for these conditions but it can be used on its own in patients for whom methotrexate is inappropriate.
 
-Tocilizumab STADA can also be used in adults with COVID-19 who are receiving treatment with corticosteroids by mouth or injection and require extra oxygen or mechanical ventilation (breathing assisted by a machine).
+Tosmova can also be used in adults with COVID-19 who are receiving treatment with corticosteroids by mouth or injection and require extra oxygen or mechanical ventilation (breathing assisted by a machine).
 
-Tocilizumab STADA contains the active substance tocilizumab and is a 'biosimilar medicine'. This means that Tocilizumab STADA is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Tocilizumab STADA is RoActemra.
+Tosmova contains the active substance tocilizumab and is a 'biosimilar medicine'. This means that Tosmova is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Tosmova is RoActemra. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines).
 
 Expand section
 
 Collapse section
 
-### How is Tocilizumab STADA used?
+### How is Tosmova used?
 
-Tocilizumab STADA can only be obtained with a prescription and treatment should be started by a doctor who has experience in the diagnosis and treatment of the relevant condition.
+Tosmova can only be obtained with a prescription and treatment should be started by a doctor who has experience in the diagnosis and treatment of the relevant condition.
 
-Tocilizumab STADA is given by injection under the skin or by infusion (drip) into a vein. How Tocilizumab STADA is given, the recommended dose and how often it is given depends on the condition it is used to treat. For COVID-19, Tocilizumab STADA must only be given as an infusion.
+Tosmova is given by injection under the skin or by infusion (drip) into a vein. How Tosmova is given, the recommended dose and how often it is given depends on the condition it is used to treat. For COVID-19, Tosmova must only be given as an infusion.
 
-For more information about using Tocilizumab STADA, see the package leaflet or contact your doctor or pharmacist.
+For more information about using Tosmova, see the package leaflet or contact your doctor or pharmacist.
 
-### How does Tocilizumab STADA work?
+### How does Tosmova work?
 
-The active substance in Tocilizumab STADA, tocilizumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target (called an antigen) in the body. Tocilizumab attaches to the receptor for a messenger molecule or 'cytokine' called interleukin-6. This messenger is involved in inflammation and is found at high levels in patients with rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis and COVID-19. By preventing interleukin-6 from attaching to its receptors, tocilizumab reduces the inflammation and other symptoms of these diseases.
+The active substance in Tosmova, tocilizumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target (called an antigen) in the body. Tocilizumab attaches to the receptor for a messenger molecule or 'cytokine' called interleukin-6. This messenger is involved in inflammation and is found at high levels in patients with rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis and COVID-19. By preventing interleukin-6 from attaching to its receptors, tocilizumab reduces the inflammation and other symptoms of these diseases.
 
-### What benefits of Tocilizumab STADA have been shown in studies?
+### What benefits of Tosmova have been shown in studies?
 
-Laboratory studies comparing Tocilizumab STADA with RoActemra have shown that the active substance in Tocilizumab STADA is highly similar to that in RoActemra in terms of structure, purity and biological activity. Studies have also shown that giving Tocilizumab STADA produces similar levels of the active substance in the body to giving RoActemra.
+Laboratory studies comparing Tosmova with RoActemra have shown that the active substance in Tosmova is highly similar to that in RoActemra in terms of structure, purity and biological activity. Studies have also shown that giving Tosmova produces similar levels of the active substance in the body to giving RoActemra.
 
-In addition, Tocilizumab STADA was as effective as RoActemra in improving symptoms of rheumatoid arthritis in a study involving 621 adults in whom previous treatment with methotrexate had not worked well enough. After 12 weeks of treatment, the proportion of patients with at least a 20% improvement in symptom score (called ACR20) was 66% with Tocilizumab STADA and 59% with RoActemra.
+In addition, Tosmova was as effective as RoActemra in improving symptoms of rheumatoid arthritis in a study involving 621 adults in whom previous treatment with methotrexate had not worked well enough. After 12 weeks of treatment, the proportion of patients with at least a 20% improvement in symptom score (called ACR20) was 66% with Tosmova and 59% with RoActemra.
 
-Because Tocilizumab STADA is a biosimilar medicine, the studies on effectiveness and safety of tocilizumab carried out with RoActemra do not all need to be repeated for Tocilizumab STADA.
+Because Tosmova is a biosimilar medicine, the studies on effectiveness and safety of tocilizumab carried out with RoActemra do not all need to be repeated for Tosmova.
 
-### What are the risks associated with Tocilizumab STADA?
+### What are the risks associated with Tosmova?
 
-The safety of Tocilizumab STADA has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine RoActemra.
+The safety of Tosmova has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine RoActemra.
 
 The most common side effects with tocilizumab (which may affect more than 5 in 100 people) include upper respiratory tract infections (nose and throat infection), nasopharyngitis (inflammation of the nose and throat), headache, hypertension (high blood pressure) and abnormal liver function tests. The most serious side effects are serious infections, complications of diverticulitis (a disease affecting the gut) and hypersensitivity (allergic) reactions.
 
 In patients with COVID-19, the most common side effects with tocilizumab (which may affect more than 5 in 100 people) include abnormal liver function tests, constipation, and urinary tract infections (infections of the parts of the body that collect and pass out urine).
 
-Tocilizumab STADA must not be used in patients who have an active, severe infection (except COVID-19). Doctors should monitor patients carefully for signs of infection during treatment, and should prescribe Tocilizumab STADA with caution in patients who have had recurring or long-term infections, or diseases that could increase the risk of infections, such as diverticulitis or diabetes.
+Tosmova must not be used in patients who have an active, severe infection (except COVID-19). Doctors should monitor patients carefully for signs of infection during treatment, and should prescribe Tosmova with caution in patients who have had recurring or long-term infections, or diseases that could increase the risk of infections, such as diverticulitis or diabetes.
 
-### Why is Tocilizumab STADA authorised in the EU?
+### Why is Tosmova authorised in the EU?
 
-The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Tocilizumab STADA has a highly similar structure, purity and biological activity to RoActemra and is distributed in the body in the same way. In addition, a study in patients with rheumatoid arthritis has shown that Tocilizumab STADA and RoActemra are equivalent in terms of safety and effectiveness in the treatment of this disease.
+The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Tosmova has a highly similar structure, purity and biological activity to RoActemra and is distributed in the body in the same way. In addition, a study in patients with rheumatoid arthritis has shown that Tosmova and RoActemra are equivalent in terms of safety and effectiveness in the treatment of this disease.
 
-All these data were considered sufficient to conclude that Tocilizumab STADA will have the same effects as RoActemra in its authorised uses. Therefore, the Agency's view was that, as for RoActemra, the benefits of Tocilizumab STADA outweigh the identified risks and it can be authorised for use in the EU.
+All these data were considered sufficient to conclude that Tosmova will have the same effects as RoActemra in its authorised uses. Therefore, the Agency's view was that, as for RoActemra, the benefits of Tosmova outweigh the identified risks and it can be authorised for use in the EU.
 
-### What measures are being taken to ensure the safe and effective use of Tocilizumab STADA?
+### What measures are being taken to ensure the safe and effective use of Tosmova?
 
-The company that markets Tocilizumab STADA must supply all doctors expected to prescribe the medicine for rheumatoid arthritis, systemic juvenile idiopathic arthritis and juvenile idiopathic polyarthritis with an educational pack containing important information on the safety and correct use of Tocilizumab STADA. The pack will also include a patient alert card with key safety information for patients.
+The company that markets Tosmova must supply all doctors expected to prescribe the medicine for rheumatoid arthritis, systemic juvenile idiopathic arthritis and juvenile idiopathic polyarthritis with an educational pack containing important information on the safety and correct use of Tosmova. The pack will also include a patient alert card with key safety information for patients.
 
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tocilizumab STADA have also been included in the summary of product characteristics and the package leaflet.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tosmova have also been included in the summary of product characteristics and the package leaflet.
 
-As for all medicines, data on the use of Tocilizumab STADA are continuously monitored. Suspected side effects reported with Tocilizumab STADA are carefully evaluated and any necessary action is taken to protect patients.
+As for all medicines, data on the use of Tosmova are continuously monitored. Suspected side effects reported with Tosmova are carefully evaluated and any necessary action is taken to protect patients.
 
-### Other information about Tocilizumab STADA
+### Other information about Tosmova
 
-Tocilizumab STADA received a marketing authorisation valid throughout the EU on 20 June 2024.
+Tosmova received a marketing authorisation valid throughout the EU on 20 June 2024.
 
-Tofidence : EPAR - Medicine overview
+Tosmova : EPAR - Medicine overview
 
 Reference Number: EMA/230842/2024
 
-English (EN) (149.89 KB - PDF)
+English (EN) (151.75 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/en/documents/overview/tofidence-epar-medicine-overview_en.pdf)
+[View](/en/documents/overview/tosmova-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-540)
+[Other languages (22)](#file-language-dropdown-506)
 
-български (BG) (176.9 KB - PDF)
+български (BG) (166.54 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/bg/documents/overview/tofidence-epar-medicine-overview_bg.pdf)
+[View](/bg/documents/overview/tosmova-epar-medicine-overview_bg.pdf)
 
-español (ES) (149.52 KB - PDF)
+español (ES) (150.55 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/es/documents/overview/tofidence-epar-medicine-overview_es.pdf)
+[View](/es/documents/overview/tosmova-epar-medicine-overview_es.pdf)
 
-čeština (CS) (173.87 KB - PDF)
+čeština (CS) (174.14 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/cs/documents/overview/tofidence-epar-medicine-overview_cs.pdf)
+[View](/cs/documents/overview/tosmova-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (148.24 KB - PDF)
+dansk (DA) (148.98 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/da/documents/overview/tofidence-epar-medicine-overview_da.pdf)
+[View](/da/documents/overview/tosmova-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (153.51 KB - PDF)
+Deutsch (DE) (153.93 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/de/documents/overview/tofidence-epar-medicine-overview_de.pdf)
+[View](/de/documents/overview/tosmova-epar-medicine-overview_de.pdf)
 
-eesti (ET) (146.86 KB - PDF)
+eesti (ET) (147.17 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/et/documents/overview/tofidence-epar-medicine-overview_et.pdf)
+[View](/et/documents/overview/tosmova-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (175.14 KB - PDF)
+ελληνικά (EL) (173.31 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/el/documents/overview/tofidence-epar-medicine-overview_el.pdf)
+[View](/el/documents/overview/tosmova-epar-medicine-overview_el.pdf)
 
-français (FR) (151.29 KB - PDF)
+français (FR) (152.24 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/fr/documents/overview/tofidence-epar-medicine-overview_fr.pdf)
+[View](/fr/documents/overview/tosmova-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (173.52 KB - PDF)
+hrvatski (HR) (173.59 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/hr/documents/overview/tofidence-epar-medicine-overview_hr.pdf)
+[View](/hr/documents/overview/tosmova-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (147.82 KB - PDF)
+italiano (IT) (149.34 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/it/documents/overview/tofidence-epar-medicine-overview_it.pdf)
+[View](/it/documents/overview/tosmova-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (182.29 KB - PDF)
+latviešu (LV) (180.99 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/lv/documents/overview/tofidence-epar-medicine-overview_lv.pdf)
+[View](/lv/documents/overview/tosmova-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (173.28 KB - PDF)
+lietuvių (LT) (173.42 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/lt/documents/overview/tofidence-epar-medicine-overview_lt.pdf)
+[View](/lt/documents/overview/tosmova-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (173.33 KB - PDF)
+magyar (HU) (171 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/hu/documents/overview/tofidence-epar-medicine-overview_hu.pdf)
+[View](/hu/documents/overview/tosmova-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (176.5 KB - PDF)
+Malti (MT) (176.46 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/mt/documents/overview/tofidence-epar-medicine-overview_mt.pdf)
+[View](/mt/documents/overview/tosmova-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (149.87 KB - PDF)
+Nederlands (NL) (150.49 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/nl/documents/overview/tofidence-epar-medicine-overview_nl.pdf)
+[View](/nl/documents/overview/tosmova-epar-medicine-overview_nl.pdf)
 
-polski (PL) (175.61 KB - PDF)
+polski (PL) (176.8 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/pl/documents/overview/tofidence-epar-medicine-overview_pl.pdf)
+[View](/pl/documents/overview/tosmova-epar-medicine-overview_pl.pdf)
 
-português (PT) (149.82 KB - PDF)
+português (PT) (140.99 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/pt/documents/overview/tofidence-epar-medicine-overview_pt.pdf)
+[View](/pt/documents/overview/tosmova-epar-medicine-overview_pt.pdf)
 
-română (RO) (171.53 KB - PDF)
+română (RO) (172.19 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/ro/documents/overview/tofidence-epar-medicine-overview_ro.pdf)
+[View](/ro/documents/overview/tosmova-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (174.93 KB - PDF)
+slovenčina (SK) (173.64 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/sk/documents/overview/tofidence-epar-medicine-overview_sk.pdf)
+[View](/sk/documents/overview/tosmova-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (169.57 KB - PDF)
+slovenščina (SL) (170.21 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/sl/documents/overview/tofidence-epar-medicine-overview_sl.pdf)
+[View](/sl/documents/overview/tosmova-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (146.2 KB - PDF)
+suomi (FI) (146.69 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/fi/documents/overview/tofidence-epar-medicine-overview_fi.pdf)
+[View](/fi/documents/overview/tosmova-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (147.47 KB - PDF)
+svenska (SV) (148.59 KB - PDF)
 
-**First published:** 10/07/2024 **Last updated:** 05/02/2026
+**First published:** 10/07/2024 **Last updated:** 11/11/2026
 
-[View](/sv/documents/overview/tofidence-epar-medicine-overview_sv.pdf)
+[View](/sv/documents/overview/tosmova-epar-medicine-overview_sv.pdf)
 
 Tosmova : EPAR - Risk-management-plan
 
@@ -273,7 +273,7 @@ English (EN) (1.25 MB - PDF)
 
 [View](/en/documents/product-information/tosmova-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-123)
+[Other languages (24)](#file-language-dropdown-889)
 
 български (BG) (1.54 MB - PDF)
 
@@ -419,7 +419,7 @@ norsk (NO) (943.17 KB - PDF)
 
 [View](/no/documents/product-information/tocilizumab-stada-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000369980
+**Latest procedure affecting product information:**VR/0000369980
 
 20/10/2026
 
@@ -427,7 +427,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -446,7 +446,7 @@ English (EN) (55.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tosmova-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-399)
 
 български (BG) (64.29 KB - PDF)
 
@@ -635,7 +635,7 @@ Tosmova can be given as monotherapy in case of intolerance to MTX or where conti
 - **EMA product number**
     - EMEA/H/C/005984
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
     - STADA Arzneimittel AG Stadastrasse 2-18  
 Bad Vilbel  
@@ -705,7 +705,7 @@ English (EN) (341.67 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tocilizumab-stada-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-794)
+[Other languages (24)](#file-language-dropdown-726)
 
 български (BG) (455.6 KB - DOCX)
 
@@ -853,6 +853,6 @@ norsk (NO) (157.39 KB - DOCX)
 
 **This page was last updated on**
 
-20/10/2026
+11/11/2026
 
 ## Share this page

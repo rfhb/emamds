@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-26 13:40:00
+document_datetime: 2026-11-16 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisunla.html
 document_name: kisunla.html
 version: success
-processing_time: 0.0797287
-conversion_datetime: 2026-03-01 19:27:45.489822
+processing_time: 0.1986119
+conversion_datetime: 2026-11-20 19:18:56.668399
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Kisunla
 
 [RSS](/en/individual-human-medicine.xml/256956)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-donanemab Medicine Human Authorised
+donanemab
+
+MedicineHumanAuthorised
 
 Page contents
 
@@ -44,7 +46,7 @@ Page contents
 
 ## Overview
 
-Kisunla is a medicine for treating adults with mild cognitive impairment (memory and thinking problems) and mild dementia due to Alzheimer's disease (early Alzheimer's disease). It is for people who have only one or no copy of a gene called the apolipoprotein E4 ( *ApoE4* ) and who have an abnormal build-up of protein deposits known as amyloid beta plaques in the brain.
+Kisunla is a medicine for treating adults with mild cognitive impairment (memory and thinking problems) and mild dementia due to Alzheimer's disease (early Alzheimer's disease). It is for people who have only one or no copy of a gene called the apolipoprotein E4 (*ApoE4*) and who have an abnormal build-up of protein deposits known as amyloid beta plaques in the brain.
 
 Kisunla contains the active substance donanemab.
 
@@ -52,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Kisunla used?
+### How is Kisunla used?
 
 Kisunla can only be obtained with a prescription. It is given as an infusion (drip) into a vein once every four weeks.
 
@@ -64,11 +66,11 @@ Treatment should only be started by a doctor experienced in diagnosing and treat
 
 For more information about using Kisunla, including about MRI scans, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Kisunla work?
+### How does Kisunla work?
 
 The active substance in Kisunla, donanemab, is a monoclonal antibody (a type of protein) that attaches to a substance in the brain called amyloid beta. In people with Alzheimer's disease, the amyloid beta accumulates in the brain as plaques which can disrupt normal brain function. By attaching to amyloid beta, the medicine activates microglial cells, the brain's immune cells, to clear the amyloid deposits leading to a reduction in the plaques in the brain.
 
-## What benefits of Kisunla have been shown in studies?
+### What benefits of Kisunla have been shown in studies?
 
 The company provided data from a study involving 1,736 patients with early Alzheimer's disease who had amyloid beta plaques in their brain and who received either Kisunla or placebo (a dummy treatment).
 
@@ -76,7 +78,7 @@ The main measure of effectiveness was a change in symptoms after 76 weeks, measu
 
 The study showed that, on average, after 18 months of treatment, the iADRs score worsened by 11 points in patients who received Kisunla and 13 points in those given placebo.
 
-## What are the risks associated with Kisunla?
+### What are the risks associated with Kisunla?
 
 For the full list of side effects and restrictions with Kisunla, see the package leaflet.
 
@@ -88,13 +90,13 @@ Kisunla must not be used in people with severe disease affecting the brain's whi
 
 Kisunla must also not be used in people who cannot undergo an MRI because they have a fear of enclosed spaces (claustrophobia), have metallic implants or a metallic pacemaker in the heart.
 
-## Why is Kisunla authorised in the EU?
+### Why is Kisunla authorised in the EU?
 
 Kisunla slows down cognitive decline in patients with early Alzheimer's disease compared with placebo. ARIA is a common side effect and, although most patients with ARIA do not experience symptoms, some patients may have serious ones, such as bleeds in the brain. Cases of ARIA, including serious ones, are less frequent in patients with only one or no copy of ApoE4. The European Medicines Agency therefore decided that in this group of patients, the risk of ARIA can be reduced with appropriate risk minimisation measures.
 
 The Agency concluded that Kisunla's benefits are greater than its risks in patients with mild cognitive impairment or mild dementia due to Alzheimer's disease with one or no copy of ApoE4, and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Kisunla?
+### What measures are being taken to ensure the safe and effective use of Kisunla?
 
 The company that markets Kisunla will implement a controlled access programme in collaboration with national competent authorities to ensure that Kisunla is only used in the recommended patient population.
 
@@ -106,7 +108,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Kisunla are continuously monitored. Suspected side effects reported with Kisunla are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Kisunla
+### Other information about Kisunla
 
 Kisunla received a marketing authorisation valid throughout the EU on 24 September 2025.
 
@@ -120,181 +122,137 @@ English (EN) (131.98 KB - PDF)
 
 [View](/en/documents/overview/kisunla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-383)
+[Other languages (22)](#file-language-dropdown-684)
 
 български (BG) (158.15 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/bg/documents/overview/kisunla-epar-medicine-overview_bg.pdf)
 
 español (ES) (131.61 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/es/documents/overview/kisunla-epar-medicine-overview_es.pdf)
 
 čeština (CS) (156.99 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/cs/documents/overview/kisunla-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (137.64 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/da/documents/overview/kisunla-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (136.39 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/de/documents/overview/kisunla-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (128.92 KB - PDF)
+eesti (ET) (128.92 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/et/documents/overview/kisunla-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (157.76 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/el/documents/overview/kisunla-epar-medicine-overview_el.pdf)
 
 français (FR) (133.13 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/fr/documents/overview/kisunla-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (157.72 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/hr/documents/overview/kisunla-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (130.36 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/it/documents/overview/kisunla-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (165.27 KB - PDF)
+latviešu (LV) (165.27 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/lv/documents/overview/kisunla-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (156.6 KB - PDF)
+lietuvių (LT) (156.6 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/lt/documents/overview/kisunla-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (153.87 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/hu/documents/overview/kisunla-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (156.68 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/mt/documents/overview/kisunla-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (125.16 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/nl/documents/overview/kisunla-epar-medicine-overview_nl.pdf)
 
 polski (PL) (160.54 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/pl/documents/overview/kisunla-epar-medicine-overview_pl.pdf)
 
 português (PT) (133.76 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/pt/documents/overview/kisunla-epar-medicine-overview_pt.pdf)
 
 română (RO) (155.45 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/ro/documents/overview/kisunla-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (158.33 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sk/documents/overview/kisunla-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (153.01 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sl/documents/overview/kisunla-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (129.54 KB - PDF)
+suomi (FI) (129.54 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/fi/documents/overview/kisunla-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (130.42 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sv/documents/overview/kisunla-epar-medicine-overview_sv.pdf)
 
@@ -310,311 +268,168 @@ English (EN) (2.88 MB - PDF)
 
 Kisunla : EPAR - Product information
 
-English (EN) (543.09 KB - PDF)
+English (EN) (531.38 KB - PDF)
 
-**First published:** 28/10/2025
-
-**Last updated:** 26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information/kisunla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-604)
+[Other languages (24)](#file-language-dropdown-178)
 
-български (BG) (626.75 KB - PDF)
+български (BG) (645.78 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information/kisunla-epar-product-information_bg.pdf)
 
-español (ES) (570.62 KB - PDF)
+español (ES) (627.73 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information/kisunla-epar-product-information_es.pdf)
 
-čeština (CS) (554.64 KB - PDF)
+čeština (CS) (572.18 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information/kisunla-epar-product-information_cs.pdf)
 
-dansk (DA) (505.35 KB - PDF)
+dansk (DA) (563.32 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information/kisunla-epar-product-information_da.pdf)
 
-Deutsch (DE) (670.38 KB - PDF)
+Deutsch (DE) (688.24 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information/kisunla-epar-product-information_de.pdf)
 
-eesti keel (ET) (523.56 KB - PDF)
+eesti (ET) (538.69 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information/kisunla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (545.13 KB - PDF)
+ελληνικά (EL) (623.48 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information/kisunla-epar-product-information_el.pdf)
 
-français (FR) (594.84 KB - PDF)
+français (FR) (581.71 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information/kisunla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (558.63 KB - PDF)
+hrvatski (HR) (576.92 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information/kisunla-epar-product-information_hr.pdf)
 
-íslenska (IS) (480.59 KB - PDF)
+italiano (IT) (1014.21 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
-
-[View](/is/documents/product-information/kisunla-epar-product-information_is.pdf)
-
-italiano (IT) (655.25 KB - PDF)
-
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information/kisunla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (537.73 KB - PDF)
+latviešu (LV) (600.27 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information/kisunla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (607.62 KB - PDF)
+lietuvių (LT) (609.62 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information/kisunla-epar-product-information_lt.pdf)
 
-magyar (HU) (580.48 KB - PDF)
+magyar (HU) (592.43 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information/kisunla-epar-product-information_hu.pdf)
 
-Malti (MT) (696.77 KB - PDF)
+Malti (MT) (725.4 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information/kisunla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (516.26 KB - PDF)
+Nederlands (NL) (507.33 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information/kisunla-epar-product-information_nl.pdf)
 
-norsk (NO) (498.32 KB - PDF)
+polski (PL) (650.21 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
-
-[View](/no/documents/product-information/kisunla-epar-product-information_no.pdf)
-
-polski (PL) (642.85 KB - PDF)
-
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information/kisunla-epar-product-information_pl.pdf)
 
-português (PT) (539.38 KB - PDF)
+português (PT) (560.83 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information/kisunla-epar-product-information_pt.pdf)
 
-română (RO) (574.55 KB - PDF)
+română (RO) (657.83 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information/kisunla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (604.07 KB - PDF)
+slovenčina (SK) (647.31 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information/kisunla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (568.77 KB - PDF)
+slovenščina (SL) (583.28 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information/kisunla-epar-product-information_sl.pdf)
 
-Suomi (FI) (504.17 KB - PDF)
+suomi (FI) (515.35 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information/kisunla-epar-product-information_fi.pdf)
 
-svenska (SV) (510.61 KB - PDF)
+svenska (SV) (519.7 KB - PDF)
 
-**First published:**
-
-28/10/2025
-
-**Last updated:**
-
-26/02/2026
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information/kisunla-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000327219 26/02/2026
+Íslenska (IS) (544.37 KB - PDF)
+
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
+
+[View](/is/documents/product-information/kisunla-epar-product-information_is.pdf)
+
+norsk (NO) (565.17 KB - PDF)
+
+**First published:** 28/10/2025 **Last updated:** 16/11/2026
+
+[View](/no/documents/product-information/kisunla-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000314841
+
+05/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -632,199 +447,151 @@ English (EN) (69.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-863)
+[Other languages (24)](#file-language-dropdown-127)
 
 български (BG) (122.58 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/bg/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (80.94 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/es/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (90.09 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/cs/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (71.91 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/da/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (73.21 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/de/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (61.81 KB - PDF)
+eesti (ET) (61.81 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/et/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (78.25 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/el/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (72.17 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/fr/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (99.31 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/hr/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (66.82 KB - PDF)
-
-**First published:**
-
-28/10/2025
-
-[View](/is/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.25 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/it/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (80.32 KB - PDF)
+latviešu (LV) (80.32 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/lv/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (80.43 KB - PDF)
+lietuvių (LT) (80.43 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/lt/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (67.67 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/hu/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (89.96 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/mt/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (62.16 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/nl/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (60.83 KB - PDF)
-
-**First published:**
-
-28/10/2025
-
-[View](/no/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (64.22 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/pl/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (93.15 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/pt/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (66.84 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/ro/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (90.19 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sk/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (78.05 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sl/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (63.05 KB - PDF)
+suomi (FI) (63.05 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/fi/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (77.83 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sv/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (66.82 KB - PDF)
+
+**First published:** 28/10/2025
+
+[View](/is/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (60.83 KB - PDF)
+
+**First published:** 28/10/2025
+
+[View](/no/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_no.pdf)
 
 Kisunla : EPAR - Conditions imposed on member states for safe and effective use
 
@@ -834,216 +601,171 @@ English (EN) (92.08 KB - PDF)
 
 [View](/en/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-555)
+[Other languages (25)](#file-language-dropdown-563)
 
 български (BG) (111.54 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/bg/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_bg.pdf)
 
 español (ES) (112.76 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/es/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_es.pdf)
 
 čeština (CS) (76.05 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/cs/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_cs.pdf)
 
 dansk (DA) (107.11 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/da/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_da.pdf)
 
 Deutsch (DE) (93.52 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/de/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_de.pdf)
 
-eesti keel (ET) (70.96 KB - PDF)
+eesti (ET) (70.96 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/et/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_et.pdf)
 
 ελληνικά (EL) (74.76 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/el/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_el.pdf)
 
 français (FR) (79.84 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/fr/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_fr.pdf)
 
-hrvatski (HR) (93.07 KB - PDF)
-
-**First published:**
-
-28/10/2025
-
-[View](/hr/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_hr.pdf)
-
-íslenska (IS) (67.62 KB - PDF)
-
-**First published:**
-
-28/10/2025
-
-[View](/is/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_is.pdf)
-
 Gaeilge (GA) (76.85 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/ga/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_ga.pdf)
 
+hrvatski (HR) (93.07 KB - PDF)
+
+**First published:** 28/10/2025
+
+[View](/hr/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_hr.pdf)
+
 italiano (IT) (109.29 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/it/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_it.pdf)
 
-latviešu valoda (LV) (78.52 KB - PDF)
+latviešu (LV) (78.52 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/lv/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_lv.pdf)
 
-lietuvių kalba (LT) (100.19 KB - PDF)
+lietuvių (LT) (100.19 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/lt/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_lt.pdf)
 
 magyar (HU) (106.12 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/hu/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_hu.pdf)
 
 Malti (MT) (119.07 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/mt/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_mt.pdf)
 
 Nederlands (NL) (65.28 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/nl/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_nl.pdf)
 
-norsk (NO) (83.21 KB - PDF)
-
-**First published:**
-
-28/10/2025
-
-[View](/no/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_no.pdf)
-
 polski (PL) (72.19 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/pl/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_pl.pdf)
 
 português (PT) (86.27 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/pt/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_pt.pdf)
 
 română (RO) (97.89 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/ro/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_ro.pdf)
 
 slovenčina (SK) (119.79 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sk/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_sk.pdf)
 
 slovenščina (SL) (105.38 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sl/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_sl.pdf)
 
-Suomi (FI) (84.85 KB - PDF)
+suomi (FI) (84.85 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/fi/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_fi.pdf)
 
 svenska (SV) (78.26 KB - PDF)
 
-**First published:**
-
-28/10/2025
+**First published:** 28/10/2025
 
 [View](/sv/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_sv.pdf)
 
+Íslenska (IS) (67.62 KB - PDF)
+
+**First published:** 28/10/2025
+
+[View](/is/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_is.pdf)
+
+norsk (NO) (83.21 KB - PDF)
+
+**First published:** 28/10/2025
+
+[View](/no/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_no.pdf)
+
 ## Product details
 
-Name of medicine Kisunla Active substance donanemab International non-proprietary name (INN) or common name donanemab Therapeutic area (MeSH)
-
-- Alzheimer Disease
-- Cognitive Dysfunction
-
-Anatomical therapeutic chemical (ATC) code N06DX05
+- **Name of medicine**
+    - Kisunla
+- **Active substance**
+    - donanemab
+- **International non-proprietary name (INN) or common name**
+    - donanemab
+- **Therapeutic area (MeSH)**
+        - Alzheimer Disease
+        - Cognitive Dysfunction
+- **Anatomical therapeutic chemical (ATC) code**
+    - N06DX05
 
 ### Pharmacotherapeutic group
 
@@ -1056,19 +778,20 @@ Donanemab is indicated for the treatment of adult patients with a clinical diagn
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006024
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000 3528 BD Utrecht Netherlands
-
-Opinion adopted 24/07/2025 Marketing authorisation issued 24/09/2025 Revision 3
+- **EMA product number**
+    - EMEA/H/C/006024
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Marketing authorisation holder**
+    - Eli Lilly Nederland B.V. Orteliuslaan 1000  
+3528 BD Utrecht  
+Netherlands
+- **Opinion adopted**
+    - 24/07/2025
+- **Marketing authorisation issued**
+    - 24/09/2025
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -1076,19 +799,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Kisunla : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.29 KB - PDF)
+English (EN) (171.25 KB - PDF)
 
-**First published:** 13/01/2026
-
-**Last updated:** 26/02/2026
+**First published:** 13/01/2026 **Last updated:** 16/11/2026
 
 [View](/en/documents/procedural-steps-after/kisunla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Kisunla : EPAR - Public assessment report
 
@@ -1102,9 +823,7 @@ English (EN) (6.26 MB - PDF)
 
 CHMP summary of positive opinion for Kisunla
 
-Adopted
-
-Reference Number: EMADOC-628903358-125940
+Adopted Reference Number: EMADOC-628903358-125940
 
 English (EN) (175.15 KB - PDF)
 
@@ -1114,13 +833,21 @@ English (EN) (175.15 KB - PDF)
 
 ## News on Kisunla
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
+25/07/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+20/06/2025
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
+
+25/04/2025
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
+
+28/03/2025
 
 ## Questions and answers on on Kisunla
 
@@ -1136,20 +863,16 @@ English (EN) (113.65 KB - PDF)
 
 Questions and answers on the refusal of the marketing authorisation for Kisunla (donanemab)
 
-Adopted
-
-Reference Number: EMA/98483/2025 Corr.1
+Adopted Reference Number: EMA/98483/2025 Corr.1
 
 English (EN) (210.12 KB - PDF)
 
-**First published:** 28/03/2025
-
-**Last updated:** 25/07/2025
+**First published:** 28/03/2025 **Last updated:** 25/07/2025
 
 [View](/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-kisunla-donanemab_en.pdf)
 
-**This page was last updated on** 26/02/2026
+**This page was last updated on**
+
+16/11/2026
 
 ## Share this page
-
-[Back to top](#main-content)

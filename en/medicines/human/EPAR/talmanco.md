@@ -1,108 +1,32 @@
 ---
-document_datetime: 2026-05-08 12:20:00
+document_datetime: 2026-11-17 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/talmanco.html
 document_name: talmanco.html
 version: success
-processing_time: 0.1314593
-conversion_datetime: 2026-05-10 12:22:13.662744
+processing_time: 0.185475
+conversion_datetime: 2026-11-20 19:25:43.740845
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Talmanco (previously Tadalafil Generics)
-
 # Talmanco (previously Tadalafil Generics)
 
 [RSS](/en/individual-human-medicine.xml/65665)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 tadalafil
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -114,9 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Talmanco (previously Tadalafil Generics)](#news-on)
-- [More information on Talmanco (previously Tadalafil Generics)](#more-information-on-talmanco-previously-tadalafil-generics-1043)
 - [Related information](#related-information-495)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -132,7 +54,7 @@ Expand section
 
 Collapse section
 
-## What is Talmanco and what is it used for?
+### What is Talmanco and what is it used for?
 
 Talmanco is a medicine used to treat adults with pulmonary arterial hypertension (PAH) to improve exercise capacity (the ability to carry out physical activity). PAH is abnormally high blood pressure in the arteries of the lungs. Talmanco is used in patients with class-II (slight limitation of physical activity) or class-III (marked limitation of physical activity) PAH.
 
@@ -140,35 +62,35 @@ Talmanco contains the active substance tadalafil.
 
 Talmanco is a 'generic medicine'. This means that Talmanco contains the same active substance and works in the same way as a 'reference medicine' already authorised in the European Union (EU) called Adcirca.
 
-## How is Talmanco used?
+### How is Talmanco used?
 
 Talmanco can only be obtained with a prescription and treatment should be started and monitored by a doctor who has experience in the treatment of PAH.
 
 Talmanco is available as 20 mg tablets. The recommended dose is two tablets (40 mg) once a day. Patients with mild or moderate kidney or liver problems should be started on a lower dose. Talmanco is not recommended for patients with severe kidney or liver problems.
 
-## How does Talmanco work?
+### How does Talmanco work?
 
 PAH is a debilitating disease where there is severe narrowing of the blood vessels of the lungs. This leads to high blood pressure in the vessels taking blood from the heart to the lungs and reduces the amount of oxygen that can get into the blood in the lungs, making physical activity more difficult. The active substance in Talmanco, tadalafil, belongs to a group of medicines called 'phosphodiesterase type 5 (PDE5) inhibitors', which means that it blocks the PDE5 enzyme. This enzyme is found in the blood vessels of the lungs. When the enzyme is blocked, a substance called 'cyclic guanosine monophosphate' (cGMP) cannot be broken down and remains in the vessels where it causes widening of the blood vessels. In patients with PAH, this lowers the blood pressure in the lungs and improves symptoms.
 
-## How has Talmanco been studied?
+### How has Talmanco been studied?
 
 Studies on the benefits and risks of the active substance in the approved use have already been carried out with the reference medicine, Adcirca, and do not need to be repeated for Talmanco.
 
 As for every medicine, the company provided studies on the quality of Talmanco. The company also carried out studies that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Talmanco?
+### What are the benefits and risks of Talmanco?
 
 Because Talmanco is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Talmanco approved?
+### Why is Talmanco approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) concluded that, in accordance with EU requirements, Talmanco has been shown to have comparable quality and to be bioequivalent to Adcirca. Therefore, the CHMP's view was that, as for Adcirca, the benefit outweighs the identified risk. The Committee recommended that Talmanco be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Talmanco?
+### What measures are being taken to ensure the safe and effective use of Talmanco?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Talmanco have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Talmanco
+### Other information about Talmanco
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Tadalafil Generics on 9 January 2017. The name of the medicine was changed to Talmanco on 1 March 2017.
 
@@ -184,7 +106,7 @@ English (EN) (93.25 KB - PDF)
 
 [View](/en/documents/overview/talmanco-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-915)
+[Other languages (22)](#file-language-dropdown-545)
 
 български (BG) (120.55 KB - PDF)
 
@@ -216,7 +138,7 @@ Deutsch (DE) (94.09 KB - PDF)
 
 [View](/de/documents/overview/talmanco-epar-summary-public_de.pdf)
 
-eesti keel (ET) (91.81 KB - PDF)
+eesti (ET) (91.81 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
@@ -246,13 +168,13 @@ italiano (IT) (92.14 KB - PDF)
 
 [View](/it/documents/overview/talmanco-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (114.82 KB - PDF)
+latviešu (LV) (114.82 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
 [View](/lv/documents/overview/talmanco-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (115.4 KB - PDF)
+lietuvių (LT) (115.4 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
@@ -306,7 +228,7 @@ slovenščina (SL) (111.77 KB - PDF)
 
 [View](/sl/documents/overview/talmanco-epar-summary-public_sl.pdf)
 
-Suomi (FI) (91.94 KB - PDF)
+suomi (FI) (91.94 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
@@ -322,167 +244,168 @@ svenska (SV) (92.44 KB - PDF)
 
 Talmanco : EPAR - Product Information
 
-English (EN) (184.55 KB - PDF)
+English (EN) (358.61 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/en/documents/product-information/talmanco-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-694)
 
-български (BG) (310.77 KB - PDF)
+български (BG) (561.71 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/bg/documents/product-information/talmanco-epar-product-information_bg.pdf)
 
-español (ES) (198.84 KB - PDF)
+español (ES) (253.44 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/es/documents/product-information/talmanco-epar-product-information_es.pdf)
 
-čeština (CS) (220.46 KB - PDF)
+čeština (CS) (426.64 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/cs/documents/product-information/talmanco-epar-product-information_cs.pdf)
 
-dansk (DA) (188.97 KB - PDF)
+dansk (DA) (435.24 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/da/documents/product-information/talmanco-epar-product-information_da.pdf)
 
-Deutsch (DE) (209.23 KB - PDF)
+Deutsch (DE) (434.11 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/de/documents/product-information/talmanco-epar-product-information_de.pdf)
 
-eesti keel (ET) (186.89 KB - PDF)
+eesti (ET) (392.02 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/et/documents/product-information/talmanco-epar-product-information_et.pdf)
 
-ελληνικά (EL) (328.22 KB - PDF)
+ελληνικά (EL) (483.86 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/el/documents/product-information/talmanco-epar-product-information_el.pdf)
 
-français (FR) (218.51 KB - PDF)
+français (FR) (404.95 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/fr/documents/product-information/talmanco-epar-product-information_fr.pdf)
 
-hrvatski (HR) (209.37 KB - PDF)
+hrvatski (HR) (500.97 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/hr/documents/product-information/talmanco-epar-product-information_hr.pdf)
 
-íslenska (IS) (189.75 KB - PDF)
+italiano (IT) (1.6 MB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information/talmanco-epar-product-information_is.pdf)
-
-italiano (IT) (245.4 KB - PDF)
-
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/it/documents/product-information/talmanco-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (245.79 KB - PDF)
+latviešu (LV) (362.33 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/lv/documents/product-information/talmanco-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (228.43 KB - PDF)
+lietuvių (LT) (422.63 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/lt/documents/product-information/talmanco-epar-product-information_lt.pdf)
 
-magyar (HU) (215.24 KB - PDF)
+magyar (HU) (545.75 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/hu/documents/product-information/talmanco-epar-product-information_hu.pdf)
 
-Malti (MT) (537.99 KB - PDF)
+Malti (MT) (523.5 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/mt/documents/product-information/talmanco-epar-product-information_mt.pdf)
 
-Nederlands (NL) (436.56 KB - PDF)
+Nederlands (NL) (477.91 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/nl/documents/product-information/talmanco-epar-product-information_nl.pdf)
 
-norsk (NO) (184.76 KB - PDF)
+polski (PL) (514.97 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information/talmanco-epar-product-information_no.pdf)
-
-polski (PL) (511.65 KB - PDF)
-
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/pl/documents/product-information/talmanco-epar-product-information_pl.pdf)
 
-português (PT) (434.46 KB - PDF)
+português (PT) (285.28 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/pt/documents/product-information/talmanco-epar-product-information_pt.pdf)
 
-română (RO) (229.17 KB - PDF)
+română (RO) (485.91 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/ro/documents/product-information/talmanco-epar-product-information_ro.pdf)
 
-slovenčina (SK) (213.9 KB - PDF)
+slovenčina (SK) (527.79 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/sk/documents/product-information/talmanco-epar-product-information_sk.pdf)
 
-slovenščina (SL) (204.41 KB - PDF)
+slovenščina (SL) (504.39 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/sl/documents/product-information/talmanco-epar-product-information_sl.pdf)
 
-Suomi (FI) (193.51 KB - PDF)
+suomi (FI) (449.47 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/fi/documents/product-information/talmanco-epar-product-information_fi.pdf)
 
-svenska (SV) (185.23 KB - PDF)
+svenska (SV) (174.82 KB - PDF)
 
-**First published:** 26/01/2017 **Last updated:** 08/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
 
 [View](/sv/documents/product-information/talmanco-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (428.47 KB - PDF)
 
-05/05/2026
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
+
+[View](/is/documents/product-information/talmanco-epar-product-information_is.pdf)
+
+norsk (NO) (429.85 KB - PDF)
+
+**First published:** 26/01/2017 **Last updated:** 17/11/2026
+
+[View](/no/documents/product-information/talmanco-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000384015
+
+17/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -500,7 +423,7 @@ English (EN) (33.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-648)
 
 български (BG) (35.49 KB - PDF)
 
@@ -532,7 +455,7 @@ Deutsch (DE) (34.34 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (33.35 KB - PDF)
+eesti (ET) (33.35 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
@@ -556,25 +479,19 @@ hrvatski (HR) (33.17 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (27.28 KB - PDF)
-
-**First published:** 26/01/2017 **Last updated:** 13/06/2017
-
-[View](/is/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (26.53 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
 [View](/it/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (33.29 KB - PDF)
+latviešu (LV) (33.29 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
 [View](/lv/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (33.84 KB - PDF)
+lietuvių (LT) (33.84 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
@@ -597,12 +514,6 @@ Nederlands (NL) (32.95 KB - PDF)
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
 [View](/nl/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (33.58 KB - PDF)
-
-**First published:** 26/01/2017 **Last updated:** 13/06/2017
-
-[View](/no/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (34.57 KB - PDF)
 
@@ -634,7 +545,7 @@ slovenščina (SL) (32.93 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (32.74 KB - PDF)
+suomi (FI) (32.74 KB - PDF)
 
 **First published:** 26/01/2017 **Last updated:** 13/06/2017
 
@@ -646,27 +557,30 @@ svenska (SV) (32.69 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (27.28 KB - PDF)
+
+**First published:** 26/01/2017 **Last updated:** 13/06/2017
+
+[View](/is/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (33.58 KB - PDF)
+
+**First published:** 26/01/2017 **Last updated:** 13/06/2017
+
+[View](/no/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Talmanco (previously Tadalafil Generics)
-
-Active substance
-
-tadalafil
-
-International non-proprietary name (INN) or common name
-
-tadalafil
-
-Therapeutic area (MeSH)
-
-Hypertension, Pulmonary
-
-Anatomical therapeutic chemical (ATC) code
-
-G04BE08
+- **Name of medicine**
+    - Talmanco (previously Tadalafil Generics)
+- **Active substance**
+    - tadalafil
+- **International non-proprietary name (INN) or common name**
+    - tadalafil
+- **Therapeutic area (MeSH)**
+    - Hypertension, Pulmonary
+- **Anatomical therapeutic chemical (ATC) code**
+    - G04BE08
 
 ### Pharmacotherapeutic group
 
@@ -678,31 +592,20 @@ Talmanco is indicated in adults for the treatment of pulmonary arterial hyperten
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004297
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-10/11/2016
-
-Marketing authorisation issued
-
-09/01/2017
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/004297
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
+- **Opinion adopted**
+    - 10/11/2016
+- **Marketing authorisation issued**
+    - 09/01/2017
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -710,13 +613,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Talmanco: EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (163.01 KB - PDF)
+English (EN) (162.66 KB - PDF)
 
-**First published:** 09/04/2025 **Last updated:** 08/05/2026
+**First published:** 09/04/2025 **Last updated:** 17/11/2026
 
 [View](/en/documents/procedural-steps-after/talmanco-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -728,7 +631,7 @@ English (EN) (120.28 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/talmanco-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Tadalafil Generics : EPAR - Public assessment report
 
@@ -756,163 +659,12 @@ English (EN) (75.19 KB - PDF)
 
 11/11/2016
 
-## More information on Talmanco (previously Tadalafil Generics)
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-731)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:** 09/07/2007 **Last updated:** 07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
 ## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0042970000) (Initial marketing authorisation)
 
-## Topics
-
-- [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-08/05/2026
+17/11/2026
 
 ## Share this page

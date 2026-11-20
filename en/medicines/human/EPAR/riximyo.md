@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-04 15:34:00
+document_datetime: 2026-11-12 16:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/riximyo.html
 document_name: riximyo.html
 version: success
-processing_time: 0.1576479
-conversion_datetime: 2026-09-11 17:59:35.043396
+processing_time: 0.1958669
+conversion_datetime: 2026-11-20 19:24:11.21893
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Riximyo
 
 [RSS](/en/individual-human-medicine.xml/66512)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 rituximab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -119,7 +119,7 @@ English (EN) (147.22 KB - PDF)
 
 [View](/en/documents/overview/riximyo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-435)
+[Other languages (22)](#file-language-dropdown-367)
 
 български (BG) (166.41 KB - PDF)
 
@@ -265,167 +265,167 @@ English (EN) (841.53 KB - PDF)
 
 Riximyo : EPAR - Product Information
 
-English (EN) (4.77 MB - PDF)
+English (EN) (727.01 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/en/documents/product-information/riximyo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-805)
+[Other languages (24)](#file-language-dropdown-548)
 
-български (BG) (5.88 MB - PDF)
+български (BG) (1.01 MB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/bg/documents/product-information/riximyo-epar-product-information_bg.pdf)
 
-español (ES) (4.69 MB - PDF)
+español (ES) (936.29 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/es/documents/product-information/riximyo-epar-product-information_es.pdf)
 
-čeština (CS) (5.17 MB - PDF)
+čeština (CS) (1.05 MB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/cs/documents/product-information/riximyo-epar-product-information_cs.pdf)
 
-dansk (DA) (4.17 MB - PDF)
+dansk (DA) (844.99 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/da/documents/product-information/riximyo-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.68 MB - PDF)
+Deutsch (DE) (1.13 MB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/de/documents/product-information/riximyo-epar-product-information_de.pdf)
 
-eesti (ET) (4.69 MB - PDF)
+eesti (ET) (717.66 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/et/documents/product-information/riximyo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (5.81 MB - PDF)
+ελληνικά (EL) (1.17 MB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/el/documents/product-information/riximyo-epar-product-information_el.pdf)
 
-français (FR) (5.1 MB - PDF)
+français (FR) (859.9 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/fr/documents/product-information/riximyo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.99 MB - PDF)
+hrvatski (HR) (1020.08 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/hr/documents/product-information/riximyo-epar-product-information_hr.pdf)
 
-italiano (IT) (4.66 MB - PDF)
+italiano (IT) (952.16 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/it/documents/product-information/riximyo-epar-product-information_it.pdf)
 
-latviešu (LV) (5.08 MB - PDF)
+latviešu (LV) (999.21 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/lv/documents/product-information/riximyo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (4.25 MB - PDF)
+lietuvių (LT) (990.56 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/lt/documents/product-information/riximyo-epar-product-information_lt.pdf)
 
-magyar (HU) (3.67 MB - PDF)
+magyar (HU) (911.42 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/hu/documents/product-information/riximyo-epar-product-information_hu.pdf)
 
-Malti (MT) (4.68 MB - PDF)
+Malti (MT) (883.69 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/mt/documents/product-information/riximyo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.2 MB - PDF)
+Nederlands (NL) (1.05 MB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/nl/documents/product-information/riximyo-epar-product-information_nl.pdf)
 
-polski (PL) (4.46 MB - PDF)
+polski (PL) (1.32 MB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/pl/documents/product-information/riximyo-epar-product-information_pl.pdf)
 
-português (PT) (12.16 MB - PDF)
+português (PT) (916.16 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/pt/documents/product-information/riximyo-epar-product-information_pt.pdf)
 
-română (RO) (4.77 MB - PDF)
+română (RO) (1.01 MB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/ro/documents/product-information/riximyo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.51 MB - PDF)
+slovenčina (SK) (943.63 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/sk/documents/product-information/riximyo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (5.22 MB - PDF)
+slovenščina (SL) (935.75 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/sl/documents/product-information/riximyo-epar-product-information_sl.pdf)
 
-suomi (FI) (3.67 MB - PDF)
+suomi (FI) (893.89 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/fi/documents/product-information/riximyo-epar-product-information_fi.pdf)
 
-svenska (SV) (4.64 MB - PDF)
+svenska (SV) (846.3 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/sv/documents/product-information/riximyo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (4.11 MB - PDF)
+Íslenska (IS) (822.96 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/is/documents/product-information/riximyo-epar-product-information_is.pdf)
 
-norsk (NO) (4.7 MB - PDF)
+norsk (NO) (828.91 KB - PDF)
 
-**First published:** 28/07/2017 **Last updated:** 04/09/2026
+**First published:** 28/07/2017 **Last updated:** 12/11/2026
 
 [View](/no/documents/product-information/riximyo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000355500
+**Latest procedure affecting product information:**VR/0000377870
 
-03/09/2026
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -444,7 +444,7 @@ English (EN) (14.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/riximyo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-723)
+[Other languages (24)](#file-language-dropdown-574)
 
 български (BG) (35.72 KB - PDF)
 
@@ -653,15 +653,17 @@ Riximyo is indicated for the treatment of patients with moderate to severe pemph
 - **EMA product number**
     - EMEA/H/C/004729
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
-    - Sandoz GmbH Biochemiestrasse 10  6250 Kundl  Austria
+    - Sandoz GmbH Biochemiestrasse 10  
+6250 Kundl  
+Austria
 - **Opinion adopted**
     - 21/04/2017
 - **Marketing authorisation issued**
     - 15/06/2017
 - **Revision**
-    - 18
+    - 19
 
 ## Assessment history
 
@@ -673,9 +675,9 @@ Collapse section
 
 Riximyo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (179.28 KB - PDF)
+English (EN) (192.98 KB - PDF)
 
-**First published:** 28/05/2025 **Last updated:** 04/09/2026
+**First published:** 28/05/2025 **Last updated:** 12/11/2026
 
 [View](/en/documents/procedural-steps-after/riximyo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -747,11 +749,11 @@ English (EN) (72.17 KB - PDF)
 
 ## Topics
 
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A45)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-04/09/2026
+12/11/2026
 
 ## Share this page

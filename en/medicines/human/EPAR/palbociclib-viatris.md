@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-23 13:20:00
+document_datetime: 2026-11-10 15:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palbociclib-viatris.html
 document_name: palbociclib-viatris.html
 version: success
-processing_time: 0.1292964
-conversion_datetime: 2026-06-25 16:45:49.656645
+processing_time: 0.1658013
+conversion_datetime: 2026-11-20 19:22:37.475737
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Palbociclib Viatris
 
 [RSS](/en/individual-human-medicine.xml/277546)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 palbociclib
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -52,7 +52,7 @@ Palbociclib Viatris is a cancer medicine used to treat breast cancer when the ca
 
 In women who have not yet reached menopause, a medicine called a luteinising hormone-releasing hormone agonist should also be given.
 
-Palbociclib Viatris contains the active substance palbociclib and is a 'generic medicine'. This means that Palbociclib Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Palbociclib Viatris is Ibrance. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
+Palbociclib Viatris contains the active substance palbociclib and is a 'generic medicine'. This means that Palbociclib Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Palbociclib Viatris is Ibrance. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf).
 
 Expand section
 
@@ -104,7 +104,7 @@ English (EN) (179.79 KB - PDF)
 
 [View](/en/documents/overview/palbociclib-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-314)
+[Other languages (22)](#file-language-dropdown-738)
 
 български (BG) (184.17 KB - PDF)
 
@@ -250,163 +250,167 @@ English (EN) (253.36 KB - PDF)
 
 Palbociclib Viatris : EPAR - Product information
 
-English (EN) (576.33 KB - PDF)
+English (EN) (570.53 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/palbociclib-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-120)
+[Other languages (24)](#file-language-dropdown-208)
 
-български (BG) (795.79 KB - PDF)
+български (BG) (590.09 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/palbociclib-viatris-epar-product-information_bg.pdf)
 
-español (ES) (750.75 KB - PDF)
+español (ES) (477.29 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/palbociclib-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (850.94 KB - PDF)
+čeština (CS) (650.83 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/palbociclib-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (658.39 KB - PDF)
+dansk (DA) (592.16 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/palbociclib-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (845.13 KB - PDF)
+Deutsch (DE) (677.6 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/palbociclib-viatris-epar-product-information_de.pdf)
 
-eesti (ET) (656.96 KB - PDF)
+eesti (ET) (541.95 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/palbociclib-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (834.31 KB - PDF)
+ελληνικά (EL) (613.22 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/el/documents/product-information/palbociclib-viatris-epar-product-information_el.pdf)
 
-français (FR) (737.93 KB - PDF)
+français (FR) (730.21 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/palbociclib-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (798.07 KB - PDF)
+hrvatski (HR) (680.54 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/palbociclib-viatris-epar-product-information_hr.pdf)
 
-italiano (IT) (786.31 KB - PDF)
+italiano (IT) (707.58 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/palbociclib-viatris-epar-product-information_it.pdf)
 
-latviešu (LV) (770.39 KB - PDF)
+latviešu (LV) (771.5 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/palbociclib-viatris-epar-product-information_lv.pdf)
 
-lietuvių (LT) (725.25 KB - PDF)
+lietuvių (LT) (568.05 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/palbociclib-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (780.01 KB - PDF)
+magyar (HU) (769.91 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/palbociclib-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (857.79 KB - PDF)
+Malti (MT) (737.42 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/palbociclib-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (758.26 KB - PDF)
+Nederlands (NL) (887.51 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/palbociclib-viatris-epar-product-information_nl.pdf)
 
-polski (PL) (746.72 KB - PDF)
+polski (PL) (632.26 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/palbociclib-viatris-epar-product-information_pl.pdf)
 
-português (PT) (734 KB - PDF)
+português (PT) (745.41 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/palbociclib-viatris-epar-product-information_pt.pdf)
 
-română (RO) (731.55 KB - PDF)
+română (RO) (751.23 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/palbociclib-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (873.52 KB - PDF)
+slovenčina (SK) (729.2 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/palbociclib-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (742.94 KB - PDF)
+slovenščina (SL) (650.62 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/palbociclib-viatris-epar-product-information_sl.pdf)
 
-suomi (FI) (588.3 KB - PDF)
+suomi (FI) (602.86 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/palbociclib-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (942.62 KB - PDF)
+svenska (SV) (840.59 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/palbociclib-viatris-epar-product-information_sv.pdf)
 
-Íslenska (IS) (670.69 KB - PDF)
+Íslenska (IS) (585.19 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/is/documents/product-information/palbociclib-viatris-epar-product-information_is.pdf)
 
-norsk (NO) (682.21 KB - PDF)
+norsk (NO) (619.9 KB - PDF)
 
-**First published:** 23/06/2026
+**First published:** 23/06/2026 **Last updated:** 10/11/2026
 
 [View](/no/documents/product-information/palbociclib-viatris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000383816
+
+10/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -425,7 +429,7 @@ English (EN) (62.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palbociclib-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-3)
+[Other languages (24)](#file-language-dropdown-244)
 
 български (BG) (76.88 KB - PDF)
 
@@ -602,15 +606,33 @@ In pre- or perimenopausal women, the endocrine therapy should be combined with a
 - **EMA product number**
     - EMEA/H/C/006624
 - **Generic**
-    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
 - **Marketing authorisation holder**
-    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
 - **Opinion adopted**
     - 23/04/2026
 - **Marketing authorisation issued**
     - 19/06/2026
+- **Revision**
+    - 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Palbociclib Viatris : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (123.78 KB - PDF)
+
+**First published:** 10/11/2026
+
+[View](/en/documents/procedural-steps-after/palbociclib-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -642,6 +664,6 @@ English (EN) (128.08 KB - PDF)
 
 **This page was last updated on**
 
-23/06/2026
+10/11/2026
 
 ## Share this page

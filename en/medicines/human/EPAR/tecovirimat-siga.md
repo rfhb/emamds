@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-15 12:06:00
+document_datetime: 2026-11-17 15:55:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecovirimat-siga.html
 document_name: tecovirimat-siga.html
 version: success
-processing_time: 0.158188
-conversion_datetime: 2026-06-16 13:44:08.130734
+processing_time: 0.2015734
+conversion_datetime: 2026-11-20 19:26:16.46886
 docling_version:
-  docling-serve: 1.24.0
-  docling-jobkit: 1.23.1
-  docling: 2.102.2
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Tecovirimat SIGA
 
 [RSS](/en/individual-human-medicine.xml/67513)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 tecovirimat monohydrate
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -92,7 +92,7 @@ Tecovirimat SIGA has been authorised under 'exceptional circumstances'. This is 
 
 The company that markets Tecovirimat SIGA will therefore provide data on the effectiveness and safety of the medicine in patients given the medicine should an outbreak of smallpox occur. Every year, the Agency will review any new information that becomes available and this overview will be updated as necessary.
 
-Following a [review carried out in 2026](https://www.ema.europa.eu/en/documents/referral/tecovirimat-siga-article-20-procedure-ema-recommends-restricting-use-tecovirimat-siga_en.pdf) , the use of Tecovirimat SIGA for the treatment of mpox in adults and children weighing at least 13kg is no longer authorised.
+Following a [review carried out in 2026](https://www.ema.europa.eu/en/documents/referral/tecovirimat-siga-article-20-procedure-ema-recommends-restricting-use-tecovirimat-siga_en.pdf), the use of Tecovirimat SIGA for the treatment of mpox in adults and children weighing at least 13kg is no longer authorised.
 
 ### What measures are being taken to ensure the safe and effective use of Tecovirimat SIGA?
 
@@ -112,7 +112,7 @@ English (EN) (118.78 KB - PDF)
 
 [View](/en/documents/overview/tecovirimat-siga-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-307)
+[Other languages (22)](#file-language-dropdown-180)
 
 български (BG) (135.59 KB - PDF)
 
@@ -248,9 +248,9 @@ svenska (SV) (113.19 KB - PDF)
 
 Tecovirimat SIGA - EPAR - Risk management plan
 
-English (EN) (1.89 MB - PDF)
+English (EN) (1.99 MB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/en/documents/rmp/tecovirimat-siga-epar-risk-management-plan_en.pdf)
 
@@ -258,167 +258,168 @@ English (EN) (1.89 MB - PDF)
 
 Tecovirimat SIGA : EPAR - Product Information
 
-English (EN) (388.43 KB - PDF)
+English (EN) (428.77 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/en/documents/product-information/tecovirimat-siga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-155)
+[Other languages (24)](#file-language-dropdown-926)
 
-български (BG) (499.78 KB - PDF)
+български (BG) (493.83 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/bg/documents/product-information/tecovirimat-siga-epar-product-information_bg.pdf)
 
-español (ES) (391.8 KB - PDF)
+español (ES) (401.97 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/es/documents/product-information/tecovirimat-siga-epar-product-information_es.pdf)
 
-čeština (CS) (420.04 KB - PDF)
+čeština (CS) (420.95 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/cs/documents/product-information/tecovirimat-siga-epar-product-information_cs.pdf)
 
-dansk (DA) (403.13 KB - PDF)
+dansk (DA) (412.15 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/da/documents/product-information/tecovirimat-siga-epar-product-information_da.pdf)
 
-Deutsch (DE) (403.17 KB - PDF)
+Deutsch (DE) (421.39 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/de/documents/product-information/tecovirimat-siga-epar-product-information_de.pdf)
 
-eesti (ET) (370.04 KB - PDF)
+eesti (ET) (368.6 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/et/documents/product-information/tecovirimat-siga-epar-product-information_et.pdf)
 
-ελληνικά (EL) (532.73 KB - PDF)
+ελληνικά (EL) (532.25 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/el/documents/product-information/tecovirimat-siga-epar-product-information_el.pdf)
 
-français (FR) (437.53 KB - PDF)
+français (FR) (446.17 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/fr/documents/product-information/tecovirimat-siga-epar-product-information_fr.pdf)
 
-hrvatski (HR) (433.84 KB - PDF)
+hrvatski (HR) (443.03 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/hr/documents/product-information/tecovirimat-siga-epar-product-information_hr.pdf)
 
-italiano (IT) (392.83 KB - PDF)
+italiano (IT) (411.86 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/it/documents/product-information/tecovirimat-siga-epar-product-information_it.pdf)
 
-latviešu (LV) (431.8 KB - PDF)
+latviešu (LV) (427.84 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/lv/documents/product-information/tecovirimat-siga-epar-product-information_lv.pdf)
 
-lietuvių (LT) (437.34 KB - PDF)
+lietuvių (LT) (449.67 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/lt/documents/product-information/tecovirimat-siga-epar-product-information_lt.pdf)
 
-magyar (HU) (470.2 KB - PDF)
+magyar (HU) (482.43 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/hu/documents/product-information/tecovirimat-siga-epar-product-information_hu.pdf)
 
-Malti (MT) (456.63 KB - PDF)
+Malti (MT) (485.86 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/mt/documents/product-information/tecovirimat-siga-epar-product-information_mt.pdf)
 
-Nederlands (NL) (374.91 KB - PDF)
+Nederlands (NL) (393.21 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/nl/documents/product-information/tecovirimat-siga-epar-product-information_nl.pdf)
 
-polski (PL) (447.59 KB - PDF)
+polski (PL) (447.3 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/pl/documents/product-information/tecovirimat-siga-epar-product-information_pl.pdf)
 
-português (PT) (420.49 KB - PDF)
+português (PT) (416.66 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/pt/documents/product-information/tecovirimat-siga-epar-product-information_pt.pdf)
 
-română (RO) (491 KB - PDF)
+română (RO) (490.69 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/ro/documents/product-information/tecovirimat-siga-epar-product-information_ro.pdf)
 
-slovenčina (SK) (460.23 KB - PDF)
+slovenčina (SK) (442.89 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/sk/documents/product-information/tecovirimat-siga-epar-product-information_sk.pdf)
 
-slovenščina (SL) (467.53 KB - PDF)
+slovenščina (SL) (466.31 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/sl/documents/product-information/tecovirimat-siga-epar-product-information_sl.pdf)
 
-suomi (FI) (383.1 KB - PDF)
+suomi (FI) (403.23 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/fi/documents/product-information/tecovirimat-siga-epar-product-information_fi.pdf)
 
-svenska (SV) (384.39 KB - PDF)
+svenska (SV) (385.79 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/sv/documents/product-information/tecovirimat-siga-epar-product-information_sv.pdf)
 
-Íslenska (IS) (418.25 KB - PDF)
+Íslenska (IS) (420.7 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/is/documents/product-information/tecovirimat-siga-epar-product-information_is.pdf)
 
-norsk (NO) (406.96 KB - PDF)
+norsk (NO) (411.42 KB - PDF)
 
-**First published:** 28/01/2022 **Last updated:** 15/06/2026
+**First published:** 28/01/2022 **Last updated:** 17/11/2026
 
 [View](/no/documents/product-information/tecovirimat-siga-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** REF/0000287477
+**Latest procedure affecting product information:**R/0000340615
 
-28/05/2026
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +437,7 @@ English (EN) (96.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecovirimat-siga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-587)
+[Other languages (24)](#file-language-dropdown-350)
 
 български (BG) (113.21 KB - PDF)
 
@@ -584,29 +585,20 @@ norsk (NO) (97.79 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Tecovirimat SIGA
-
-Active substance
-
-tecovirimat
-
-International non-proprietary name (INN) or common name
-
-tecovirimat monohydrate
-
-Therapeutic area (MeSH)
-
-- Poxviridae Infections
-- Cowpox
-- Monkeypox
-- Vaccinia
-- Smallpox
-
-Anatomical therapeutic chemical (ATC) code
-
-J05AX24
+- **Name of medicine**
+    - Tecovirimat SIGA
+- **Active substance**
+    - tecovirimat
+- **International non-proprietary name (INN) or common name**
+    - tecovirimat monohydrate
+- **Therapeutic area (MeSH)**
+        - Poxviridae Infections
+        - Cowpox
+        - Monkeypox
+        - Vaccinia
+        - Smallpox
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AX24
 
 ### Pharmacotherapeutic group
 
@@ -614,47 +606,33 @@ Antivirals for systemic use
 
 ### Therapeutic indication
 
-Tecovirimat SIGA is indicated for the treatment of the following viral infections in adults and children with body weight at least 13 kg:
+Tecovirimat SIGA is indicated for the treatment of the following viral infections in adults and children with body weight at least 13kg:
 
 - Smallpox
-- Monkeypox
 - Cowpox
 
-Tecovirimat SIGA is also indicated to treat complications due to replication of vaccinia virus following vaccination against smallpox in adults and children with body weight at least 13 kg (see sections 4.4 and 5.1).
+Tecovirimat SIGA is also indicated to treat complications due to replication of vaccinia virus following vaccination against smallpox in adults and children with body weight at least 13kg .
 
 Tecovirimat SIGA should be used in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005248
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Exceptional circumstances
-
-This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
-
-Marketing authorisation holder
-
-SIGA Technologies Netherlands B.V.
-
-Prinsenhil 29 4825 AX Breda Netherlands
-
-Opinion adopted
-
-11/11/2021
-
-Marketing authorisation issued
-
-06/01/2022
-
-Revision
-
-6
+- **EMA product number**
+    - EMEA/H/C/005248
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
+- **Exceptional circumstances**
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554).
+- **Marketing authorisation holder**
+    - SIGA Technologies Netherlands B.V. Prinsenhil 29  
+4825 AX Breda  
+Netherlands
+- **Opinion adopted**
+    - 11/11/2021
+- **Marketing authorisation issued**
+    - 06/01/2022
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -666,9 +644,9 @@ Collapse section
 
 Tecovirimat SIGA : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (160.37 KB - PDF)
+English (EN) (177.61 KB - PDF)
 
-**First published:** 15/06/2026
+**First published:** 15/06/2026 **Last updated:** 17/11/2026
 
 [View](/en/documents/procedural-steps-after/tecovirimat-siga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -680,7 +658,7 @@ English (EN) (166.36 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/tecovirimat-siga-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-Tecovirimat SIGA :  Annex IV - Scientific conclusions (referral)
+Tecovirimat SIGA : Annex IV - Scientific conclusions (referral)
 
 English (EN) (158.25 KB - PDF)
 
@@ -688,7 +666,7 @@ English (EN) (158.25 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/tecovirimat-siga-annex-iv-scientific-conclusions-referral_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-511)
+[Other languages (22)](#file-language-dropdown-434)
 
 български (BG) (154.63 KB - PDF)
 
@@ -885,6 +863,6 @@ English (EN) (107.25 KB - PDF)
 
 **This page was last updated on**
 
-15/06/2026
+17/11/2026
 
 ## Share this page

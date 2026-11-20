@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-30 10:57:00
+document_datetime: 2026-11-16 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-ratiopharm.html
 document_name: leflunomide-ratiopharm.html
 version: success
-processing_time: 0.1457756
-conversion_datetime: 2026-08-04 13:54:12.538456
+processing_time: 0.2096487
+conversion_datetime: 2026-11-20 19:19:29.568388
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.118.0
-  docling-core: 2.90.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Leflunomide ratiopharm
 
 [RSS](/en/individual-human-medicine.xml/66996)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 leflunomide
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -102,7 +102,7 @@ English (EN) (74.1 KB - PDF)
 
 [View](/en/documents/overview/leflunomide-ratiopharm-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-559)
+[Other languages (22)](#file-language-dropdown-415)
 
 български (BG) (101.75 KB - PDF)
 
@@ -248,167 +248,167 @@ English (EN) (294.06 KB - PDF)
 
 Leflunomide ratiopharm : EPAR - Product information
 
-English (EN) (406.01 KB - PDF)
+English (EN) (407.36 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information/leflunomide-ratiopharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-672)
 
-български (BG) (452.75 KB - PDF)
+български (BG) (457.24 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information/leflunomide-ratiopharm-epar-product-information_bg.pdf)
 
-español (ES) (417.56 KB - PDF)
+español (ES) (422.26 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information/leflunomide-ratiopharm-epar-product-information_es.pdf)
 
-čeština (CS) (511.56 KB - PDF)
+čeština (CS) (515.85 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information/leflunomide-ratiopharm-epar-product-information_cs.pdf)
 
-dansk (DA) (310.18 KB - PDF)
+dansk (DA) (312.89 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information/leflunomide-ratiopharm-epar-product-information_da.pdf)
 
-Deutsch (DE) (416.45 KB - PDF)
+Deutsch (DE) (419.93 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information/leflunomide-ratiopharm-epar-product-information_de.pdf)
 
-eesti (ET) (318.26 KB - PDF)
+eesti (ET) (321.28 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information/leflunomide-ratiopharm-epar-product-information_et.pdf)
 
-ελληνικά (EL) (621.55 KB - PDF)
+ελληνικά (EL) (625.52 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information/leflunomide-ratiopharm-epar-product-information_el.pdf)
 
-français (FR) (335.98 KB - PDF)
+français (FR) (338.1 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information/leflunomide-ratiopharm-epar-product-information_fr.pdf)
 
-hrvatski (HR) (404.12 KB - PDF)
+hrvatski (HR) (406.63 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information/leflunomide-ratiopharm-epar-product-information_hr.pdf)
 
-italiano (IT) (324.97 KB - PDF)
+italiano (IT) (356.89 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information/leflunomide-ratiopharm-epar-product-information_it.pdf)
 
-latviešu (LV) (412.54 KB - PDF)
+latviešu (LV) (416.17 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information/leflunomide-ratiopharm-epar-product-information_lv.pdf)
 
-lietuvių (LT) (414.66 KB - PDF)
+lietuvių (LT) (418.39 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information/leflunomide-ratiopharm-epar-product-information_lt.pdf)
 
-magyar (HU) (419.45 KB - PDF)
+magyar (HU) (424.78 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information/leflunomide-ratiopharm-epar-product-information_hu.pdf)
 
-Malti (MT) (449.74 KB - PDF)
+Malti (MT) (453.76 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information/leflunomide-ratiopharm-epar-product-information_mt.pdf)
 
-Nederlands (NL) (321.61 KB - PDF)
+Nederlands (NL) (324.45 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information/leflunomide-ratiopharm-epar-product-information_nl.pdf)
 
-polski (PL) (674.87 KB - PDF)
+polski (PL) (680.35 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information/leflunomide-ratiopharm-epar-product-information_pl.pdf)
 
-português (PT) (356.44 KB - PDF)
+português (PT) (364.05 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information/leflunomide-ratiopharm-epar-product-information_pt.pdf)
 
-română (RO) (422.25 KB - PDF)
+română (RO) (427.15 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information/leflunomide-ratiopharm-epar-product-information_ro.pdf)
 
-slovenčina (SK) (422.6 KB - PDF)
+slovenčina (SK) (427.47 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information/leflunomide-ratiopharm-epar-product-information_sk.pdf)
 
-slovenščina (SL) (445.76 KB - PDF)
+slovenščina (SL) (450.58 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information/leflunomide-ratiopharm-epar-product-information_sl.pdf)
 
-suomi (FI) (321.18 KB - PDF)
+suomi (FI) (322.78 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information/leflunomide-ratiopharm-epar-product-information_fi.pdf)
 
-svenska (SV) (318.11 KB - PDF)
+svenska (SV) (320.02 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information/leflunomide-ratiopharm-epar-product-information_sv.pdf)
 
-Íslenska (IS) (412.46 KB - PDF)
+Íslenska (IS) (412.59 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/is/documents/product-information/leflunomide-ratiopharm-epar-product-information_is.pdf)
 
-norsk (NO) (323.61 KB - PDF)
+norsk (NO) (326.73 KB - PDF)
 
-**First published:** 17/01/2011 **Last updated:** 30/07/2026
+**First published:** 17/01/2011 **Last updated:** 16/11/2026
 
 [View](/no/documents/product-information/leflunomide-ratiopharm-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000361570
+**Latest procedure affecting product information:**VR/0000383958
 
-28/07/2026
+16/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -427,7 +427,7 @@ English (EN) (15.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leflunomide-ratiopharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-105)
+[Other languages (18)](#file-language-dropdown-243)
 
 български (BG) (42.52 KB - PDF)
 
@@ -545,7 +545,7 @@ English (EN) (16.29 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leflunomide-ratiopharm-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-176)
+[Other languages (23)](#file-language-dropdown-849)
 
 български (BG) (83.68 KB - PDF)
 
@@ -718,15 +718,17 @@ Moreover, switching from leflunomide to another DMARD without following the wash
 - **EMA product number**
     - EMEA/H/C/002035
 - **Generic**
-    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107).
 - **Marketing authorisation holder**
-    - Ratiopharm GmbH Graf-Arco-Str. 3  D-89079 Ulm  Germany
+    - Ratiopharm GmbH Graf-Arco-Str. 3  
+D-89079 Ulm  
+Germany
 - **Opinion adopted**
     - 23/09/2010
 - **Marketing authorisation issued**
     - 28/11/2010
 - **Revision**
-    - 21
+    - 22
 
 ## Assessment history
 
@@ -738,9 +740,9 @@ Collapse section
 
 Leflunomide ratiopharm : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.03 KB - PDF)
+English (EN) (153.89 KB - PDF)
 
-**First published:** 21/03/2011 **Last updated:** 30/07/2026
+**First published:** 21/03/2011 **Last updated:** 16/11/2026
 
 [View](/en/documents/procedural-steps-after/leflunomide-ratiopharm-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -766,6 +768,6 @@ English (EN) (47.54 KB - PDF)
 
 **This page was last updated on**
 
-30/07/2026
+16/11/2026
 
 ## Share this page

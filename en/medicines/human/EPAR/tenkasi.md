@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-06 17:44:00
+document_datetime: 2026-11-10 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tenkasi.html
 document_name: tenkasi.html
 version: success
-processing_time: 0.1204015
-conversion_datetime: 2026-08-07 13:47:25.366011
+processing_time: 0.425111
+conversion_datetime: 2026-11-20 19:26:31.890687
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Tenkasi (previously Orbactiv)
 
 [RSS](/en/individual-human-medicine.xml/66758)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 oritavancin
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -108,7 +108,7 @@ English (EN) (148.5 KB - PDF)
 
 [View](/en/documents/overview/tenkasi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-58)
+[Other languages (22)](#file-language-dropdown-962)
 
 български (BG) (221.33 KB - PDF)
 
@@ -254,167 +254,167 @@ English (EN) (48.59 KB - PDF)
 
 Tenkasi : EPAR - Product Information
 
-English (EN) (461.54 KB - PDF)
+English (EN) (603.74 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/tenkasi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-798)
+[Other languages (24)](#file-language-dropdown-380)
 
-български (BG) (671.06 KB - PDF)
+български (BG) (609.03 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/tenkasi-epar-product-information_bg.pdf)
 
-español (ES) (544.58 KB - PDF)
+español (ES) (661.77 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/tenkasi-epar-product-information_es.pdf)
 
-čeština (CS) (536.88 KB - PDF)
+čeština (CS) (617.93 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/tenkasi-epar-product-information_cs.pdf)
 
-dansk (DA) (311.45 KB - PDF)
+dansk (DA) (575.37 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/tenkasi-epar-product-information_da.pdf)
 
-Deutsch (DE) (415.56 KB - PDF)
+Deutsch (DE) (533.79 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/tenkasi-epar-product-information_de.pdf)
 
-eesti (ET) (589.89 KB - PDF)
+eesti (ET) (442.08 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/tenkasi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (745.41 KB - PDF)
+ελληνικά (EL) (740.31 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/el/documents/product-information/tenkasi-epar-product-information_el.pdf)
 
-français (FR) (610.19 KB - PDF)
+français (FR) (552.51 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/tenkasi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (504.9 KB - PDF)
+hrvatski (HR) (650.33 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/tenkasi-epar-product-information_hr.pdf)
 
-italiano (IT) (403.87 KB - PDF)
+italiano (IT) (437.8 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/tenkasi-epar-product-information_it.pdf)
 
-latviešu (LV) (421.08 KB - PDF)
+latviešu (LV) (789.29 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/tenkasi-epar-product-information_lv.pdf)
 
-lietuvių (LT) (385.37 KB - PDF)
+lietuvių (LT) (381.2 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/tenkasi-epar-product-information_lt.pdf)
 
-magyar (HU) (513.18 KB - PDF)
+magyar (HU) (716.79 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/tenkasi-epar-product-information_hu.pdf)
 
-Malti (MT) (493.19 KB - PDF)
+Malti (MT) (512.78 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/tenkasi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (462.17 KB - PDF)
+Nederlands (NL) (403.37 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/tenkasi-epar-product-information_nl.pdf)
 
-polski (PL) (584.29 KB - PDF)
+polski (PL) (620.86 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/tenkasi-epar-product-information_pl.pdf)
 
-português (PT) (352.25 KB - PDF)
+português (PT) (668.46 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/tenkasi-epar-product-information_pt.pdf)
 
-română (RO) (545.05 KB - PDF)
+română (RO) (624.43 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/tenkasi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (591.74 KB - PDF)
+slovenčina (SK) (563.85 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/tenkasi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (588.07 KB - PDF)
+slovenščina (SL) (569.79 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/tenkasi-epar-product-information_sl.pdf)
 
-suomi (FI) (337.07 KB - PDF)
+suomi (FI) (341.97 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/tenkasi-epar-product-information_fi.pdf)
 
-svenska (SV) (340.07 KB - PDF)
+svenska (SV) (345.99 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/tenkasi-epar-product-information_sv.pdf)
 
-Íslenska (IS) (298.03 KB - PDF)
+Íslenska (IS) (531.83 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/is/documents/product-information/tenkasi-epar-product-information_is.pdf)
 
-norsk (NO) (229.08 KB - PDF)
+norsk (NO) (257.43 KB - PDF)
 
-**First published:** 04/05/2015 **Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 10/11/2026
 
 [View](/no/documents/product-information/tenkasi-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** IA/0046
+**Latest procedure affecting product information:**VR/0000372286
 
-19/11/2024
+10/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -433,7 +433,7 @@ English (EN) (16.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tenkasi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-676)
+[Other languages (24)](#file-language-dropdown-334)
 
 български (BG) (62.86 KB - PDF)
 
@@ -608,11 +608,13 @@ Consideration should be given to official guidance on the appropriate use of ant
 - **EMA product number**
     - EMEA/H/C/003785
 - **Marketing authorisation holder**
-    - Menarini International Operations Luxembourg S.A. 1, Avenue de la Gare  L-1611 Luxembourg  Luxembourg
+    - Menarini International Operations Luxembourg S.A. 1, Avenue de la Gare  
+L-1611 Luxembourg  
+Luxembourg
 - **Marketing authorisation issued**
     - 19/03/2015
 - **Revision**
-    - 17
+    - 18
 
 ## Assessment history
 
@@ -624,11 +626,19 @@ Collapse section
 
 Tenkasi: EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.58 KB - PDF)
+English (EN) (153.32 KB - PDF)
 
-**First published:** 31/03/2016 **Last updated:** 20/11/2024
+**First published:** 10/11/2026
 
 [View](/en/documents/procedural-steps-after/tenkasi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Tenkasi: EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (150.58 KB - PDF)
+
+**First published:** 31/03/2016 **Last updated:** 10/11/2026
+
+[View](/en/documents/procedural-steps-after/tenkasi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Tenkasi-PAM-0000344073 : EPAR - Assessment report
 
@@ -738,6 +748,6 @@ English (EN) (88.07 KB - PDF)
 
 **This page was last updated on**
 
-06/08/2026
+10/11/2026
 
 ## Share this page

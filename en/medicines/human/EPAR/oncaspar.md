@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-05-07 10:54:00
+document_datetime: 2026-11-16 14:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oncaspar.html
 document_name: oncaspar.html
 version: success
-processing_time: 0.1168081
-conversion_datetime: 2026-05-10 13:15:22.442224
+processing_time: 0.2177197
+conversion_datetime: 2026-11-20 19:21:51.020628
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Oncaspar
 
 [RSS](/en/individual-human-medicine.xml/66538)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 pegaspargase
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -54,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Oncaspar used?
+### How is Oncaspar used?
 
 Oncaspar is normally given every 14 days by injection into a muscle or by infusion (drip) into a vein, with the dose depending on age and body surface area.
 
@@ -62,25 +62,25 @@ Oncaspar can only be obtained with a prescription and only healthcare profession
 
 For more information about using Oncaspar, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Oncaspar work?
+### How does Oncaspar work?
 
 The active substance (pegaspargase) contains the enzyme asparaginase which works by breaking up and reducing the blood levels of the amino acid asparagine. The cancer cells need this amino acid to grow and multiply, and so its reduction in the blood causes the cells to die. Normal cells, by contrast, can produce their own asparagine and are less affected by the medicine.
 
 The asparaginase enzyme in this medicine is linked to a chemical which slows down its removal from the body and can reduce the risk of allergic reactions.
 
-## What benefits of Oncaspar have been shown in studies?
+### What benefits of Oncaspar have been shown in studies?
 
 In a study in 118 children newly diagnosed with ALL, 75% of those treated with Oncaspar (in combination with other medicines) were free of the cancer after 7 years, without having relapse or a new cancer during that period. This compares with 66% of those treated with another asparaginase.
 
 In another study of 76 children whose cancer returned after earlier treatment, around 40% of Oncaspar-treated patients (some of whom were allergic to other asparaginase treatments) were cleared of the cancer, compared with 47% of patients treated with an asparaginase comparator.
 
-## What are the risks associated with Oncaspar?
+### What are the risks associated with Oncaspar?
 
 The most common side effects with Oncaspar (which may affect more than 1 in 10 people) include signs of liver problems (raised levels of liver enzymes and bilirubin in the blood), reduced blood clotting, high levels of fats in the blood, high levels of blood glucose and low levels of white blood cells accompanied by fever. For the full list of side effects of Oncaspar, see the package leaflet.
 
 Oncaspar must not be used in patients with severe liver disease, patients who have ever had pancreatitis (including pancreatitis caused by previous asparaginase treatments) or patients who have had severe bleeding or serious blood clots following asparaginase treatment. For the full list of restrictions, see the package leaflet.
 
-## Why is Oncaspar authorised in the EU?
+### Why is Oncaspar authorised in the EU?
 
 Studies showed Oncaspar to be effective in patients with ALL, including patients who were allergic to asparaginase. Oncaspar also comes with the advantage of requiring fewer injections as the medicine stays longer in the body than some other asparaginases. However, the data in adult patients were limited and the company that markets the medicine is to provide further data of its benefit in this group of patients.
 
@@ -92,7 +92,7 @@ As for its risks, the side effects of Oncaspar are similar to those of other asp
 
 The European Medicines Agency therefore concluded that the benefits of Oncaspar are greater than the risks and recommended that it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Oncaspar?
+### What measures are being taken to ensure the safe and effective use of Oncaspar?
 
 The company that markets Oncaspar will complete two more studies on the safety and effectiveness of Oncaspar, which will help further clarify the benefits and risks of this medicine in adults and in newly diagnosed patients.
 
@@ -100,7 +100,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Oncaspar are continuously monitored. Side effects reported with Oncaspar are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Oncaspar
+### Other information about Oncaspar
 
 Oncaspar received a marketing authorisation valid throughout the EU on 14 January 2016.
 
@@ -114,7 +114,7 @@ English (EN) (77.2 KB - PDF)
 
 [View](/en/documents/overview/oncaspar-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-534)
+[Other languages (22)](#file-language-dropdown-46)
 
 български (BG) (102.08 KB - PDF)
 
@@ -146,7 +146,7 @@ Deutsch (DE) (77.79 KB - PDF)
 
 [View](/de/documents/overview/oncaspar-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (74.52 KB - PDF)
+eesti (ET) (74.52 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 10/01/2019
 
@@ -176,13 +176,13 @@ italiano (IT) (76.33 KB - PDF)
 
 [View](/it/documents/overview/oncaspar-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (103.75 KB - PDF)
+latviešu (LV) (103.75 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 10/01/2019
 
 [View](/lv/documents/overview/oncaspar-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (103.99 KB - PDF)
+lietuvių (LT) (103.99 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 10/01/2019
 
@@ -236,7 +236,7 @@ slovenščina (SL) (93.34 KB - PDF)
 
 [View](/sl/documents/overview/oncaspar-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (74.95 KB - PDF)
+suomi (FI) (74.95 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 10/01/2019
 
@@ -250,9 +250,9 @@ svenska (SV) (75.42 KB - PDF)
 
 Oncaspar : EPAR - Risk management plan
 
-English (EN) (699.12 KB - PDF)
+English (EN) (390.04 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 25/10/2024
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/en/documents/rmp/oncaspar-epar-risk-management-plan_en.pdf)
 
@@ -260,167 +260,168 @@ English (EN) (699.12 KB - PDF)
 
 Oncaspar : EPAR - Product Information
 
-English (EN) (508.62 KB - PDF)
+English (EN) (530.46 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/en/documents/product-information/oncaspar-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-760)
+[Other languages (24)](#file-language-dropdown-953)
 
-български (BG) (570.59 KB - PDF)
+български (BG) (593.35 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/bg/documents/product-information/oncaspar-epar-product-information_bg.pdf)
 
-español (ES) (445.91 KB - PDF)
+español (ES) (471.51 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/es/documents/product-information/oncaspar-epar-product-information_es.pdf)
 
-čeština (CS) (535.51 KB - PDF)
+čeština (CS) (539.8 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/cs/documents/product-information/oncaspar-epar-product-information_cs.pdf)
 
-dansk (DA) (274.68 KB - PDF)
+dansk (DA) (297.2 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/da/documents/product-information/oncaspar-epar-product-information_da.pdf)
 
-Deutsch (DE) (487.59 KB - PDF)
+Deutsch (DE) (519.06 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/de/documents/product-information/oncaspar-epar-product-information_de.pdf)
 
-eesti keel (ET) (582.16 KB - PDF)
+eesti (ET) (604.53 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/et/documents/product-information/oncaspar-epar-product-information_et.pdf)
 
-ελληνικά (EL) (585.35 KB - PDF)
+ελληνικά (EL) (638.29 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/el/documents/product-information/oncaspar-epar-product-information_el.pdf)
 
-français (FR) (482.2 KB - PDF)
+français (FR) (514.5 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/fr/documents/product-information/oncaspar-epar-product-information_fr.pdf)
 
-hrvatski (HR) (578.9 KB - PDF)
+hrvatski (HR) (549.43 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/hr/documents/product-information/oncaspar-epar-product-information_hr.pdf)
 
-íslenska (IS) (533.47 KB - PDF)
+italiano (IT) (433.07 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/oncaspar-epar-product-information_is.pdf)
-
-italiano (IT) (414.42 KB - PDF)
-
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/it/documents/product-information/oncaspar-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (547.91 KB - PDF)
+latviešu (LV) (612.49 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/lv/documents/product-information/oncaspar-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (556.3 KB - PDF)
+lietuvių (LT) (631.22 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/lt/documents/product-information/oncaspar-epar-product-information_lt.pdf)
 
-magyar (HU) (598.69 KB - PDF)
+magyar (HU) (632.09 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/hu/documents/product-information/oncaspar-epar-product-information_hu.pdf)
 
-Malti (MT) (466.85 KB - PDF)
+Malti (MT) (541.89 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/mt/documents/product-information/oncaspar-epar-product-information_mt.pdf)
 
-Nederlands (NL) (332.96 KB - PDF)
+Nederlands (NL) (428.96 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/nl/documents/product-information/oncaspar-epar-product-information_nl.pdf)
 
-norsk (NO) (294.01 KB - PDF)
+polski (PL) (530.23 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/oncaspar-epar-product-information_no.pdf)
-
-polski (PL) (524.63 KB - PDF)
-
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/pl/documents/product-information/oncaspar-epar-product-information_pl.pdf)
 
-português (PT) (538.19 KB - PDF)
+português (PT) (572.46 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/pt/documents/product-information/oncaspar-epar-product-information_pt.pdf)
 
-română (RO) (639.44 KB - PDF)
+română (RO) (805.08 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/ro/documents/product-information/oncaspar-epar-product-information_ro.pdf)
 
-slovenčina (SK) (549.42 KB - PDF)
+slovenčina (SK) (606.79 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/sk/documents/product-information/oncaspar-epar-product-information_sk.pdf)
 
-slovenščina (SL) (596.53 KB - PDF)
+slovenščina (SL) (601.69 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/sl/documents/product-information/oncaspar-epar-product-information_sl.pdf)
 
-Suomi (FI) (286.8 KB - PDF)
+suomi (FI) (308.92 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/fi/documents/product-information/oncaspar-epar-product-information_fi.pdf)
 
-svenska (SV) (280.26 KB - PDF)
+svenska (SV) (355.42 KB - PDF)
 
-**First published:** 29/01/2016 **Last updated:** 07/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
 
 [View](/sv/documents/product-information/oncaspar-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000344088
+Íslenska (IS) (549.44 KB - PDF)
 
-04/05/2026
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
+
+[View](/is/documents/product-information/oncaspar-epar-product-information_is.pdf)
+
+norsk (NO) (350.26 KB - PDF)
+
+**First published:** 29/01/2016 **Last updated:** 16/11/2026
+
+[View](/no/documents/product-information/oncaspar-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**VR/0000382985
+
+16/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -438,7 +439,7 @@ English (EN) (10.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-659)
+[Other languages (24)](#file-language-dropdown-676)
 
 български (BG) (83.06 KB - PDF)
 
@@ -470,7 +471,7 @@ Deutsch (DE) (12.82 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (11.96 KB - PDF)
+eesti (ET) (11.96 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 07/06/2022
 
@@ -494,25 +495,19 @@ hrvatski (HR) (58.13 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (9.8 KB - PDF)
-
-**First published:** 29/01/2016 **Last updated:** 07/06/2022
-
-[View](/is/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (11.91 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 07/06/2022
 
 [View](/it/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (63.73 KB - PDF)
+latviešu (LV) (63.73 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 07/06/2022
 
 [View](/lv/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (57.61 KB - PDF)
+lietuvių (LT) (57.61 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 07/06/2022
 
@@ -535,12 +530,6 @@ Nederlands (NL) (8.93 KB - PDF)
 **First published:** 29/01/2016 **Last updated:** 07/06/2022
 
 [View](/nl/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (9 KB - PDF)
-
-**First published:** 29/01/2016 **Last updated:** 07/06/2022
-
-[View](/no/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (63.52 KB - PDF)
 
@@ -572,7 +561,7 @@ slovenščina (SL) (31.14 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (8.86 KB - PDF)
+suomi (FI) (8.86 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 07/06/2022
 
@@ -584,27 +573,30 @@ svenska (SV) (8.94 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (9.8 KB - PDF)
+
+**First published:** 29/01/2016 **Last updated:** 07/06/2022
+
+[View](/is/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (9 KB - PDF)
+
+**First published:** 29/01/2016 **Last updated:** 07/06/2022
+
+[View](/no/documents/all-authorised-presentations/oncaspar-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Oncaspar
-
-Active substance
-
-pegaspargase
-
-International non-proprietary name (INN) or common name
-
-pegaspargase
-
-Therapeutic area (MeSH)
-
-Precursor Cell Lymphoblastic Leukemia-Lymphoma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XX24
+- **Name of medicine**
+    - Oncaspar
+- **Active substance**
+    - pegaspargase
+- **International non-proprietary name (INN) or common name**
+    - pegaspargase
+- **Therapeutic area (MeSH)**
+    - Precursor Cell Lymphoblastic Leukemia-Lymphoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XX24
 
 ### Pharmacotherapeutic group
 
@@ -616,23 +608,17 @@ Oncaspar is indicated as a component of antineoplastic combination therapy in ac
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003789
-
-Marketing authorisation holder
-
-Les Laboratoires Servier
-
-Les Laboratoires Servier
-
-Marketing authorisation issued
-
-14/01/2016
-
-Revision
-
-20
+- **EMA product number**
+    - EMEA/H/C/003789
+- **Marketing authorisation holder**
+    - Les Laboratoires Servier Les Laboratoires Servier  
+50 rue Carnot  
+F-92284 Suresnes Cedex  
+France
+- **Marketing authorisation issued**
+    - 14/01/2016
+- **Revision**
+    - 21
 
 ## Assessment history
 
@@ -640,13 +626,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Oncaspar : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.54 KB - PDF)
+English (EN) (161.45 KB - PDF)
 
-**First published:** 07/05/2026
+**First published:** 07/05/2026 **Last updated:** 16/11/2026
 
 [View](/en/documents/procedural-steps-after/oncaspar-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -676,7 +662,7 @@ English (EN) (129.68 KB - PDF)
 
 **First published:** 16/06/2020
 
-[View](/en/documents/scientific-conclusion/oncaspar-psusa-00010457-201907-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/oncaspar-psusa-00010457-201907-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Oncaspar-PSUSA-00010457-201807 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -686,9 +672,9 @@ English (EN) (66.46 KB - PDF)
 
 **First published:** 16/05/2019
 
-[View](/en/documents/scientific-conclusion/oncaspar-psusa-00010457-201807-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/oncaspar-psusa-00010457-201807-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Oncaspar : EPAR - Public assessment report
 
@@ -718,10 +704,10 @@ English (EN) (70.97 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-07/05/2026
+16/11/2026
 
 ## Share this page

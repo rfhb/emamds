@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-02 16:04:00
+document_datetime: 2026-11-17 15:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ngenla.html
 document_name: ngenla.html
 version: success
-processing_time: 0.3556354
-conversion_datetime: 2026-09-05 10:49:34.800315
+processing_time: 0.1741637
+conversion_datetime: 2026-11-20 19:21:35.579694
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.95.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.17.0
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Ngenla
 
 [RSS](/en/individual-human-medicine.xml/67524)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 somatrogon
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -102,7 +102,7 @@ English (EN) (122.33 KB - PDF)
 
 [View](/en/documents/overview/ngenla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-143)
+[Other languages (22)](#file-language-dropdown-270)
 
 български (BG) (146.88 KB - PDF)
 
@@ -248,167 +248,167 @@ English (EN) (122.9 KB - PDF)
 
 Ngenla : EPAR - Product Information
 
-English (EN) (3.09 MB - PDF)
+English (EN) (2.57 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/en/documents/product-information/ngenla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-746)
+[Other languages (24)](#file-language-dropdown-719)
 
-български (BG) (1.9 MB - PDF)
+български (BG) (1.85 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/bg/documents/product-information/ngenla-epar-product-information_bg.pdf)
 
-español (ES) (1.88 MB - PDF)
+español (ES) (1.94 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/es/documents/product-information/ngenla-epar-product-information_es.pdf)
 
-čeština (CS) (2.02 MB - PDF)
+čeština (CS) (1.95 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/cs/documents/product-information/ngenla-epar-product-information_cs.pdf)
 
-dansk (DA) (1.7 MB - PDF)
+dansk (DA) (1.76 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/da/documents/product-information/ngenla-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.04 MB - PDF)
+Deutsch (DE) (1.98 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/de/documents/product-information/ngenla-epar-product-information_de.pdf)
 
 eesti (ET) (1.73 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/et/documents/product-information/ngenla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.82 MB - PDF)
+ελληνικά (EL) (1.83 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/el/documents/product-information/ngenla-epar-product-information_el.pdf)
 
 français (FR) (1.89 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/fr/documents/product-information/ngenla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.87 MB - PDF)
+hrvatski (HR) (1.92 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/hr/documents/product-information/ngenla-epar-product-information_hr.pdf)
 
-italiano (IT) (1.79 MB - PDF)
+italiano (IT) (1.74 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/it/documents/product-information/ngenla-epar-product-information_it.pdf)
 
-latviešu (LV) (1.87 MB - PDF)
+latviešu (LV) (1.8 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/lv/documents/product-information/ngenla-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.82 MB - PDF)
+lietuvių (LT) (1.76 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/lt/documents/product-information/ngenla-epar-product-information_lt.pdf)
 
-magyar (HU) (1.79 MB - PDF)
+magyar (HU) (1.85 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/hu/documents/product-information/ngenla-epar-product-information_hu.pdf)
 
-Malti (MT) (2.03 MB - PDF)
+Malti (MT) (2.01 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/mt/documents/product-information/ngenla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.89 MB - PDF)
+Nederlands (NL) (1.86 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/nl/documents/product-information/ngenla-epar-product-information_nl.pdf)
 
-polski (PL) (1.92 MB - PDF)
+polski (PL) (1.84 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/pl/documents/product-information/ngenla-epar-product-information_pl.pdf)
 
-português (PT) (1.84 MB - PDF)
+português (PT) (1.8 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/pt/documents/product-information/ngenla-epar-product-information_pt.pdf)
 
-română (RO) (2.13 MB - PDF)
+română (RO) (2.14 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/ro/documents/product-information/ngenla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.12 MB - PDF)
+slovenčina (SK) (2.01 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/sk/documents/product-information/ngenla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.93 MB - PDF)
+slovenščina (SL) (1.95 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/sl/documents/product-information/ngenla-epar-product-information_sl.pdf)
 
-suomi (FI) (1.88 MB - PDF)
+suomi (FI) (1.84 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/fi/documents/product-information/ngenla-epar-product-information_fi.pdf)
 
-svenska (SV) (1.95 MB - PDF)
+svenska (SV) (1.92 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/sv/documents/product-information/ngenla-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.85 MB - PDF)
+Íslenska (IS) (1.84 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/is/documents/product-information/ngenla-epar-product-information_is.pdf)
 
-norsk (NO) (1.78 MB - PDF)
+norsk (NO) (1.75 MB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 21/08/2026
+**First published:** 02/03/2022 **Last updated:** 17/11/2026
 
 [View](/no/documents/product-information/ngenla-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000333019
+**Latest procedure affecting product information:**R/0000340629
 
-02/07/2026
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -427,7 +427,7 @@ English (EN) (36.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ngenla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-591)
+[Other languages (24)](#file-language-dropdown-58)
 
 български (BG) (37.28 KB - PDF)
 
@@ -599,17 +599,19 @@ Indicated for the long-term treatment of paediatric patients with growth disturb
 - **EMA product number**
     - EMEA/H/C/005633
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  
+1050 Bruxelles  
+Belgium
 - **Opinion adopted**
     - 16/12/2021
 - **Marketing authorisation issued**
     - 14/02/2022
 - **Revision**
-    - 11
+    - 12
 
 ## Assessment history
 
@@ -621,9 +623,9 @@ Collapse section
 
 Ngenla : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (157.19 KB - PDF)
+English (EN) (159.04 KB - PDF)
 
-**First published:** 23/04/2025 **Last updated:** 21/08/2026
+**First published:** 23/04/2025 **Last updated:** 17/11/2026
 
 [View](/en/documents/procedural-steps-after/ngenla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -708,6 +710,6 @@ English (EN) (79.18 KB - PDF)
 
 **This page was last updated on**
 
-02/09/2026
+17/11/2026
 
 ## Share this page

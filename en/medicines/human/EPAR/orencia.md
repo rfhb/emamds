@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-05-11 15:05:00
+document_datetime: 2026-11-17 12:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orencia.html
 document_name: orencia.html
 version: success
-processing_time: 0.1513982
-conversion_datetime: 2026-05-13 13:16:39.687183
+processing_time: 0.2299757
+conversion_datetime: 2026-11-20 19:22:06.883085
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Orencia
 
 [RSS](/en/individual-human-medicine.xml/67102)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 abatacept
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Orencia](#news-on)
 - [More information on Orencia](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -60,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Orencia used?
+### How is Orencia used?
 
 Orencia can only be obtained with a prescription, and treatment with it should be started and supervised by a specialised doctor with experience in the diagnosis and treatment of rheumatoid arthritis or polyarticular juvenile idiopathic arthritis.
 
@@ -74,11 +73,11 @@ If Orencia has not worked within 6 months, the doctor should consider if treatme
 
 For more information about using Orencia, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Orencia work?
+### How does Orencia work?
 
 The active substance in Orencia, abatacept, is a protein that suppresses the activation of T cells. T cells are immune system cells that are involved in causing the inflammation in rheumatoid, psoriatic and polyarticular juvenile idiopathic arthritis. T cells are activated when signal molecules attach to receptors on the cells. By attaching to signal molecules called CD80 and CD86, abatacept stops them activating the T cells, helping to reduce the inflammation and other symptoms of the diseases.
 
-## What benefits has Orencia have been shown in studies?
+### What benefits has Orencia have been shown in studies?
 
 **Rheumatoid arthritis**
 
@@ -104,17 +103,17 @@ Orencia was found effective in one main study involving 424 adult patients with 
 
 In another study involving 170 patients with psoriatic arthritis, Orencia given by infusion at the recommended dose reduced symptoms by at least 20% after 24 weeks in over 47% of the patients (19 out of 40) compared with 19% of the patients (8 out of 42) who received placebo.
 
-## What are the risks associated with Orencia?
+### What are the risks associated with Orencia?
 
 The most common side effects with Orencia (seen in more than 1 patient in 10) are upper respiratory tract infections (nose and throat infection).
 
 Orencia must not be used in patients with severe and uncontrolled infections, such as sepsis (when bacteria and their toxins circulate in the blood and start to damage the organs) or 'opportunistic' infections (infections seen in patients with a weakened immune system). For the full list of side effects and restrictions, see the package leaflet.
 
-## Why is Orencia authorised in the EU?
+### Why is Orencia authorised in the EU?
 
 The European Medicines Agency concluded that Orencia had a modest anti?inflammatory effect in rheumatoid arthritis and, in combination with methotrexate, it reduced the worsening of joint damage and improved physical function. The Agency also concluded that Orencia could be a valuable option in the treatment of polyarticular juvenile idiopathic arthritis. Orencia was also shown to reduce symptoms of psoriatic arthritis. The Agency decided that Orencia's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Orencia?
+### What measures are being taken to ensure the safe and effective use of Orencia?
 
 Patients who receive Orencia are given a special alert card explaining that it must not be used in patients with certain infections and instructing patients to contact their doctor immediately if they develop an infection during treatment with Orencia.
 
@@ -122,7 +121,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Orencia is continuously monitored. Side effects reported with Orencia are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Orencia
+### Other information about Orencia
 
 Orencia received a marketing authorisation valid throughout the EU on 21 May 2007.
 
@@ -134,7 +133,7 @@ English (EN) (95.67 KB - PDF)
 
 [View](/en/documents/overview/orencia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-206)
+[Other languages (22)](#file-language-dropdown-397)
 
 български (BG) (135.92 KB - PDF)
 
@@ -166,7 +165,7 @@ Deutsch (DE) (111.38 KB - PDF)
 
 [View](/de/documents/overview/orencia-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (117.01 KB - PDF)
+eesti (ET) (117.01 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
@@ -196,13 +195,13 @@ italiano (IT) (110.45 KB - PDF)
 
 [View](/it/documents/overview/orencia-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (131.3 KB - PDF)
+latviešu (LV) (131.3 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/lv/documents/overview/orencia-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (128.71 KB - PDF)
+lietuvių (LT) (128.71 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
@@ -256,7 +255,7 @@ slovenščina (SL) (125.25 KB - PDF)
 
 [View](/sl/documents/overview/orencia-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (109.96 KB - PDF)
+suomi (FI) (109.96 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
@@ -270,9 +269,9 @@ svenska (SV) (109.78 KB - PDF)
 
 Orencia : EPAR - Risk management plan
 
-English (EN) (13.93 MB - PDF)
+English (EN) (5.66 MB - PDF)
 
-**First published:** 12/04/2019 **Last updated:** 11/05/2026
+**First published:** 12/04/2019 **Last updated:** 17/11/2026
 
 [View](/en/documents/rmp/orencia-epar-risk-management-plan_en.pdf)
 
@@ -280,167 +279,168 @@ English (EN) (13.93 MB - PDF)
 
 Orencia : EPAR - Product Information
 
-English (EN) (2.08 MB - PDF)
+English (EN) (2.23 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/en/documents/product-information/orencia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-450)
+[Other languages (24)](#file-language-dropdown-56)
 
-български (BG) (2.64 MB - PDF)
+български (BG) (2.54 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/bg/documents/product-information/orencia-epar-product-information_bg.pdf)
 
-español (ES) (2.3 MB - PDF)
+español (ES) (2.24 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/es/documents/product-information/orencia-epar-product-information_es.pdf)
 
-čeština (CS) (2.59 MB - PDF)
+čeština (CS) (2.58 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/cs/documents/product-information/orencia-epar-product-information_cs.pdf)
 
-dansk (DA) (2.34 MB - PDF)
+dansk (DA) (2.22 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/da/documents/product-information/orencia-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.42 MB - PDF)
+Deutsch (DE) (2.32 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/de/documents/product-information/orencia-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.3 MB - PDF)
+eesti (ET) (2.22 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/et/documents/product-information/orencia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.4 MB - PDF)
+ελληνικά (EL) (2.45 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/el/documents/product-information/orencia-epar-product-information_el.pdf)
 
-français (FR) (2.37 MB - PDF)
+français (FR) (2.27 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/fr/documents/product-information/orencia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.53 MB - PDF)
+hrvatski (HR) (2.4 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/hr/documents/product-information/orencia-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.24 MB - PDF)
+italiano (IT) (2.28 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
-
-[View](/is/documents/product-information/orencia-epar-product-information_is.pdf)
-
-italiano (IT) (2.27 MB - PDF)
-
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/it/documents/product-information/orencia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.52 MB - PDF)
+latviešu (LV) (2.02 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/lv/documents/product-information/orencia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.03 MB - PDF)
+lietuvių (LT) (2.42 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/lt/documents/product-information/orencia-epar-product-information_lt.pdf)
 
-magyar (HU) (2.56 MB - PDF)
+magyar (HU) (2.46 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/hu/documents/product-information/orencia-epar-product-information_hu.pdf)
 
-Malti (MT) (2.51 MB - PDF)
+Malti (MT) (2.47 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/mt/documents/product-information/orencia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.32 MB - PDF)
+Nederlands (NL) (2.25 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/nl/documents/product-information/orencia-epar-product-information_nl.pdf)
 
-norsk (NO) (2.27 MB - PDF)
+polski (PL) (2.52 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
-
-[View](/no/documents/product-information/orencia-epar-product-information_no.pdf)
-
-polski (PL) (2.56 MB - PDF)
-
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/pl/documents/product-information/orencia-epar-product-information_pl.pdf)
 
-português (PT) (2.29 MB - PDF)
+português (PT) (2.23 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/pt/documents/product-information/orencia-epar-product-information_pt.pdf)
 
-română (RO) (2.7 MB - PDF)
+română (RO) (2.44 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/ro/documents/product-information/orencia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.77 MB - PDF)
+slovenčina (SK) (2.5 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/sk/documents/product-information/orencia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.75 MB - PDF)
+slovenščina (SL) (2.49 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/sl/documents/product-information/orencia-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.36 MB - PDF)
+suomi (FI) (2.62 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/fi/documents/product-information/orencia-epar-product-information_fi.pdf)
 
-svenska (SV) (2.3 MB - PDF)
+svenska (SV) (2.24 MB - PDF)
 
-**First published:** 08/07/2009 **Last updated:** 11/05/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
 
 [View](/sv/documents/product-information/orencia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000287898
+Íslenska (IS) (2.23 MB - PDF)
 
-12/03/2026
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
+
+[View](/is/documents/product-information/orencia-epar-product-information_is.pdf)
+
+norsk (NO) (2.24 MB - PDF)
+
+**First published:** 08/07/2009 **Last updated:** 17/11/2026
+
+[View](/no/documents/product-information/orencia-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:**PSUR/0000344377
+
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -458,7 +458,7 @@ English (EN) (100.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-318)
+[Other languages (24)](#file-language-dropdown-397)
 
 български (BG) (73.14 KB - PDF)
 
@@ -490,7 +490,7 @@ Deutsch (DE) (56.62 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (102.86 KB - PDF)
+eesti (ET) (102.86 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
@@ -514,25 +514,19 @@ hrvatski (HR) (66.9 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (53.86 KB - PDF)
-
-**First published:** 05/06/2007 **Last updated:** 12/04/2019
-
-[View](/is/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (103.69 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/it/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (127.01 KB - PDF)
+latviešu (LV) (127.01 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/lv/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (121 KB - PDF)
+lietuvių (LT) (121 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
@@ -555,12 +549,6 @@ Nederlands (NL) (96.14 KB - PDF)
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/nl/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (98.61 KB - PDF)
-
-**First published:** 05/06/2007 **Last updated:** 12/04/2019
-
-[View](/no/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (129.3 KB - PDF)
 
@@ -592,7 +580,7 @@ slovenščina (SL) (114.85 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (52.4 KB - PDF)
+suomi (FI) (52.4 KB - PDF)
 
 **First published:** 05/06/2007 **Last updated:** 12/04/2019
 
@@ -604,29 +592,32 @@ svenska (SV) (103.61 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (53.86 KB - PDF)
+
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
+
+[View](/is/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (98.61 KB - PDF)
+
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
+
+[View](/no/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Orencia
-
-Active substance
-
-abatacept
-
-International non-proprietary name (INN) or common name
-
-abatacept
-
-Therapeutic area (MeSH)
-
-- Arthritis, Psoriatic
-- Arthritis, Juvenile Rheumatoid
-- Arthritis, Rheumatoid
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AA24
+- **Name of medicine**
+    - Orencia
+- **Active substance**
+    - abatacept
+- **International non-proprietary name (INN) or common name**
+    - abatacept
+- **Therapeutic area (MeSH)**
+        - Arthritis, Psoriatic
+        - Arthritis, Juvenile Rheumatoid
+        - Arthritis, Rheumatoid
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AA24
 
 ### Pharmacotherapeutic group
 
@@ -634,18 +625,20 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Rheumatoid arthritis
+**Rheumatoid arthritis**
+
+Orencia, in combination with methotrexate, is indicated for:
 
 - the treatment of moderate to severe active rheumatoid arthritis (RA) in adult patients who responded inadequately to previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) including methotrexate (MTX) or a tumour necrosis factor (TNF)-alpha inhibitor.
 - the treatment of highly active and progressive disease in adult patients with rheumatoid arthritis not previously treated with methotrexate.
 
 A reduction in the progression of joint damage and improvement of physical function have been demonstrated during combination treatment with abatacept and methotrexate.
 
-Psoriatic arthritis
+**Psoriatic arthritis**
 
 Orencia, alone or in combination with methotrexate (MTX), is indicated for the treatment of active psoriatic arthritis (PsA) in adult patients when the response to previous DMARD therapy including MTX has been inadequate, and for whom additional systemic therapy for psoriatic skin lesions is not required.
 
-Polyarticular juvenile idiopathic arthritis
+**Polyarticular juvenile idiopathic arthritis**
 
 Orencia in combination with methotrexate is indicated for the treatment of moderate to severe active polyarticular juvenile idiopathic arthritis (pJIA) in paediatric patients 2 years of age and older who have had an inadequate response to previous DMARD therapy.
 
@@ -653,27 +646,19 @@ Orencia can be given as monotherapy in case of intolerance to methotrexate or wh
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000701
-
-Marketing authorisation holder
-
-Bristol-Myers Squibb Pharma EEIG
-
-Plaza 254 Blanchardstown Corporate Park 2 Dublin 15 D15 T867 Ireland
-
-Opinion adopted
-
-22/03/2007
-
-Marketing authorisation issued
-
-21/05/2007
-
-Revision
-
-43
+- **EMA product number**
+    - EMEA/H/C/000701
+- **Marketing authorisation holder**
+    - Bristol-Myers Squibb Pharma EEIG Plaza 254  
+Blanchardstown Corporate Park 2  
+Dublin 15, D15 T867  
+Ireland
+- **Opinion adopted**
+    - 22/03/2007
+- **Marketing authorisation issued**
+    - 21/05/2007
+- **Revision**
+    - 44
 
 ## Assessment history
 
@@ -681,13 +666,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Orencia : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.78 KB - PDF)
+English (EN) (155.55 KB - PDF)
 
-**First published:** 11/05/2026
+**First published:** 11/05/2026 **Last updated:** 17/11/2026
 
 [View](/en/documents/procedural-steps-after/orencia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -698,6 +683,16 @@ English (EN) (409.5 KB - PDF)
 **First published:** 05/06/2007 **Last updated:** 11/05/2026
 
 [View](/en/documents/procedural-steps-after/orencia-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Orencia-PSUSA-00000013-202512 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3568410
+
+English (EN) (148.23 KB - PDF)
+
+**First published:** 17/11/2026
+
+[View](/en/documents/scientific-conclusion/orencia-psusa-00000013-202512-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Orencia-H-C-000701-P46-072 : EPAR - Assessment Report
 
@@ -859,7 +854,7 @@ English (EN) (31.99 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-orencia_en.pdf-1)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Orencia : EPAR - Scientific Discussion
 
@@ -902,15 +897,12 @@ English (EN) (17.03 KB - PDF)
 - [EMEA-000118-PIP03-15 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000118-pip03-15)
 - [EMEA-000118-PIP04-17 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000118-pip04-17)
 - [Orencia - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/orencia)
+- [Evaluation of the effectiveness of the abatacept (ORENCIA®) intravenous and subcutaneous formulation Patient Alert Cards in patients with rheumatoid arthritis in a sample of European Economic Area countries - post-authorisation study](https://catalogues.ema.europa.eu/study/31062)
 - [A Nationwide Post-Marketing Study on the Safety of Abatacept Treatment in Denmark Using the DANBIO Register - post-authorisation study](https://catalogues.ema.europa.eu/study/32096)
 - [A Nationwide Post-Marketing Study on the Safety of Abatacept Treatment in Sweden Using the SRQ Register - post-authorisation study](https://catalogues.ema.europa.eu/study/32093)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-11/05/2026
+17/11/2026
 
 ## Share this page

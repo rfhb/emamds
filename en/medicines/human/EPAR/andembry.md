@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-02 14:28:00
+document_datetime: 2026-11-10 12:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/andembry.html
 document_name: andembry.html
 version: success
-processing_time: 0.1369607
-conversion_datetime: 2026-10-04 16:19:36.511935
+processing_time: 0.1713431
+conversion_datetime: 2026-11-20 19:11:23.889699
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.133.0
-  docling-core: 2.99.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-serve: 1.38.2
+  docling-jobkit: 3.9.1
+  docling: 2.151.1
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.27.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Andembry
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 garadacimab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -107,7 +107,7 @@ English (EN) (123.63 KB - PDF)
 
 [View](/en/documents/overview/andembry-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-92)
+[Other languages (22)](#file-language-dropdown-253)
 
 български (BG) (146.19 KB - PDF)
 
@@ -253,167 +253,167 @@ English (EN) (7.07 MB - PDF)
 
 Andembry : EPAR - Product Information
 
-English (EN) (1.98 MB - PDF)
+English (EN) (2.32 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/en/documents/product-information/andembry-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-888)
+[Other languages (24)](#file-language-dropdown-38)
 
-български (BG) (2.44 MB - PDF)
+български (BG) (2.74 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/bg/documents/product-information/andembry-epar-product-information_bg.pdf)
 
-español (ES) (2.09 MB - PDF)
+español (ES) (2.36 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/es/documents/product-information/andembry-epar-product-information_es.pdf)
 
-čeština (CS) (2.52 MB - PDF)
+čeština (CS) (2.86 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/cs/documents/product-information/andembry-epar-product-information_cs.pdf)
 
-dansk (DA) (2.09 MB - PDF)
+dansk (DA) (2.39 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/da/documents/product-information/andembry-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.06 MB - PDF)
+Deutsch (DE) (2.38 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/de/documents/product-information/andembry-epar-product-information_de.pdf)
 
-eesti (ET) (2.14 MB - PDF)
+eesti (ET) (2.44 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/et/documents/product-information/andembry-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.46 MB - PDF)
+ελληνικά (EL) (2.8 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/el/documents/product-information/andembry-epar-product-information_el.pdf)
 
-français (FR) (2.14 MB - PDF)
+français (FR) (2.36 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/fr/documents/product-information/andembry-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.34 MB - PDF)
+hrvatski (HR) (2.65 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/hr/documents/product-information/andembry-epar-product-information_hr.pdf)
 
-italiano (IT) (2.05 MB - PDF)
+italiano (IT) (2.36 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/it/documents/product-information/andembry-epar-product-information_it.pdf)
 
-latviešu (LV) (2.38 MB - PDF)
+latviešu (LV) (2.69 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/lv/documents/product-information/andembry-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.35 MB - PDF)
+lietuvių (LT) (2.71 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/lt/documents/product-information/andembry-epar-product-information_lt.pdf)
 
-magyar (HU) (2.36 MB - PDF)
+magyar (HU) (2.66 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/hu/documents/product-information/andembry-epar-product-information_hu.pdf)
 
-Malti (MT) (2.38 MB - PDF)
+Malti (MT) (2.72 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/mt/documents/product-information/andembry-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.05 MB - PDF)
+Nederlands (NL) (2.36 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/nl/documents/product-information/andembry-epar-product-information_nl.pdf)
 
-polski (PL) (2.37 MB - PDF)
+polski (PL) (2.71 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/pl/documents/product-information/andembry-epar-product-information_pl.pdf)
 
-português (PT) (2 MB - PDF)
+português (PT) (2.29 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/pt/documents/product-information/andembry-epar-product-information_pt.pdf)
 
-română (RO) (2.46 MB - PDF)
+română (RO) (2.72 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/ro/documents/product-information/andembry-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.35 MB - PDF)
+slovenčina (SK) (2.69 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/sk/documents/product-information/andembry-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.43 MB - PDF)
+slovenščina (SL) (2.5 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/sl/documents/product-information/andembry-epar-product-information_sl.pdf)
 
-suomi (FI) (1.99 MB - PDF)
+suomi (FI) (2.35 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/fi/documents/product-information/andembry-epar-product-information_fi.pdf)
 
-svenska (SV) (2.21 MB - PDF)
+svenska (SV) (2.52 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/sv/documents/product-information/andembry-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.03 MB - PDF)
+Íslenska (IS) (2.36 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/is/documents/product-information/andembry-epar-product-information_is.pdf)
 
-norsk (NO) (2.03 MB - PDF)
+norsk (NO) (2.35 MB - PDF)
 
-**First published:** 11/03/2025 **Last updated:** 19/08/2026
+**First published:** 11/03/2025 **Last updated:** 10/11/2026
 
 [View](/no/documents/product-information/andembry-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000332416
+**Latest procedure affecting product information:**VR/0000348372
 
-09/07/2026
+08/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -432,7 +432,7 @@ English (EN) (60.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/andembry-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-474)
+[Other languages (24)](#file-language-dropdown-618)
 
 български (BG) (78.01 KB - PDF)
 
@@ -604,15 +604,17 @@ Andembry is indicated for routine prevention of recurrent attacks of hereditary 
 - **EMA product number**
     - EMEA/H/C/006116
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Marketing authorisation holder**
-    - CSL Behring GmbH Emil-von-Behring-Strasse 76  D-35041 Marburg  Germany
+    - CSL Behring GmbH Emil-von-Behring-Strasse 76  
+D-35041 Marburg  
+Germany
 - **Opinion adopted**
     - 12/12/2024
 - **Marketing authorisation issued**
     - 10/02/2025
 - **Revision**
-    - 2
+    - 3
 
 ## Assessment history
 
@@ -624,9 +626,9 @@ Collapse section
 
 Andembry : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (153.53 KB - PDF)
+English (EN) (158.07 KB - PDF)
 
-**First published:** 19/08/2026
+**First published:** 19/08/2026 **Last updated:** 10/11/2026
 
 [View](/en/documents/procedural-steps-after/andembry-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -680,6 +682,6 @@ English (EN) (156.54 KB - PDF)
 
 **This page was last updated on**
 
-02/10/2026
+10/11/2026
 
 ## Share this page

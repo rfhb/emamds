@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-05 17:18:00
+document_datetime: 2026-11-20 09:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ninlaro.html
 document_name: ninlaro.html
 version: success
-processing_time: 0.1820092
-conversion_datetime: 2026-08-07 13:51:20.38661
+processing_time: 0.2292588
+conversion_datetime: 2026-11-24 19:20:55.410561
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.39.0
+  docling-jobkit: 3.10.0
+  docling: 2.152.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Ninlaro
 
 [RSS](/en/individual-human-medicine.xml/67008)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 ixazomib
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Ninlaro](#news-on)
+- [More information on Ninlaro](#more-information-on-ninlaro-91544)
 - [More information on Ninlaro](#related-medicines)
 
 - Application under evaluation
@@ -118,7 +119,7 @@ English (EN) (77.92 KB - PDF)
 
 [View](/en/documents/overview/ninlaro-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-929)
+[Other languages (22)](#file-language-dropdown-622)
 
 български (BG) (104.88 KB - PDF)
 
@@ -270,7 +271,7 @@ English (EN) (472.14 KB - PDF)
 
 [View](/en/documents/product-information/ninlaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-793)
+[Other languages (24)](#file-language-dropdown-759)
 
 български (BG) (621.82 KB - PDF)
 
@@ -416,7 +417,7 @@ norsk (NO) (478.54 KB - PDF)
 
 [View](/no/documents/product-information/ninlaro-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000334802
+**Latest procedure affecting product information:**VR/0000334802
 
 21/05/2026
 
@@ -424,7 +425,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -443,7 +444,7 @@ English (EN) (69.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ninlaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-920)
+[Other languages (24)](#file-language-dropdown-873)
 
 български (BG) (58.01 KB - PDF)
 
@@ -614,10 +615,10 @@ Ninlaro in combination with lenalidomide and dexamethasone is indicated for the 
 
 - **EMA product number**
     - EMEA/H/C/003844
-- **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - Takeda Pharma A/S Delta Park 45  2665 Vallensbaek Strand  Denmark
+    - Takeda Pharma A/S Delta Park 45  
+2665 Vallensbaek Strand  
+Denmark
 - **Opinion adopted**
     - 15/09/2016
 - **Marketing authorisation issued**
@@ -707,7 +708,7 @@ English (EN) (136.32 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ninlaro-epar-conclusions-granting-conditional-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-887)
+[Other languages (24)](#file-language-dropdown-759)
 
 български (BG) (153.24 KB - PDF)
 
@@ -883,7 +884,7 @@ English (EN) (94.34 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 28/06/2016
 
-[View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-ninlaro_en.pdf)
+[View](/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-ninlaro_en.pdf)
 
 ## News on Ninlaro
 
@@ -899,7 +900,10 @@ English (EN) (94.34 KB - PDF)
 
 ## More information on Ninlaro
 
-- [EU/3/11/899 - orphan designation for treatment of multiple myeloma](/en/medicines/human/orphan-designations/eu-3-11-899)
+This product is no longer an orphan medicine. It was originally [designated an orphan medicine](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-11-899) on 27 September 2011. Ninlaro was withdrawn from the Community register of orphan medicinal products in November 2026 upon request of the marketing authorisation holder.
+
+## More information on Ninlaro
+
 - [EMA/PE/0000225846 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000225846)
 - [C16050: A national, prospective, non-interventional study of using NINLARO® in real world clinical practice - post-authorisation study](https://catalogues.ema.europa.eu/study/44146)
 - [Evaluation of the Effectiveness of Risk Minimization Measures: A Survey Among Pharmacists to Assess the Impact of the RMP Material for Patients on Promoting the Proper use of NINLARO in Japan - post-authorisation study](https://catalogues.ema.europa.eu/study/105390)
@@ -907,6 +911,6 @@ English (EN) (94.34 KB - PDF)
 
 **This page was last updated on**
 
-05/08/2026
+20/11/2026
 
 ## Share this page

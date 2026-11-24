@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-22 13:47:00
+document_datetime: 2026-11-19 13:53:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taxotere.html
 document_name: taxotere.html
 version: success
-processing_time: 0.218653
-conversion_datetime: 2026-10-25 15:27:26.157182
+processing_time: 0.2446678
+conversion_datetime: 2026-11-24 19:22:48.299326
 docling_version:
-  docling-serve: 1.38.1
-  docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling-serve: 1.39.0
+  docling-jobkit: 3.10.0
+  docling: 2.152.0
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Taxotere
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 docetaxel
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -109,7 +109,7 @@ English (EN) (148.34 KB - PDF)
 
 [View](/en/documents/overview/taxotere-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-255)
+[Other languages (22)](#file-language-dropdown-23)
 
 български (BG) (183.18 KB - PDF)
 
@@ -255,167 +255,167 @@ English (EN) (43.82 KB - PDF)
 
 Taxotere : EPAR - Product Information
 
-English (EN) (1.87 MB - PDF)
+English (EN) (2.32 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/en/documents/product-information/taxotere-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-885)
+[Other languages (24)](#file-language-dropdown-498)
 
-български (BG) (2.97 MB - PDF)
+български (BG) (3.03 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/bg/documents/product-information/taxotere-epar-product-information_bg.pdf)
 
-español (ES) (1.06 MB - PDF)
+español (ES) (2.52 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/es/documents/product-information/taxotere-epar-product-information_es.pdf)
 
-čeština (CS) (1.9 MB - PDF)
+čeština (CS) (3.05 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/cs/documents/product-information/taxotere-epar-product-information_cs.pdf)
 
-dansk (DA) (2.07 MB - PDF)
+dansk (DA) (2.93 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/da/documents/product-information/taxotere-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.27 MB - PDF)
+Deutsch (DE) (3.08 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/de/documents/product-information/taxotere-epar-product-information_de.pdf)
 
-eesti (ET) (2.87 MB - PDF)
+eesti (ET) (2.36 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/et/documents/product-information/taxotere-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.15 MB - PDF)
+ελληνικά (EL) (3.17 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/el/documents/product-information/taxotere-epar-product-information_el.pdf)
 
-français (FR) (2.8 MB - PDF)
+français (FR) (2.61 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/fr/documents/product-information/taxotere-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.28 MB - PDF)
+hrvatski (HR) (2.95 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/hr/documents/product-information/taxotere-epar-product-information_hr.pdf)
 
-italiano (IT) (2.68 MB - PDF)
+italiano (IT) (2.21 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/it/documents/product-information/taxotere-epar-product-information_it.pdf)
 
-latviešu (LV) (3.28 MB - PDF)
+latviešu (LV) (2.38 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/lv/documents/product-information/taxotere-epar-product-information_lv.pdf)
 
-lietuvių (LT) (3.33 MB - PDF)
+lietuvių (LT) (2.5 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/lt/documents/product-information/taxotere-epar-product-information_lt.pdf)
 
-magyar (HU) (1.35 MB - PDF)
+magyar (HU) (3.2 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/hu/documents/product-information/taxotere-epar-product-information_hu.pdf)
 
-Malti (MT) (3.23 MB - PDF)
+Malti (MT) (2.7 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/mt/documents/product-information/taxotere-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.55 MB - PDF)
+Nederlands (NL) (2.16 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/nl/documents/product-information/taxotere-epar-product-information_nl.pdf)
 
-polski (PL) (3.07 MB - PDF)
+polski (PL) (2.51 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/pl/documents/product-information/taxotere-epar-product-information_pl.pdf)
 
-português (PT) (2.2 MB - PDF)
+português (PT) (2.01 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/pt/documents/product-information/taxotere-epar-product-information_pt.pdf)
 
-română (RO) (2.44 MB - PDF)
+română (RO) (2.39 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/ro/documents/product-information/taxotere-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.19 MB - PDF)
+slovenčina (SK) (2.47 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/sk/documents/product-information/taxotere-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.2 MB - PDF)
+slovenščina (SL) (2.41 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/sl/documents/product-information/taxotere-epar-product-information_sl.pdf)
 
-suomi (FI) (2.62 MB - PDF)
+suomi (FI) (2.31 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/fi/documents/product-information/taxotere-epar-product-information_fi.pdf)
 
-svenska (SV) (2.51 MB - PDF)
+svenska (SV) (2.06 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/sv/documents/product-information/taxotere-epar-product-information_sv.pdf)
 
-Íslenska (IS) (3.61 MB - PDF)
+Íslenska (IS) (2.16 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/is/documents/product-information/taxotere-epar-product-information_is.pdf)
 
-norsk (NO) (2.56 MB - PDF)
+norsk (NO) (2.24 MB - PDF)
 
-**First published:** 13/01/2009 **Last updated:** 22/10/2026
+**First published:** 13/01/2009 **Last updated:** 19/11/2026
 
 [View](/no/documents/product-information/taxotere-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000358849
+**Latest procedure affecting product information:**T/0000371201
 
-17/09/2026
+23/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -434,7 +434,7 @@ English (EN) (65.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/taxotere-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-318)
+[Other languages (21)](#file-language-dropdown-338)
 
 български (BG) (91.43 KB - PDF)
 
@@ -626,15 +626,15 @@ Taxotere in combination with cisplatin and 5-fluorouracil is indicated for the i
 - **EMA product number**
     - EMEA/H/C/000073
 - **Marketing authorisation holder**
-    - Sanofi Winthrop Industrie 82 Avenue Raspail  
-94250 Gentilly  
-FRANCE
+    - Boryung Europe Kft. Vaci Ut 33  
+1134 Budapest XIII  
+Hungary
 - **Opinion adopted**
     - 12/07/1995
 - **Marketing authorisation issued**
     - 27/11/1995
 - **Revision**
-    - 53
+    - 54
 
 ## Assessment history
 
@@ -646,9 +646,9 @@ Collapse section
 
 Taxotere : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (132.54 KB - PDF)
+English (EN) (134.34 KB - PDF)
 
-**First published:** 31/07/2024 **Last updated:** 22/10/2026
+**First published:** 31/07/2024 **Last updated:** 19/11/2026
 
 [View](/en/documents/procedural-steps-after/taxotere-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -812,166 +812,166 @@ The approved product information for this medicine is available below showing th
 
 Taxotere : EPAR - Product information - tracked changes
 
-English (EN) (810.92 KB - DOCX)
+English (EN) (825.81 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/en/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-977)
+[Other languages (24)](#file-language-dropdown-575)
 
-български (BG) (896.07 KB - DOCX)
+български (BG) (900.82 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/bg/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (831.3 KB - DOCX)
+español (ES) (851.28 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/es/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (796.58 KB - DOCX)
+čeština (CS) (814.09 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/cs/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (877.16 KB - DOCX)
+dansk (DA) (897.77 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/da/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (866.1 KB - DOCX)
+Deutsch (DE) (874.38 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/de/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_de.docx)
 
-eesti (ET) (708.29 KB - DOCX)
+eesti (ET) (724.16 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/et/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (1007.13 KB - DOCX)
+ελληνικά (EL) (999.45 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/el/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (957.06 KB - DOCX)
+français (FR) (930.86 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/fr/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (988.24 KB - DOCX)
+hrvatski (HR) (973.04 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/hr/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_hr.docx)
 
-italiano (IT) (800.31 KB - DOCX)
+italiano (IT) (811.41 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/it/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_it.docx)
 
-latviešu (LV) (922.44 KB - DOCX)
+latviešu (LV) (886.41 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/lv/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių (LT) (730.37 KB - DOCX)
+lietuvių (LT) (748.56 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/lt/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (1011.52 KB - DOCX)
+magyar (HU) (893.21 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/hu/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (865.45 KB - DOCX)
+Malti (MT) (874.65 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/mt/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (740.27 KB - DOCX)
+Nederlands (NL) (738.48 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/nl/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_nl.docx)
 
-polski (PL) (969.07 KB - DOCX)
+polski (PL) (983.05 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/pl/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (815.01 KB - DOCX)
+português (PT) (816.8 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/pt/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (867.56 KB - DOCX)
+română (RO) (880.52 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/ro/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (926.88 KB - DOCX)
+slovenčina (SK) (861.8 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/sk/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (955.3 KB - DOCX)
+slovenščina (SL) (961.05 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/sl/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_sl.docx)
 
-suomi (FI) (745.67 KB - DOCX)
+suomi (FI) (718.79 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/fi/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (846.42 KB - DOCX)
+svenska (SV) (838.77 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/sv/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_sv.docx)
 
-Íslenska (IS) (838.4 KB - DOCX)
+Íslenska (IS) (856.87 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/is/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_is.docx)
 
-norsk (NO) (896.54 KB - DOCX)
+norsk (NO) (871.42 KB - DOCX)
 
-**First published:** 22/10/2026
+**First published:** 22/10/2026 **Last updated:** 19/11/2026
 
 [View](/no/documents/product-information-tracked-changes/taxotere-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Taxotere
 
-- [Docetaxel - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/docetaxel)
+- [EMEA-000029-PIP01-07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000029-pip01-07)
 - [Taxotere - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/taxotere)
 - [Taxotere - supply shortage](/en/medicines/human/shortages/taxotere)
 
 **This page was last updated on**
 
-22/10/2026
+19/11/2026
 
 ## Share this page

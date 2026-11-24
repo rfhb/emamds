@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-11-17 11:22:00
+document_datetime: 2026-11-20 09:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zeydovio.html
 document_name: zeydovio.html
 version: success
-processing_time: 0.1278056
-conversion_datetime: 2026-11-20 19:28:21.912252
+processing_time: 0.1671058
+conversion_datetime: 2026-11-24 19:23:35.759864
 docling_version:
-  docling-serve: 1.38.2
-  docling-jobkit: 3.9.1
-  docling: 2.151.1
+  docling-serve: 1.39.0
+  docling-jobkit: 3.10.0
+  docling: 2.152.0
   docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.27.0
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
@@ -116,9 +116,143 @@ Reference Number: EMADOC-1829012207-74000
 
 English (EN) (127.81 KB - PDF)
 
-**First published:** 17/11/2026
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
 
 [View](/en/documents/overview/zeydovio-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-90)
+
+български (BG) (154.69 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/bg/documents/overview/zeydovio-epar-medicine-overview_bg.pdf)
+
+español (ES) (125.21 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/es/documents/overview/zeydovio-epar-medicine-overview_es.pdf)
+
+čeština (CS) (138.97 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/cs/documents/overview/zeydovio-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (123.14 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/da/documents/overview/zeydovio-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (126.25 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/de/documents/overview/zeydovio-epar-medicine-overview_de.pdf)
+
+eesti (ET) (120.28 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/et/documents/overview/zeydovio-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (140.33 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/el/documents/overview/zeydovio-epar-medicine-overview_el.pdf)
+
+français (FR) (123.72 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/fr/documents/overview/zeydovio-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (137.68 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/hr/documents/overview/zeydovio-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (121.77 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/it/documents/overview/zeydovio-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (153.93 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/lv/documents/overview/zeydovio-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (137.24 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/lt/documents/overview/zeydovio-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (137.71 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/hu/documents/overview/zeydovio-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (149.73 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/mt/documents/overview/zeydovio-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (123.96 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/nl/documents/overview/zeydovio-epar-medicine-overview_nl.pdf)
+
+polski (PL) (141.51 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/pl/documents/overview/zeydovio-epar-medicine-overview_pl.pdf)
+
+português (PT) (123.26 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/pt/documents/overview/zeydovio-epar-medicine-overview_pt.pdf)
+
+română (RO) (135.05 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/ro/documents/overview/zeydovio-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (139.2 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/sk/documents/overview/zeydovio-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (166.65 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/sl/documents/overview/zeydovio-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (120.07 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/fi/documents/overview/zeydovio-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (121.85 KB - PDF)
+
+**First published:** 17/11/2026 **Last updated:** 20/11/2026
+
+[View](/sv/documents/overview/zeydovio-epar-medicine-overview_sv.pdf)
 
 Zeydovio : EPAR - Risk management plan
 
@@ -138,7 +272,7 @@ English (EN) (691.35 KB - PDF)
 
 [View](/en/documents/product-information/zeydovio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-571)
+[Other languages (24)](#file-language-dropdown-420)
 
 български (BG) (809.37 KB - PDF)
 
@@ -307,7 +441,7 @@ English (EN) (56.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zeydovio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-639)
+[Other languages (24)](#file-language-dropdown-997)
 
 български (BG) (68.08 KB - PDF)
 
@@ -517,6 +651,6 @@ English (EN) (153.99 KB - PDF)
 
 **This page was last updated on**
 
-17/11/2026
+20/11/2026
 
 ## Share this page

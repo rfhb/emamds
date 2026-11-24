@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-07-14 15:22:00
+document_datetime: 2026-11-20 09:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ekterly.html
 document_name: ekterly.html
 version: success
-processing_time: 0.1362545
-conversion_datetime: 2026-07-16 13:19:33.061355
+processing_time: 0.1699799
+conversion_datetime: 2026-11-24 19:20:06.141373
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.39.0
+  docling-jobkit: 3.10.0
+  docling: 2.152.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Ekterly
 
 [RSS](/en/individual-human-medicine.xml/263495)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 sebetralstat
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -112,7 +112,7 @@ English (EN) (121.34 KB - PDF)
 
 [View](/en/documents/overview/ekterly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-394)
+[Other languages (22)](#file-language-dropdown-863)
 
 български (BG) (143.86 KB - PDF)
 
@@ -264,7 +264,7 @@ English (EN) (382.82 KB - PDF)
 
 [View](/en/documents/product-information/ekterly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-26)
+[Other languages (24)](#file-language-dropdown-645)
 
 български (BG) (471.99 KB - PDF)
 
@@ -410,7 +410,7 @@ norsk (NO) (389.79 KB - PDF)
 
 [View](/no/documents/product-information/ekterly-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000358578
+**Latest procedure affecting product information:**VR/0000358578
 
 13/07/2026
 
@@ -418,7 +418,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -437,7 +437,7 @@ English (EN) (61.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-486)
+[Other languages (24)](#file-language-dropdown-21)
 
 български (BG) (66.46 KB - PDF)
 
@@ -609,17 +609,22 @@ Ekterly is indicated for symptomatic treatment of acute attacks of hereditary an
 - **EMA product number**
     - EMEA/H/C/006211
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Kalvista Pharmaceuticals (Ireland) Limited Block C  Magennis Court  Magennis Place  Dublin 2  D02 FK76  IRELAND 
+    - Kalvista Pharmaceuticals (Ireland) Limited Block C  
+Magennis Court  
+Magennis Place  
+Dublin 2  
+D02 FK76  
+IRELAND
 - **Opinion adopted**
     - 24/07/2025
 - **Marketing authorisation issued**
     - 17/09/2025
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -636,6 +641,16 @@ English (EN) (142.01 KB - PDF)
 **First published:** 14/07/2026
 
 [View](/en/documents/procedural-steps-after/ekterly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Ekterly-PAM-0000360829 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3545943
+
+English (EN) (5.74 MB - PDF)
+
+**First published:** 20/11/2026
+
+[View](/en/documents/variation-report/ekterly-pam-0000360829-epar-assessment-report_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -681,6 +696,6 @@ English (EN) (133.46 KB - PDF)
 
 **This page was last updated on**
 
-14/07/2026
+20/11/2026
 
 ## Share this page

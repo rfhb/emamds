@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-31 16:25:00
+document_datetime: 2026-11-19 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/usrenty.html
 document_name: usrenty.html
 version: success
-processing_time: 0.1463249
-conversion_datetime: 2026-09-02 22:32:30.936866
+processing_time: 0.2192113
+conversion_datetime: 2026-11-24 19:23:04.00927
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.39.0
+  docling-jobkit: 3.10.0
+  docling: 2.152.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Usrenty
 
 [RSS](/en/individual-human-medicine.xml/263611)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 ustekinumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -117,7 +117,7 @@ English (EN) (152.23 KB - PDF)
 
 [View](/en/documents/overview/usrenty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-983)
+[Other languages (22)](#file-language-dropdown-86)
 
 български (BG) (178 KB - PDF)
 
@@ -263,167 +263,161 @@ English (EN) (4.62 MB - PDF)
 
 Usrenty : EPAR - Product information
 
-English (EN) (2.46 MB - PDF)
+English (EN) (2.38 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 31/08/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/en/documents/product-information/usrenty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-918)
+[Other languages (23)](#file-language-dropdown-61)
 
 български (BG) (2.92 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/bg/documents/product-information/usrenty-epar-product-information_bg.pdf)
 
 español (ES) (2.74 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/es/documents/product-information/usrenty-epar-product-information_es.pdf)
 
-čeština (CS) (2.7 MB - PDF)
+čeština (CS) (2.71 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/cs/documents/product-information/usrenty-epar-product-information_cs.pdf)
 
 dansk (DA) (2.86 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/da/documents/product-information/usrenty-epar-product-information_da.pdf)
 
 Deutsch (DE) (3.31 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/de/documents/product-information/usrenty-epar-product-information_de.pdf)
 
 eesti (ET) (2.88 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/et/documents/product-information/usrenty-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.17 MB - PDF)
+français (FR) (2.75 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
-
-[View](/el/documents/product-information/usrenty-epar-product-information_el.pdf)
-
-français (FR) (2.84 MB - PDF)
-
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/fr/documents/product-information/usrenty-epar-product-information_fr.pdf)
 
 hrvatski (HR) (3.01 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/hr/documents/product-information/usrenty-epar-product-information_hr.pdf)
 
-italiano (IT) (2.98 MB - PDF)
+italiano (IT) (2.89 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/it/documents/product-information/usrenty-epar-product-information_it.pdf)
 
-latviešu (LV) (2.86 MB - PDF)
+latviešu (LV) (2.79 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/lv/documents/product-information/usrenty-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.99 MB - PDF)
+lietuvių (LT) (2.96 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/lt/documents/product-information/usrenty-epar-product-information_lt.pdf)
 
 magyar (HU) (3.09 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/hu/documents/product-information/usrenty-epar-product-information_hu.pdf)
 
-Malti (MT) (3.22 MB - PDF)
+Malti (MT) (3.12 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/mt/documents/product-information/usrenty-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.03 MB - PDF)
+Nederlands (NL) (2.96 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/nl/documents/product-information/usrenty-epar-product-information_nl.pdf)
 
-polski (PL) (3.08 MB - PDF)
+polski (PL) (3.04 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/pl/documents/product-information/usrenty-epar-product-information_pl.pdf)
 
-português (PT) (2.85 MB - PDF)
+português (PT) (2.78 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/pt/documents/product-information/usrenty-epar-product-information_pt.pdf)
 
-română (RO) (2.75 MB - PDF)
+română (RO) (2.66 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/ro/documents/product-information/usrenty-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.12 MB - PDF)
+slovenčina (SK) (3.1 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/sk/documents/product-information/usrenty-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.08 MB - PDF)
+slovenščina (SL) (3.06 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/sl/documents/product-information/usrenty-epar-product-information_sl.pdf)
 
 suomi (FI) (2.89 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/fi/documents/product-information/usrenty-epar-product-information_fi.pdf)
 
 svenska (SV) (2.68 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/sv/documents/product-information/usrenty-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.87 MB - PDF)
+Íslenska (IS) (2.82 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/is/documents/product-information/usrenty-epar-product-information_is.pdf)
 
-norsk (NO) (2.8 MB - PDF)
+norsk (NO) (2.74 MB - PDF)
 
-**First published:** 30/09/2025 **Last updated:** 18/05/2026
+**First published:** 30/09/2025 **Last updated:** 19/11/2026
 
 [View](/no/documents/product-information/usrenty-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000325350
+**Latest procedure affecting product information:**VR/0000378084
 
-07/05/2026
+19/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -442,7 +436,7 @@ English (EN) (79.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/usrenty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-849)
+[Other languages (24)](#file-language-dropdown-364)
 
 български (BG) (99.66 KB - PDF)
 
@@ -628,17 +622,20 @@ Usrenty is indicated for the treatment of adult patients with moderately to seve
 - **EMA product number**
     - EMEA/H/C/006794
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
-    - Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade  Baldoyle Industrial Estate  Dublin 13, D13 R20R  Ireland
+    - Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade  
+Baldoyle Industrial Estate  
+Dublin 13, D13 R20R  
+Ireland
 - **Opinion adopted**
     - 24/07/2025
 - **Marketing authorisation issued**
     - 17/09/2025
 - **Revision**
-    - 2
+    - 3
 
 ## Assessment history
 
@@ -650,9 +647,9 @@ Collapse section
 
 Usrenty : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (171.3 KB - PDF)
+English (EN) (183.61 KB - PDF)
 
-**First published:** 17/02/2026 **Last updated:** 18/05/2026
+**First published:** 17/02/2026 **Last updated:** 19/11/2026
 
 [View](/en/documents/procedural-steps-after/usrenty-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -686,6 +683,6 @@ English (EN) (163.08 KB - PDF)
 
 **This page was last updated on**
 
-31/08/2026
+19/11/2026
 
 ## Share this page

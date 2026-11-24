@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-08 17:32:00
+document_datetime: 2026-11-19 14:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/benlysta.html
 document_name: benlysta.html
 version: success
-processing_time: 0.183688
-conversion_datetime: 2026-09-11 17:54:19.125763
+processing_time: 0.2277454
+conversion_datetime: 2026-11-24 19:19:49.977868
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.39.0
+  docling-jobkit: 3.10.0
+  docling: 2.152.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Benlysta
 
 [RSS](/en/individual-human-medicine.xml/66258)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 belimumab
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -127,7 +127,7 @@ English (EN) (116.01 KB - PDF)
 
 [View](/en/documents/overview/benlysta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-24)
+[Other languages (22)](#file-language-dropdown-801)
 
 български (BG) (150.21 KB - PDF)
 
@@ -263,9 +263,9 @@ svenska (SV) (157.52 KB - PDF)
 
 Benlysta : EPAR - Risk management plan
 
-English (EN) (1.05 MB - PDF)
+English (EN) (1.64 MB - PDF)
 
-**First published:** 05/07/2019 **Last updated:** 08/09/2026
+**First published:** 05/07/2019 **Last updated:** 19/11/2026
 
 [View](/en/documents/rmp/benlysta-epar-risk-management-plan_en.pdf)
 
@@ -273,167 +273,167 @@ English (EN) (1.05 MB - PDF)
 
 Benlysta : EPAR - Product Information
 
-English (EN) (2.33 MB - PDF)
+English (EN) (2.35 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/en/documents/product-information/benlysta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-828)
+[Other languages (24)](#file-language-dropdown-335)
 
-български (BG) (2.38 MB - PDF)
+български (BG) (2.44 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/bg/documents/product-information/benlysta-epar-product-information_bg.pdf)
 
 español (ES) (2.38 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/es/documents/product-information/benlysta-epar-product-information_es.pdf)
 
-čeština (CS) (2.44 MB - PDF)
+čeština (CS) (2.56 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/cs/documents/product-information/benlysta-epar-product-information_cs.pdf)
 
-dansk (DA) (2.24 MB - PDF)
+dansk (DA) (2.22 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/da/documents/product-information/benlysta-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.58 MB - PDF)
+Deutsch (DE) (2.72 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/de/documents/product-information/benlysta-epar-product-information_de.pdf)
 
-eesti (ET) (2.35 MB - PDF)
+eesti (ET) (2.33 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/et/documents/product-information/benlysta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.53 MB - PDF)
+ελληνικά (EL) (2.52 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/el/documents/product-information/benlysta-epar-product-information_el.pdf)
 
-français (FR) (2.58 MB - PDF)
+français (FR) (2.59 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/fr/documents/product-information/benlysta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.5 MB - PDF)
+hrvatski (HR) (2.48 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/hr/documents/product-information/benlysta-epar-product-information_hr.pdf)
 
-italiano (IT) (2.41 MB - PDF)
+italiano (IT) (2.44 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/it/documents/product-information/benlysta-epar-product-information_it.pdf)
 
-latviešu (LV) (2.52 MB - PDF)
+latviešu (LV) (2.53 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/lv/documents/product-information/benlysta-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.54 MB - PDF)
+lietuvių (LT) (2.51 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/lt/documents/product-information/benlysta-epar-product-information_lt.pdf)
 
 magyar (HU) (2.41 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/hu/documents/product-information/benlysta-epar-product-information_hu.pdf)
 
-Malti (MT) (2.71 MB - PDF)
+Malti (MT) (2.75 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/mt/documents/product-information/benlysta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.36 MB - PDF)
+Nederlands (NL) (2.39 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/nl/documents/product-information/benlysta-epar-product-information_nl.pdf)
 
-polski (PL) (2.55 MB - PDF)
+polski (PL) (2.74 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/pl/documents/product-information/benlysta-epar-product-information_pl.pdf)
 
-português (PT) (2.34 MB - PDF)
+português (PT) (2.37 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/pt/documents/product-information/benlysta-epar-product-information_pt.pdf)
 
-română (RO) (2.46 MB - PDF)
+română (RO) (2.48 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/ro/documents/product-information/benlysta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.8 MB - PDF)
+slovenčina (SK) (2.62 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/sk/documents/product-information/benlysta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.39 MB - PDF)
+slovenščina (SL) (2.38 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/sl/documents/product-information/benlysta-epar-product-information_sl.pdf)
 
-suomi (FI) (2.39 MB - PDF)
+suomi (FI) (2.44 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 07/10/2025
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/fi/documents/product-information/benlysta-epar-product-information_fi.pdf)
 
-svenska (SV) (2.44 MB - PDF)
+svenska (SV) (2.46 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/sv/documents/product-information/benlysta-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.36 MB - PDF)
+Íslenska (IS) (2.38 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/is/documents/product-information/benlysta-epar-product-information_is.pdf)
 
-norsk (NO) (2.31 MB - PDF)
+norsk (NO) (2.27 MB - PDF)
 
-**First published:** 09/08/2011 **Last updated:** 08/09/2026
+**First published:** 09/08/2011 **Last updated:** 19/11/2026
 
 [View](/no/documents/product-information/benlysta-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PASS/0000306411
+**Latest procedure affecting product information:**VR/0000306408
 
-20/08/2026
+01/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -452,7 +452,7 @@ English (EN) (10.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/benlysta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-691)
 
 български (BG) (131.18 KB - PDF)
 
@@ -627,16 +627,17 @@ Benlysta is indicated as add-on therapy in adult patients with active, autoantib
 
 - **EMA product number**
     - EMEA/H/C/002015
-- **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - GlaxoSmithKline Trading Services Limited 12 Riverwalk  Citywest Business Campus  Dublin 24  D24 YK11  Ireland
+    - GlaxoSmithKline (Ireland) Limited 12 Riverwalk  
+Citywest Business Campus  
+Dublin 24  
+Ireland
 - **Opinion adopted**
     - 19/05/2011
 - **Marketing authorisation issued**
     - 13/07/2011
 - **Revision**
-    - 41
+    - 42
 
 ## Assessment history
 
@@ -648,9 +649,9 @@ Collapse section
 
 Benlysta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.66 KB - PDF)
+English (EN) (208.81 KB - PDF)
 
-**First published:** 07/10/2025 **Last updated:** 08/09/2026
+**First published:** 07/10/2025 **Last updated:** 19/11/2026
 
 [View](/en/documents/procedural-steps-after/benlysta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -810,7 +811,7 @@ English (EN) (68.54 KB - PDF)
 
 **First published:** 20/09/2019
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-benlysta-ii0062_en.pdf)
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-benlysta-ii-0062_en.pdf)
 
 Benlysta-H-C-2015/X/0046/G : EPAR - Assessment Report - Variation
 
@@ -892,10 +893,10 @@ English (EN) (54.62 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-08/09/2026
+19/11/2026
 
 ## Share this page

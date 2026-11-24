@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-20 15:36:00
+document_datetime: 2026-11-19 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prevenar-20.html
 document_name: prevenar-20.html
 version: success
-processing_time: 0.1947413
-conversion_datetime: 2026-10-25 15:25:09.044902
+processing_time: 0.4857792
+conversion_datetime: 2026-11-24 19:21:43.549907
 docling_version:
-  docling-serve: 1.38.1
-  docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
+  docling-serve: 1.39.0
+  docling-jobkit: 3.10.0
+  docling: 2.152.0
+  docling-core: 2.108.0
   docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Prevenar 20 (previously Apexxnar)
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 pneumococcal polysaccharide conjugate vaccine (20-valent, adsorbed)
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -46,11 +46,11 @@ Page contents
 
 ## Overview
 
-Prevenar 20 is a vaccine to protect adults and children from 6 weeks of age against pneumonia (infection of the lungs) and invasive diseases (diseases that occur when a bacterium spreads through the body) caused by the bacterium *Streptococcus pneumoniae* ( *S. pneumoniae* ).
+Prevenar 20 is a vaccine to protect adults and children from 6 weeks of age against pneumonia (infection of the lungs) and invasive diseases (diseases that occur when a bacterium spreads through the body) caused by the bacterium *Streptococcus pneumoniae* (*S. pneumoniae*).
 
 It is also used in children from 6 weeks to 17 years of age to protect against acute otitis media (ear infection).
 
-Prevenar 20 contains parts from 20 different types of *S. pneumoniae* .
+Prevenar 20 contains parts from 20 different types of *S. pneumoniae*.
 
 Expand section
 
@@ -66,7 +66,7 @@ For more information about using Prevenar 20, see the package leaflet or contact
 
 ### How does Prevenar 20 work?
 
-Vaccines work by 'teaching' the immune system (the body's natural defences) how to defend itself against a disease. Prevenar 20 prepares the body to defend itself against invasive disease and pneumonia caused by *S. pneumoniae* .
+Vaccines work by 'teaching' the immune system (the body's natural defences) how to defend itself against a disease. Prevenar 20 prepares the body to defend itself against invasive disease and pneumonia caused by *S. pneumoniae*.
 
 Prevenar 20 contains small amounts of polysaccharides (a type of sugar) extracted from the 'capsule' that surrounds the *S. pneumoniae* bacterium. These polysaccharides have been purified, then conjugated (attached) to a carrier protein that helps the immune system to recognise them and respond in an enhanced manner. The vaccine is also adsorbed (fixed) onto an aluminium adjuvant (a substance to help strengthen the immune response to the vaccine). Prevenar 20 contains the polysaccharides from 20 different types of *S. pneumoniae* that can cause invasive disease and pneumonia.
 
@@ -76,7 +76,7 @@ When a person is given Prevenar 20, the immune system recognises the polysacchar
 
 **Studies in adults**
 
-In 2 main studies, Prevenar 20 was shown to trigger immune responses that were comparable to those triggered by two other authorised pneumococcal vaccines (Prevenar 13, a vaccine that protects against 13 types of *S. pneumoniae;* Pneumovax 23, a vaccine that protects against 23 types of *S. pneumoniae* ). Between them, Prevenar 13 and Pneumovax 23 cover the 20 types of *S. pneumoniae* (serotypes) targeted by Prevenar 20. Prevenar 20 was considered to be protective against pneumococcal disease based on the known effectiveness of Prevenar 13 and Pneumovax 23.
+In 2 main studies, Prevenar 20 was shown to trigger immune responses that were comparable to those triggered by two other authorised pneumococcal vaccines (Prevenar 13, a vaccine that protects against 13 types of *S. pneumoniae;* Pneumovax 23, a vaccine that protects against 23 types of *S. pneumoniae*). Between them, Prevenar 13 and Pneumovax 23 cover the 20 types of *S. pneumoniae* (serotypes) targeted by Prevenar 20. Prevenar 20 was considered to be protective against pneumococcal disease based on the known effectiveness of Prevenar 13 and Pneumovax 23.
 
 In one study conducted in around 3,000 people from 60 years of age, participants received either Prevenar 20, or Prevenar 13 followed one month later by Pneumovax 23. One month after each vaccination, the levels of antibodies across the 2 groups were comparable for all but one of the serotypes included in Prevenar 20. It was noted that although comparable, the antibody levels with Prevenar 20 were lower than with Prevenar 13 for most of the serotypes included in both vaccines.
 
@@ -132,7 +132,7 @@ English (EN) (131.48 KB - PDF)
 
 [View](/en/documents/overview/prevenar-20-previously-apexxnar-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-6)
+[Other languages (22)](#file-language-dropdown-414)
 
 български (BG) (163.23 KB - PDF)
 
@@ -278,167 +278,167 @@ English (EN) (1.92 MB - PDF)
 
 Prevenar 20 : EPAR - Product Information
 
-English (EN) (1.16 MB - PDF)
+English (EN) (598.11 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/en/documents/product-information/prevenar-20-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-240)
+[Other languages (24)](#file-language-dropdown-524)
 
-български (BG) (579.97 KB - PDF)
+български (BG) (664.44 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/bg/documents/product-information/prevenar-20-epar-product-information_bg.pdf)
 
-español (ES) (584.25 KB - PDF)
+español (ES) (610.01 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/es/documents/product-information/prevenar-20-epar-product-information_es.pdf)
 
-čeština (CS) (567.63 KB - PDF)
+čeština (CS) (653.91 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/cs/documents/product-information/prevenar-20-epar-product-information_cs.pdf)
 
-dansk (DA) (555.29 KB - PDF)
+dansk (DA) (507.02 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/da/documents/product-information/prevenar-20-epar-product-information_da.pdf)
 
-Deutsch (DE) (565.15 KB - PDF)
+Deutsch (DE) (502.24 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/de/documents/product-information/prevenar-20-epar-product-information_de.pdf)
 
-eesti (ET) (579.64 KB - PDF)
+eesti (ET) (644.01 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/et/documents/product-information/prevenar-20-epar-product-information_et.pdf)
 
-ελληνικά (EL) (598.25 KB - PDF)
+ελληνικά (EL) (754.81 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/el/documents/product-information/prevenar-20-epar-product-information_el.pdf)
 
-français (FR) (551.5 KB - PDF)
+français (FR) (759.82 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/fr/documents/product-information/prevenar-20-epar-product-information_fr.pdf)
 
-hrvatski (HR) (566.08 KB - PDF)
+hrvatski (HR) (647.88 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/hr/documents/product-information/prevenar-20-epar-product-information_hr.pdf)
 
-italiano (IT) (552.71 KB - PDF)
+italiano (IT) (554.02 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/it/documents/product-information/prevenar-20-epar-product-information_it.pdf)
 
-latviešu (LV) (562.71 KB - PDF)
+latviešu (LV) (663.23 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/lv/documents/product-information/prevenar-20-epar-product-information_lv.pdf)
 
-lietuvių (LT) (558.04 KB - PDF)
+lietuvių (LT) (725.89 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/lt/documents/product-information/prevenar-20-epar-product-information_lt.pdf)
 
-magyar (HU) (573.02 KB - PDF)
+magyar (HU) (598.14 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/hu/documents/product-information/prevenar-20-epar-product-information_hu.pdf)
 
-Malti (MT) (597.74 KB - PDF)
+Malti (MT) (590.08 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/mt/documents/product-information/prevenar-20-epar-product-information_mt.pdf)
 
-Nederlands (NL) (578.31 KB - PDF)
+Nederlands (NL) (511.8 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/nl/documents/product-information/prevenar-20-epar-product-information_nl.pdf)
 
-polski (PL) (452.68 KB - PDF)
+polski (PL) (634.14 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/pl/documents/product-information/prevenar-20-epar-product-information_pl.pdf)
 
-português (PT) (538.43 KB - PDF)
+português (PT) (618.34 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/pt/documents/product-information/prevenar-20-epar-product-information_pt.pdf)
 
-română (RO) (584 KB - PDF)
+română (RO) (683.4 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/ro/documents/product-information/prevenar-20-epar-product-information_ro.pdf)
 
-slovenčina (SK) (595.99 KB - PDF)
+slovenčina (SK) (710.82 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/sk/documents/product-information/prevenar-20-epar-product-information_sk.pdf)
 
-slovenščina (SL) (562.14 KB - PDF)
+slovenščina (SL) (644.75 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/sl/documents/product-information/prevenar-20-epar-product-information_sl.pdf)
 
-suomi (FI) (579.97 KB - PDF)
+suomi (FI) (687.69 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/fi/documents/product-information/prevenar-20-epar-product-information_fi.pdf)
 
-svenska (SV) (555.23 KB - PDF)
+svenska (SV) (501.16 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/sv/documents/product-information/prevenar-20-epar-product-information_sv.pdf)
 
-Íslenska (IS) (569.04 KB - PDF)
+Íslenska (IS) (593.75 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/is/documents/product-information/prevenar-20-epar-product-information_is.pdf)
 
-norsk (NO) (555.21 KB - PDF)
+norsk (NO) (580.98 KB - PDF)
 
-**First published:** 02/03/2022 **Last updated:** 18/11/2025
+**First published:** 02/03/2022 **Last updated:** 19/11/2026
 
 [View](/no/documents/product-information/prevenar-20-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000291245
+**Latest procedure affecting product information:**R/0000340648
 
-23/10/2025
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -457,7 +457,7 @@ English (EN) (36.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prevenar-20-previously-apexxnar-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-975)
+[Other languages (24)](#file-language-dropdown-589)
 
 български (BG) (40.48 KB - PDF)
 
@@ -641,15 +641,16 @@ Vaccines
 
 ### Therapeutic indication
 
-| Active immunisation for the prevention of invasive disease and pneumonia caused by *Streptococcus pneumoniae* in individuals 18 years of age and older.  See sections 4.4 and 5.1 for information on protection against specific pneumococcal serotypes.  Apexxnar should be used in accordance with official recommendations.   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Active immunisation for the prevention of invasive disease and pneumonia caused by *Streptococcus pneumoniae* in individuals 18 years of age and older.
+
+See sections 4.4 and 5.1 for information on protection against specific pneumococcal serotypes.
+
+Apexxnar should be used in accordance with official recommendations.
 
 ## Authorisation details
 
 - **EMA product number**
     - EMEA/H/C/005451
-- **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
     - Pfizer Europe MA EEIG Boulevard de la Plaine 17  
 1050 Bruxelles  
@@ -659,7 +660,7 @@ Belgium
 - **Marketing authorisation issued**
     - 14/02/2022
 - **Revision**
-    - 13
+    - 14
 
 ## Assessment history
 
@@ -671,9 +672,9 @@ Collapse section
 
 Prevenar 20 (previously Apexxnar) : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.16 KB - PDF)
+English (EN) (176.64 KB - PDF)
 
-**First published:** 24/04/2025 **Last updated:** 18/11/2025
+**First published:** 24/04/2025 **Last updated:** 19/11/2026
 
 [View](/en/documents/procedural-steps-after/prevenar-20-previously-apexxnar-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -780,10 +781,11 @@ English (EN) (107.17 KB - PDF)
 ## More information on Prevenar 20 (previously Apexxnar)
 
 - [EMEA-002330-PIP01-18-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002330-pip01-18-m03)
+- [A Phase 4 Observational, Post-Authorisation Study of 20-valent Pneumococcal Conjugate Vaccine Effectiveness Against Vaccine-Type Invasive Pneumococcal Disease in Children - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001162)
 - [A Phase 4 Observational, Real-World Study of 20-valent Pneumococcal Conjugate Vaccine Effectiveness Against Vaccine-Type Invasive Pneumococcal Disease in Adults Aged 65 years and above - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000007)
 
 **This page was last updated on**
 
-20/10/2026
+19/11/2026
 
 ## Share this page

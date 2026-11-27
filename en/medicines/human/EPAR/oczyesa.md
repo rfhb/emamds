@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-06-10 16:20:00
+document_datetime: 2026-11-23 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oczyesa.html
 document_name: oczyesa.html
 version: success
-processing_time: 0.1120443
-conversion_datetime: 2026-06-16 13:45:38.522749
+processing_time: 0.1241903
+conversion_datetime: 2026-11-27 15:30:14.69109
 docling_version:
-  docling-serve: 1.24.0
-  docling-jobkit: 1.23.1
-  docling: 2.102.2
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Oczyesa
 
 [RSS](/en/individual-human-medicine.xml/258591)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 octreotide
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -100,323 +100,94 @@ As for all medicines, data on the use of Oczyesa are continuously monitored. Sus
 
 Oczyesa received a marketing authorisation valid throughout the EU on 30 June 2025.
 
-Oczyesa : EPAR - Medicine overview
+##### Oczyesa : EPAR - Medicine overview
 
-Reference Number: EMA/154371/2025
+**Reference number:**EMA/154371/2025
 
-English (EN) (159.99 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/en/documents/overview/oczyesa-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-824)
-
-български (BG) (143.82 KB - PDF)
+[English Opens in a new window](/en/documents/overview/oczyesa-epar-medicine-overview_en.pdf) (en) (PDF - 159.99 KB)
 
 **First published:** 04/07/2025
 
-[View](/bg/documents/overview/oczyesa-epar-medicine-overview_bg.pdf)
-
-español (ES) (121.74 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/es/documents/overview/oczyesa-epar-medicine-overview_es.pdf)
-
-čeština (CS) (145.14 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/cs/documents/overview/oczyesa-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (120.29 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/da/documents/overview/oczyesa-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (124.04 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/de/documents/overview/oczyesa-epar-medicine-overview_de.pdf)
-
-eesti (ET) (118.03 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/et/documents/overview/oczyesa-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (144.7 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/el/documents/overview/oczyesa-epar-medicine-overview_el.pdf)
-
-français (FR) (123.07 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/fr/documents/overview/oczyesa-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (142.63 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/hr/documents/overview/oczyesa-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (120.19 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/it/documents/overview/oczyesa-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (151.33 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/lv/documents/overview/oczyesa-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (144.2 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/lt/documents/overview/oczyesa-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (141.86 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/hu/documents/overview/oczyesa-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (146.45 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/mt/documents/overview/oczyesa-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (121.21 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/nl/documents/overview/oczyesa-epar-medicine-overview_nl.pdf)
-
-polski (PL) (146.47 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/pl/documents/overview/oczyesa-epar-medicine-overview_pl.pdf)
-
-português (PT) (122.36 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/pt/documents/overview/oczyesa-epar-medicine-overview_pt.pdf)
-
-română (RO) (141.47 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/ro/documents/overview/oczyesa-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (143.74 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/sk/documents/overview/oczyesa-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (169.94 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/sl/documents/overview/oczyesa-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (118.43 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/fi/documents/overview/oczyesa-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (119.36 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/sv/documents/overview/oczyesa-epar-medicine-overview_sv.pdf)
-
-Oczyesa : EPAR - Risk management plan
-
-English (EN) (412.71 KB - PDF)
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/oczyesa-epar-medicine-overview_bg.pdf) (bg) (PDF - 143.82 KB) **First published:** 04/07/2025
+- [español Opens in a new window](/es/documents/overview/oczyesa-epar-medicine-overview_es.pdf) (es) (PDF - 121.74 KB) **First published:** 04/07/2025
+- [čeština Opens in a new window](/cs/documents/overview/oczyesa-epar-medicine-overview_cs.pdf) (cs) (PDF - 145.14 KB) **First published:** 04/07/2025
+- [dansk Opens in a new window](/da/documents/overview/oczyesa-epar-medicine-overview_da.pdf) (da) (PDF - 120.29 KB) **First published:** 04/07/2025
+- [Deutsch Opens in a new window](/de/documents/overview/oczyesa-epar-medicine-overview_de.pdf) (de) (PDF - 124.04 KB) **First published:** 04/07/2025
+- [eesti Opens in a new window](/et/documents/overview/oczyesa-epar-medicine-overview_et.pdf) (et) (PDF - 118.03 KB) **First published:** 04/07/2025
+- [ελληνικά Opens in a new window](/el/documents/overview/oczyesa-epar-medicine-overview_el.pdf) (el) (PDF - 144.7 KB) **First published:** 04/07/2025
+- [français Opens in a new window](/fr/documents/overview/oczyesa-epar-medicine-overview_fr.pdf) (fr) (PDF - 123.07 KB) **First published:** 04/07/2025
+- [hrvatski Opens in a new window](/hr/documents/overview/oczyesa-epar-medicine-overview_hr.pdf) (hr) (PDF - 142.63 KB) **First published:** 04/07/2025
+- [italiano Opens in a new window](/it/documents/overview/oczyesa-epar-medicine-overview_it.pdf) (it) (PDF - 120.19 KB) **First published:** 04/07/2025
+- [latviešu Opens in a new window](/lv/documents/overview/oczyesa-epar-medicine-overview_lv.pdf) (lv) (PDF - 151.33 KB) **First published:** 04/07/2025
+- [lietuvių Opens in a new window](/lt/documents/overview/oczyesa-epar-medicine-overview_lt.pdf) (lt) (PDF - 144.2 KB) **First published:** 04/07/2025
+- [magyar Opens in a new window](/hu/documents/overview/oczyesa-epar-medicine-overview_hu.pdf) (hu) (PDF - 141.86 KB) **First published:** 04/07/2025
+- [Malti Opens in a new window](/mt/documents/overview/oczyesa-epar-medicine-overview_mt.pdf) (mt) (PDF - 146.45 KB) **First published:** 04/07/2025
+- [Nederlands Opens in a new window](/nl/documents/overview/oczyesa-epar-medicine-overview_nl.pdf) (nl) (PDF - 121.21 KB) **First published:** 04/07/2025
+- [polski Opens in a new window](/pl/documents/overview/oczyesa-epar-medicine-overview_pl.pdf) (pl) (PDF - 146.47 KB) **First published:** 04/07/2025
+- [português Opens in a new window](/pt/documents/overview/oczyesa-epar-medicine-overview_pt.pdf) (pt) (PDF - 122.36 KB) **First published:** 04/07/2025
+- [română Opens in a new window](/ro/documents/overview/oczyesa-epar-medicine-overview_ro.pdf) (ro) (PDF - 141.47 KB) **First published:** 04/07/2025
+- [slovenčina Opens in a new window](/sk/documents/overview/oczyesa-epar-medicine-overview_sk.pdf) (sk) (PDF - 143.74 KB) **First published:** 04/07/2025
+- [slovenščina Opens in a new window](/sl/documents/overview/oczyesa-epar-medicine-overview_sl.pdf) (sl) (PDF - 169.94 KB) **First published:** 04/07/2025
+- [suomi Opens in a new window](/fi/documents/overview/oczyesa-epar-medicine-overview_fi.pdf) (fi) (PDF - 118.43 KB) **First published:** 04/07/2025
+- [svenska Opens in a new window](/sv/documents/overview/oczyesa-epar-medicine-overview_sv.pdf) (sv) (PDF - 119.36 KB) **First published:** 04/07/2025
+
+Available translations: (22)
+
+##### Oczyesa : EPAR - Risk management plan
+
+[English Opens in a new window](/en/documents/rmp/oczyesa-epar-risk-management-plan_en.pdf) (en) (PDF - 412.71 KB)
 
 **First published:** 22/08/2025 **Last updated:** 10/06/2026
 
-[View](/en/documents/rmp/oczyesa-epar-risk-management-plan_en.pdf)
-
 ## Product information
 
-Oczyesa : EPAR - Product information
-
-English (EN) (1.05 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/en/documents/product-information/oczyesa-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-81)
-
-български (BG) (1.16 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/bg/documents/product-information/oczyesa-epar-product-information_bg.pdf)
-
-español (ES) (1.05 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/es/documents/product-information/oczyesa-epar-product-information_es.pdf)
-
-čeština (CS) (1.13 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/cs/documents/product-information/oczyesa-epar-product-information_cs.pdf)
-
-dansk (DA) (1.04 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/da/documents/product-information/oczyesa-epar-product-information_da.pdf)
-
-Deutsch (DE) (1.05 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/de/documents/product-information/oczyesa-epar-product-information_de.pdf)
-
-eesti (ET) (1.03 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/et/documents/product-information/oczyesa-epar-product-information_et.pdf)
-
-ελληνικά (EL) (1.16 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/el/documents/product-information/oczyesa-epar-product-information_el.pdf)
-
-français (FR) (1.11 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/fr/documents/product-information/oczyesa-epar-product-information_fr.pdf)
-
-hrvatski (HR) (1.11 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/hr/documents/product-information/oczyesa-epar-product-information_hr.pdf)
-
-italiano (IT) (1.06 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/it/documents/product-information/oczyesa-epar-product-information_it.pdf)
-
-latviešu (LV) (1.13 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/lv/documents/product-information/oczyesa-epar-product-information_lv.pdf)
-
-lietuvių (LT) (1.14 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/lt/documents/product-information/oczyesa-epar-product-information_lt.pdf)
-
-magyar (HU) (1.12 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/hu/documents/product-information/oczyesa-epar-product-information_hu.pdf)
-
-Malti (MT) (1.18 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/mt/documents/product-information/oczyesa-epar-product-information_mt.pdf)
-
-Nederlands (NL) (1.04 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/nl/documents/product-information/oczyesa-epar-product-information_nl.pdf)
-
-polski (PL) (878.39 KB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/pl/documents/product-information/oczyesa-epar-product-information_pl.pdf)
-
-português (PT) (1.06 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/pt/documents/product-information/oczyesa-epar-product-information_pt.pdf)
-
-română (RO) (1.14 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/ro/documents/product-information/oczyesa-epar-product-information_ro.pdf)
-
-slovenčina (SK) (1.15 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/sk/documents/product-information/oczyesa-epar-product-information_sk.pdf)
-
-slovenščina (SL) (1.12 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/sl/documents/product-information/oczyesa-epar-product-information_sl.pdf)
-
-suomi (FI) (1.03 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/fi/documents/product-information/oczyesa-epar-product-information_fi.pdf)
-
-svenska (SV) (1.03 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/sv/documents/product-information/oczyesa-epar-product-information_sv.pdf)
-
-Íslenska (IS) (1.04 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/is/documents/product-information/oczyesa-epar-product-information_is.pdf)
-
-norsk (NO) (1.05 MB - PDF)
-
-**First published:** 04/07/2025 **Last updated:** 03/12/2025
-
-[View](/no/documents/product-information/oczyesa-epar-product-information_no.pdf)
-
-**Latest procedure affecting product information:** VR/0000313339
-
-02/12/2025
+##### Oczyesa : EPAR - Product information
+
+[English Opens in a new window](/en/documents/product-information/oczyesa-epar-product-information_en.pdf) (en) (PDF - 1.06 MB)
+
+**First published:** 04/07/2025 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/oczyesa-epar-product-information_bg.pdf) (bg) (PDF - 1.17 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [español Opens in a new window](/es/documents/product-information/oczyesa-epar-product-information_es.pdf) (es) (PDF - 1.05 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/oczyesa-epar-product-information_cs.pdf) (cs) (PDF - 1.13 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/oczyesa-epar-product-information_da.pdf) (da) (PDF - 1.05 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/oczyesa-epar-product-information_de.pdf) (de) (PDF - 1.05 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/oczyesa-epar-product-information_et.pdf) (et) (PDF - 1.04 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/oczyesa-epar-product-information_el.pdf) (el) (PDF - 1.16 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [français Opens in a new window](/fr/documents/product-information/oczyesa-epar-product-information_fr.pdf) (fr) (PDF - 1.1 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/oczyesa-epar-product-information_hr.pdf) (hr) (PDF - 1.12 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/oczyesa-epar-product-information_it.pdf) (it) (PDF - 1.07 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/oczyesa-epar-product-information_lv.pdf) (lv) (PDF - 1.14 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/oczyesa-epar-product-information_lt.pdf) (lt) (PDF - 1.13 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/oczyesa-epar-product-information_hu.pdf) (hu) (PDF - 1.13 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/oczyesa-epar-product-information_mt.pdf) (mt) (PDF - 1.17 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/oczyesa-epar-product-information_nl.pdf) (nl) (PDF - 1.05 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/oczyesa-epar-product-information_pl.pdf) (pl) (PDF - 889.45 KB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [português Opens in a new window](/pt/documents/product-information/oczyesa-epar-product-information_pt.pdf) (pt) (PDF - 1.07 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [română Opens in a new window](/ro/documents/product-information/oczyesa-epar-product-information_ro.pdf) (ro) (PDF - 1.13 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/oczyesa-epar-product-information_sk.pdf) (sk) (PDF - 1.16 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/oczyesa-epar-product-information_sl.pdf) (sl) (PDF - 1.13 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/oczyesa-epar-product-information_fi.pdf) (fi) (PDF - 1.04 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/oczyesa-epar-product-information_sv.pdf) (sv) (PDF - 1.04 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/oczyesa-epar-product-information_is.pdf) (is) (PDF - 1.05 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/oczyesa-epar-product-information_no.pdf) (no) (PDF - 1.06 MB) **First published:** 04/07/2025 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000372648
+
+23/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -426,181 +197,53 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Oczyesa : EPAR - All authorised presentations
+##### Oczyesa : EPAR - All authorised presentations
 
-English (EN) (47.49 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/en/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-416)
-
-български (BG) (67.59 KB - PDF)
+[English Opens in a new window](/en/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_en.pdf) (en) (PDF - 47.49 KB)
 
 **First published:** 04/07/2025
 
-[View](/bg/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (51.11 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/es/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (68.78 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/cs/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (54.27 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/da/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (52.99 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/de/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_de.pdf)
-
-eesti (ET) (50.85 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/et/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (65.63 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/el/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (50.87 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/fr/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (128.38 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/hr/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_hr.pdf)
-
-italiano (IT) (50.58 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/it/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_it.pdf)
-
-latviešu (LV) (67.2 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/lv/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių (LT) (69.25 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/lt/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (69.06 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/hu/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (69.04 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/mt/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (51.23 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/nl/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_nl.pdf)
-
-polski (PL) (70.75 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/pl/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (52.28 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/pt/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (67.1 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/ro/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (69.84 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/sk/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (68.76 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/sl/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_sl.pdf)
-
-suomi (FI) (50.67 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/fi/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (51.27 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/sv/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_sv.pdf)
-
-Íslenska (IS) (52.06 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/is/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_is.pdf)
-
-norsk (NO) (52.85 KB - PDF)
-
-**First published:** 04/07/2025
-
-[View](/no/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_no.pdf)
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 67.59 KB) **First published:** 04/07/2025
+- [español Opens in a new window](/es/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_es.pdf) (es) (PDF - 51.11 KB) **First published:** 04/07/2025
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 68.78 KB) **First published:** 04/07/2025
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_da.pdf) (da) (PDF - 54.27 KB) **First published:** 04/07/2025
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_de.pdf) (de) (PDF - 52.99 KB) **First published:** 04/07/2025
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_et.pdf) (et) (PDF - 50.85 KB) **First published:** 04/07/2025
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_el.pdf) (el) (PDF - 65.63 KB) **First published:** 04/07/2025
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 50.87 KB) **First published:** 04/07/2025
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 128.38 KB) **First published:** 04/07/2025
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_it.pdf) (it) (PDF - 50.58 KB) **First published:** 04/07/2025
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 67.2 KB) **First published:** 04/07/2025
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 69.25 KB) **First published:** 04/07/2025
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 69.06 KB) **First published:** 04/07/2025
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 69.04 KB) **First published:** 04/07/2025
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 51.23 KB) **First published:** 04/07/2025
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 70.75 KB) **First published:** 04/07/2025
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 52.28 KB) **First published:** 04/07/2025
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 67.1 KB) **First published:** 04/07/2025
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 69.84 KB) **First published:** 04/07/2025
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 68.76 KB) **First published:** 04/07/2025
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 50.67 KB) **First published:** 04/07/2025
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 51.27 KB) **First published:** 04/07/2025
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_is.pdf) (is) (PDF - 52.06 KB) **First published:** 04/07/2025
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/oczyesa-epar-all-authorised-presentations_no.pdf) (no) (PDF - 52.85 KB) **First published:** 04/07/2025
+
+Available translations: (24)
 
 ## Product details
 
-Name of medicine
-
-Oczyesa
-
-Active substance
-
-octreotide hydrochloride
-
-International non-proprietary name (INN) or common name
-
-octreotide
-
-Therapeutic area (MeSH)
-
-Acromegaly
-
-Anatomical therapeutic chemical (ATC) code
-
-H01CB02
+- **Name of medicine**
+    - Oczyesa
+- **Active substance**
+    - octreotide hydrochloride
+- **International non-proprietary name (INN) or common name**
+    - octreotide
+- **Therapeutic area (MeSH)**
+    - Acromegaly
+- **Anatomical therapeutic chemical (ATC) code**
+    - H01CB02
 
 ### Pharmacotherapeutic group
 
@@ -612,27 +255,18 @@ Oczyesa is indicated for maintenance treatment in adult patients with acromegaly
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006322
-
-Marketing authorisation holder
-
-Camurus AB
-
-Rydbergs Torg 4 224 84 Lund Sweden
-
-Opinion adopted
-
-25/04/2025
-
-Marketing authorisation issued
-
-30/06/2025
-
-Revision
-
-2
+- **EMA product number**
+    - EMEA/H/C/006322
+- **Marketing authorisation holder**
+    - Camurus AB Rydbergs Torg 4  
+224 84 Lund  
+Sweden
+- **Opinion adopted**
+    - 25/04/2025
+- **Marketing authorisation issued**
+    - 30/06/2025
+- **Revision**
+    - 3
 
 ## Assessment history
 
@@ -642,45 +276,43 @@ Collapse section
 
 ### Changes since initial authorisation of medicine
 
-Oczyesa : EPAR - Procedural steps taken and scientific information after authorisation
+##### Oczyesa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.88 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/oczyesa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 188.01 KB)
 
-**First published:** 03/12/2025
-
-[View](/en/documents/procedural-steps-after/oczyesa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+**First published:** 03/12/2025 **Last updated:** 23/11/2026
 
 ### Initial marketing authorisation documents
 
-Oczyesa : Orphan designation withdrawal assessment report (initial-authorisation)
+##### Oczyesa : Orphan designation withdrawal assessment report (initial-authorisation)
 
-Adopted Reference Number: EMADOC-1700519818-2149851
+Adopted
 
-English (EN) (1.96 MB - PDF)
+**Reference number:**EMADOC-1700519818-2149851
 
-**First published:** 04/07/2025
-
-[View](/en/documents/orphan-maintenance-report/oczyesa-orphan-designation-withdrawal-assessment-report-initial-authorisation_en.pdf)
-
-Oczyesa : EPAR - Public assessment report
-
-Adopted Reference Number: EMA/164079/2025
-
-English (EN) (3.41 MB - PDF)
+[English Opens in a new window](/en/documents/orphan-maintenance-report/oczyesa-orphan-designation-withdrawal-assessment-report-initial-authorisation_en.pdf) (en) (PDF - 1.96 MB)
 
 **First published:** 04/07/2025
 
-[View](/en/documents/assessment-report/oczyesa-epar-public-assessment-report_en.pdf)
+##### Oczyesa : EPAR - Public assessment report
 
-CHMP summary of positive opinion for Oczyesa
+Adopted
 
-Adopted Reference Number: EMA/CHMP/132414/2025
+**Reference number:**EMA/164079/2025
 
-English (EN) (144.71 KB - PDF)
+[English Opens in a new window](/en/documents/assessment-report/oczyesa-epar-public-assessment-report_en.pdf) (en) (PDF - 3.41 MB)
+
+**First published:** 04/07/2025
+
+##### CHMP summary of positive opinion for Oczyesa
+
+Adopted
+
+**Reference number:**EMA/CHMP/132414/2025
+
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-oczyesa_en.pdf) (en) (PDF - 144.71 KB)
 
 **First published:** 25/04/2025
-
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-oczyesa_en.pdf)
 
 ## News on Oczyesa
 
@@ -694,6 +326,6 @@ Please note that this product was withdrawn from the Union Register of orphan me
 
 **This page was last updated on**
 
-10/06/2026
+23/11/2026
 
 ## Share this page

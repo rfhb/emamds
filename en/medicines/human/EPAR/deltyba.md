@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-03-18 16:53:00
+document_datetime: 2026-11-24 16:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/deltyba.html
 document_name: deltyba.html
 version: success
-processing_time: 0.1251774
-conversion_datetime: 2026-03-25 12:32:46.788232
+processing_time: 0.4299466
+conversion_datetime: 2026-11-27 15:28:05.645703
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Deltyba
 
 [RSS](/en/individual-human-medicine.xml/66325)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 delamanid
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Deltyba](#news-on)
+- [More information on Deltyba](#more-information-on-deltyba-86519)
 - [More information on Deltyba](#related-medicines)
 - [Topics](#topics)
 
@@ -53,13 +54,13 @@ It is used together with other tuberculosis medicines and only when other standa
 
 Deltyba contains the active substance delamanid.
 
-Tuberculosis is rare in the EU, and Deltyba was designated an 'orphan medicine' (a medicine used in rare diseases) on 1 February 2008. Further information on the orphan designation can be found here: [ema.europa.eu/en/medicines/human/orphan-designations/eu307524](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu307524)
+Tuberculosis is rare in the EU, and Deltyba was designated an 'orphan medicine' (a medicine used in rare diseases) on 1 February 2008.
 
 Expand section
 
 Collapse section
 
-## How is Deltyba used?
+### How is Deltyba used?
 
 Deltyba can only be obtained with a prescription and treatment should be started and monitored by a doctor who is experienced in the treatment of multi-drug resistant tuberculosis. It should be used according to official guidelines on treating multi-drug resistant tuberculosis.
 
@@ -69,11 +70,11 @@ Deltyba is taken for 6 months together with other tuberculosis medicines. Treatm
 
 For more information about using Deltyba, see the package leaflet or contact a doctor or pharmacist.
 
-## How does Deltyba work?
+### How does Deltyba work?
 
 Tuberculosis is an infection caused by the bacterium Mycobacterium tuberculosis (M. tuberculosis). The active substance in Deltyba, delamanid, is an antibiotic active against M. tuberculosis. Although the way it works is unclear, delamanid is known to block the production of methoxy-mycolic and keto-mycolic acids, two essential components of the cell walls of M. tuberculosis, which will cause the bacteria to die.
 
-## What benefits of Deltyba have been shown in studies?
+### What benefits of Deltyba have been shown in studies?
 
 The effects of Deltyba have been looked at in one main study involving 481 adults with tuberculosis resistant to standard treatments. Patients in the study were given Deltyba or placebo (a dummy treatment) for 2 months in addition to their other treatments. The main measure of effectiveness was the proportion of patients who no longer had the bacteria in their sputum (phlegm). After 2 months of treatment more than 40% of the patients who were taking Deltyba no longer had the bacteria in their sputum compared with 30% of the patients who were taking placebo.
 
@@ -83,7 +84,7 @@ Additional data indicate that the medicine will be as effective in children, inc
 
 Data from further studies, including the end-TB (evaluating newly approved drugs for multidrug resistant TB) study, confirmed the long-term effectiveness and safety of Deltyba.
 
-## What are the risks associated with Deltyba?
+### What are the risks associated with Deltyba?
 
 For the full list of side effects and restrictions with Deltyba, see the package leaflet.
 
@@ -91,339 +92,110 @@ The most common side effects with Deltyba (which may affect more than 1 patient 
 
 Deltyba must not be used in patients who have low levels of albumin (a blood protein). It must also not be used in patients who are taking certain other medicines that affect the way Deltyba is broken down in the body.
 
-## Why is Deltyba authorised in the EU?
+### Why is Deltyba authorised in the EU?
 
 The European Medicines Agency decided that Deltyba's benefits are greater than its risks and it can be authorised for use in the EU. The Agency considered that the benefits of Deltyba had been shown for patients with multi-drug resistant tuberculosis affecting the lung. Although the main study was of short duration and the follow-up studies had shortcomings, the Agency considered that the effects shown after the initial 2 months of treatment were likely to be sustained for the full treatment duration. The long-term effectiveness and safety of Deltyba were confirmed by subsequent studies.
 
 The safety profile was considered manageable and several measures were introduced to minimise the risks, including a study to confirm the long-term safety. Furthermore, the medical need for new agents to treat multi-drug resistant tuberculosis was highlighted.
 
-Deltyba was originally given 'conditional authorisation'.  As the company provided the additional data requested by the Agency, the authorisation was switched to standard authorisation.
+Deltyba was originally given 'conditional authorisation'. As the company provided the additional data requested by the Agency, the authorisation was switched to standard authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Deltyba?
+### What measures are being taken to ensure the safe and effective use of Deltyba?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Deltyba have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Deltyba are continuously monitored. Side effects reported with Deltyba are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Deltyba
+### Other information about Deltyba
 
 Deltyba received a conditional marketing authorisation valid throughout the European Union on 28 April 2014. The conditional marketing authorisation was switched to a standard marketing authorisation on 20 February 2026.
 
-Deltyba : EPAR - Medicine overview
+##### Deltyba : EPAR - Medicine overview
 
-English (EN) (113.27 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/en/documents/overview/deltyba-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-371)
-
-български (BG) (146.12 KB - PDF)
+[English Opens in a new window](/en/documents/overview/deltyba-epar-medicine-overview_en.pdf) (en) (PDF - 113.27 KB)
 
 **First published:** 08/05/2014 **Last updated:** 18/03/2026
 
-[View](/bg/documents/overview/deltyba-epar-medicine-overview_bg.pdf)
-
-español (ES) (113.47 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/es/documents/overview/deltyba-epar-medicine-overview_es.pdf)
-
-čeština (CS) (137.14 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/cs/documents/overview/deltyba-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (113.86 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/da/documents/overview/deltyba-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (117.43 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/de/documents/overview/deltyba-epar-medicine-overview_de.pdf)
-
-eesti keel (ET) (110.46 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/et/documents/overview/deltyba-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (147 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/el/documents/overview/deltyba-epar-medicine-overview_el.pdf)
-
-français (FR) (114.28 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/fr/documents/overview/deltyba-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (135.81 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/hr/documents/overview/deltyba-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (113.33 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/it/documents/overview/deltyba-epar-medicine-overview_it.pdf)
-
-latviešu valoda (LV) (150.98 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/lv/documents/overview/deltyba-epar-medicine-overview_lv.pdf)
-
-lietuvių kalba (LT) (164.4 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/lt/documents/overview/deltyba-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (135.67 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/hu/documents/overview/deltyba-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (137.33 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/mt/documents/overview/deltyba-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (115.02 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/nl/documents/overview/deltyba-epar-medicine-overview_nl.pdf)
-
-polski (PL) (138.88 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/pl/documents/overview/deltyba-epar-medicine-overview_pl.pdf)
-
-português (PT) (114.56 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/pt/documents/overview/deltyba-epar-medicine-overview_pt.pdf)
-
-română (RO) (141.95 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/ro/documents/overview/deltyba-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (136.87 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/sk/documents/overview/deltyba-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (135.27 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/sl/documents/overview/deltyba-epar-medicine-overview_sl.pdf)
-
-Suomi (FI) (110.41 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/fi/documents/overview/deltyba-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (111.99 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/sv/documents/overview/deltyba-epar-medicine-overview_sv.pdf)
-
-Deltyba : EPAR - Risk management plan
-
-English (EN) (3.41 MB - PDF)
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/deltyba-epar-medicine-overview_bg.pdf) (bg) (PDF - 146.12 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [español Opens in a new window](/es/documents/overview/deltyba-epar-medicine-overview_es.pdf) (es) (PDF - 113.47 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [čeština Opens in a new window](/cs/documents/overview/deltyba-epar-medicine-overview_cs.pdf) (cs) (PDF - 137.14 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [dansk Opens in a new window](/da/documents/overview/deltyba-epar-medicine-overview_da.pdf) (da) (PDF - 113.86 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [Deutsch Opens in a new window](/de/documents/overview/deltyba-epar-medicine-overview_de.pdf) (de) (PDF - 117.43 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [eesti Opens in a new window](/et/documents/overview/deltyba-epar-medicine-overview_et.pdf) (et) (PDF - 110.46 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [ελληνικά Opens in a new window](/el/documents/overview/deltyba-epar-medicine-overview_el.pdf) (el) (PDF - 147 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [français Opens in a new window](/fr/documents/overview/deltyba-epar-medicine-overview_fr.pdf) (fr) (PDF - 114.28 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [hrvatski Opens in a new window](/hr/documents/overview/deltyba-epar-medicine-overview_hr.pdf) (hr) (PDF - 135.81 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [italiano Opens in a new window](/it/documents/overview/deltyba-epar-medicine-overview_it.pdf) (it) (PDF - 113.33 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [latviešu Opens in a new window](/lv/documents/overview/deltyba-epar-medicine-overview_lv.pdf) (lv) (PDF - 150.98 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [lietuvių Opens in a new window](/lt/documents/overview/deltyba-epar-medicine-overview_lt.pdf) (lt) (PDF - 164.4 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [magyar Opens in a new window](/hu/documents/overview/deltyba-epar-medicine-overview_hu.pdf) (hu) (PDF - 135.67 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [Malti Opens in a new window](/mt/documents/overview/deltyba-epar-medicine-overview_mt.pdf) (mt) (PDF - 137.33 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [Nederlands Opens in a new window](/nl/documents/overview/deltyba-epar-medicine-overview_nl.pdf) (nl) (PDF - 115.02 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [polski Opens in a new window](/pl/documents/overview/deltyba-epar-medicine-overview_pl.pdf) (pl) (PDF - 138.88 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [português Opens in a new window](/pt/documents/overview/deltyba-epar-medicine-overview_pt.pdf) (pt) (PDF - 114.56 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [română Opens in a new window](/ro/documents/overview/deltyba-epar-medicine-overview_ro.pdf) (ro) (PDF - 141.95 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [slovenčina Opens in a new window](/sk/documents/overview/deltyba-epar-medicine-overview_sk.pdf) (sk) (PDF - 136.87 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [slovenščina Opens in a new window](/sl/documents/overview/deltyba-epar-medicine-overview_sl.pdf) (sl) (PDF - 135.27 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [suomi Opens in a new window](/fi/documents/overview/deltyba-epar-medicine-overview_fi.pdf) (fi) (PDF - 110.41 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+- [svenska Opens in a new window](/sv/documents/overview/deltyba-epar-medicine-overview_sv.pdf) (sv) (PDF - 111.99 KB) **First published:** 08/05/2014 **Last updated:** 18/03/2026
+
+Available translations: (22)
+
+##### Deltyba : EPAR - Risk management plan
+
+[English Opens in a new window](/en/documents/rmp/deltyba-epar-risk-management-plan_en.pdf) (en) (PDF - 3.41 MB)
 
 **First published:** 28/10/2021 **Last updated:** 18/03/2026
 
-[View](/en/documents/rmp/deltyba-epar-risk-management-plan_en.pdf)
-
 ## Product information
 
-Deltyba : EPAR - Product Information
-
-English (EN) (599.28 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/en/documents/product-information/deltyba-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-352)
-
-български (BG) (632.1 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/bg/documents/product-information/deltyba-epar-product-information_bg.pdf)
-
-español (ES) (511.34 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/es/documents/product-information/deltyba-epar-product-information_es.pdf)
-
-čeština (CS) (647.46 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/cs/documents/product-information/deltyba-epar-product-information_cs.pdf)
-
-dansk (DA) (515.69 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/da/documents/product-information/deltyba-epar-product-information_da.pdf)
-
-Deutsch (DE) (581.79 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/de/documents/product-information/deltyba-epar-product-information_de.pdf)
-
-eesti keel (ET) (534.37 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/et/documents/product-information/deltyba-epar-product-information_et.pdf)
-
-ελληνικά (EL) (726.68 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/el/documents/product-information/deltyba-epar-product-information_el.pdf)
-
-français (FR) (612.29 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/fr/documents/product-information/deltyba-epar-product-information_fr.pdf)
-
-hrvatski (HR) (555.88 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/hr/documents/product-information/deltyba-epar-product-information_hr.pdf)
-
-íslenska (IS) (582.65 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/is/documents/product-information/deltyba-epar-product-information_is.pdf)
-
-italiano (IT) (599.54 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/it/documents/product-information/deltyba-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (623.54 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/lv/documents/product-information/deltyba-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (587.36 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/lt/documents/product-information/deltyba-epar-product-information_lt.pdf)
-
-magyar (HU) (720.17 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/hu/documents/product-information/deltyba-epar-product-information_hu.pdf)
-
-Malti (MT) (615.7 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/mt/documents/product-information/deltyba-epar-product-information_mt.pdf)
-
-Nederlands (NL) (567.5 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/nl/documents/product-information/deltyba-epar-product-information_nl.pdf)
-
-norsk (NO) (536.11 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/no/documents/product-information/deltyba-epar-product-information_no.pdf)
-
-polski (PL) (683.77 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/pl/documents/product-information/deltyba-epar-product-information_pl.pdf)
-
-português (PT) (586.68 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/pt/documents/product-information/deltyba-epar-product-information_pt.pdf)
-
-română (RO) (674.07 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/ro/documents/product-information/deltyba-epar-product-information_ro.pdf)
-
-slovenčina (SK) (631.56 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/sk/documents/product-information/deltyba-epar-product-information_sk.pdf)
-
-slovenščina (SL) (601.22 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/sl/documents/product-information/deltyba-epar-product-information_sl.pdf)
-
-Suomi (FI) (486.83 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/fi/documents/product-information/deltyba-epar-product-information_fi.pdf)
-
-svenska (SV) (515.67 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 18/03/2026
-
-[View](/sv/documents/product-information/deltyba-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** R/0000293774
-
-20/02/2026
+##### Deltyba : EPAR - Product Information
+
+[English Opens in a new window](/en/documents/product-information/deltyba-epar-product-information_en.pdf) (en) (PDF - 704.75 KB)
+
+**First published:** 08/05/2014 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/deltyba-epar-product-information_bg.pdf) (bg) (PDF - 683.31 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [español Opens in a new window](/es/documents/product-information/deltyba-epar-product-information_es.pdf) (es) (PDF - 568.11 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/deltyba-epar-product-information_cs.pdf) (cs) (PDF - 702.97 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/deltyba-epar-product-information_da.pdf) (da) (PDF - 578.36 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/deltyba-epar-product-information_de.pdf) (de) (PDF - 622.09 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/deltyba-epar-product-information_et.pdf) (et) (PDF - 592.73 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/deltyba-epar-product-information_el.pdf) (el) (PDF - 757.2 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [français Opens in a new window](/fr/documents/product-information/deltyba-epar-product-information_fr.pdf) (fr) (PDF - 672.07 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/deltyba-epar-product-information_hr.pdf) (hr) (PDF - 612.76 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/deltyba-epar-product-information_it.pdf) (it) (PDF - 659.64 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/deltyba-epar-product-information_lv.pdf) (lv) (PDF - 687.95 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/deltyba-epar-product-information_lt.pdf) (lt) (PDF - 643.39 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/deltyba-epar-product-information_hu.pdf) (hu) (PDF - 779.63 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/deltyba-epar-product-information_mt.pdf) (mt) (PDF - 673.55 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/deltyba-epar-product-information_nl.pdf) (nl) (PDF - 625.13 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/deltyba-epar-product-information_pl.pdf) (pl) (PDF - 741.97 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [português Opens in a new window](/pt/documents/product-information/deltyba-epar-product-information_pt.pdf) (pt) (PDF - 645.17 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [română Opens in a new window](/ro/documents/product-information/deltyba-epar-product-information_ro.pdf) (ro) (PDF - 730.36 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/deltyba-epar-product-information_sk.pdf) (sk) (PDF - 693.23 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/deltyba-epar-product-information_sl.pdf) (sl) (PDF - 661.02 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/deltyba-epar-product-information_fi.pdf) (fi) (PDF - 545.33 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/deltyba-epar-product-information_sv.pdf) (sv) (PDF - 574.43 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/deltyba-epar-product-information_is.pdf) (is) (PDF - 642.36 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/deltyba-epar-product-information_no.pdf) (no) (PDF - 594.44 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000384192
+
+24/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -433,181 +205,53 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Deltyba : EPAR - All Authorised presentations
-
-English (EN) (16.69 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/en/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-759)
-
-български (BG) (40.39 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/bg/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (14.53 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/es/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (24.89 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/cs/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (14.88 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/da/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (14.96 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/de/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_de.pdf)
-
-eesti keel (ET) (18.05 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/et/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (40.31 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/el/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (17.69 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/fr/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (38.19 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/hr/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (14.34 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/is/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (13.54 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/it/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_it.pdf)
-
-latviešu valoda (LV) (37.3 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/lv/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių kalba (LT) (40.37 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/lt/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (24.11 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/hu/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (37.57 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/mt/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (14.63 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/nl/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (14.9 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/no/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (37.3 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/pl/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (15.19 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/pt/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (34.21 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/ro/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (36.91 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/sk/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (34.06 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/sl/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_sl.pdf)
-
-Suomi (FI) (17.94 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/fi/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (13.46 KB - PDF)
-
-**First published:** 08/05/2014 **Last updated:** 28/10/2021
-
-[View](/sv/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_sv.pdf)
+##### Deltyba : EPAR - All Authorised presentations
+
+[English Opens in a new window](/en/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_en.pdf) (en) (PDF - 68.36 KB)
+
+**First published:** 08/05/2014 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 79.44 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [español Opens in a new window](/es/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_es.pdf) (es) (PDF - 67.89 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 66.12 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_da.pdf) (da) (PDF - 88.36 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_de.pdf) (de) (PDF - 89.51 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_et.pdf) (et) (PDF - 70.59 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_el.pdf) (el) (PDF - 106.19 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 70.21 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 86.63 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_it.pdf) (it) (PDF - 86.75 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 85.83 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 89.74 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 76.81 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 108.25 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 87.57 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 109.16 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 88.49 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 75.38 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 84.87 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 84.19 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 89 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 47.29 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_is.pdf) (is) (PDF - 67.44 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/deltyba-epar-all-authorised-presentations_no.pdf) (no) (PDF - 88.34 KB) **First published:** 08/05/2014 **Last updated:** 24/11/2026
+
+Available translations: (24)
 
 ## Product details
 
-Name of medicine
-
-Deltyba
-
-Active substance
-
-Delamanid
-
-International non-proprietary name (INN) or common name
-
-delamanid
-
-Therapeutic area (MeSH)
-
-Tuberculosis, Multidrug-Resistant
-
-Anatomical therapeutic chemical (ATC) code
-
-J04AK06
+- **Name of medicine**
+    - Deltyba
+- **Active substance**
+    - Delamanid
+- **International non-proprietary name (INN) or common name**
+    - delamanid
+- **Therapeutic area (MeSH)**
+    - Tuberculosis, Multidrug-Resistant
+- **Anatomical therapeutic chemical (ATC) code**
+    - J04AK06
 
 ### Pharmacotherapeutic group
 
@@ -621,31 +265,18 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002552
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Otsuka Novel Products GmbH
-
-Erika-Mann-Strasse 21
-
-Opinion adopted
-
-21/11/2013
-
-Marketing authorisation issued
-
-27/04/2014
-
-Revision
-
-28
+- **EMA product number**
+    - EMEA/H/C/002552
+- **Marketing authorisation holder**
+    - Otsuka Novel Products GmbH Erika-Mann-Strasse 21  
+D-80636 München  
+Germany
+- **Opinion adopted**
+    - 21/11/2013
+- **Marketing authorisation issued**
+    - 27/04/2014
+- **Revision**
+    - 29
 
 ## Assessment history
 
@@ -653,145 +284,133 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
-Deltyba : EPAR - Procedural steps taken and scientific information after authorisation
+##### Deltyba : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.56 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/deltyba-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 165.33 KB)
 
-**First published:** 18/03/2026
+**First published:** 18/03/2026 **Last updated:** 24/11/2026
 
-[View](/en/documents/procedural-steps-after/deltyba-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+##### Deltyba : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-Deltyba : EPAR - Procedural steps taken and scientific information after authorisation (archive)
-
-English (EN) (264.05 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/deltyba-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf) (en) (PDF - 264.05 KB)
 
 **First published:** 25/07/2014 **Last updated:** 18/03/2026
 
-[View](/en/documents/procedural-steps-after/deltyba-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+##### Deltyba-R-0000293774 : EPAR - Assessment report
 
-Deltyba-R-0000293774 : EPAR - Assessment report
+**Reference number:**EMADOC-1700519818-2416995
 
-Reference Number: EMADOC-1700519818-2416995
-
-English (EN) (4.61 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/deltyba-r-0000293774-epar-assessment-report_en.pdf) (en) (PDF - 4.61 MB)
 
 **First published:** 18/03/2026
 
-[View](/en/documents/variation-report/deltyba-r-0000293774-epar-assessment-report_en.pdf)
+##### Deltyba-H-C-PSUSA-00010213-202304: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Deltyba-H-C-PSUSA-00010213-202304: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/540391/2023
 
-Reference Number: EMA/540391/2023
-
-English (EN) (89.33 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/deltyba-h-c-psusa-00010213-202304-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 89.33 KB)
 
 **First published:** 29/02/2024
 
-[View](/en/documents/scientific-conclusion/deltyba-h-c-psusa-00010213-202304-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### Deltyba-H-C-PSUSA-00010213-202104 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Deltyba-H-C-PSUSA-00010213-202104 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/723817/2021
 
-Reference Number: EMA/723817/2021
-
-English (EN) (120.75 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/deltyba-h-c-psusa-00010213-202104-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 120.75 KB)
 
 **First published:** 22/02/2022
 
-[View](/en/documents/scientific-conclusion/deltyba-h-c-psusa-00010213-202104-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### Deltyba-H-C-002552-X-0046-G : EPAR - Assessment report - Variation
 
-Deltyba-H-C-002552-X-0046-G : EPAR - Assessment report - Variation
+Adopted
 
-Adopted Reference Number: EMA/543612/2021
+**Reference number:**EMA/543612/2021
 
-English (EN) (3.08 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/deltyba-h-c-002552-x-0046-g-epar-assessment-report-variation_en.pdf) (en) (PDF - 3.08 MB)
 
 **First published:** 28/10/2021
 
-[View](/en/documents/variation-report/deltyba-h-c-002552-x-0046-g-epar-assessment-report-variation_en.pdf)
+##### CHMP post-authorisation summary of positive opinion for Deltyba (X-46-G)
 
-CHMP post-authorisation summary of positive opinion for Deltyba (X-46-G)
+Adopted
 
-Adopted Reference Number: EMA/CHMP/266703/2021
+**Reference number:**EMA/CHMP/266703/2021
 
-English (EN) (137.96 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-deltyba-x-46-g_en.pdf) (en) (PDF - 137.96 KB)
 
 **First published:** 23/07/2021
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-deltyba-x-46-g_en.pdf)
+##### Deltyba-H-C-2552-II-0040 : EPAR - Assessment report - Variation
 
-Deltyba-H-C-2552-II-0040 : EPAR - Assessment report - Variation
+Adopted
 
-Adopted Reference Number: EMA/526836/2020
+**Reference number:**EMA/526836/2020
 
-English (EN) (2.85 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/deltyba-h-c-2552-ii-0040-epar-assessment-report-variation_en.pdf) (en) (PDF - 2.85 MB)
 
 **First published:** 17/12/2020
 
-[View](/en/documents/variation-report/deltyba-h-c-2552-ii-0040-epar-assessment-report-variation_en.pdf)
+##### CHMP post-authorisation summary of positive opinion for Deltyba (II-40)
 
-CHMP post-authorisation summary of positive opinion for Deltyba (II-40)
+Adopted
 
-Adopted Reference Number: EMA/CHMP/316556/2020
+**Reference number:**EMA/CHMP/316556/2020
 
-English (EN) (131.93 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-deltyba-ii-40_en.pdf) (en) (PDF - 131.93 KB)
 
 **First published:** 18/09/2020
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-deltyba-ii-40_en.pdf)
+##### Deltyba-PSUSA-00010213-201810 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
-Deltyba-PSUSA-00010213-201810 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+**Reference number:**EMA/444492/2019
 
-Reference Number: EMA/444492/2019
-
-English (EN) (68.32 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/deltyba-psusa-00010213-201810-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf) (en) (PDF - 68.32 KB)
 
 **First published:** 08/08/2019
 
-[View](/en/documents/scientific-conclusion/deltyba-psusa-00010213-201810-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+##### Deltyba-H-C-2552-P46-007 : EPAR - Assessment report
 
-Deltyba-H-C-2552-P46-007 : EPAR - Assessment report
+Adopted
 
-Adopted Reference Number: EMEA/H/C/002552/P46
+**Reference number:**EMEA/H/C/002552/P46
 
-English (EN) (758.99 KB - PDF)
+[English Opens in a new window](/en/documents/variation-report/deltyba-h-c-2552-p46-007-epar-assessment-report_en.pdf) (en) (PDF - 758.99 KB)
 
 **First published:** 13/11/2018
 
-[View](/en/documents/variation-report/deltyba-h-c-2552-p46-007-epar-assessment-report_en.pdf)
+### Initial marketing authorisation documents
 
-## Initial marketing authorisation documents
+##### Deltyba : EPAR - Public assessment report
 
-Deltyba : EPAR - Public assessment report
+Adopted
 
-Adopted Reference Number: EMA/55567/2014
+**Reference number:**EMA/55567/2014
 
-English (EN) (4.22 MB - PDF)
+[English Opens in a new window](/en/documents/assessment-report/deltyba-epar-public-assessment-report_en.pdf) (en) (PDF - 4.22 MB)
 
 **First published:** 08/05/2014 **Last updated:** 08/05/2014
 
-[View](/en/documents/assessment-report/deltyba-epar-public-assessment-report_en.pdf)
+##### CHMP summary of positive opinion for Deltyba
 
-CHMP summary of positive opinion for Deltyba
+Adopted
 
-Adopted Reference Number: EMA/CHMP/713909/2013
+**Reference number:**EMA/CHMP/713909/2013
 
-English (EN) (64.93 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-deltyba_en.pdf) (en) (PDF - 64.93 KB)
 
 **First published:** 22/11/2013 **Last updated:** 22/11/2013
 
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-deltyba_en.pdf)
+##### Questions and answers on refusal of the marketing authorisation for Delamanid
 
-Questions and answers on refusal of the marketing authorisation for Delamanid
+Adopted
 
-Adopted Reference Number: EMA/446276/2013
+**Reference number:**EMA/446276/2013
 
-English (EN) (67.88 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-delamanid_en.pdf) (en) (PDF - 67.88 KB)
 
 **First published:** 26/07/2013 **Last updated:** 26/07/2013
-
-[View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-delamanid_en.pdf)
 
 ## News on Deltyba
 
@@ -821,15 +440,18 @@ English (EN) (67.88 KB - PDF)
 
 ## More information on Deltyba
 
-- [EU/3/07/524 - orphan designation for treatment of tuberculosis](/en/medicines/human/orphan-designations/eu-3-07-524)
+This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-07-524) on 1 February 2008. Deltyba was withdrawn from the Community register of orphan medicinal products in April 2026 at the end of the 12-year period of market exclusivity.
+
+## More information on Deltyba
+
 - [EMEA-001113-PIP01-10-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001113-pip01-10-m06)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-18/03/2026
+24/11/2026
 
 ## Share this page

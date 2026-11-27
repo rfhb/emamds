@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:04:55
+document_datetime: 2026-11-23 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nubeqa.html
 document_name: nubeqa.html
 version: success
-processing_time: 0.3319275
-conversion_datetime: 2025-12-30 01:33:39.685976
+processing_time: 0.1510858
+conversion_datetime: 2026-11-27 15:29:58.302086
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Nubeqa
 
 [RSS](/en/individual-human-medicine.xml/67287)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-darolutamide Medicine Human Authorised
+darolutamide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+MedicineHumanAuthorised
 
 Page contents
 
@@ -38,7 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Nubeqa](#news-on)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -58,7 +57,7 @@ Expand section
 
 Collapse section
 
-## How is Nubeqa used?
+### How is Nubeqa used?
 
 Nubeqa can only be obtained with a prescription and treatment should be started and supervised by a specialist doctor experienced in the treatment of prostate cancer.
 
@@ -70,11 +69,11 @@ If the patient develops severe side effects, the dose may have to be reduced or 
 
 For more information about using Nubeqa, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Nubeqa work?
+### How does Nubeqa work?
 
 The active substance in Nubeqa, darolutamide, is an androgen receptor inhibitor. This means that it binds to the receptor (target) of sex hormones called androgens, such as testosterone, and blocks them from stimulating the growth of prostate cancer cells.
 
-## What benefits of Nubeqa have been shown in studies?
+### What benefits of Nubeqa have been shown in studies?
 
 Nubeqa was compared with placebo (a dummy treatment) in a main study involving 1,509 men with non-metastatic prostate cancer. The main measure of effectiveness was how long patients lived before their cancer spread to other parts of the body. Patients treated with Nubeqa lived for an average of 40 months without the cancer spreading, compared with around 18 months for patients given placebo.
 
@@ -82,7 +81,7 @@ In a second main study involving 1,306 men with metastatic, hormone-sensitive pr
 
 In a third main study involving 669 men with metastatic, hormone-sensitive prostate cancer, Nubeqa was effective at delaying worsening of the disease. After 3 years of treatment, the cancer did not get worse in 71% of patients receiving Nubeqa compared with 58% of those given placebo. The average period before the disease got worse in patients given placebo was 25 months; for those who received Nubeqa, this figure could not be calculated as not enough people had experienced worsening of their disease. Both Nubeqa and placebo were given together with androgen deprivation therapy.
 
-## What are the risks associated with Nubeqa?
+### What are the risks associated with Nubeqa?
 
 For the complete list of side effects and restrictions with Nubeqa, see the package leaflet.
 
@@ -92,617 +91,108 @@ The most common side effects with Nubeqa given together with docetaxel (which ma
 
 Nubeqa is not for use in women and must not be used in women who are or who may be pregnant. For the full list of restrictions, see the package leaflet.
 
-## Why is Nubeqa authorised in the EU?
+### Why is Nubeqa authorised in the EU?
 
 Nubeqa has been shown to delay disease progression in men with prostate cancer compared with placebo. When given together with docetaxel and androgen deprivation therapy, the medicine has been shown to increase the time patients with metastatic hormone-sensitive prostate cancer live. Nubeqa is well tolerated and its risks are considered manageable. The European Medicines Agency therefore decided that Nubeqa's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Nubeqa?
+### What measures are being taken to ensure the safe and effective use of Nubeqa?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Nubeqa have also been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Nubeqa are continuously monitored. Side effects reported with Nubeqa are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Nubeqa
+### Other information about Nubeqa
 
 Nubeqa received a marketing authorisation valid throughout the EU on 27 March 2020.
 
-Nubeqa : EPAR - Medicine overview
-
-Reference Number: EMA/57487/2023
-
-English (EN) (142.64 KB - PDF)
-
-**First published:** 01/04/2020
-
-**Last updated:** 29/08/2025
-
-[View](/en/documents/overview/nubeqa-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-833)
-
-български (BG) (171.39 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/bg/documents/overview/nubeqa-epar-medicine-overview_bg.pdf)
-
-español (ES) (145.83 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/es/documents/overview/nubeqa-epar-medicine-overview_es.pdf)
-
-čeština (CS) (155.94 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/cs/documents/overview/nubeqa-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (148.58 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/da/documents/overview/nubeqa-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (152.51 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/de/documents/overview/nubeqa-epar-medicine-overview_de.pdf)
-
-eesti keel (ET) (144.25 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/et/documents/overview/nubeqa-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (168.71 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/el/documents/overview/nubeqa-epar-medicine-overview_el.pdf)
-
-français (FR) (147.75 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/fr/documents/overview/nubeqa-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (169.04 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/hr/documents/overview/nubeqa-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (148.27 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/it/documents/overview/nubeqa-epar-medicine-overview_it.pdf)
-
-latviešu valoda (LV) (184.55 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/lv/documents/overview/nubeqa-epar-medicine-overview_lv.pdf)
-
-lietuvių kalba (LT) (168.32 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/lt/documents/overview/nubeqa-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (170.67 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/hu/documents/overview/nubeqa-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (173.85 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/mt/documents/overview/nubeqa-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (149.25 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/nl/documents/overview/nubeqa-epar-medicine-overview_nl.pdf)
-
-polski (PL) (174.14 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/pl/documents/overview/nubeqa-epar-medicine-overview_pl.pdf)
-
-português (PT) (150.45 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/pt/documents/overview/nubeqa-epar-medicine-overview_pt.pdf)
-
-română (RO) (168.05 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/ro/documents/overview/nubeqa-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (171.92 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/sk/documents/overview/nubeqa-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (168.91 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/sl/documents/overview/nubeqa-epar-medicine-overview_sl.pdf)
-
-Suomi (FI) (144.65 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/fi/documents/overview/nubeqa-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (147.9 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-29/08/2025
-
-[View](/sv/documents/overview/nubeqa-epar-medicine-overview_sv.pdf)
-
-Nubeqa : EPAR - Risk management plan
-
-English (EN) (2.31 MB - PDF)
-
-**First published:** 01/04/2020
-
-**Last updated:** 28/07/2025
-
-[View](/en/documents/rmp/nubeqa-epar-risk-management-plan_en.pdf)
+##### Nubeqa : EPAR - Medicine overview
+
+**Reference number:**EMA/57487/2023
+
+[English Opens in a new window](/en/documents/overview/nubeqa-epar-medicine-overview_en.pdf) (en) (PDF - 142.64 KB)
+
+**First published:** 01/04/2020 **Last updated:** 29/08/2025
+
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/nubeqa-epar-medicine-overview_bg.pdf) (bg) (PDF - 171.39 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [español Opens in a new window](/es/documents/overview/nubeqa-epar-medicine-overview_es.pdf) (es) (PDF - 145.83 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [čeština Opens in a new window](/cs/documents/overview/nubeqa-epar-medicine-overview_cs.pdf) (cs) (PDF - 155.94 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [dansk Opens in a new window](/da/documents/overview/nubeqa-epar-medicine-overview_da.pdf) (da) (PDF - 148.58 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [Deutsch Opens in a new window](/de/documents/overview/nubeqa-epar-medicine-overview_de.pdf) (de) (PDF - 152.51 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [eesti Opens in a new window](/et/documents/overview/nubeqa-epar-medicine-overview_et.pdf) (et) (PDF - 144.25 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [ελληνικά Opens in a new window](/el/documents/overview/nubeqa-epar-medicine-overview_el.pdf) (el) (PDF - 168.71 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [français Opens in a new window](/fr/documents/overview/nubeqa-epar-medicine-overview_fr.pdf) (fr) (PDF - 147.75 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [hrvatski Opens in a new window](/hr/documents/overview/nubeqa-epar-medicine-overview_hr.pdf) (hr) (PDF - 169.04 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [italiano Opens in a new window](/it/documents/overview/nubeqa-epar-medicine-overview_it.pdf) (it) (PDF - 148.27 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [latviešu Opens in a new window](/lv/documents/overview/nubeqa-epar-medicine-overview_lv.pdf) (lv) (PDF - 184.55 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [lietuvių Opens in a new window](/lt/documents/overview/nubeqa-epar-medicine-overview_lt.pdf) (lt) (PDF - 168.32 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [magyar Opens in a new window](/hu/documents/overview/nubeqa-epar-medicine-overview_hu.pdf) (hu) (PDF - 170.67 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [Malti Opens in a new window](/mt/documents/overview/nubeqa-epar-medicine-overview_mt.pdf) (mt) (PDF - 173.85 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [Nederlands Opens in a new window](/nl/documents/overview/nubeqa-epar-medicine-overview_nl.pdf) (nl) (PDF - 149.25 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [polski Opens in a new window](/pl/documents/overview/nubeqa-epar-medicine-overview_pl.pdf) (pl) (PDF - 174.14 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [português Opens in a new window](/pt/documents/overview/nubeqa-epar-medicine-overview_pt.pdf) (pt) (PDF - 150.45 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [română Opens in a new window](/ro/documents/overview/nubeqa-epar-medicine-overview_ro.pdf) (ro) (PDF - 168.05 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [slovenčina Opens in a new window](/sk/documents/overview/nubeqa-epar-medicine-overview_sk.pdf) (sk) (PDF - 171.92 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [slovenščina Opens in a new window](/sl/documents/overview/nubeqa-epar-medicine-overview_sl.pdf) (sl) (PDF - 168.91 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [suomi Opens in a new window](/fi/documents/overview/nubeqa-epar-medicine-overview_fi.pdf) (fi) (PDF - 144.65 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+- [svenska Opens in a new window](/sv/documents/overview/nubeqa-epar-medicine-overview_sv.pdf) (sv) (PDF - 147.9 KB) **First published:** 01/04/2020 **Last updated:** 29/08/2025
+
+Available translations: (22)
+
+##### Nubeqa : EPAR - Risk management plan
+
+[English Opens in a new window](/en/documents/rmp/nubeqa-epar-risk-management-plan_en.pdf) (en) (PDF - 2.31 MB)
+
+**First published:** 01/04/2020 **Last updated:** 28/07/2025
 
 ## Product information
 
-Nubeqa : EPAR - Product information
-
-English (EN) (537.51 KB - PDF)
-
-**First published:** 01/04/2020
-
-**Last updated:** 21/08/2025
-
-[View](/en/documents/product-information/nubeqa-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-729)
-
-български (BG) (614.31 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/bg/documents/product-information/nubeqa-epar-product-information_bg.pdf)
-
-español (ES) (539.7 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/es/documents/product-information/nubeqa-epar-product-information_es.pdf)
-
-čeština (CS) (613.39 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/cs/documents/product-information/nubeqa-epar-product-information_cs.pdf)
-
-dansk (DA) (580.25 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/da/documents/product-information/nubeqa-epar-product-information_da.pdf)
-
-Deutsch (DE) (569.31 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/de/documents/product-information/nubeqa-epar-product-information_de.pdf)
-
-eesti keel (ET) (597.97 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/et/documents/product-information/nubeqa-epar-product-information_et.pdf)
-
-ελληνικά (EL) (768.16 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/el/documents/product-information/nubeqa-epar-product-information_el.pdf)
-
-français (FR) (745.69 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/fr/documents/product-information/nubeqa-epar-product-information_fr.pdf)
-
-hrvatski (HR) (574.26 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/hr/documents/product-information/nubeqa-epar-product-information_hr.pdf)
-
-íslenska (IS) (536.07 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/is/documents/product-information/nubeqa-epar-product-information_is.pdf)
-
-italiano (IT) (554.07 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/it/documents/product-information/nubeqa-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (642.38 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/lv/documents/product-information/nubeqa-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (626.65 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/lt/documents/product-information/nubeqa-epar-product-information_lt.pdf)
-
-magyar (HU) (620.29 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/hu/documents/product-information/nubeqa-epar-product-information_hu.pdf)
-
-Malti (MT) (634.76 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/mt/documents/product-information/nubeqa-epar-product-information_mt.pdf)
-
-Nederlands (NL) (545.22 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/nl/documents/product-information/nubeqa-epar-product-information_nl.pdf)
-
-norsk (NO) (559.02 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/no/documents/product-information/nubeqa-epar-product-information_no.pdf)
-
-polski (PL) (616 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/pl/documents/product-information/nubeqa-epar-product-information_pl.pdf)
-
-português (PT) (532.9 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/pt/documents/product-information/nubeqa-epar-product-information_pt.pdf)
-
-română (RO) (607.11 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/ro/documents/product-information/nubeqa-epar-product-information_ro.pdf)
-
-slovenčina (SK) (678.73 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/sk/documents/product-information/nubeqa-epar-product-information_sk.pdf)
-
-slovenščina (SL) (606.26 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/sl/documents/product-information/nubeqa-epar-product-information_sl.pdf)
-
-Suomi (FI) (601.27 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/fi/documents/product-information/nubeqa-epar-product-information_fi.pdf)
-
-svenska (SV) (542.31 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-21/08/2025
-
-[View](/sv/documents/product-information/nubeqa-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** N/0000291956 19/08/2025
+##### Nubeqa : EPAR - Product information
+
+[English Opens in a new window](/en/documents/product-information/nubeqa-epar-product-information_en.pdf) (en) (PDF - 524.92 KB)
+
+**First published:** 01/04/2020 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/nubeqa-epar-product-information_bg.pdf) (bg) (PDF - 710.96 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [español Opens in a new window](/es/documents/product-information/nubeqa-epar-product-information_es.pdf) (es) (PDF - 625.12 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/nubeqa-epar-product-information_cs.pdf) (cs) (PDF - 724.44 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/nubeqa-epar-product-information_da.pdf) (da) (PDF - 643.45 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/nubeqa-epar-product-information_de.pdf) (de) (PDF - 685.9 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/nubeqa-epar-product-information_et.pdf) (et) (PDF - 633.95 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/nubeqa-epar-product-information_el.pdf) (el) (PDF - 1.09 MB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [français Opens in a new window](/fr/documents/product-information/nubeqa-epar-product-information_fr.pdf) (fr) (PDF - 863.5 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/nubeqa-epar-product-information_hr.pdf) (hr) (PDF - 678.06 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/nubeqa-epar-product-information_it.pdf) (it) (PDF - 645 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/nubeqa-epar-product-information_lv.pdf) (lv) (PDF - 659.02 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/nubeqa-epar-product-information_lt.pdf) (lt) (PDF - 668.08 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/nubeqa-epar-product-information_hu.pdf) (hu) (PDF - 722.84 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/nubeqa-epar-product-information_mt.pdf) (mt) (PDF - 761.78 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/nubeqa-epar-product-information_nl.pdf) (nl) (PDF - 619.99 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/nubeqa-epar-product-information_pl.pdf) (pl) (PDF - 712.23 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [português Opens in a new window](/pt/documents/product-information/nubeqa-epar-product-information_pt.pdf) (pt) (PDF - 591.52 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [română Opens in a new window](/ro/documents/product-information/nubeqa-epar-product-information_ro.pdf) (ro) (PDF - 691.86 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/nubeqa-epar-product-information_sk.pdf) (sk) (PDF - 768.38 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/nubeqa-epar-product-information_sl.pdf) (sl) (PDF - 709.69 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/nubeqa-epar-product-information_fi.pdf) (fi) (PDF - 688.49 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/nubeqa-epar-product-information_sv.pdf) (sv) (PDF - 596.75 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/nubeqa-epar-product-information_is.pdf) (is) (PDF - 601.27 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/nubeqa-epar-product-information_no.pdf) (no) (PDF - 620.77 KB) **First published:** 01/04/2020 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000371440
+
+23/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -712,309 +202,53 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Nubeqa : EPAR - All authorised presentations
-
-English (EN) (10.1 KB - PDF)
-
-**First published:** 01/04/2020
-
-**Last updated:** 28/10/2024
-
-[View](/en/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-259)
-
-български (BG) (52.61 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/bg/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (8.24 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/es/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (27.18 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/cs/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (26.91 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/da/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (8.13 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/de/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_de.pdf)
-
-eesti keel (ET) (8.13 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/et/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (50.58 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/el/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (25.25 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/fr/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (47.99 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/hr/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (8.02 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/is/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (8.15 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/it/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_it.pdf)
-
-latviešu valoda (LV) (50 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/lv/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių kalba (LT) (49.87 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/lt/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (52.47 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/hu/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (52.04 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/mt/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (8.07 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/nl/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (8.11 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/no/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (28.94 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/pl/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (8.12 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/pt/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (49.07 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/ro/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (49.44 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/sk/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (48.31 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/sl/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_sl.pdf)
-
-Suomi (FI) (8 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/fi/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (8.05 KB - PDF)
-
-**First published:**
-
-01/04/2020
-
-**Last updated:**
-
-28/10/2024
-
-[View](/sv/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_sv.pdf)
+##### Nubeqa : EPAR - All authorised presentations
+
+[English Opens in a new window](/en/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_en.pdf) (en) (PDF - 10.1 KB)
+
+**First published:** 01/04/2020 **Last updated:** 28/10/2024
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 52.61 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [español Opens in a new window](/es/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_es.pdf) (es) (PDF - 8.24 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 27.18 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_da.pdf) (da) (PDF - 26.91 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_de.pdf) (de) (PDF - 8.13 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_et.pdf) (et) (PDF - 8.13 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_el.pdf) (el) (PDF - 50.58 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 25.25 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 47.99 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_it.pdf) (it) (PDF - 8.15 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 50 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 49.87 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 52.47 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 52.04 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 8.07 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 28.94 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 8.12 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 49.07 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 49.44 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 48.31 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 8 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 8.05 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_is.pdf) (is) (PDF - 8.02 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/nubeqa-epar-all-authorised-presentations_no.pdf) (no) (PDF - 8.11 KB) **First published:** 01/04/2020 **Last updated:** 28/10/2024
+
+Available translations: (24)
 
 ## Product details
 
-Name of medicine Nubeqa Active substance darolutamide International non-proprietary name (INN) or common name darolutamide Therapeutic area (MeSH) Prostatic Neoplasms, Castration-Resistant Anatomical therapeutic chemical (ATC) code L02BB
+- **Name of medicine**
+    - Nubeqa
+- **Active substance**
+    - darolutamide
+- **International non-proprietary name (INN) or common name**
+    - darolutamide
+- **Therapeutic area (MeSH)**
+    - Prostatic Neoplasms, Castration-Resistant
+- **Anatomical therapeutic chemical (ATC) code**
+    - L02BB
 
 ### Pharmacotherapeutic group
 
@@ -1030,13 +264,17 @@ NUBEQA is indicated for the treatment of adult men with
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004790 Marketing authorisation holder
-
-Bayer AG
-
-51368 Leverkusen Germany
-
-Opinion adopted 30/01/2020 Marketing authorisation issued 27/03/2020 Revision 10
+- **EMA product number**
+    - EMEA/H/C/004790
+- **Marketing authorisation holder**
+    - Bayer AG 51368 Leverkusen  
+Germany
+- **Opinion adopted**
+    - 30/01/2020
+- **Marketing authorisation issued**
+    - 27/03/2020
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -1044,126 +282,106 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
-Nubeqa : EPAR - Procedural steps taken and scientific information after authorisation
+##### Nubeqa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (582.04 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/nubeqa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 172.11 KB)
 
-**First published:** 24/07/2025
+**First published:** 24/07/2025 **Last updated:** 23/11/2026
 
-**Last updated:** 21/08/2025
+##### Nubeqa : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-[View](/en/documents/procedural-steps-after/nubeqa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[English Opens in a new window](/en/documents/procedural-steps-after/nubeqa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf-0) (en) (PDF - 179.12 KB)
 
-Nubeqa : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+**First published:** 27/05/2020 **Last updated:** 28/07/2025
 
-English (EN) (179.12 KB - PDF)
-
-**First published:** 27/05/2020
-
-**Last updated:** 28/07/2025
-
-[View](/en/documents/procedural-steps-after/nubeqa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf-0)
-
-Nubeqa-H-C-004790-II-0024 : EPAR - Assessment report - Variation
+##### Nubeqa-H-C-004790-II-0024 : EPAR - Assessment report - Variation
 
 Adopted
 
-Reference Number: EMA/CHMP/141078/2025
+**Reference number:**EMA/CHMP/141078/2025
 
-English (EN) (6.08 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/nubeqa-h-c-004790-ii-0024-epar-assessment-report-variation_en.pdf) (en) (PDF - 6.08 MB)
 
 **First published:** 28/07/2025
 
-[View](/en/documents/variation-report/nubeqa-h-c-004790-ii-0024-epar-assessment-report-variation_en.pdf)
-
-CHMP post-authorisation summary of positive opinion for Nubeqa (II-24)
+##### CHMP post-authorisation summary of positive opinion for Nubeqa (II-24)
 
 Adopted
 
-Reference Number: EMA/CHMP/141494/2025
+**Reference number:**EMA/CHMP/141494/2025
 
-English (EN) (137.72 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-nubeqa-ii-24_en.pdf) (en) (PDF - 137.72 KB)
 
 **First published:** 20/06/2025
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-nubeqa-ii-24_en.pdf)
+##### Nubeqa-H-C-PSUSA-00010843-202307 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Nubeqa-H-C-PSUSA-00010843-202307 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/105093/2024
 
-Reference Number: EMA/105093/2024
-
-English (EN) (108.3 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/nubeqa-h-c-psusa-00010843-202307-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 108.3 KB)
 
 **First published:** 22/05/2024
 
-[View](/en/documents/scientific-conclusion/nubeqa-h-c-psusa-00010843-202307-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
-
-Nubeqa-H-C-4790-II-0009 : EPAR - Assessment report - Variation
+##### Nubeqa-H-C-4790-II-0009 : EPAR - Assessment report - Variation
 
 Adopted
 
-Reference Number: EMA/80060/2023
+**Reference number:**EMA/80060/2023
 
-English (EN) (7.53 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/nubeqa-h-c-4790-ii-0009-epar-assessment-report-variation_en.pdf) (en) (PDF - 7.53 MB)
 
 **First published:** 20/03/2023
 
-[View](/en/documents/variation-report/nubeqa-h-c-4790-ii-0009-epar-assessment-report-variation_en.pdf)
-
-CHMP post-authorisation summary of opinion for Nubeqa (II-09)
+##### CHMP post-authorisation summary of opinion for Nubeqa (II-09)
 
 Adopted
 
-Reference Number: EMA/33048/2023
+**Reference number:**EMA/33048/2023
 
-English (EN) (128.95 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-opinion-nubeqa-ii-09_en.pdf) (en) (PDF - 128.95 KB)
 
 **First published:** 27/01/2023
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-opinion-nubeqa-ii-09_en.pdf)
+### Initial marketing authorisation documents
 
-## Initial marketing authorisation documents
-
-Nubeqa : EPAR - Public assessment report
+##### Nubeqa : EPAR - Public assessment report
 
 Adopted
 
-Reference Number: EMA/84124/2020
+**Reference number:**EMA/84124/2020
 
-English (EN) (5.3 MB - PDF)
+[English Opens in a new window](/en/documents/assessment-report/nubeqa-epar-public-assessment-report_en.pdf) (en) (PDF - 5.3 MB)
 
 **First published:** 03/04/2020
 
-[View](/en/documents/assessment-report/nubeqa-epar-public-assessment-report_en.pdf)
-
-CHMP summary of positive opinion for Nubeqa
+##### CHMP summary of positive opinion for Nubeqa
 
 Adopted
 
-Reference Number: EMA/32437/2020
+**Reference number:**EMA/32437/2020
 
-English (EN) (131.48 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-nubeqa_en.pdf) (en) (PDF - 131.48 KB)
 
 **First published:** 31/01/2020
 
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-nubeqa_en.pdf)
+## News on Nubeqa
 
-#### News on Nubeqa
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
+20/06/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020) 31/01/2020
+27/01/2023
 
-#### Topics
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020)
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+31/01/2020
 
-**This page was last updated on** 29/08/2025
+**This page was last updated on**
+
+23/11/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-08-04 16:26:00
+document_datetime: 2026-11-23 17:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyxeos-liposomal.html
 document_name: vyxeos-liposomal.html
 version: success
-processing_time: 0.1525758
-conversion_datetime: 2026-08-07 13:45:35.983821
+processing_time: 0.1557622
+conversion_datetime: 2026-11-27 15:31:52.710524
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Vyxeos liposomal (previously Vyxeos)
 
 [RSS](/en/individual-human-medicine.xml/66622)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 daunorubicin / cytarabine
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -96,323 +96,93 @@ As for all medicines, data on the use of Vyxeos liposomal are continuously monit
 
 Vyxeos liposomal received a marketing authorisation valid throughout the EU on 23 August 2018.
 
-Vyxeos liposomal : EPAR - Medicine overview
+##### Vyxeos liposomal : EPAR - Medicine overview
 
-Reference Number: EMA/631389/2019
+**Reference number:**EMA/631389/2019
 
-English (EN) (118.26 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/en/documents/overview/vyxeos-liposomal-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-863)
-
-български (BG) (143.35 KB - PDF)
+[English Opens in a new window](/en/documents/overview/vyxeos-liposomal-epar-medicine-overview_en.pdf) (en) (PDF - 118.26 KB)
 
 **First published:** 26/10/2018 **Last updated:** 06/03/2020
 
-[View](/bg/documents/overview/vyxeos-liposomal-epar-medicine-overview_bg.pdf)
-
-español (ES) (119.32 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/es/documents/overview/vyxeos-liposomal-epar-medicine-overview_es.pdf)
-
-čeština (CS) (142.56 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/cs/documents/overview/vyxeos-liposomal-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (119.14 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/da/documents/overview/vyxeos-liposomal-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (122.94 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/de/documents/overview/vyxeos-liposomal-epar-medicine-overview_de.pdf)
-
-eesti (ET) (106.73 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/et/documents/overview/vyxeos-liposomal-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (142.45 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/el/documents/overview/vyxeos-liposomal-epar-medicine-overview_el.pdf)
-
-français (FR) (122.06 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/fr/documents/overview/vyxeos-liposomal-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (141.05 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/hr/documents/overview/vyxeos-liposomal-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (118.62 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/it/documents/overview/vyxeos-liposomal-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (138.5 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/lv/documents/overview/vyxeos-liposomal-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (143.24 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/lt/documents/overview/vyxeos-liposomal-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (142.77 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/hu/documents/overview/vyxeos-liposomal-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (142.34 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/mt/documents/overview/vyxeos-liposomal-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (119.82 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/nl/documents/overview/vyxeos-liposomal-epar-medicine-overview_nl.pdf)
-
-polski (PL) (142.83 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/pl/documents/overview/vyxeos-liposomal-epar-medicine-overview_pl.pdf)
-
-português (PT) (120.14 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/pt/documents/overview/vyxeos-liposomal-epar-medicine-overview_pt.pdf)
-
-română (RO) (140.48 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/ro/documents/overview/vyxeos-liposomal-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (142.05 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/sk/documents/overview/vyxeos-liposomal-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (140.89 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/sl/documents/overview/vyxeos-liposomal-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (142.43 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/fi/documents/overview/vyxeos-liposomal-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (117.06 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 06/03/2020
-
-[View](/sv/documents/overview/vyxeos-liposomal-epar-medicine-overview_sv.pdf)
-
-Vyxeos : EPAR - Risk-management-plan summary
-
-English (EN) (76 KB - PDF)
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/vyxeos-liposomal-epar-medicine-overview_bg.pdf) (bg) (PDF - 143.35 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [español Opens in a new window](/es/documents/overview/vyxeos-liposomal-epar-medicine-overview_es.pdf) (es) (PDF - 119.32 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [čeština Opens in a new window](/cs/documents/overview/vyxeos-liposomal-epar-medicine-overview_cs.pdf) (cs) (PDF - 142.56 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [dansk Opens in a new window](/da/documents/overview/vyxeos-liposomal-epar-medicine-overview_da.pdf) (da) (PDF - 119.14 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [Deutsch Opens in a new window](/de/documents/overview/vyxeos-liposomal-epar-medicine-overview_de.pdf) (de) (PDF - 122.94 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [eesti Opens in a new window](/et/documents/overview/vyxeos-liposomal-epar-medicine-overview_et.pdf) (et) (PDF - 106.73 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [ελληνικά Opens in a new window](/el/documents/overview/vyxeos-liposomal-epar-medicine-overview_el.pdf) (el) (PDF - 142.45 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [français Opens in a new window](/fr/documents/overview/vyxeos-liposomal-epar-medicine-overview_fr.pdf) (fr) (PDF - 122.06 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [hrvatski Opens in a new window](/hr/documents/overview/vyxeos-liposomal-epar-medicine-overview_hr.pdf) (hr) (PDF - 141.05 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [italiano Opens in a new window](/it/documents/overview/vyxeos-liposomal-epar-medicine-overview_it.pdf) (it) (PDF - 118.62 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [latviešu Opens in a new window](/lv/documents/overview/vyxeos-liposomal-epar-medicine-overview_lv.pdf) (lv) (PDF - 138.5 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [lietuvių Opens in a new window](/lt/documents/overview/vyxeos-liposomal-epar-medicine-overview_lt.pdf) (lt) (PDF - 143.24 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [magyar Opens in a new window](/hu/documents/overview/vyxeos-liposomal-epar-medicine-overview_hu.pdf) (hu) (PDF - 142.77 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [Malti Opens in a new window](/mt/documents/overview/vyxeos-liposomal-epar-medicine-overview_mt.pdf) (mt) (PDF - 142.34 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [Nederlands Opens in a new window](/nl/documents/overview/vyxeos-liposomal-epar-medicine-overview_nl.pdf) (nl) (PDF - 119.82 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [polski Opens in a new window](/pl/documents/overview/vyxeos-liposomal-epar-medicine-overview_pl.pdf) (pl) (PDF - 142.83 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [português Opens in a new window](/pt/documents/overview/vyxeos-liposomal-epar-medicine-overview_pt.pdf) (pt) (PDF - 120.14 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [română Opens in a new window](/ro/documents/overview/vyxeos-liposomal-epar-medicine-overview_ro.pdf) (ro) (PDF - 140.48 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [slovenčina Opens in a new window](/sk/documents/overview/vyxeos-liposomal-epar-medicine-overview_sk.pdf) (sk) (PDF - 142.05 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [slovenščina Opens in a new window](/sl/documents/overview/vyxeos-liposomal-epar-medicine-overview_sl.pdf) (sl) (PDF - 140.89 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [suomi Opens in a new window](/fi/documents/overview/vyxeos-liposomal-epar-medicine-overview_fi.pdf) (fi) (PDF - 142.43 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+- [svenska Opens in a new window](/sv/documents/overview/vyxeos-liposomal-epar-medicine-overview_sv.pdf) (sv) (PDF - 117.06 KB) **First published:** 26/10/2018 **Last updated:** 06/03/2020
+
+Available translations: (22)
+
+##### Vyxeos : EPAR - Risk-management-plan summary
+
+[English Opens in a new window](/en/documents/rmp-summary/vyxeos-epar-risk-management-plan-summary_en.pdf) (en) (PDF - 76 KB)
 
 **First published:** 26/10/2018
 
-[View](/en/documents/rmp-summary/vyxeos-epar-risk-management-plan-summary_en.pdf)
-
 ## Product information
 
-Vyxeos liposomal : EPAR - Product Information
-
-English (EN) (402.73 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/en/documents/product-information/vyxeos-liposomal-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-159)
-
-български (BG) (553.61 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/bg/documents/product-information/vyxeos-liposomal-epar-product-information_bg.pdf)
-
-español (ES) (421.42 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/es/documents/product-information/vyxeos-liposomal-epar-product-information_es.pdf)
-
-čeština (CS) (486.7 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/cs/documents/product-information/vyxeos-liposomal-epar-product-information_cs.pdf)
-
-dansk (DA) (447.43 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/da/documents/product-information/vyxeos-liposomal-epar-product-information_da.pdf)
-
-Deutsch (DE) (448 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/de/documents/product-information/vyxeos-liposomal-epar-product-information_de.pdf)
-
-eesti (ET) (456.69 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/et/documents/product-information/vyxeos-liposomal-epar-product-information_et.pdf)
-
-ελληνικά (EL) (493.27 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/el/documents/product-information/vyxeos-liposomal-epar-product-information_el.pdf)
-
-français (FR) (443.31 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/fr/documents/product-information/vyxeos-liposomal-epar-product-information_fr.pdf)
-
-hrvatski (HR) (445.63 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/hr/documents/product-information/vyxeos-liposomal-epar-product-information_hr.pdf)
-
-italiano (IT) (432.03 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/it/documents/product-information/vyxeos-liposomal-epar-product-information_it.pdf)
-
-latviešu (LV) (614 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/lv/documents/product-information/vyxeos-liposomal-epar-product-information_lv.pdf)
-
-lietuvių (LT) (466.7 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/lt/documents/product-information/vyxeos-liposomal-epar-product-information_lt.pdf)
-
-magyar (HU) (474.28 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/hu/documents/product-information/vyxeos-liposomal-epar-product-information_hu.pdf)
-
-Malti (MT) (506.68 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/mt/documents/product-information/vyxeos-liposomal-epar-product-information_mt.pdf)
-
-Nederlands (NL) (684.95 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/nl/documents/product-information/vyxeos-liposomal-epar-product-information_nl.pdf)
-
-polski (PL) (471.39 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/pl/documents/product-information/vyxeos-liposomal-epar-product-information_pl.pdf)
-
-português (PT) (443.94 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/pt/documents/product-information/vyxeos-liposomal-epar-product-information_pt.pdf)
-
-română (RO) (461.54 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/ro/documents/product-information/vyxeos-liposomal-epar-product-information_ro.pdf)
-
-slovenčina (SK) (475.79 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/sk/documents/product-information/vyxeos-liposomal-epar-product-information_sk.pdf)
-
-slovenščina (SL) (439.84 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/sl/documents/product-information/vyxeos-liposomal-epar-product-information_sl.pdf)
-
-suomi (FI) (433.43 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/fi/documents/product-information/vyxeos-liposomal-epar-product-information_fi.pdf)
-
-svenska (SV) (445.72 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/sv/documents/product-information/vyxeos-liposomal-epar-product-information_sv.pdf)
-
-Íslenska (IS) (440.7 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/is/documents/product-information/vyxeos-liposomal-epar-product-information_is.pdf)
-
-norsk (NO) (434.94 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/no/documents/product-information/vyxeos-liposomal-epar-product-information_no.pdf)
-
-**Latest procedure affecting product information:** VR/0000335559
-
-29/07/2026
+##### Vyxeos liposomal : EPAR - Product Information
+
+[English Opens in a new window](/en/documents/product-information/vyxeos-liposomal-epar-product-information_en.pdf) (en) (PDF - 455.09 KB)
+
+**First published:** 26/10/2018 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/vyxeos-liposomal-epar-product-information_bg.pdf) (bg) (PDF - 568.83 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [español Opens in a new window](/es/documents/product-information/vyxeos-liposomal-epar-product-information_es.pdf) (es) (PDF - 425.47 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/vyxeos-liposomal-epar-product-information_cs.pdf) (cs) (PDF - 517.38 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/vyxeos-liposomal-epar-product-information_da.pdf) (da) (PDF - 450.68 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/vyxeos-liposomal-epar-product-information_de.pdf) (de) (PDF - 449.57 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/vyxeos-liposomal-epar-product-information_et.pdf) (et) (PDF - 462.71 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/vyxeos-liposomal-epar-product-information_el.pdf) (el) (PDF - 551.14 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [français Opens in a new window](/fr/documents/product-information/vyxeos-liposomal-epar-product-information_fr.pdf) (fr) (PDF - 441.59 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/vyxeos-liposomal-epar-product-information_hr.pdf) (hr) (PDF - 508.95 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/vyxeos-liposomal-epar-product-information_it.pdf) (it) (PDF - 438.05 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/vyxeos-liposomal-epar-product-information_lv.pdf) (lv) (PDF - 518.42 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/vyxeos-liposomal-epar-product-information_lt.pdf) (lt) (PDF - 524.88 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/vyxeos-liposomal-epar-product-information_hu.pdf) (hu) (PDF - 565.2 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/vyxeos-liposomal-epar-product-information_mt.pdf) (mt) (PDF - 556.09 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/vyxeos-liposomal-epar-product-information_nl.pdf) (nl) (PDF - 461.16 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/vyxeos-liposomal-epar-product-information_pl.pdf) (pl) (PDF - 527.83 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [português Opens in a new window](/pt/documents/product-information/vyxeos-liposomal-epar-product-information_pt.pdf) (pt) (PDF - 455.86 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [română Opens in a new window](/ro/documents/product-information/vyxeos-liposomal-epar-product-information_ro.pdf) (ro) (PDF - 525.76 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/vyxeos-liposomal-epar-product-information_sk.pdf) (sk) (PDF - 526.82 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/vyxeos-liposomal-epar-product-information_sl.pdf) (sl) (PDF - 504.76 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/vyxeos-liposomal-epar-product-information_fi.pdf) (fi) (PDF - 434.82 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/vyxeos-liposomal-epar-product-information_sv.pdf) (sv) (PDF - 458.67 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/vyxeos-liposomal-epar-product-information_is.pdf) (is) (PDF - 446.63 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/vyxeos-liposomal-epar-product-information_no.pdf) (no) (PDF - 441.35 KB) **First published:** 26/10/2018 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000383882
+
+23/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -423,159 +193,40 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Vyxeos liposomal : EPAR - All Authorised presentations
+##### Vyxeos liposomal : EPAR - All Authorised presentations
 
-English (EN) (58.83 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/en/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-123)
-
-български (BG) (50.85 KB - PDF)
+[English Opens in a new window](/en/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_en.pdf) (en) (PDF - 58.83 KB)
 
 **First published:** 26/10/2018 **Last updated:** 04/08/2026
 
-[View](/bg/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (55.15 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/es/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (47.43 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/cs/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (45.99 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/da/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (58 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/de/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_de.pdf)
-
-eesti (ET) (53.93 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/et/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (59.68 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/el/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (55.72 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/fr/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (84.1 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/hr/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_hr.pdf)
-
-italiano (IT) (55.06 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/it/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_it.pdf)
-
-latviešu (LV) (58.94 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/lv/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių (LT) (57.95 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/lt/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (58.7 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/hu/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (59.63 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/mt/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (55.05 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/nl/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_nl.pdf)
-
-polski (PL) (59.93 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/pl/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (56.7 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/pt/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (57.7 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/ro/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (61.31 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/sk/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (56.96 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/sl/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_sl.pdf)
-
-suomi (FI) (55.38 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/fi/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (55.08 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/sv/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_sv.pdf)
-
-Íslenska (IS) (57.85 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/is/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_is.pdf)
-
-norsk (NO) (57.45 KB - PDF)
-
-**First published:** 26/10/2018 **Last updated:** 04/08/2026
-
-[View](/no/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_no.pdf)
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 50.85 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [español Opens in a new window](/es/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_es.pdf) (es) (PDF - 55.15 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 47.43 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_da.pdf) (da) (PDF - 45.99 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_de.pdf) (de) (PDF - 58 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_et.pdf) (et) (PDF - 53.93 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_el.pdf) (el) (PDF - 59.68 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 55.72 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 84.1 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_it.pdf) (it) (PDF - 55.06 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 58.94 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 57.95 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 58.7 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 59.63 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 55.05 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 59.93 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 56.7 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 57.7 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 61.31 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 56.96 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 55.38 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 55.08 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_is.pdf) (is) (PDF - 57.85 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_no.pdf) (no) (PDF - 57.45 KB) **First published:** 26/10/2018 **Last updated:** 04/08/2026
+
+Available translations: (24)
 
 ## Product details
 
@@ -605,15 +256,19 @@ Vyxeos liposomal is indicated for the treatment of adults with newly diagnosed, 
 - **EMA product number**
     - EMEA/H/C/004282
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Jazz Pharmaceuticals Ireland Limited Fifth Floor Waterloo Exchange  Waterloo Road  D04 E5W7  Dublin 4  Ireland
+    - Jazz Pharmaceuticals Ireland Limited Fifth Floor Waterloo Exchange  
+Waterloo Road  
+D04 E5W7  
+Dublin 4  
+Ireland
 - **Opinion adopted**
     - 26/04/2018
 - **Marketing authorisation issued**
     - 23/08/2018
 - **Revision**
-    - 11
+    - 12
 
 ## Assessment history
 
@@ -623,73 +278,67 @@ Collapse section
 
 ### Changes since initial authorisation of medicine
 
-Vyxeos liposomal : EPAR - Procedural steps taken and scientific information after authorisation
+##### Vyxeos liposomal : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.85 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/vyxeos-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 172.11 KB)
 
-**First published:** 04/08/2026
+**First published:** 04/08/2026 **Last updated:** 23/11/2026
 
-[View](/en/documents/procedural-steps-after/vyxeos-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+##### Vyxeos liposomal : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-Vyxeos liposomal : EPAR - Procedural steps taken and scientific information after authorisation (archive)
-
-English (EN) (181.94 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/vyxeos-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf) (en) (PDF - 181.94 KB)
 
 **First published:** 08/10/2019 **Last updated:** 04/08/2026
 
-[View](/en/documents/procedural-steps-after/vyxeos-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+##### Vyxeos liposomal : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
-Vyxeos liposomal : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+**Reference number:**EMADOC-1700519818-3247316
 
-Reference Number: EMADOC-1700519818-3247316
-
-English (EN) (127.54 KB - PDF)
+[English Opens in a new window](/en/documents/pip-compliance/vyxeos-liposomal-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf) (en) (PDF - 127.54 KB)
 
 **First published:** 04/08/2026
 
-[View](/en/documents/pip-compliance/vyxeos-liposomal-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+##### Vyxeos liposomal : EPAR - Assessment report - Variation
 
-Vyxeos liposomal : EPAR - Assessment report - Variation
+Adopted
 
-Adopted Reference Number: EMA/665588/2022
+**Reference number:**EMA/665588/2022
 
-English (EN) (3.58 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/vyxeos-liposomal-epar-assessment-report-variation_en.pdf) (en) (PDF - 3.58 MB)
 
 **First published:** 27/07/2022
 
-[View](/en/documents/variation-report/vyxeos-liposomal-epar-assessment-report-variation_en.pdf)
-
 ### Initial marketing authorisation documents
 
-Vyxeos : EPAR - Public assessment report
+##### Vyxeos : EPAR - Public assessment report
 
-Adopted Reference Number: EMA/665588/2022
+Adopted
 
-English (EN) (4.74 MB - PDF)
+**Reference number:**EMA/665588/2022
 
-**First published:** 26/10/2018
-
-[View](/en/documents/assessment-report/vyxeos-epar-public-assessment-report_en.pdf)
-
-Vyxeos : Orphan maintenance assessment report (initial authorisation)
-
-Adopted Reference Number: EMA/496701/2018
-
-English (EN) (235.67 KB - PDF)
+[English Opens in a new window](/en/documents/assessment-report/vyxeos-epar-public-assessment-report_en.pdf) (en) (PDF - 4.74 MB)
 
 **First published:** 26/10/2018
 
-[View](/en/documents/orphan-maintenance-report/vyxeos-orphan-maintenance-assessment-report-initial-authorisation_en.pdf)
+##### Vyxeos : Orphan maintenance assessment report (initial authorisation)
 
-CHMP summary of positive opinion for Vyxeos
+Adopted
 
-Adopted Reference Number: EMA/CHMP/239619/2018
+**Reference number:**EMA/496701/2018
 
-English (EN) (69.79 KB - PDF)
+[English Opens in a new window](/en/documents/orphan-maintenance-report/vyxeos-orphan-maintenance-assessment-report-initial-authorisation_en.pdf) (en) (PDF - 235.67 KB)
+
+**First published:** 26/10/2018
+
+##### CHMP summary of positive opinion for Vyxeos
+
+Adopted
+
+**Reference number:**EMA/CHMP/239619/2018
+
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-vyxeos_en.pdf) (en) (PDF - 69.79 KB)
 
 **First published:** 29/06/2018 **Last updated:** 29/06/2018
-
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-vyxeos_en.pdf)
 
 ## News on Vyxeos liposomal (previously Vyxeos)
 
@@ -703,15 +352,15 @@ English (EN) (69.79 KB - PDF)
 
 ## Related documents
 
-Questions and answers on the outcome of assessment on use of Vyxeos liposomal in the treatment of relapsed or refractory acute myeloid leukaemia (II-18-G)
+##### Questions and answers on the outcome of assessment on use of Vyxeos liposomal in the treatment of relapsed or refractory acute myeloid leukaemia (II-18-G)
 
-Adopted Reference Number: EMA/179542/2022
+Adopted
 
-English (EN) (127.99 KB - PDF)
+**Reference number:**EMA/179542/2022
+
+[English Opens in a new window](/en/documents/medicine-qa/questions-answers-outcome-assessment-use-vyxeos-liposomal-treatment-relapsed-or-refractory-acute-myeloid-leukaemia-ii-18-g_en.pdf) (en) (PDF - 127.99 KB)
 
 **First published:** 25/03/2022
-
-[View](/en/documents/medicine-qa/questions-answers-outcome-assessment-use-vyxeos-liposomal-treatment-relapsed-or-refractory-acute-myeloid-leukaemia-ii-18-g_en.pdf)
 
 ## More information on Vyxeos liposomal (previously Vyxeos)
 
@@ -720,10 +369,10 @@ English (EN) (127.99 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-04/08/2026
+23/11/2026
 
 ## Share this page

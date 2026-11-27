@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-19 13:08:00
+document_datetime: 2026-11-24 13:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mynzepli.html
 document_name: mynzepli.html
 version: success
-processing_time: 0.3956658
-conversion_datetime: 2026-10-25 15:22:38.395214
+processing_time: 0.1306383
+conversion_datetime: 2026-11-27 15:29:25.769704
 docling_version:
-  docling-serve: 1.38.1
-  docling-jobkit: 3.9.1
-  docling: 2.142.1
-  docling-core: 2.104.0
-  docling-ibm-models: 4.0.4
-  docling-parse: 7.23.0
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Mynzepli
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 aflibercept
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -110,323 +110,93 @@ As for all medicines, data on the use of Mynzepli are continuously monitored. Su
 
 Mynzepli received a marketing authorisation valid throughout the EU on 18 August 2025.
 
-Mynzepli : EPAR - Medicine overview
+##### Mynzepli : EPAR - Medicine overview
 
-Reference Number: EMA/230046/2025
+**Reference number:**EMA/230046/2025
 
-English (EN) (146.48 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/en/documents/overview/mynzepli-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-692)
-
-български (BG) (173.6 KB - PDF)
+[English Opens in a new window](/en/documents/overview/mynzepli-epar-medicine-overview_en.pdf) (en) (PDF - 146.48 KB)
 
 **First published:** 17/10/2025
 
-[View](/bg/documents/overview/mynzepli-epar-medicine-overview_bg.pdf)
+Available translations: (22)
 
-español (ES) (146.21 KB - PDF)
+- [български Opens in a new window](/bg/documents/overview/mynzepli-epar-medicine-overview_bg.pdf) (bg) (PDF - 173.6 KB) **First published:** 17/10/2025
+- [español Opens in a new window](/es/documents/overview/mynzepli-epar-medicine-overview_es.pdf) (es) (PDF - 146.21 KB) **First published:** 17/10/2025
+- [čeština Opens in a new window](/cs/documents/overview/mynzepli-epar-medicine-overview_cs.pdf) (cs) (PDF - 170.99 KB) **First published:** 17/10/2025
+- [dansk Opens in a new window](/da/documents/overview/mynzepli-epar-medicine-overview_da.pdf) (da) (PDF - 146.44 KB) **First published:** 17/10/2025
+- [Deutsch Opens in a new window](/de/documents/overview/mynzepli-epar-medicine-overview_de.pdf) (de) (PDF - 149.89 KB) **First published:** 17/10/2025
+- [eesti Opens in a new window](/et/documents/overview/mynzepli-epar-medicine-overview_et.pdf) (et) (PDF - 143.32 KB) **First published:** 17/10/2025
+- [ελληνικά Opens in a new window](/el/documents/overview/mynzepli-epar-medicine-overview_el.pdf) (el) (PDF - 173.07 KB) **First published:** 17/10/2025
+- [français Opens in a new window](/fr/documents/overview/mynzepli-epar-medicine-overview_fr.pdf) (fr) (PDF - 149.13 KB) **First published:** 17/10/2025
+- [hrvatski Opens in a new window](/hr/documents/overview/mynzepli-epar-medicine-overview_hr.pdf) (hr) (PDF - 169.69 KB) **First published:** 17/10/2025
+- [italiano Opens in a new window](/it/documents/overview/mynzepli-epar-medicine-overview_it.pdf) (it) (PDF - 145.2 KB) **First published:** 17/10/2025
+- [latviešu Opens in a new window](/lv/documents/overview/mynzepli-epar-medicine-overview_lv.pdf) (lv) (PDF - 179 KB) **First published:** 17/10/2025
+- [lietuvių Opens in a new window](/lt/documents/overview/mynzepli-epar-medicine-overview_lt.pdf) (lt) (PDF - 168.88 KB) **First published:** 17/10/2025
+- [magyar Opens in a new window](/hu/documents/overview/mynzepli-epar-medicine-overview_hu.pdf) (hu) (PDF - 168.16 KB) **First published:** 17/10/2025
+- [Malti Opens in a new window](/mt/documents/overview/mynzepli-epar-medicine-overview_mt.pdf) (mt) (PDF - 171.47 KB) **First published:** 17/10/2025
+- [Nederlands Opens in a new window](/nl/documents/overview/mynzepli-epar-medicine-overview_nl.pdf) (nl) (PDF - 148.71 KB) **First published:** 17/10/2025
+- [polski Opens in a new window](/pl/documents/overview/mynzepli-epar-medicine-overview_pl.pdf) (pl) (PDF - 175.25 KB) **First published:** 17/10/2025
+- [português Opens in a new window](/pt/documents/overview/mynzepli-epar-medicine-overview_pt.pdf) (pt) (PDF - 146.71 KB) **First published:** 17/10/2025
+- [română Opens in a new window](/ro/documents/overview/mynzepli-epar-medicine-overview_ro.pdf) (ro) (PDF - 164.83 KB) **First published:** 17/10/2025
+- [slovenčina Opens in a new window](/sk/documents/overview/mynzepli-epar-medicine-overview_sk.pdf) (sk) (PDF - 170.55 KB) **First published:** 17/10/2025
+- [slovenščina Opens in a new window](/sl/documents/overview/mynzepli-epar-medicine-overview_sl.pdf) (sl) (PDF - 166.5 KB) **First published:** 17/10/2025
+- [suomi Opens in a new window](/fi/documents/overview/mynzepli-epar-medicine-overview_fi.pdf) (fi) (PDF - 143.49 KB) **First published:** 17/10/2025
+- [svenska Opens in a new window](/sv/documents/overview/mynzepli-epar-medicine-overview_sv.pdf) (sv) (PDF - 144.43 KB) **First published:** 17/10/2025
 
-**First published:** 17/10/2025
+Available translations: (22)
 
-[View](/es/documents/overview/mynzepli-epar-medicine-overview_es.pdf)
+##### Mynzepli : EPAR - Risk management plan
 
-čeština (CS) (170.99 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/cs/documents/overview/mynzepli-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (146.44 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/da/documents/overview/mynzepli-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (149.89 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/de/documents/overview/mynzepli-epar-medicine-overview_de.pdf)
-
-eesti (ET) (143.32 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/et/documents/overview/mynzepli-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (173.07 KB - PDF)
+[English Opens in a new window](/en/documents/rmp/mynzepli-epar-risk-management-plan_en.pdf) (en) (PDF - 1.7 MB)
 
 **First published:** 17/10/2025
-
-[View](/el/documents/overview/mynzepli-epar-medicine-overview_el.pdf)
-
-français (FR) (149.13 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/fr/documents/overview/mynzepli-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (169.69 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/hr/documents/overview/mynzepli-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (145.2 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/it/documents/overview/mynzepli-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (179 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/lv/documents/overview/mynzepli-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (168.88 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/lt/documents/overview/mynzepli-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (168.16 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/hu/documents/overview/mynzepli-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (171.47 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/mt/documents/overview/mynzepli-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (148.71 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/nl/documents/overview/mynzepli-epar-medicine-overview_nl.pdf)
-
-polski (PL) (175.25 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/pl/documents/overview/mynzepli-epar-medicine-overview_pl.pdf)
-
-português (PT) (146.71 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/pt/documents/overview/mynzepli-epar-medicine-overview_pt.pdf)
-
-română (RO) (164.83 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/ro/documents/overview/mynzepli-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (170.55 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/sk/documents/overview/mynzepli-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (166.5 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/sl/documents/overview/mynzepli-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (143.49 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/fi/documents/overview/mynzepli-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (144.43 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/sv/documents/overview/mynzepli-epar-medicine-overview_sv.pdf)
-
-Mynzepli : EPAR - Risk management plan
-
-English (EN) (1.7 MB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/en/documents/rmp/mynzepli-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
-Mynzepli : EPAR - Product information
-
-English (EN) (1.88 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 19/10/2026
-
-[View](/en/documents/product-information/mynzepli-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-165)
-
-български (BG) (2.09 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/bg/documents/product-information/mynzepli-epar-product-information_bg.pdf)
-
-español (ES) (1.98 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/es/documents/product-information/mynzepli-epar-product-information_es.pdf)
-
-čeština (CS) (2.03 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/cs/documents/product-information/mynzepli-epar-product-information_cs.pdf)
-
-dansk (DA) (2.36 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/da/documents/product-information/mynzepli-epar-product-information_da.pdf)
-
-Deutsch (DE) (1.79 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/de/documents/product-information/mynzepli-epar-product-information_de.pdf)
-
-eesti (ET) (1.79 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/et/documents/product-information/mynzepli-epar-product-information_et.pdf)
-
-ελληνικά (EL) (2.04 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/el/documents/product-information/mynzepli-epar-product-information_el.pdf)
-
-français (FR) (1.76 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/fr/documents/product-information/mynzepli-epar-product-information_fr.pdf)
-
-hrvatski (HR) (2.04 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/hr/documents/product-information/mynzepli-epar-product-information_hr.pdf)
-
-italiano (IT) (1.87 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/it/documents/product-information/mynzepli-epar-product-information_it.pdf)
-
-latviešu (LV) (1.88 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/lv/documents/product-information/mynzepli-epar-product-information_lv.pdf)
-
-lietuvių (LT) (1.96 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/lt/documents/product-information/mynzepli-epar-product-information_lt.pdf)
-
-magyar (HU) (1.98 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/hu/documents/product-information/mynzepli-epar-product-information_hu.pdf)
-
-Malti (MT) (2.22 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/mt/documents/product-information/mynzepli-epar-product-information_mt.pdf)
-
-Nederlands (NL) (1.61 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/nl/documents/product-information/mynzepli-epar-product-information_nl.pdf)
-
-polski (PL) (1.95 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/pl/documents/product-information/mynzepli-epar-product-information_pl.pdf)
-
-português (PT) (1.97 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/pt/documents/product-information/mynzepli-epar-product-information_pt.pdf)
-
-română (RO) (1.99 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/ro/documents/product-information/mynzepli-epar-product-information_ro.pdf)
-
-slovenčina (SK) (1.86 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 19/10/2026
-
-[View](/sk/documents/product-information/mynzepli-epar-product-information_sk.pdf)
-
-slovenščina (SL) (1.74 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 19/10/2026
-
-[View](/sl/documents/product-information/mynzepli-epar-product-information_sl.pdf)
-
-suomi (FI) (1.46 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/fi/documents/product-information/mynzepli-epar-product-information_fi.pdf)
-
-svenska (SV) (1.81 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 19/10/2026
-
-[View](/sv/documents/product-information/mynzepli-epar-product-information_sv.pdf)
-
-Íslenska (IS) (1.78 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 19/10/2026
-
-[View](/is/documents/product-information/mynzepli-epar-product-information_is.pdf)
-
-norsk (NO) (1.97 MB - PDF)
-
-**First published:** 17/10/2025 **Last updated:** 10/04/2026
-
-[View](/no/documents/product-information/mynzepli-epar-product-information_no.pdf)
-
-**Latest procedure affecting product information:** PSUR/0000336116
-
-18/09/2026
+##### Mynzepli : EPAR - Product information
+
+[English Opens in a new window](/en/documents/product-information/mynzepli-epar-product-information_en.pdf) (en) (PDF - 2.05 MB)
+
+**First published:** 17/10/2025 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/mynzepli-epar-product-information_bg.pdf) (bg) (PDF - 2.68 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [español Opens in a new window](/es/documents/product-information/mynzepli-epar-product-information_es.pdf) (es) (PDF - 1.65 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/mynzepli-epar-product-information_cs.pdf) (cs) (PDF - 2.57 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/mynzepli-epar-product-information_da.pdf) (da) (PDF - 2.57 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/mynzepli-epar-product-information_de.pdf) (de) (PDF - 2.16 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/mynzepli-epar-product-information_et.pdf) (et) (PDF - 2.17 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/mynzepli-epar-product-information_el.pdf) (el) (PDF - 2.43 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [français Opens in a new window](/fr/documents/product-information/mynzepli-epar-product-information_fr.pdf) (fr) (PDF - 1.92 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/mynzepli-epar-product-information_hr.pdf) (hr) (PDF - 2.54 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/mynzepli-epar-product-information_it.pdf) (it) (PDF - 2.26 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/mynzepli-epar-product-information_lv.pdf) (lv) (PDF - 2.29 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/mynzepli-epar-product-information_lt.pdf) (lt) (PDF - 2.89 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/mynzepli-epar-product-information_hu.pdf) (hu) (PDF - 2.63 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/mynzepli-epar-product-information_mt.pdf) (mt) (PDF - 2.35 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/mynzepli-epar-product-information_nl.pdf) (nl) (PDF - 2.18 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/mynzepli-epar-product-information_pl.pdf) (pl) (PDF - 2.5 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [português Opens in a new window](/pt/documents/product-information/mynzepli-epar-product-information_pt.pdf) (pt) (PDF - 2.4 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [română Opens in a new window](/ro/documents/product-information/mynzepli-epar-product-information_ro.pdf) (ro) (PDF - 2.23 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/mynzepli-epar-product-information_sk.pdf) (sk) (PDF - 2.82 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/mynzepli-epar-product-information_sl.pdf) (sl) (PDF - 2.27 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/mynzepli-epar-product-information_fi.pdf) (fi) (PDF - 1.99 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/mynzepli-epar-product-information_sv.pdf) (sv) (PDF - 2.26 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/mynzepli-epar-product-information_is.pdf) (is) (PDF - 2.23 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/mynzepli-epar-product-information_no.pdf) (no) (PDF - 2.16 MB) **First published:** 17/10/2025 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000384628
+
+24/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -437,159 +207,40 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Mynzepli : EPAR - All authorised presentations
+##### Mynzepli : EPAR - All authorised presentations
 
-English (EN) (49.25 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/en/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-306)
-
-български (BG) (62.98 KB - PDF)
+[English Opens in a new window](/en/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_en.pdf) (en) (PDF - 49.25 KB)
 
 **First published:** 17/10/2025
 
-[View](/bg/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (47.48 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/es/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (61.69 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/cs/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (49.72 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/da/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (48.44 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/de/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_de.pdf)
-
-eesti (ET) (46.28 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/et/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (61.56 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/el/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (47.22 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/fr/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (127.7 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/hr/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_hr.pdf)
-
-italiano (IT) (46.97 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/it/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_it.pdf)
-
-latviešu (LV) (64.99 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/lv/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių (LT) (65.75 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/lt/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (65.41 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/hu/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (65.06 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/mt/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (47.36 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/nl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_nl.pdf)
-
-polski (PL) (68.08 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/pl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (48.08 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/pt/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (62.04 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/ro/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (61.67 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/sk/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (55.46 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/sl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sl.pdf)
-
-suomi (FI) (46.51 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/fi/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (46.45 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/sv/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sv.pdf)
-
-Íslenska (IS) (47.44 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/is/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_is.pdf)
-
-norsk (NO) (48.42 KB - PDF)
-
-**First published:** 17/10/2025
-
-[View](/no/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_no.pdf)
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 62.98 KB) **First published:** 17/10/2025
+- [español Opens in a new window](/es/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_es.pdf) (es) (PDF - 47.48 KB) **First published:** 17/10/2025
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 61.69 KB) **First published:** 17/10/2025
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_da.pdf) (da) (PDF - 49.72 KB) **First published:** 17/10/2025
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_de.pdf) (de) (PDF - 48.44 KB) **First published:** 17/10/2025
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_et.pdf) (et) (PDF - 46.28 KB) **First published:** 17/10/2025
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_el.pdf) (el) (PDF - 61.56 KB) **First published:** 17/10/2025
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 47.22 KB) **First published:** 17/10/2025
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 127.7 KB) **First published:** 17/10/2025
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_it.pdf) (it) (PDF - 46.97 KB) **First published:** 17/10/2025
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 64.99 KB) **First published:** 17/10/2025
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 65.75 KB) **First published:** 17/10/2025
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 65.41 KB) **First published:** 17/10/2025
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 65.06 KB) **First published:** 17/10/2025
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 47.36 KB) **First published:** 17/10/2025
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 68.08 KB) **First published:** 17/10/2025
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 48.08 KB) **First published:** 17/10/2025
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 62.04 KB) **First published:** 17/10/2025
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 61.67 KB) **First published:** 17/10/2025
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 55.46 KB) **First published:** 17/10/2025
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 46.51 KB) **First published:** 17/10/2025
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 46.45 KB) **First published:** 17/10/2025
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_is.pdf) (is) (PDF - 47.44 KB) **First published:** 17/10/2025
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/mynzepli-epar-all-authorised-presentations_no.pdf) (no) (PDF - 48.42 KB) **First published:** 17/10/2025
+
+Available translations: (24)
 
 ## Product details
 
@@ -625,9 +276,9 @@ Mynzepli is indicated for adults for the treatment of
 - **EMA product number**
     - EMEA/H/C/006438
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Biosimilar**
-    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323).
 - **Marketing authorisation holder**
     - Advanz Pharma Limited Unit 17  
 Northwood House  
@@ -640,7 +291,7 @@ Ireland
 - **Marketing authorisation issued**
     - 18/08/2025
 - **Revision**
-    - 2
+    - 3
 
 ## Assessment history
 
@@ -650,45 +301,41 @@ Collapse section
 
 ### Changes since initial authorisation of medicine
 
-Mynzepli : EPAR - Procedural steps taken and scientific information after authorisation
+##### Mynzepli : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.67 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/mynzepli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 158.04 KB)
 
-**First published:** 10/04/2026 **Last updated:** 19/10/2026
+**First published:** 10/04/2026 **Last updated:** 24/11/2026
 
-[View](/en/documents/procedural-steps-after/mynzepli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+##### Mynzepli-PSUSA-00010020-202511 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Mynzepli-PSUSA-00010020-202511 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMADOC-1700519818-3486486
 
-Reference Number: EMADOC-1700519818-3486486
-
-English (EN) (166.92 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/mynzepli-psusa-00010020-202511-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 166.92 KB)
 
 **First published:** 19/10/2026
 
-[View](/en/documents/scientific-conclusion/mynzepli-psusa-00010020-202511-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
-
 ### Initial marketing authorisation documents
 
-Mynzepli : EPAR - Public assessment report
+##### Mynzepli : EPAR - Public assessment report
 
-Adopted Reference Number: EMA/CHMP/203339/2025
+Adopted
 
-English (EN) (4.81 MB - PDF)
+**Reference number:**EMA/CHMP/203339/2025
+
+[English Opens in a new window](/en/documents/assessment-report/mynzepli-epar-public-assessment-report_en.pdf) (en) (PDF - 4.81 MB)
 
 **First published:** 17/10/2025
 
-[View](/en/documents/assessment-report/mynzepli-epar-public-assessment-report_en.pdf)
+##### CHMP summary of positive opinion for Mynzepli
 
-CHMP summary of positive opinion for Mynzepli
+Adopted
 
-Adopted Reference Number: EMA/202775/2025
+**Reference number:**EMA/202775/2025
 
-English (EN) (149.26 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-mynzepli_en.pdf) (en) (PDF - 149.26 KB)
 
 **First published:** 20/06/2025
-
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-mynzepli_en.pdf)
 
 ## News on Mynzepli
 
@@ -698,6 +345,6 @@ English (EN) (149.26 KB - PDF)
 
 **This page was last updated on**
 
-19/10/2026
+24/11/2026
 
 ## Share this page

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-24 16:26:00
+document_datetime: 2026-11-23 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nezglyal.html
 document_name: nezglyal.html
 version: success
-processing_time: 0.1338825
-conversion_datetime: 2026-09-25 19:55:01.195843
+processing_time: 0.1345303
+conversion_datetime: 2026-11-27 15:29:42.005579
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Nezglyal
 
 [RSS](/en/individual-human-medicine.xml/284204)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 leriglitazone
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -52,7 +52,7 @@ It is used in patients whose brain lesions do not take up the contrast agent gad
 
 Cerebral adrenoleukodystrophy is a form of a genetic disease called adrenoleukodystrophy in which fatty substances known as 'very long chain fatty acids' build up in tissues around the body, mainly in the brain, spinal cord and adrenal glands (two glands situated above the kidneys). In cerebral adrenoleukodystrophy, a build-up of these substances in the brain causes inflammation and destruction of the protective sheath (myelin) that insulates and helps signalling by nerve cells.
 
-Cerebral adrenoleukodystrophy is rare and Nezglyal was designated an 'orphan medicine' (a medicine used in rare diseases) on 18 November 2016 for the treatment of adrenoleukodystrophy. Further information on the orphan designation can be found on the EMA [website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-16-1770) .
+Cerebral adrenoleukodystrophy is rare and Nezglyal was designated an 'orphan medicine' (a medicine used in rare diseases) on 18 November 2016 for the treatment of adrenoleukodystrophy. Further information on the orphan designation can be found on the EMA [website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-16-1770).
 
 Nezglyal contains the active substance leriglitazone.
 
@@ -110,319 +110,93 @@ As for all medicines, data on the use of Nezglyal are continuously monitored. Su
 
 Nezglyal received a marketing authorisation under exceptional circumstances valid throughout the EU on 21 September 2026.
 
-Nezglyal : EPAR - Medicine overview
+##### Nezglyal : EPAR - Medicine overview
 
-Reference Number: EMADOC-1700519818-3372419
+**Reference number:**EMADOC-1700519818-3372419
 
-English (EN) (136.85 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/en/documents/overview/nezglyal-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-58)
-
-български (BG) (143.65 KB - PDF)
+[English Opens in a new window](/en/documents/overview/nezglyal-epar-medicine-overview_en.pdf) (en) (PDF - 136.85 KB)
 
 **First published:** 24/09/2026
 
-[View](/bg/documents/overview/nezglyal-epar-medicine-overview_bg.pdf)
+Available translations: (22)
 
-español (ES) (115.04 KB - PDF)
+- [български Opens in a new window](/bg/documents/overview/nezglyal-epar-medicine-overview_bg.pdf) (bg) (PDF - 143.65 KB) **First published:** 24/09/2026
+- [español Opens in a new window](/es/documents/overview/nezglyal-epar-medicine-overview_es.pdf) (es) (PDF - 115.04 KB) **First published:** 24/09/2026
+- [čeština Opens in a new window](/cs/documents/overview/nezglyal-epar-medicine-overview_cs.pdf) (cs) (PDF - 139.22 KB) **First published:** 24/09/2026
+- [dansk Opens in a new window](/da/documents/overview/nezglyal-epar-medicine-overview_da.pdf) (da) (PDF - 115.68 KB) **First published:** 24/09/2026
+- [Deutsch Opens in a new window](/de/documents/overview/nezglyal-epar-medicine-overview_de.pdf) (de) (PDF - 119.18 KB) **First published:** 24/09/2026
+- [eesti Opens in a new window](/et/documents/overview/nezglyal-epar-medicine-overview_et.pdf) (et) (PDF - 112.62 KB) **First published:** 24/09/2026
+- [ελληνικά Opens in a new window](/el/documents/overview/nezglyal-epar-medicine-overview_el.pdf) (el) (PDF - 142.95 KB) **First published:** 24/09/2026
+- [français Opens in a new window](/fr/documents/overview/nezglyal-epar-medicine-overview_fr.pdf) (fr) (PDF - 116.71 KB) **First published:** 24/09/2026
+- [hrvatski Opens in a new window](/hr/documents/overview/nezglyal-epar-medicine-overview_hr.pdf) (hr) (PDF - 138.88 KB) **First published:** 24/09/2026
+- [italiano Opens in a new window](/it/documents/overview/nezglyal-epar-medicine-overview_it.pdf) (it) (PDF - 114.28 KB) **First published:** 24/09/2026
+- [latviešu Opens in a new window](/lv/documents/overview/nezglyal-epar-medicine-overview_lv.pdf) (lv) (PDF - 145.84 KB) **First published:** 24/09/2026
+- [lietuvių Opens in a new window](/lt/documents/overview/nezglyal-epar-medicine-overview_lt.pdf) (lt) (PDF - 137.17 KB) **First published:** 24/09/2026
+- [magyar Opens in a new window](/hu/documents/overview/nezglyal-epar-medicine-overview_hu.pdf) (hu) (PDF - 139.22 KB) **First published:** 24/09/2026
+- [Malti Opens in a new window](/mt/documents/overview/nezglyal-epar-medicine-overview_mt.pdf) (mt) (PDF - 141.55 KB) **First published:** 24/09/2026
+- [Nederlands Opens in a new window](/nl/documents/overview/nezglyal-epar-medicine-overview_nl.pdf) (nl) (PDF - 116.59 KB) **First published:** 24/09/2026
+- [polski Opens in a new window](/pl/documents/overview/nezglyal-epar-medicine-overview_pl.pdf) (pl) (PDF - 142.54 KB) **First published:** 24/09/2026
+- [português Opens in a new window](/pt/documents/overview/nezglyal-epar-medicine-overview_pt.pdf) (pt) (PDF - 115.84 KB) **First published:** 24/09/2026
+- [română Opens in a new window](/ro/documents/overview/nezglyal-epar-medicine-overview_ro.pdf) (ro) (PDF - 133.81 KB) **First published:** 24/09/2026
+- [slovenčina Opens in a new window](/sk/documents/overview/nezglyal-epar-medicine-overview_sk.pdf) (sk) (PDF - 139.65 KB) **First published:** 24/09/2026
+- [slovenščina Opens in a new window](/sl/documents/overview/nezglyal-epar-medicine-overview_sl.pdf) (sl) (PDF - 136.87 KB) **First published:** 24/09/2026
+- [suomi Opens in a new window](/fi/documents/overview/nezglyal-epar-medicine-overview_fi.pdf) (fi) (PDF - 112.79 KB) **First published:** 24/09/2026
+- [svenska Opens in a new window](/sv/documents/overview/nezglyal-epar-medicine-overview_sv.pdf) (sv) (PDF - 113.61 KB) **First published:** 24/09/2026
 
-**First published:** 24/09/2026
+Available translations: (22)
 
-[View](/es/documents/overview/nezglyal-epar-medicine-overview_es.pdf)
+##### Nezglyal : EPAR - Risk management plan
 
-čeština (CS) (139.22 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/cs/documents/overview/nezglyal-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (115.68 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/da/documents/overview/nezglyal-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (119.18 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/de/documents/overview/nezglyal-epar-medicine-overview_de.pdf)
-
-eesti (ET) (112.62 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/et/documents/overview/nezglyal-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (142.95 KB - PDF)
+[English Opens in a new window](/en/documents/rmp/nezglyal-epar-risk-management-plan_en.pdf) (en) (PDF - 1.09 MB)
 
 **First published:** 24/09/2026
-
-[View](/el/documents/overview/nezglyal-epar-medicine-overview_el.pdf)
-
-français (FR) (116.71 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/fr/documents/overview/nezglyal-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (138.88 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/hr/documents/overview/nezglyal-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (114.28 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/it/documents/overview/nezglyal-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (145.84 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/lv/documents/overview/nezglyal-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (137.17 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/lt/documents/overview/nezglyal-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (139.22 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/hu/documents/overview/nezglyal-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (141.55 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/mt/documents/overview/nezglyal-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (116.59 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/nl/documents/overview/nezglyal-epar-medicine-overview_nl.pdf)
-
-polski (PL) (142.54 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/pl/documents/overview/nezglyal-epar-medicine-overview_pl.pdf)
-
-português (PT) (115.84 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/pt/documents/overview/nezglyal-epar-medicine-overview_pt.pdf)
-
-română (RO) (133.81 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/ro/documents/overview/nezglyal-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (139.65 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sk/documents/overview/nezglyal-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (136.87 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sl/documents/overview/nezglyal-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (112.79 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/fi/documents/overview/nezglyal-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (113.61 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sv/documents/overview/nezglyal-epar-medicine-overview_sv.pdf)
-
-Nezglyal : EPAR - Risk management plan
-
-English (EN) (1.09 MB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/en/documents/rmp/nezglyal-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
-Nezglyal : EPAR - Product information
-
-English (EN) (538.79 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/en/documents/product-information/nezglyal-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-627)
-
-български (BG) (554.06 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/bg/documents/product-information/nezglyal-epar-product-information_bg.pdf)
-
-español (ES) (488.53 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/es/documents/product-information/nezglyal-epar-product-information_es.pdf)
-
-čeština (CS) (512.3 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/cs/documents/product-information/nezglyal-epar-product-information_cs.pdf)
-
-dansk (DA) (490.51 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/da/documents/product-information/nezglyal-epar-product-information_da.pdf)
-
-Deutsch (DE) (503.88 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/de/documents/product-information/nezglyal-epar-product-information_de.pdf)
-
-eesti (ET) (488.56 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/et/documents/product-information/nezglyal-epar-product-information_et.pdf)
-
-ελληνικά (EL) (552.99 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/el/documents/product-information/nezglyal-epar-product-information_el.pdf)
-
-français (FR) (509.94 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/fr/documents/product-information/nezglyal-epar-product-information_fr.pdf)
-
-hrvatski (HR) (501.83 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/hr/documents/product-information/nezglyal-epar-product-information_hr.pdf)
-
-italiano (IT) (508.32 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/it/documents/product-information/nezglyal-epar-product-information_it.pdf)
-
-latviešu (LV) (512.1 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/lv/documents/product-information/nezglyal-epar-product-information_lv.pdf)
-
-lietuvių (LT) (487.53 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/lt/documents/product-information/nezglyal-epar-product-information_lt.pdf)
-
-magyar (HU) (533.6 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/hu/documents/product-information/nezglyal-epar-product-information_hu.pdf)
-
-Malti (MT) (548.15 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/mt/documents/product-information/nezglyal-epar-product-information_mt.pdf)
-
-Nederlands (NL) (494.35 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/nl/documents/product-information/nezglyal-epar-product-information_nl.pdf)
-
-polski (PL) (545.88 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/pl/documents/product-information/nezglyal-epar-product-information_pl.pdf)
-
-português (PT) (518.43 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/pt/documents/product-information/nezglyal-epar-product-information_pt.pdf)
-
-română (RO) (518.11 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/ro/documents/product-information/nezglyal-epar-product-information_ro.pdf)
-
-slovenčina (SK) (498.24 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sk/documents/product-information/nezglyal-epar-product-information_sk.pdf)
-
-slovenščina (SL) (531.63 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sl/documents/product-information/nezglyal-epar-product-information_sl.pdf)
-
-suomi (FI) (485.94 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/fi/documents/product-information/nezglyal-epar-product-information_fi.pdf)
-
-svenska (SV) (483.74 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sv/documents/product-information/nezglyal-epar-product-information_sv.pdf)
-
-Íslenska (IS) (595.31 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/is/documents/product-information/nezglyal-epar-product-information_is.pdf)
-
-norsk (NO) (517.94 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/no/documents/product-information/nezglyal-epar-product-information_no.pdf)
+##### Nezglyal : EPAR - Product information
+
+[English Opens in a new window](/en/documents/product-information/nezglyal-epar-product-information_en.pdf) (en) (PDF - 502.04 KB)
+
+**First published:** 24/09/2026 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/nezglyal-epar-product-information_bg.pdf) (bg) (PDF - 547.23 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [español Opens in a new window](/es/documents/product-information/nezglyal-epar-product-information_es.pdf) (es) (PDF - 475.41 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/nezglyal-epar-product-information_cs.pdf) (cs) (PDF - 513.8 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/nezglyal-epar-product-information_da.pdf) (da) (PDF - 480.98 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/nezglyal-epar-product-information_de.pdf) (de) (PDF - 483.06 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/nezglyal-epar-product-information_et.pdf) (et) (PDF - 474.84 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/nezglyal-epar-product-information_el.pdf) (el) (PDF - 532.75 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [français Opens in a new window](/fr/documents/product-information/nezglyal-epar-product-information_fr.pdf) (fr) (PDF - 485.47 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/nezglyal-epar-product-information_hr.pdf) (hr) (PDF - 499.07 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/nezglyal-epar-product-information_it.pdf) (it) (PDF - 480.46 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/nezglyal-epar-product-information_lv.pdf) (lv) (PDF - 498.07 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/nezglyal-epar-product-information_lt.pdf) (lt) (PDF - 481.88 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/nezglyal-epar-product-information_hu.pdf) (hu) (PDF - 530.76 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/nezglyal-epar-product-information_mt.pdf) (mt) (PDF - 529.08 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/nezglyal-epar-product-information_nl.pdf) (nl) (PDF - 480.15 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/nezglyal-epar-product-information_pl.pdf) (pl) (PDF - 548.55 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [português Opens in a new window](/pt/documents/product-information/nezglyal-epar-product-information_pt.pdf) (pt) (PDF - 502.08 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [română Opens in a new window](/ro/documents/product-information/nezglyal-epar-product-information_ro.pdf) (ro) (PDF - 506.14 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/nezglyal-epar-product-information_sk.pdf) (sk) (PDF - 500.28 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/nezglyal-epar-product-information_sl.pdf) (sl) (PDF - 527.49 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/nezglyal-epar-product-information_fi.pdf) (fi) (PDF - 471.92 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/nezglyal-epar-product-information_sv.pdf) (sv) (PDF - 473.16 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/nezglyal-epar-product-information_is.pdf) (is) (PDF - 505.75 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/nezglyal-epar-product-information_no.pdf) (no) (PDF - 495.03 KB) **First published:** 24/09/2026 **Last updated:** 23/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**T/0000379510
+
+12/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -433,159 +207,40 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Nezglyal : EPAR - All authorised presentations
+##### Nezglyal : EPAR - All authorised presentations
 
-English (EN) (37.85 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/en/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-315)
-
-български (BG) (54.16 KB - PDF)
+[English Opens in a new window](/en/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_en.pdf) (en) (PDF - 46.46 KB)
 
 **First published:** 24/09/2026
 
-[View](/bg/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (39.11 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/es/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (54.28 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/cs/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (39.49 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/da/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (41.6 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/de/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_de.pdf)
-
-eesti (ET) (37.74 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/et/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (45.66 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/el/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (39.05 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/fr/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (55.37 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/hr/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_hr.pdf)
-
-italiano (IT) (37.9 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/it/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_it.pdf)
-
-latviešu (LV) (55.32 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/lv/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių (LT) (56.37 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/lt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (54.17 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/hu/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (57.42 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/mt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (38.75 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/nl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_nl.pdf)
-
-polski (PL) (48.51 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/pl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (38.92 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/pt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (55.05 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/ro/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (55.45 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sk/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (54.24 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sl.pdf)
-
-suomi (FI) (35.71 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/fi/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (38.45 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/sv/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sv.pdf)
-
-Íslenska (IS) (37.01 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/is/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_is.pdf)
-
-norsk (NO) (39.06 KB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/no/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_no.pdf)
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 54.16 KB) **First published:** 24/09/2026
+- [español Opens in a new window](/es/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_es.pdf) (es) (PDF - 39.11 KB) **First published:** 24/09/2026
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 54.28 KB) **First published:** 24/09/2026
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_da.pdf) (da) (PDF - 39.49 KB) **First published:** 24/09/2026
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_de.pdf) (de) (PDF - 41.6 KB) **First published:** 24/09/2026
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_et.pdf) (et) (PDF - 37.74 KB) **First published:** 24/09/2026
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_el.pdf) (el) (PDF - 45.66 KB) **First published:** 24/09/2026
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 39.05 KB) **First published:** 24/09/2026
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 55.37 KB) **First published:** 24/09/2026
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_it.pdf) (it) (PDF - 37.9 KB) **First published:** 24/09/2026
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 55.32 KB) **First published:** 24/09/2026
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 56.37 KB) **First published:** 24/09/2026
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 54.17 KB) **First published:** 24/09/2026
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 57.42 KB) **First published:** 24/09/2026
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 38.75 KB) **First published:** 24/09/2026
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 48.51 KB) **First published:** 24/09/2026
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 38.92 KB) **First published:** 24/09/2026
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 55.05 KB) **First published:** 24/09/2026
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 55.45 KB) **First published:** 24/09/2026
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 54.24 KB) **First published:** 24/09/2026
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 35.71 KB) **First published:** 24/09/2026
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 38.45 KB) **First published:** 24/09/2026
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_is.pdf) (is) (PDF - 37.01 KB) **First published:** 24/09/2026
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/nezglyal-epar-all-authorised-presentations_no.pdf) (no) (PDF - 39.06 KB) **First published:** 24/09/2026
+
+Available translations: (24)
 
 ## Product details
 
@@ -613,53 +268,70 @@ Nezglyal is indicated for the treatment of Cerebral Adrenoleukodystrophy (cALD) 
 - **EMA product number**
     - EMEA/H/C/006693
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Exceptional circumstances**
-    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
+    - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
-    - Minoryx Therapeutics S.L. Carrer d'Ernest Lluch 32  08302 Mataró  Barcelona  Spain  
+    - Neuraxpharm Pharmaceuticals S.L. Avinguda De Barcelona 69  
+Poligono Industrialde La Fuensanta  
+08970 Sant Joan Despi  
+SPAIN
 - **Opinion adopted**
     - 23/07/2026
 - **Opinion status**
     - Positive
 - **Marketing authorisation issued**
     - 21/09/2026
+- **Revision**
+    - 1
 
 ## Assessment history
 
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+##### Nezglyal : EPAR - Procedural steps taken and scientific information after authorisation
+
+[English Opens in a new window](/en/documents/procedural-steps-after/nezglyal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 140.91 KB)
+
+**First published:** 23/11/2026
+
 ### Initial marketing authorisation documents
 
-Nezglyal : Orphan maintenance assessment report
+##### Nezglyal : Orphan maintenance assessment report
 
-Adopted Reference Number: EMADOC-1700519818-3358512
+Adopted
 
-English (EN) (287.73 KB - PDF)
+**Reference number:**EMADOC-1700519818-3358512
+
+[English Opens in a new window](/en/documents/orphan-maintenance-report/nezglyal-orphan-maintenance-assessment-report_en.pdf) (en) (PDF - 287.8 KB)
+
+**First published:** 24/09/2026 **Last updated:** 12/11/2026
+
+##### Nezglyal : EPAR - Public assessment report
+
+Adopted
+
+**Reference number:**EMADOC-1829012207-63798
+
+[English Opens in a new window](/en/documents/assessment-report/nezglyal-epar-public-assessment-report_en.pdf) (en) (PDF - 6.56 MB)
 
 **First published:** 24/09/2026
 
-[View](/en/documents/orphan-maintenance-report/nezglyal-orphan-maintenance-assessment-report_en.pdf)
+##### CHMP summary of positive opinion for Nezglyal
 
-Nezglyal : EPAR - Public assessment report
+Adopted
 
-Adopted Reference Number: EMADOC-1829012207-63798
+**Reference number:**EMADOC-1829012207-57936
 
-English (EN) (6.56 MB - PDF)
-
-**First published:** 24/09/2026
-
-[View](/en/documents/assessment-report/nezglyal-epar-public-assessment-report_en.pdf)
-
-CHMP summary of positive opinion for Nezglyal
-
-Adopted Reference Number: EMADOC-1829012207-57936
-
-English (EN) (158.99 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-nezglyal_en.pdf) (en) (PDF - 158.99 KB)
 
 **First published:** 24/07/2026
-
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-nezglyal_en.pdf)
 
 ## News on Nezglyal
 
@@ -673,6 +345,6 @@ English (EN) (158.99 KB - PDF)
 
 **This page was last updated on**
 
-24/09/2026
+23/11/2026
 
 ## Share this page

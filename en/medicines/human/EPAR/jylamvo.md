@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-09-07 16:06:00
+document_datetime: 2026-11-24 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jylamvo.html
 document_name: jylamvo.html
 version: success
-processing_time: 0.2069762
-conversion_datetime: 2026-09-11 17:55:37.886596
+processing_time: 0.1972037
+conversion_datetime: 2026-11-27 15:28:37.752505
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Jylamvo
 
 [RSS](/en/individual-human-medicine.xml/66417)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
 methotrexate
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -107,321 +107,91 @@ As for all medicines, data on the use of Jylamvo are continuously monitored. Sid
 
 Jylamvo received a marketing authorisation valid throughout the EU on 29 March 2017.
 
-Jylamvo : EPAR - Medicine overview
+##### Jylamvo : EPAR - Medicine overview
 
-English (EN) (83.1 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/en/documents/overview/jylamvo-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-155)
-
-български (BG) (108.89 KB - PDF)
+[English Opens in a new window](/en/documents/overview/jylamvo-epar-medicine-overview_en.pdf) (en) (PDF - 83.1 KB)
 
 **First published:** 19/04/2017 **Last updated:** 31/10/2019
 
-[View](/bg/documents/overview/jylamvo-epar-medicine-overview_bg.pdf)
-
-español (ES) (82.56 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/es/documents/overview/jylamvo-epar-medicine-overview_es.pdf)
-
-čeština (CS) (106.18 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/cs/documents/overview/jylamvo-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (81.51 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/da/documents/overview/jylamvo-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (83.57 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/de/documents/overview/jylamvo-epar-medicine-overview_de.pdf)
-
-eesti (ET) (81.2 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/et/documents/overview/jylamvo-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (109.18 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/el/documents/overview/jylamvo-epar-medicine-overview_el.pdf)
-
-français (FR) (94.73 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/fr/documents/overview/jylamvo-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (101.87 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/hr/documents/overview/jylamvo-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (81.9 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/it/documents/overview/jylamvo-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (111.66 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/lv/documents/overview/jylamvo-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (105.51 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/lt/documents/overview/jylamvo-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (100.82 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/hu/documents/overview/jylamvo-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (108.01 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/mt/documents/overview/jylamvo-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (82.29 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/nl/documents/overview/jylamvo-epar-medicine-overview_nl.pdf)
-
-polski (PL) (107.46 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/pl/documents/overview/jylamvo-epar-medicine-overview_pl.pdf)
-
-português (PT) (82.63 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/pt/documents/overview/jylamvo-epar-medicine-overview_pt.pdf)
-
-română (RO) (104.33 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/ro/documents/overview/jylamvo-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (106.12 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/sk/documents/overview/jylamvo-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (100.22 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/sl/documents/overview/jylamvo-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (81.43 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/fi/documents/overview/jylamvo-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (81.95 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 31/10/2019
-
-[View](/sv/documents/overview/jylamvo-epar-medicine-overview_sv.pdf)
-
-Jylamvo : EPAR - Risk management plan
-
-English (EN) (1.01 MB - PDF)
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/jylamvo-epar-medicine-overview_bg.pdf) (bg) (PDF - 108.89 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [español Opens in a new window](/es/documents/overview/jylamvo-epar-medicine-overview_es.pdf) (es) (PDF - 82.56 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [čeština Opens in a new window](/cs/documents/overview/jylamvo-epar-medicine-overview_cs.pdf) (cs) (PDF - 106.18 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [dansk Opens in a new window](/da/documents/overview/jylamvo-epar-medicine-overview_da.pdf) (da) (PDF - 81.51 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [Deutsch Opens in a new window](/de/documents/overview/jylamvo-epar-medicine-overview_de.pdf) (de) (PDF - 83.57 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [eesti Opens in a new window](/et/documents/overview/jylamvo-epar-medicine-overview_et.pdf) (et) (PDF - 81.2 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [ελληνικά Opens in a new window](/el/documents/overview/jylamvo-epar-medicine-overview_el.pdf) (el) (PDF - 109.18 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [français Opens in a new window](/fr/documents/overview/jylamvo-epar-medicine-overview_fr.pdf) (fr) (PDF - 94.73 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [hrvatski Opens in a new window](/hr/documents/overview/jylamvo-epar-medicine-overview_hr.pdf) (hr) (PDF - 101.87 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [italiano Opens in a new window](/it/documents/overview/jylamvo-epar-medicine-overview_it.pdf) (it) (PDF - 81.9 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [latviešu Opens in a new window](/lv/documents/overview/jylamvo-epar-medicine-overview_lv.pdf) (lv) (PDF - 111.66 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [lietuvių Opens in a new window](/lt/documents/overview/jylamvo-epar-medicine-overview_lt.pdf) (lt) (PDF - 105.51 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [magyar Opens in a new window](/hu/documents/overview/jylamvo-epar-medicine-overview_hu.pdf) (hu) (PDF - 100.82 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [Malti Opens in a new window](/mt/documents/overview/jylamvo-epar-medicine-overview_mt.pdf) (mt) (PDF - 108.01 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [Nederlands Opens in a new window](/nl/documents/overview/jylamvo-epar-medicine-overview_nl.pdf) (nl) (PDF - 82.29 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [polski Opens in a new window](/pl/documents/overview/jylamvo-epar-medicine-overview_pl.pdf) (pl) (PDF - 107.46 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [português Opens in a new window](/pt/documents/overview/jylamvo-epar-medicine-overview_pt.pdf) (pt) (PDF - 82.63 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [română Opens in a new window](/ro/documents/overview/jylamvo-epar-medicine-overview_ro.pdf) (ro) (PDF - 104.33 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [slovenčina Opens in a new window](/sk/documents/overview/jylamvo-epar-medicine-overview_sk.pdf) (sk) (PDF - 106.12 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [slovenščina Opens in a new window](/sl/documents/overview/jylamvo-epar-medicine-overview_sl.pdf) (sl) (PDF - 100.22 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [suomi Opens in a new window](/fi/documents/overview/jylamvo-epar-medicine-overview_fi.pdf) (fi) (PDF - 81.43 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+- [svenska Opens in a new window](/sv/documents/overview/jylamvo-epar-medicine-overview_sv.pdf) (sv) (PDF - 81.95 KB) **First published:** 19/04/2017 **Last updated:** 31/10/2019
+
+Available translations: (22)
+
+##### Jylamvo : EPAR - Risk management plan
+
+[English Opens in a new window](/en/documents/rmp/jylamvo-epar-risk-management-plan_en.pdf) (en) (PDF - 1.01 MB)
 
 **First published:** 31/10/2019 **Last updated:** 24/06/2024
 
-[View](/en/documents/rmp/jylamvo-epar-risk-management-plan_en.pdf)
-
 ## Product information
 
-Jylamvo : EPAR - Product Information
-
-English (EN) (448.76 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/en/documents/product-information/jylamvo-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-410)
-
-български (BG) (544.96 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/bg/documents/product-information/jylamvo-epar-product-information_bg.pdf)
-
-español (ES) (422.31 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/es/documents/product-information/jylamvo-epar-product-information_es.pdf)
-
-čeština (CS) (535.38 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/cs/documents/product-information/jylamvo-epar-product-information_cs.pdf)
-
-dansk (DA) (442.69 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/da/documents/product-information/jylamvo-epar-product-information_da.pdf)
-
-Deutsch (DE) (483.73 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/de/documents/product-information/jylamvo-epar-product-information_de.pdf)
-
-eesti (ET) (392.23 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/et/documents/product-information/jylamvo-epar-product-information_et.pdf)
-
-ελληνικά (EL) (529.45 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/el/documents/product-information/jylamvo-epar-product-information_el.pdf)
-
-français (FR) (454.56 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/fr/documents/product-information/jylamvo-epar-product-information_fr.pdf)
-
-hrvatski (HR) (504.4 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/hr/documents/product-information/jylamvo-epar-product-information_hr.pdf)
-
-italiano (IT) (446.75 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/it/documents/product-information/jylamvo-epar-product-information_it.pdf)
-
-latviešu (LV) (509.46 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/lv/documents/product-information/jylamvo-epar-product-information_lv.pdf)
-
-lietuvių (LT) (520.24 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/lt/documents/product-information/jylamvo-epar-product-information_lt.pdf)
-
-magyar (HU) (514.76 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/hu/documents/product-information/jylamvo-epar-product-information_hu.pdf)
-
-Malti (MT) (650.99 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/mt/documents/product-information/jylamvo-epar-product-information_mt.pdf)
-
-Nederlands (NL) (440.3 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/nl/documents/product-information/jylamvo-epar-product-information_nl.pdf)
-
-polski (PL) (561.63 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/pl/documents/product-information/jylamvo-epar-product-information_pl.pdf)
-
-português (PT) (408.42 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/pt/documents/product-information/jylamvo-epar-product-information_pt.pdf)
-
-română (RO) (520.95 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/ro/documents/product-information/jylamvo-epar-product-information_ro.pdf)
-
-slovenčina (SK) (530.3 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/sk/documents/product-information/jylamvo-epar-product-information_sk.pdf)
-
-slovenščina (SL) (531.4 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/sl/documents/product-information/jylamvo-epar-product-information_sl.pdf)
-
-suomi (FI) (464.26 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/fi/documents/product-information/jylamvo-epar-product-information_fi.pdf)
-
-svenska (SV) (432.42 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/sv/documents/product-information/jylamvo-epar-product-information_sv.pdf)
-
-Íslenska (IS) (444.55 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/is/documents/product-information/jylamvo-epar-product-information_is.pdf)
-
-norsk (NO) (434.66 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 07/09/2026
-
-[View](/no/documents/product-information/jylamvo-epar-product-information_no.pdf)
-
-**Latest procedure affecting product information:** PSUR/0000327873
-
-27/08/2026
+##### Jylamvo : EPAR - Product Information
+
+[English Opens in a new window](/en/documents/product-information/jylamvo-epar-product-information_en.pdf) (en) (PDF - 429.82 KB)
+
+**First published:** 19/04/2017 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/jylamvo-epar-product-information_bg.pdf) (bg) (PDF - 551.26 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [español Opens in a new window](/es/documents/product-information/jylamvo-epar-product-information_es.pdf) (es) (PDF - 414.05 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/jylamvo-epar-product-information_cs.pdf) (cs) (PDF - 523.33 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/jylamvo-epar-product-information_da.pdf) (da) (PDF - 439.47 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/jylamvo-epar-product-information_de.pdf) (de) (PDF - 481.63 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/jylamvo-epar-product-information_et.pdf) (et) (PDF - 399.63 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/jylamvo-epar-product-information_el.pdf) (el) (PDF - 509.03 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [français Opens in a new window](/fr/documents/product-information/jylamvo-epar-product-information_fr.pdf) (fr) (PDF - 446.24 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/jylamvo-epar-product-information_hr.pdf) (hr) (PDF - 494.96 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/jylamvo-epar-product-information_it.pdf) (it) (PDF - 445.09 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/jylamvo-epar-product-information_lv.pdf) (lv) (PDF - 514.88 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/jylamvo-epar-product-information_lt.pdf) (lt) (PDF - 506.66 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/jylamvo-epar-product-information_hu.pdf) (hu) (PDF - 508.87 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/jylamvo-epar-product-information_mt.pdf) (mt) (PDF - 641.93 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/jylamvo-epar-product-information_nl.pdf) (nl) (PDF - 447.26 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/jylamvo-epar-product-information_pl.pdf) (pl) (PDF - 547.99 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [português Opens in a new window](/pt/documents/product-information/jylamvo-epar-product-information_pt.pdf) (pt) (PDF - 417.24 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [română Opens in a new window](/ro/documents/product-information/jylamvo-epar-product-information_ro.pdf) (ro) (PDF - 533.58 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/jylamvo-epar-product-information_sk.pdf) (sk) (PDF - 518.58 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/jylamvo-epar-product-information_sl.pdf) (sl) (PDF - 522.87 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/jylamvo-epar-product-information_fi.pdf) (fi) (PDF - 456 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/jylamvo-epar-product-information_sv.pdf) (sv) (PDF - 430.11 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/jylamvo-epar-product-information_is.pdf) (is) (PDF - 451.38 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/jylamvo-epar-product-information_no.pdf) (no) (PDF - 418.48 KB) **First published:** 19/04/2017 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000387591
+
+24/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -432,159 +202,40 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Jylamvo : EPAR - All Authorised presentations
+##### Jylamvo : EPAR - All Authorised presentations
 
-English (EN) (17.88 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/en/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-967)
-
-български (BG) (40.41 KB - PDF)
+[English Opens in a new window](/en/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_en.pdf) (en) (PDF - 17.88 KB)
 
 **First published:** 19/04/2017 **Last updated:** 19/04/2017
 
-[View](/bg/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (14.3 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/es/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (31.53 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/cs/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (14.13 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/da/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (16.13 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/de/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_de.pdf)
-
-eesti (ET) (14.21 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/et/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (35.89 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/el/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (14.32 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/fr/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (29.15 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/hr/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_hr.pdf)
-
-italiano (IT) (14.3 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/it/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_it.pdf)
-
-latviešu (LV) (35.15 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/lv/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių (LT) (31.11 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/lt/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (31.03 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/hu/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (33.18 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/mt/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (14.2 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/nl/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_nl.pdf)
-
-polski (PL) (31.65 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/pl/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (14.32 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/pt/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (32.57 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/ro/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (29.61 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/sk/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (29.27 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/sl/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_sl.pdf)
-
-suomi (FI) (14.22 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/fi/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (16.13 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/sv/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_sv.pdf)
-
-Íslenska (IS) (19.72 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/is/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_is.pdf)
-
-norsk (NO) (17.97 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/no/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_no.pdf)
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 40.41 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [español Opens in a new window](/es/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_es.pdf) (es) (PDF - 14.3 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 31.53 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_da.pdf) (da) (PDF - 14.13 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_de.pdf) (de) (PDF - 16.13 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_et.pdf) (et) (PDF - 14.21 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_el.pdf) (el) (PDF - 35.89 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 14.32 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 29.15 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_it.pdf) (it) (PDF - 14.3 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 35.15 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 31.11 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 31.03 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 33.18 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 14.2 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 31.65 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 14.32 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 32.57 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 29.61 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 29.27 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 14.22 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 16.13 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_is.pdf) (is) (PDF - 19.72 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_no.pdf) (no) (PDF - 17.97 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+
+Available translations: (24)
 
 ## Product details
 
@@ -624,13 +275,15 @@ Antineoplastic agents
 - **EMA product number**
     - EMEA/H/C/003756
 - **Marketing authorisation holder**
-    - Oresund Pharma ApS Orient Plads 1  2150 Nordhavn  Denmark
+    - Oresund Pharma ApS Orient Plads 1  
+2150 Nordhavn  
+Denmark
 - **Opinion adopted**
     - 26/01/2017
 - **Marketing authorisation issued**
     - 29/03/2017
 - **Revision**
-    - 16
+    - 17
 
 ## Assessment history
 
@@ -640,245 +293,120 @@ Collapse section
 
 ### Changes since initial authorisation of medicine
 
-Jylamvo : EPAR - Procedural steps taken and scientific information after authorisation
+##### Jylamvo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (116.94 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/jylamvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 152.01 KB)
 
-**First published:** 07/09/2026
+**First published:** 07/09/2026 **Last updated:** 24/11/2026
 
-[View](/en/documents/procedural-steps-after/jylamvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+##### Methotrexate Article-31 referral - Annex II
 
-Methotrexate Article-31 referral - Annex II
-
-English (EN) (48.08 KB - PDF)
+[English Opens in a new window](/en/documents/referral/methotrexate-article-31-referral-annex-ii_en.pdf) (en) (PDF - 48.08 KB)
 
 **First published:** 31/10/2019
 
-[View](/en/documents/referral/methotrexate-article-31-referral-annex-ii_en.pdf)
+Available translations: (22)
 
-[Other languages (22)](#file-language-dropdown-163)
+- [български Opens in a new window](/bg/documents/referral/methotrexate-article-31-referral-annex-ii_bg.pdf) (bg) (PDF - 70.65 KB) **First published:** 31/10/2019
+- [español Opens in a new window](/es/documents/referral/methotrexate-article-31-referral-annex-ii_es.pdf) (es) (PDF - 52.71 KB) **First published:** 31/10/2019
+- [čeština Opens in a new window](/cs/documents/referral/methotrexate-article-31-referral-annex-ii_cs.pdf) (cs) (PDF - 96.45 KB) **First published:** 31/10/2019
+- [dansk Opens in a new window](/da/documents/referral/methotrexate-article-31-referral-annex-ii_da.pdf) (da) (PDF - 48.48 KB) **First published:** 31/10/2019
+- [Deutsch Opens in a new window](/de/documents/referral/methotrexate-article-31-referral-annex-ii_de.pdf) (de) (PDF - 110.91 KB) **First published:** 31/10/2019
+- [eesti Opens in a new window](/et/documents/referral/methotrexate-article-31-referral-annex-ii_et.pdf) (et) (PDF - 48.23 KB) **First published:** 31/10/2019
+- [ελληνικά Opens in a new window](/el/documents/referral/methotrexate-article-31-referral-annex-ii_el.pdf) (el) (PDF - 101.99 KB) **First published:** 31/10/2019
+- [français Opens in a new window](/fr/documents/referral/methotrexate-article-31-referral-annex-ii_fr.pdf) (fr) (PDF - 52.78 KB) **First published:** 31/10/2019
+- [hrvatski Opens in a new window](/hr/documents/referral/methotrexate-article-31-referral-annex-ii_hr.pdf) (hr) (PDF - 88.18 KB) **First published:** 31/10/2019
+- [italiano Opens in a new window](/it/documents/referral/methotrexate-article-31-referral-annex-ii_it.pdf) (it) (PDF - 49.13 KB) **First published:** 31/10/2019
+- [latviešu Opens in a new window](/lv/documents/referral/methotrexate-article-31-referral-annex-ii_lv.pdf) (lv) (PDF - 91.68 KB) **First published:** 31/10/2019
+- [lietuvių Opens in a new window](/lt/documents/referral/methotrexate-article-31-referral-annex-ii_lt.pdf) (lt) (PDF - 98.34 KB) **First published:** 31/10/2019
+- [magyar Opens in a new window](/hu/documents/referral/methotrexate-article-31-referral-annex-ii_hu.pdf) (hu) (PDF - 81.89 KB) **First published:** 31/10/2019
+- [Malti Opens in a new window](/mt/documents/referral/methotrexate-article-31-referral-annex-ii_mt.pdf) (mt) (PDF - 105.98 KB) **First published:** 31/10/2019
+- [Nederlands Opens in a new window](/nl/documents/referral/methotrexate-article-31-referral-annex-ii_nl.pdf) (nl) (PDF - 50.84 KB) **First published:** 31/10/2019
+- [polski Opens in a new window](/pl/documents/referral/methotrexate-article-31-referral-annex-ii_pl.pdf) (pl) (PDF - 95.12 KB) **First published:** 31/10/2019
+- [português Opens in a new window](/pt/documents/referral/methotrexate-article-31-referral-annex-ii_pt.pdf) (pt) (PDF - 51.81 KB) **First published:** 31/10/2019
+- [română Opens in a new window](/ro/documents/referral/methotrexate-article-31-referral-annex-ii_ro.pdf) (ro) (PDF - 92.88 KB) **First published:** 31/10/2019
+- [slovenčina Opens in a new window](/sk/documents/referral/methotrexate-article-31-referral-annex-ii_sk.pdf) (sk) (PDF - 91.73 KB) **First published:** 31/10/2019
+- [slovenščina Opens in a new window](/sl/documents/referral/methotrexate-article-31-referral-annex-ii_sl.pdf) (sl) (PDF - 87.25 KB) **First published:** 31/10/2019
+- [suomi Opens in a new window](/fi/documents/referral/methotrexate-article-31-referral-annex-ii_fi.pdf) (fi) (PDF - 49.34 KB) **First published:** 31/10/2019
+- [svenska Opens in a new window](/sv/documents/referral/methotrexate-article-31-referral-annex-ii_sv.pdf) (sv) (PDF - 50.58 KB) **First published:** 31/10/2019
 
-български (BG) (70.65 KB - PDF)
+Available translations: (22)
 
-**First published:** 31/10/2019
+##### Methotrexate Article-31 referral - Public assessment report - EMEA/H/A-31/1463
 
-[View](/bg/documents/referral/methotrexate-article-31-referral-annex-ii_bg.pdf)
+**Reference number:**EMA/521627/2019
 
-español (ES) (52.71 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/es/documents/referral/methotrexate-article-31-referral-annex-ii_es.pdf)
-
-čeština (CS) (96.45 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/cs/documents/referral/methotrexate-article-31-referral-annex-ii_cs.pdf)
-
-dansk (DA) (48.48 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/da/documents/referral/methotrexate-article-31-referral-annex-ii_da.pdf)
-
-Deutsch (DE) (110.91 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/de/documents/referral/methotrexate-article-31-referral-annex-ii_de.pdf)
-
-eesti (ET) (48.23 KB - PDF)
+[English Opens in a new window](/en/documents/referral/methotrexate-article-31-referral-public-assessment-report-emeaha-311463_en.pdf) (en) (PDF - 323.24 KB)
 
 **First published:** 31/10/2019
 
-[View](/et/documents/referral/methotrexate-article-31-referral-annex-ii_et.pdf)
+##### Jylamvo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-ελληνικά (EL) (101.99 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/el/documents/referral/methotrexate-article-31-referral-annex-ii_el.pdf)
-
-français (FR) (52.78 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/fr/documents/referral/methotrexate-article-31-referral-annex-ii_fr.pdf)
-
-hrvatski (HR) (88.18 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/hr/documents/referral/methotrexate-article-31-referral-annex-ii_hr.pdf)
-
-italiano (IT) (49.13 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/it/documents/referral/methotrexate-article-31-referral-annex-ii_it.pdf)
-
-latviešu (LV) (91.68 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/lv/documents/referral/methotrexate-article-31-referral-annex-ii_lv.pdf)
-
-lietuvių (LT) (98.34 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/lt/documents/referral/methotrexate-article-31-referral-annex-ii_lt.pdf)
-
-magyar (HU) (81.89 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/hu/documents/referral/methotrexate-article-31-referral-annex-ii_hu.pdf)
-
-Malti (MT) (105.98 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/mt/documents/referral/methotrexate-article-31-referral-annex-ii_mt.pdf)
-
-Nederlands (NL) (50.84 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/nl/documents/referral/methotrexate-article-31-referral-annex-ii_nl.pdf)
-
-polski (PL) (95.12 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/pl/documents/referral/methotrexate-article-31-referral-annex-ii_pl.pdf)
-
-português (PT) (51.81 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/pt/documents/referral/methotrexate-article-31-referral-annex-ii_pt.pdf)
-
-română (RO) (92.88 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/ro/documents/referral/methotrexate-article-31-referral-annex-ii_ro.pdf)
-
-slovenčina (SK) (91.73 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/sk/documents/referral/methotrexate-article-31-referral-annex-ii_sk.pdf)
-
-slovenščina (SL) (87.25 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/sl/documents/referral/methotrexate-article-31-referral-annex-ii_sl.pdf)
-
-suomi (FI) (49.34 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/fi/documents/referral/methotrexate-article-31-referral-annex-ii_fi.pdf)
-
-svenska (SV) (50.58 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/sv/documents/referral/methotrexate-article-31-referral-annex-ii_sv.pdf)
-
-Methotrexate Article-31 referral - Public assessment report - EMEA/H/A-31/1463
-
-Reference Number: EMA/521627/2019
-
-English (EN) (323.24 KB - PDF)
-
-**First published:** 31/10/2019
-
-[View](/en/documents/referral/methotrexate-article-31-referral-public-assessment-report-emeaha-311463_en.pdf)
-
-Jylamvo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
-
-English (EN) (126.49 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/jylamvo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf) (en) (PDF - 126.49 KB)
 
 **First published:** 01/06/2018 **Last updated:** 07/09/2026
 
-[View](/en/documents/procedural-steps-after/jylamvo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+##### Jylamvo-PSUSA-00002014-202510 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Jylamvo-PSUSA-00002014-202510 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMADOC-1700519818-3435345
 
-Reference Number: EMADOC-1700519818-3435345
-
-English (EN) (175.78 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/jylamvo-psusa-00002014-202510-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 175.78 KB)
 
 **First published:** 07/09/2026
 
-[View](/en/documents/scientific-conclusion/jylamvo-psusa-00002014-202510-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### Jylamvo-H-C-PSUSA-00002014-202310 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Jylamvo-H-C-PSUSA-00002014-202310 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/407130/2024
 
-Reference Number: EMA/407130/2024
-
-English (EN) (91.34 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/jylamvo-h-c-psusa-00002014-202310-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 91.34 KB)
 
 **First published:** 02/09/2024
 
-[View](/en/documents/scientific-conclusion/jylamvo-h-c-psusa-00002014-202310-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### Jylamvo-H-C-PSUSA-00002014-201910 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Jylamvo-H-C-PSUSA-00002014-201910 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/405776/2020
 
-Reference Number: EMA/405776/2020
-
-English (EN) (140.56 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/jylamvo-h-c-psusa-00002014-201910-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 140.56 KB)
 
 **First published:** 21/08/2020
 
-[View](/en/documents/scientific-conclusion/jylamvo-h-c-psusa-00002014-201910-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### Jylamvo-H-C-PSUSA-00002014-201810 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Jylamvo-H-C-PSUSA-00002014-201810 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/506249/2019
 
-Reference Number: EMA/506249/2019
-
-English (EN) (68.93 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/jylamvo-h-c-psusa-00002014-201810-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 68.93 KB)
 
 **First published:** 18/09/2019
 
-[View](/en/documents/scientific-conclusion/jylamvo-h-c-psusa-00002014-201810-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### Jylamvo : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Jylamvo : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/357560/2018
 
-Reference Number: EMA/357560/2018
-
-English (EN) (67.78 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/jylamvo-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 67.78 KB)
 
 **First published:** 01/06/2018 **Last updated:** 01/06/2018
 
-[View](/en/documents/scientific-conclusion/jylamvo-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
-
 ### Initial marketing authorisation documents
 
-Jylamvo : EPAR - Public assessment report
+##### Jylamvo : EPAR - Public assessment report
 
-Adopted Reference Number: EMA/78284/2017
+Adopted
 
-English (EN) (396.37 KB - PDF)
+**Reference number:**EMA/78284/2017
+
+[English Opens in a new window](/en/documents/assessment-report/jylamvo-epar-public-assessment-report_en.pdf) (en) (PDF - 396.37 KB)
 
 **First published:** 19/04/2017 **Last updated:** 19/04/2017
 
-[View](/en/documents/assessment-report/jylamvo-epar-public-assessment-report_en.pdf)
+##### CHMP summary of positive opinion for Jylamvo
 
-CHMP summary of positive opinion for Jylamvo
+Adopted
 
-Adopted Reference Number: EMA/CHMP/15894/2017
+**Reference number:**EMA/CHMP/15894/2017
 
-English (EN) (72.84 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-jylamvo_en.pdf) (en) (PDF - 72.84 KB)
 
 **First published:** 27/01/2017 **Last updated:** 01/02/2017
-
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-jylamvo_en.pdf)
 
 ## News on Jylamvo
 
@@ -888,149 +416,40 @@ English (EN) (72.84 KB - PDF)
 
 ## Preventing medication errors
 
-Jylamvo: healthcare professionals to receive educational guide to ensure medicine is used correctly
+##### Jylamvo: healthcare professionals to receive educational guide to ensure medicine is used correctly
 
-Reference Number: EMA/81869/2017
+**Reference number:**EMA/81869/2017
 
-English (EN) (87.56 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/en/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-301)
-
-български (BG) (110.01 KB - PDF)
+[English Opens in a new window](/en/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_en.pdf) (en) (PDF - 87.56 KB)
 
 **First published:** 19/04/2017 **Last updated:** 19/04/2017
 
-[View](/bg/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_bg.pdf)
+Available translations: (22)
 
-español (ES) (86.17 KB - PDF)
+- [български Opens in a new window](/bg/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_bg.pdf) (bg) (PDF - 110.01 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [español Opens in a new window](/es/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_es.pdf) (es) (PDF - 86.17 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [čeština Opens in a new window](/cs/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_cs.pdf) (cs) (PDF - 106.9 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [dansk Opens in a new window](/da/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_da.pdf) (da) (PDF - 85.06 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [Deutsch Opens in a new window](/de/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_de.pdf) (de) (PDF - 87.76 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [eesti Opens in a new window](/et/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_et.pdf) (et) (PDF - 85.02 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [ελληνικά Opens in a new window](/el/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_el.pdf) (el) (PDF - 112.79 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [français Opens in a new window](/fr/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_fr.pdf) (fr) (PDF - 87.03 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [hrvatski Opens in a new window](/hr/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_hr.pdf) (hr) (PDF - 102.96 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [italiano Opens in a new window](/it/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_it.pdf) (it) (PDF - 85.35 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [latviešu Opens in a new window](/lv/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_lv.pdf) (lv) (PDF - 107.27 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [lietuvių Opens in a new window](/lt/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_lt.pdf) (lt) (PDF - 107.96 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [magyar Opens in a new window](/hu/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_hu.pdf) (hu) (PDF - 103.84 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [Malti Opens in a new window](/mt/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_mt.pdf) (mt) (PDF - 108.87 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [Nederlands Opens in a new window](/nl/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_nl.pdf) (nl) (PDF - 85.61 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [polski Opens in a new window](/pl/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_pl.pdf) (pl) (PDF - 105.35 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [português Opens in a new window](/pt/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_pt.pdf) (pt) (PDF - 86.19 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [română Opens in a new window](/ro/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_ro.pdf) (ro) (PDF - 105.75 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [slovenčina Opens in a new window](/sk/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_sk.pdf) (sk) (PDF - 105.49 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [slovenščina Opens in a new window](/sl/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_sl.pdf) (sl) (PDF - 102.45 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [suomi Opens in a new window](/fi/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_fi.pdf) (fi) (PDF - 85.65 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
+- [svenska Opens in a new window](/sv/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_sv.pdf) (sv) (PDF - 85.82 KB) **First published:** 19/04/2017 **Last updated:** 19/04/2017
 
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/es/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_es.pdf)
-
-čeština (CS) (106.9 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/cs/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_cs.pdf)
-
-dansk (DA) (85.06 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/da/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_da.pdf)
-
-Deutsch (DE) (87.76 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/de/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_de.pdf)
-
-eesti (ET) (85.02 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/et/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_et.pdf)
-
-ελληνικά (EL) (112.79 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/el/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_el.pdf)
-
-français (FR) (87.03 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/fr/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_fr.pdf)
-
-hrvatski (HR) (102.96 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/hr/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_hr.pdf)
-
-italiano (IT) (85.35 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/it/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_it.pdf)
-
-latviešu (LV) (107.27 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/lv/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_lv.pdf)
-
-lietuvių (LT) (107.96 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/lt/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_lt.pdf)
-
-magyar (HU) (103.84 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/hu/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_hu.pdf)
-
-Malti (MT) (108.87 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/mt/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_mt.pdf)
-
-Nederlands (NL) (85.61 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/nl/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_nl.pdf)
-
-polski (PL) (105.35 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/pl/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_pl.pdf)
-
-português (PT) (86.19 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/pt/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_pt.pdf)
-
-română (RO) (105.75 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/ro/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_ro.pdf)
-
-slovenčina (SK) (105.49 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/sk/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_sk.pdf)
-
-slovenščina (SL) (102.45 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/sl/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_sl.pdf)
-
-suomi (FI) (85.65 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/fi/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_fi.pdf)
-
-svenska (SV) (85.82 KB - PDF)
-
-**First published:** 19/04/2017 **Last updated:** 19/04/2017
-
-[View](/sv/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_sv.pdf)
+Available translations: (22)
 
 ## More information on Jylamvo
 
@@ -1039,6 +458,6 @@ svenska (SV) (85.82 KB - PDF)
 
 **This page was last updated on**
 
-07/09/2026
+24/11/2026
 
 ## Share this page

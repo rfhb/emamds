@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-10-16 09:14:00
+document_datetime: 2026-11-24 14:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/strimvelis.html
 document_name: strimvelis.html
 version: success
-processing_time: 0.1811107
-conversion_datetime: 2026-10-19 23:52:33.900682
+processing_time: 0.1481177
+conversion_datetime: 2026-11-27 15:31:03.861003
 docling_version:
-  docling-serve: 1.37.0
-  docling-jobkit: 3.8.2
-  docling: 2.140.0
-  docling-core: 2.103.0
-  docling-ibm-models: 4.0.3
-  docling-parse: 7.22.3
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Strimvelis
 
@@ -26,7 +26,7 @@ This medicine is authorised for use in the European Union
 
 autologous CD34+ enriched cell fraction that contains CD34+ cells transduced with retroviral vector that encodes for the human ADA cDNA sequence
 
-Medicine Human Authorised
+MedicineHumanAuthorised
 
 Page contents
 
@@ -110,321 +110,91 @@ The European Commission granted a marketing authorisation valid throughout the E
 
 For more information about treatment with Strimvelis, read the package leaflet (also part of the EPAR) or contact your doctor or pharmacist.
 
-Strimvelis : EPAR - Summary for the public
+##### Strimvelis : EPAR - Summary for the public
 
-English (EN) (81.98 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/en/documents/overview/strimvelis-epar-summary-public_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-174)
-
-български (BG) (110.04 KB - PDF)
+[English Opens in a new window](/en/documents/overview/strimvelis-epar-summary-public_en.pdf) (en) (PDF - 81.98 KB)
 
 **First published:** 08/06/2016 **Last updated:** 08/06/2016
 
-[View](/bg/documents/overview/strimvelis-epar-summary-public_bg.pdf)
-
-español (ES) (80.7 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/es/documents/overview/strimvelis-epar-summary-public_es.pdf)
-
-čeština (CS) (108.52 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/cs/documents/overview/strimvelis-epar-summary-public_cs.pdf)
-
-dansk (DA) (79.93 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/da/documents/overview/strimvelis-epar-summary-public_da.pdf)
-
-Deutsch (DE) (82.42 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/de/documents/overview/strimvelis-epar-summary-public_de.pdf)
-
-eesti (ET) (79.16 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/et/documents/overview/strimvelis-epar-summary-public_et.pdf)
-
-ελληνικά (EL) (113.93 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/el/documents/overview/strimvelis-epar-summary-public_el.pdf)
-
-français (FR) (82.32 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/fr/documents/overview/strimvelis-epar-summary-public_fr.pdf)
-
-hrvatski (HR) (102.26 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/hr/documents/overview/strimvelis-epar-summary-public_hr.pdf)
-
-italiano (IT) (79.18 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/it/documents/overview/strimvelis-epar-summary-public_it.pdf)
-
-latviešu (LV) (104.28 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/lv/documents/overview/strimvelis-epar-summary-public_lv.pdf)
-
-lietuvių (LT) (105.67 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/lt/documents/overview/strimvelis-epar-summary-public_lt.pdf)
-
-magyar (HU) (101.95 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/hu/documents/overview/strimvelis-epar-summary-public_hu.pdf)
-
-Malti (MT) (109.7 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/mt/documents/overview/strimvelis-epar-summary-public_mt.pdf)
-
-Nederlands (NL) (81.11 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/nl/documents/overview/strimvelis-epar-summary-public_nl.pdf)
-
-polski (PL) (109.27 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/pl/documents/overview/strimvelis-epar-summary-public_pl.pdf)
-
-português (PT) (81.55 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/pt/documents/overview/strimvelis-epar-summary-public_pt.pdf)
-
-română (RO) (103.09 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/ro/documents/overview/strimvelis-epar-summary-public_ro.pdf)
-
-slovenčina (SK) (106.36 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/sk/documents/overview/strimvelis-epar-summary-public_sk.pdf)
-
-slovenščina (SL) (100.63 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/sl/documents/overview/strimvelis-epar-summary-public_sl.pdf)
-
-suomi (FI) (78.54 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/fi/documents/overview/strimvelis-epar-summary-public_fi.pdf)
-
-svenska (SV) (79.54 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/sv/documents/overview/strimvelis-epar-summary-public_sv.pdf)
-
-Strimvelis : EPAR - Risk management plan
-
-English (EN) (839.02 KB - PDF)
-
-**First published:** 11/06/2020 **Last updated:** 16/10/2026
-
-[View](/en/documents/rmp/strimvelis-epar-risk-management-plan_en.pdf)
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/strimvelis-epar-summary-public_bg.pdf) (bg) (PDF - 110.04 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [español Opens in a new window](/es/documents/overview/strimvelis-epar-summary-public_es.pdf) (es) (PDF - 80.7 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [čeština Opens in a new window](/cs/documents/overview/strimvelis-epar-summary-public_cs.pdf) (cs) (PDF - 108.52 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [dansk Opens in a new window](/da/documents/overview/strimvelis-epar-summary-public_da.pdf) (da) (PDF - 79.93 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [Deutsch Opens in a new window](/de/documents/overview/strimvelis-epar-summary-public_de.pdf) (de) (PDF - 82.42 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [eesti Opens in a new window](/et/documents/overview/strimvelis-epar-summary-public_et.pdf) (et) (PDF - 79.16 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [ελληνικά Opens in a new window](/el/documents/overview/strimvelis-epar-summary-public_el.pdf) (el) (PDF - 113.93 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [français Opens in a new window](/fr/documents/overview/strimvelis-epar-summary-public_fr.pdf) (fr) (PDF - 82.32 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [hrvatski Opens in a new window](/hr/documents/overview/strimvelis-epar-summary-public_hr.pdf) (hr) (PDF - 102.26 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [italiano Opens in a new window](/it/documents/overview/strimvelis-epar-summary-public_it.pdf) (it) (PDF - 79.18 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [latviešu Opens in a new window](/lv/documents/overview/strimvelis-epar-summary-public_lv.pdf) (lv) (PDF - 104.28 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [lietuvių Opens in a new window](/lt/documents/overview/strimvelis-epar-summary-public_lt.pdf) (lt) (PDF - 105.67 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [magyar Opens in a new window](/hu/documents/overview/strimvelis-epar-summary-public_hu.pdf) (hu) (PDF - 101.95 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [Malti Opens in a new window](/mt/documents/overview/strimvelis-epar-summary-public_mt.pdf) (mt) (PDF - 109.7 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [Nederlands Opens in a new window](/nl/documents/overview/strimvelis-epar-summary-public_nl.pdf) (nl) (PDF - 81.11 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [polski Opens in a new window](/pl/documents/overview/strimvelis-epar-summary-public_pl.pdf) (pl) (PDF - 109.27 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [português Opens in a new window](/pt/documents/overview/strimvelis-epar-summary-public_pt.pdf) (pt) (PDF - 81.55 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [română Opens in a new window](/ro/documents/overview/strimvelis-epar-summary-public_ro.pdf) (ro) (PDF - 103.09 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [slovenčina Opens in a new window](/sk/documents/overview/strimvelis-epar-summary-public_sk.pdf) (sk) (PDF - 106.36 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [slovenščina Opens in a new window](/sl/documents/overview/strimvelis-epar-summary-public_sl.pdf) (sl) (PDF - 100.63 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [suomi Opens in a new window](/fi/documents/overview/strimvelis-epar-summary-public_fi.pdf) (fi) (PDF - 78.54 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [svenska Opens in a new window](/sv/documents/overview/strimvelis-epar-summary-public_sv.pdf) (sv) (PDF - 79.54 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+
+Available translations: (22)
+
+##### Strimvelis : EPAR - Risk management plan
+
+[English Opens in a new window](/en/documents/rmp/strimvelis-epar-risk-management-plan_en.pdf) (en) (PDF - 818.71 KB)
+
+**First published:** 11/06/2020 **Last updated:** 24/11/2026
 
 ## Product information
 
-Strimvelis : EPAR - Product Information
-
-English (EN) (516.19 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/05/2026
-
-[View](/en/documents/product-information/strimvelis-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-423)
-
-български (BG) (613.19 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/bg/documents/product-information/strimvelis-epar-product-information_bg.pdf)
-
-español (ES) (615.51 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/es/documents/product-information/strimvelis-epar-product-information_es.pdf)
-
-čeština (CS) (647.23 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/cs/documents/product-information/strimvelis-epar-product-information_cs.pdf)
-
-dansk (DA) (598.65 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/da/documents/product-information/strimvelis-epar-product-information_da.pdf)
-
-Deutsch (DE) (650.64 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/de/documents/product-information/strimvelis-epar-product-information_de.pdf)
-
-eesti (ET) (571.07 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/et/documents/product-information/strimvelis-epar-product-information_et.pdf)
-
-ελληνικά (EL) (692.75 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/el/documents/product-information/strimvelis-epar-product-information_el.pdf)
-
-français (FR) (627.47 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/fr/documents/product-information/strimvelis-epar-product-information_fr.pdf)
-
-hrvatski (HR) (565.3 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/hr/documents/product-information/strimvelis-epar-product-information_hr.pdf)
-
-italiano (IT) (570.57 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/it/documents/product-information/strimvelis-epar-product-information_it.pdf)
-
-latviešu (LV) (593.46 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/lv/documents/product-information/strimvelis-epar-product-information_lv.pdf)
-
-lietuvių (LT) (633.56 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/lt/documents/product-information/strimvelis-epar-product-information_lt.pdf)
-
-magyar (HU) (656.05 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/hu/documents/product-information/strimvelis-epar-product-information_hu.pdf)
-
-Malti (MT) (1.02 MB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/mt/documents/product-information/strimvelis-epar-product-information_mt.pdf)
-
-Nederlands (NL) (598.3 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/nl/documents/product-information/strimvelis-epar-product-information_nl.pdf)
-
-polski (PL) (614.75 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/pl/documents/product-information/strimvelis-epar-product-information_pl.pdf)
-
-português (PT) (594.61 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/pt/documents/product-information/strimvelis-epar-product-information_pt.pdf)
-
-română (RO) (622.38 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/ro/documents/product-information/strimvelis-epar-product-information_ro.pdf)
-
-slovenčina (SK) (610.36 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/sk/documents/product-information/strimvelis-epar-product-information_sk.pdf)
-
-slovenščina (SL) (562.05 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/sl/documents/product-information/strimvelis-epar-product-information_sl.pdf)
-
-suomi (FI) (585.26 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/fi/documents/product-information/strimvelis-epar-product-information_fi.pdf)
-
-svenska (SV) (543.59 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/sv/documents/product-information/strimvelis-epar-product-information_sv.pdf)
-
-Íslenska (IS) (547.19 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/is/documents/product-information/strimvelis-epar-product-information_is.pdf)
-
-norsk (NO) (659.64 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 04/07/2025
-
-[View](/no/documents/product-information/strimvelis-epar-product-information_no.pdf)
-
-**Latest procedure affecting product information:** VR/0000282063
-
-30/04/2026
+##### Strimvelis : EPAR - Product Information
+
+[English Opens in a new window](/en/documents/product-information/strimvelis-epar-product-information_en.pdf) (en) (PDF - 605.47 KB)
+
+**First published:** 08/06/2016 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/strimvelis-epar-product-information_bg.pdf) (bg) (PDF - 747.46 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [español Opens in a new window](/es/documents/product-information/strimvelis-epar-product-information_es.pdf) (es) (PDF - 797.63 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/strimvelis-epar-product-information_cs.pdf) (cs) (PDF - 823.24 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/strimvelis-epar-product-information_da.pdf) (da) (PDF - 789.09 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/strimvelis-epar-product-information_de.pdf) (de) (PDF - 888.27 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/strimvelis-epar-product-information_et.pdf) (et) (PDF - 699.29 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/strimvelis-epar-product-information_el.pdf) (el) (PDF - 884.95 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [français Opens in a new window](/fr/documents/product-information/strimvelis-epar-product-information_fr.pdf) (fr) (PDF - 805.84 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/strimvelis-epar-product-information_hr.pdf) (hr) (PDF - 709.89 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/strimvelis-epar-product-information_it.pdf) (it) (PDF - 705.54 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/strimvelis-epar-product-information_lv.pdf) (lv) (PDF - 700.52 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/strimvelis-epar-product-information_lt.pdf) (lt) (PDF - 779.48 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/strimvelis-epar-product-information_hu.pdf) (hu) (PDF - 784.71 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/strimvelis-epar-product-information_mt.pdf) (mt) (PDF - 1019.95 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/strimvelis-epar-product-information_nl.pdf) (nl) (PDF - 734.87 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/strimvelis-epar-product-information_pl.pdf) (pl) (PDF - 755.46 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [português Opens in a new window](/pt/documents/product-information/strimvelis-epar-product-information_pt.pdf) (pt) (PDF - 737.12 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [română Opens in a new window](/ro/documents/product-information/strimvelis-epar-product-information_ro.pdf) (ro) (PDF - 756.29 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/strimvelis-epar-product-information_sk.pdf) (sk) (PDF - 758.02 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/strimvelis-epar-product-information_sl.pdf) (sl) (PDF - 747.24 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/strimvelis-epar-product-information_fi.pdf) (fi) (PDF - 762.59 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/strimvelis-epar-product-information_sv.pdf) (sv) (PDF - 686.49 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/strimvelis-epar-product-information_is.pdf) (is) (PDF - 686.31 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/strimvelis-epar-product-information_no.pdf) (no) (PDF - 800.86 KB) **First published:** 08/06/2016 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000347859
+
+20/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .  
+This medicine's product information is available in all **official EU languages**.  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -435,159 +205,40 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Strimvelis : EPAR - All Authorised presentations
+##### Strimvelis : EPAR - All Authorised presentations
 
-English (EN) (18.39 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/en/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-813)
-
-български (BG) (38.91 KB - PDF)
+[English Opens in a new window](/en/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_en.pdf) (en) (PDF - 18.39 KB)
 
 **First published:** 08/06/2016 **Last updated:** 08/06/2016
 
-[View](/bg/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (46.82 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/es/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (73.88 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/cs/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (22.57 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/da/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (27.03 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/de/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_de.pdf)
-
-eesti (ET) (13.84 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/et/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (39.72 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/el/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (18.7 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/fr/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (36.44 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/hr/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_hr.pdf)
-
-italiano (IT) (20.21 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/it/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_it.pdf)
-
-latviešu (LV) (41.29 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/lv/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių (LT) (86.33 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/lt/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (40.91 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/hu/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (98.84 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/mt/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (12.28 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/nl/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_nl.pdf)
-
-polski (PL) (84.75 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/pl/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (53.32 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/pt/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (35.73 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/ro/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (27.98 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/sk/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (33.72 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/sl/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_sl.pdf)
-
-suomi (FI) (20.53 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/fi/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (16.53 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/sv/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_sv.pdf)
-
-Íslenska (IS) (88.62 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/is/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_is.pdf)
-
-norsk (NO) (46.94 KB - PDF)
-
-**First published:** 08/06/2016 **Last updated:** 08/06/2016
-
-[View](/no/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_no.pdf)
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 38.91 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [español Opens in a new window](/es/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_es.pdf) (es) (PDF - 46.82 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 73.88 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_da.pdf) (da) (PDF - 22.57 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_de.pdf) (de) (PDF - 27.03 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_et.pdf) (et) (PDF - 13.84 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_el.pdf) (el) (PDF - 39.72 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 18.7 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 36.44 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_it.pdf) (it) (PDF - 20.21 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 41.29 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 86.33 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 40.91 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 98.84 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 12.28 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 84.75 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 53.32 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 35.73 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 27.98 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 33.72 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 20.53 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 16.53 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_is.pdf) (is) (PDF - 88.62 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_no.pdf) (no) (PDF - 46.94 KB) **First published:** 08/06/2016 **Last updated:** 08/06/2016
+
+Available translations: (24)
 
 ## Product details
 
@@ -615,11 +266,11 @@ Strimvelis is indicated for the treatment of patients with severe combined immun
 - **EMA product number**
     - EMEA/H/C/003854
 - **Additional monitoring**
-    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821).
 - **Advanced therapy**
-    - This medicine is classified as an advanced therapy medicinal product (ATMP): a medicine for human use that is based on genes, tissues or cells. It offers groundbreaking new opportunities for the treatment of disease and injury. For more information, see [Advanced therapy medicinal products: Overview](/node/69659) .
+    - This medicine is classified as an advanced therapy medicinal product (ATMP): a medicine for human use that is based on genes, tissues or cells. It offers groundbreaking new opportunities for the treatment of disease and injury. For more information, see [Advanced therapy medicinal products: Overview](/node/69659).
 - **Orphan**
-    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983).
 - **Marketing authorisation holder**
     - Fondazione Telethon ETS Via Varese 16/B  
 00185 Rome  
@@ -629,7 +280,7 @@ Italy
 - **Marketing authorisation issued**
     - 26/05/2016
 - **Revision**
-    - 13
+    - 14
 
 ## Assessment history
 
@@ -639,43 +290,39 @@ Collapse section
 
 ### Changes since initial authorisation of medicine
 
-Strimvelis : EPAR - Procedural steps taken and scientific information after authorisation
+##### Strimvelis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.05 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/strimvelis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 155.66 KB)
 
-**First published:** 27/03/2025 **Last updated:** 08/05/2026
+**First published:** 27/03/2025 **Last updated:** 24/11/2026
 
-[View](/en/documents/procedural-steps-after/strimvelis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+##### Strimvelis : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-Strimvelis : EPAR - Procedural steps taken and scientific information after authorisation (archive)
-
-English (EN) (227.41 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/strimvelis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf) (en) (PDF - 227.41 KB)
 
 **First published:** 17/08/2017 **Last updated:** 18/12/2025
 
-[View](/en/documents/procedural-steps-after/strimvelis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
-
 ### Initial marketing authorisation documents
 
-Strimvelis : EPAR - Public assessment report
+##### Strimvelis : EPAR - Public assessment report
 
-Adopted Reference Number: EMA/CHMP/323455/2016
+Adopted
 
-English (EN) (2.5 MB - PDF)
+**Reference number:**EMA/CHMP/323455/2016
+
+[English Opens in a new window](/en/documents/assessment-report/strimvelis-epar-public-assessment-report_en.pdf) (en) (PDF - 2.5 MB)
 
 **First published:** 08/06/2016 **Last updated:** 05/10/2017
 
-[View](/en/documents/assessment-report/strimvelis-epar-public-assessment-report_en.pdf)
+##### CHMP summary of opinion for Strimvelis
 
-CHMP summary of opinion for Strimvelis
+Adopted
 
-Adopted Reference Number: EMA/CHMP/160482/2016
+**Reference number:**EMA/CHMP/160482/2016
 
-English (EN) (72.21 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-opinion-strimvelis_en.pdf) (en) (PDF - 72.21 KB)
 
 **First published:** 01/04/2016 **Last updated:** 01/04/2016
-
-[View](/en/documents/smop-initial/chmp-summary-opinion-strimvelis_en.pdf)
 
 ## News on Strimvelis
 
@@ -711,6 +358,6 @@ English (EN) (72.21 KB - PDF)
 
 **This page was last updated on**
 
-16/10/2026
+24/11/2026
 
 ## Share this page

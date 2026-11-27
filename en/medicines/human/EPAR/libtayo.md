@@ -1,105 +1,32 @@
 ---
-document_datetime: 2026-01-20 17:20:00
+document_datetime: 2026-11-24 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/libtayo.html
 document_name: libtayo.html
 version: success
-processing_time: 0.1372395
-conversion_datetime: 2026-01-20 20:07:54.366055
+processing_time: 0.1607833
+conversion_datetime: 2026-11-27 15:29:09.523597
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Academia](/en/partners-networks/academia)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Libtayo
-
 # Libtayo
 
 [RSS](/en/individual-human-medicine.xml/67212)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-cemiplimab Medicine Human Authorised
+cemiplimab
+
+MedicineHumanAuthorised
 
 Page contents
 
@@ -112,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Libtayo](#news-on)
 - [More information on Libtayo](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -133,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Libtayo used?
+### How is Libtayo used?
 
 Treatment with Libtayo must be started and supervised by a doctor experienced in treating cancer. The medicine can only be obtained with a prescription.
 
@@ -143,11 +69,11 @@ for as long as the disease remains stable and the patient does not experience un
 
 For more information about using Libtayo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Libtayo work?
+### How does Libtayo work?
 
 The active substance in Libtayo, cemiplimab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a receptor (target) called PD-1 found on certain cells of the immune system called T cells. Cancer cells can make proteins (PD-L1 and PD-L2) that attach to this receptor and switch off the activity of the T cells, preventing them from attacking the cancer. By attaching to the receptor, cemiplimab prevents PD-L1 and PD-L2 from switching off the T cells, thereby increasing the ability of the immune system to kill cancer cells.
 
-## What benefits of Libtayo have been shown in studies?
+### What benefits of Libtayo have been shown in studies?
 
 **Cutaneous squamous cell carcinoma**
 
@@ -171,7 +97,7 @@ addition, those treated with Libtayo plus chemotherapy lived for about 9 months 
 
 In a main study in 608 adults with recurrent or metastatic cervical cancer previously treated with platinum-based chemotherapy, those given Libtayo lived for about 12 months, compared with 8.5 months for those given chemotherapy. On average, those treated with Libtayo lived for 2.8 months without their disease getting worse, compared with 2.9 months for those given chemotherapy.
 
-## What are the risks associated with Libtayo?
+### What are the risks associated with Libtayo?
 
 For the full list of side effects and restrictions with Libtayo, see the package leaflet.
 
@@ -183,7 +109,7 @@ When Libtayo is used with platinum-based chemotherapy, the most common immune-re
 
 Severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis (life-threatening reactions with flu-like symptoms and painful rash affecting the skin, mouth, eyes and genitals) have been reported with Libtayo.
 
-## Why is Libtayo authorised in the EU?
+### Why is Libtayo authorised in the EU?
 
 Libtayo is effective at treating cutaneous squamous cell carcinoma, a cancer with few treatment options once it has spread, and basal cell carcinoma, for which no other options were available for second-line treatment (treatment given when first treatment is not sufficiently effective or stops working) at the time of authorisation. When used as an adjuvant treatment for cutaneous squamous cell carcinoma, Libtayo was also effective at reducing the risk of the cancer coming back. Libtayo also showed promising effectiveness in the treatment of NSCLC with high PD-L1 levels and in the treatment of cervical cancer after progression during or after treatment with platinum-based chemotherapy. Libtayo used in combination with platinum-based chemotherapy is also effective at treating NSCLC where at least 1% of tumour cells produce PD-L1.
 
@@ -193,7 +119,7 @@ The European Medicines Agency therefore decided that Libtayo's benefits are grea
 
 Libtayo was originally given 'conditional authorisation'. The authorisation was then switched to standard authorisation as the company provided additional data requested by the Agency.
 
-## What measures are being taken to ensure the safe and effective use of Libtayo?
+### What measures are being taken to ensure the safe and effective use of Libtayo?
 
 The company that markets Libtayo will provide an alert card for patients with information on the signs and symptoms of immune-related side effects of the medicine, as well as instructions on what to do if they experience symptoms.
 
@@ -201,609 +127,100 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Libtayo are continuously monitored. Side effects reported with Libtayo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Libtayo
+### Other information about Libtayo
 
 Libtayo received a conditional marketing authorisation valid throughout the EU on 28 June 2019.
 
 The conditional marketing authorisation was switched to a standard marketing authorisation on 1 July 2022.
 
-Libtayo : EPAR - Medicine overview
-
-Reference Number: EMA/101482/2023
-
-English (EN) (157.37 KB - PDF)
-
-**First published:** 05/07/2019
-
-**Last updated:** 20/01/2026
-
-[View](/en/documents/overview/libtayo-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-990)
-
-български (BG) (183.67 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/bg/documents/overview/libtayo-epar-medicine-overview_bg.pdf)
-
-español (ES) (163.67 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/es/documents/overview/libtayo-epar-medicine-overview_es.pdf)
-
-čeština (CS) (190.02 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/cs/documents/overview/libtayo-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (162.02 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/da/documents/overview/libtayo-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (167.76 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/de/documents/overview/libtayo-epar-medicine-overview_de.pdf)
-
-eesti keel (ET) (160.82 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/et/documents/overview/libtayo-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (200.22 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/el/documents/overview/libtayo-epar-medicine-overview_el.pdf)
-
-français (FR) (166.52 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/fr/documents/overview/libtayo-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (189.54 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/hr/documents/overview/libtayo-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (161.55 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/it/documents/overview/libtayo-epar-medicine-overview_it.pdf)
-
-latviešu valoda (LV) (198.16 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/lv/documents/overview/libtayo-epar-medicine-overview_lv.pdf)
-
-lietuvių kalba (LT) (189.3 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/lt/documents/overview/libtayo-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (190.47 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/hu/documents/overview/libtayo-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (194.61 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/mt/documents/overview/libtayo-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (155.62 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/nl/documents/overview/libtayo-epar-medicine-overview_nl.pdf)
-
-polski (PL) (191.81 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/pl/documents/overview/libtayo-epar-medicine-overview_pl.pdf)
-
-português (PT) (164.21 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/pt/documents/overview/libtayo-epar-medicine-overview_pt.pdf)
-
-română (RO) (186.88 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/ro/documents/overview/libtayo-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (190 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/sk/documents/overview/libtayo-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (180.8 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/sl/documents/overview/libtayo-epar-medicine-overview_sl.pdf)
-
-Suomi (FI) (160.61 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/fi/documents/overview/libtayo-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (154.23 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-20/01/2026
-
-[View](/sv/documents/overview/libtayo-epar-medicine-overview_sv.pdf)
-
-Libtayo : EPAR - Risk management plan
-
-English (EN) (1.29 MB - PDF)
-
-**First published:** 05/07/2019
-
-**Last updated:** 10/12/2025
-
-[View](/en/documents/rmp/libtayo-epar-risk-management-plan_en.pdf)
+##### Libtayo : EPAR - Medicine overview
+
+**Reference number:**EMA/101482/2023
+
+[English Opens in a new window](/en/documents/overview/libtayo-epar-medicine-overview_en.pdf) (en) (PDF - 157.37 KB)
+
+**First published:** 05/07/2019 **Last updated:** 20/01/2026
+
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/libtayo-epar-medicine-overview_bg.pdf) (bg) (PDF - 183.67 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [español Opens in a new window](/es/documents/overview/libtayo-epar-medicine-overview_es.pdf) (es) (PDF - 163.67 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [čeština Opens in a new window](/cs/documents/overview/libtayo-epar-medicine-overview_cs.pdf) (cs) (PDF - 190.02 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [dansk Opens in a new window](/da/documents/overview/libtayo-epar-medicine-overview_da.pdf) (da) (PDF - 162.02 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [Deutsch Opens in a new window](/de/documents/overview/libtayo-epar-medicine-overview_de.pdf) (de) (PDF - 167.76 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [eesti Opens in a new window](/et/documents/overview/libtayo-epar-medicine-overview_et.pdf) (et) (PDF - 160.82 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [ελληνικά Opens in a new window](/el/documents/overview/libtayo-epar-medicine-overview_el.pdf) (el) (PDF - 200.22 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [français Opens in a new window](/fr/documents/overview/libtayo-epar-medicine-overview_fr.pdf) (fr) (PDF - 166.52 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [hrvatski Opens in a new window](/hr/documents/overview/libtayo-epar-medicine-overview_hr.pdf) (hr) (PDF - 189.54 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [italiano Opens in a new window](/it/documents/overview/libtayo-epar-medicine-overview_it.pdf) (it) (PDF - 161.55 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [latviešu Opens in a new window](/lv/documents/overview/libtayo-epar-medicine-overview_lv.pdf) (lv) (PDF - 198.16 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [lietuvių Opens in a new window](/lt/documents/overview/libtayo-epar-medicine-overview_lt.pdf) (lt) (PDF - 189.3 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [magyar Opens in a new window](/hu/documents/overview/libtayo-epar-medicine-overview_hu.pdf) (hu) (PDF - 190.47 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [Malti Opens in a new window](/mt/documents/overview/libtayo-epar-medicine-overview_mt.pdf) (mt) (PDF - 194.61 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [Nederlands Opens in a new window](/nl/documents/overview/libtayo-epar-medicine-overview_nl.pdf) (nl) (PDF - 155.62 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [polski Opens in a new window](/pl/documents/overview/libtayo-epar-medicine-overview_pl.pdf) (pl) (PDF - 191.81 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [português Opens in a new window](/pt/documents/overview/libtayo-epar-medicine-overview_pt.pdf) (pt) (PDF - 164.21 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [română Opens in a new window](/ro/documents/overview/libtayo-epar-medicine-overview_ro.pdf) (ro) (PDF - 186.88 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [slovenčina Opens in a new window](/sk/documents/overview/libtayo-epar-medicine-overview_sk.pdf) (sk) (PDF - 190 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [slovenščina Opens in a new window](/sl/documents/overview/libtayo-epar-medicine-overview_sl.pdf) (sl) (PDF - 180.8 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [suomi Opens in a new window](/fi/documents/overview/libtayo-epar-medicine-overview_fi.pdf) (fi) (PDF - 160.61 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+- [svenska Opens in a new window](/sv/documents/overview/libtayo-epar-medicine-overview_sv.pdf) (sv) (PDF - 154.23 KB) **First published:** 05/07/2019 **Last updated:** 20/01/2026
+
+Available translations: (22)
+
+##### Libtayo : EPAR - Risk management plan
+
+[English Opens in a new window](/en/documents/rmp/libtayo-epar-risk-management-plan_en.pdf) (en) (PDF - 1.29 MB)
+
+**First published:** 05/07/2019 **Last updated:** 10/12/2025
 
 ## Product information
 
-Libtayo : EPAR - Product information
-
-English (EN) (1.36 MB - PDF)
-
-**First published:** 05/07/2019
-
-**Last updated:** 10/12/2025
-
-[View](/en/documents/product-information/libtayo-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-850)
-
-български (BG) (1.56 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/bg/documents/product-information/libtayo-epar-product-information_bg.pdf)
-
-español (ES) (1.55 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/es/documents/product-information/libtayo-epar-product-information_es.pdf)
-
-čeština (CS) (1.54 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/cs/documents/product-information/libtayo-epar-product-information_cs.pdf)
-
-dansk (DA) (1.51 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/da/documents/product-information/libtayo-epar-product-information_da.pdf)
-
-Deutsch (DE) (1.67 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/de/documents/product-information/libtayo-epar-product-information_de.pdf)
-
-eesti keel (ET) (1.83 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/et/documents/product-information/libtayo-epar-product-information_et.pdf)
-
-ελληνικά (EL) (1.66 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/el/documents/product-information/libtayo-epar-product-information_el.pdf)
-
-français (FR) (1.33 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/fr/documents/product-information/libtayo-epar-product-information_fr.pdf)
-
-hrvatski (HR) (1.56 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/hr/documents/product-information/libtayo-epar-product-information_hr.pdf)
-
-íslenska (IS) (1.53 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/is/documents/product-information/libtayo-epar-product-information_is.pdf)
-
-italiano (IT) (1.58 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/it/documents/product-information/libtayo-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (1.59 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/lv/documents/product-information/libtayo-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (1.33 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/lt/documents/product-information/libtayo-epar-product-information_lt.pdf)
-
-magyar (HU) (1.64 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/hu/documents/product-information/libtayo-epar-product-information_hu.pdf)
-
-Malti (MT) (1.63 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/mt/documents/product-information/libtayo-epar-product-information_mt.pdf)
-
-Nederlands (NL) (1.3 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/nl/documents/product-information/libtayo-epar-product-information_nl.pdf)
-
-norsk (NO) (1.78 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/no/documents/product-information/libtayo-epar-product-information_no.pdf)
-
-polski (PL) (1.59 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/pl/documents/product-information/libtayo-epar-product-information_pl.pdf)
-
-português (PT) (978.9 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/pt/documents/product-information/libtayo-epar-product-information_pt.pdf)
-
-română (RO) (1.61 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/ro/documents/product-information/libtayo-epar-product-information_ro.pdf)
-
-slovenčina (SK) (1.61 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/sk/documents/product-information/libtayo-epar-product-information_sk.pdf)
-
-slovenščina (SL) (1.54 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/sl/documents/product-information/libtayo-epar-product-information_sl.pdf)
-
-Suomi (FI) (1.19 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/fi/documents/product-information/libtayo-epar-product-information_fi.pdf)
-
-svenska (SV) (1.52 MB - PDF)
-
-**First published:**
-
-05/07/2019
-
-**Last updated:**
-
-10/12/2025
-
-[View](/sv/documents/product-information/libtayo-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** VR/0000264999 17/11/2025
+##### Libtayo : EPAR - Product information
+
+[English Opens in a new window](/en/documents/product-information/libtayo-epar-product-information_en.pdf) (en) (PDF - 1.36 MB)
+
+**First published:** 05/07/2019 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/libtayo-epar-product-information_bg.pdf) (bg) (PDF - 1.56 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [español Opens in a new window](/es/documents/product-information/libtayo-epar-product-information_es.pdf) (es) (PDF - 1.54 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/libtayo-epar-product-information_cs.pdf) (cs) (PDF - 1.53 MB) **First published:** 05/07/2019 **Last updated:** 10/12/2025
+- [dansk Opens in a new window](/da/documents/product-information/libtayo-epar-product-information_da.pdf) (da) (PDF - 1.52 MB) **First published:** 05/07/2019 **Last updated:** 10/12/2025
+- [Deutsch Opens in a new window](/de/documents/product-information/libtayo-epar-product-information_de.pdf) (de) (PDF - 1.67 MB) **First published:** 05/07/2019 **Last updated:** 10/12/2025
+- [eesti Opens in a new window](/et/documents/product-information/libtayo-epar-product-information_et.pdf) (et) (PDF - 1.83 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/libtayo-epar-product-information_el.pdf) (el) (PDF - 1.67 MB) **First published:** 05/07/2019 **Last updated:** 10/12/2025
+- [français Opens in a new window](/fr/documents/product-information/libtayo-epar-product-information_fr.pdf) (fr) (PDF - 1.27 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/libtayo-epar-product-information_hr.pdf) (hr) (PDF - 1.59 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/libtayo-epar-product-information_it.pdf) (it) (PDF - 1.53 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/libtayo-epar-product-information_lv.pdf) (lv) (PDF - 1.59 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/libtayo-epar-product-information_lt.pdf) (lt) (PDF - 1.33 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/libtayo-epar-product-information_hu.pdf) (hu) (PDF - 1.64 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/libtayo-epar-product-information_mt.pdf) (mt) (PDF - 1.61 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/libtayo-epar-product-information_nl.pdf) (nl) (PDF - 1.31 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/libtayo-epar-product-information_pl.pdf) (pl) (PDF - 1.59 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [português Opens in a new window](/pt/documents/product-information/libtayo-epar-product-information_pt.pdf) (pt) (PDF - 1.52 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [română Opens in a new window](/ro/documents/product-information/libtayo-epar-product-information_ro.pdf) (ro) (PDF - 1.62 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/libtayo-epar-product-information_sk.pdf) (sk) (PDF - 1.61 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/libtayo-epar-product-information_sl.pdf) (sl) (PDF - 1.54 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/libtayo-epar-product-information_fi.pdf) (fi) (PDF - 1.19 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/libtayo-epar-product-information_sv.pdf) (sv) (PDF - 1.52 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/libtayo-epar-product-information_is.pdf) (is) (PDF - 1.53 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/libtayo-epar-product-information_no.pdf) (no) (PDF - 1.78 MB) **First published:** 05/07/2019 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000347296
+
+13/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -813,211 +230,53 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Libtayo : EPAR - All Authorised presentations
+##### Libtayo : EPAR - All Authorised presentations
 
-English (EN) (11.84 KB - PDF)
+[English Opens in a new window](/en/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_en.pdf) (en) (PDF - 11.84 KB)
 
 **First published:** 05/07/2019
 
-[View](/en/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-266)
-
-български (BG) (44.08 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/bg/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (11.7 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/es/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (43.1 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/cs/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (11.53 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/da/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (11.62 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/de/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_de.pdf)
-
-eesti keel (ET) (12.11 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/et/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (43.26 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/el/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (11.84 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/fr/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (41.98 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/hr/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (11.92 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/is/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (11.95 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/it/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_it.pdf)
-
-latviešu valoda (LV) (43.86 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/lv/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių kalba (LT) (42.26 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/lt/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (25.58 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/hu/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (42.85 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/mt/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (11.54 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/nl/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (11.76 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/no/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (44.05 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/pl/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (12.04 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/pt/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (42.65 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/ro/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (42.79 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/sk/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (43.97 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/sl/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_sl.pdf)
-
-Suomi (FI) (11.45 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/fi/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (12 KB - PDF)
-
-**First published:**
-
-05/07/2019
-
-[View](/sv/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_sv.pdf)
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 44.08 KB) **First published:** 05/07/2019
+- [español Opens in a new window](/es/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_es.pdf) (es) (PDF - 11.7 KB) **First published:** 05/07/2019
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 43.1 KB) **First published:** 05/07/2019
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_da.pdf) (da) (PDF - 11.53 KB) **First published:** 05/07/2019
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_de.pdf) (de) (PDF - 11.62 KB) **First published:** 05/07/2019
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_et.pdf) (et) (PDF - 12.11 KB) **First published:** 05/07/2019
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_el.pdf) (el) (PDF - 43.26 KB) **First published:** 05/07/2019
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 11.84 KB) **First published:** 05/07/2019
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 41.98 KB) **First published:** 05/07/2019
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_it.pdf) (it) (PDF - 11.95 KB) **First published:** 05/07/2019
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 43.86 KB) **First published:** 05/07/2019
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 42.26 KB) **First published:** 05/07/2019
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 25.58 KB) **First published:** 05/07/2019
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 42.85 KB) **First published:** 05/07/2019
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 11.54 KB) **First published:** 05/07/2019
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 44.05 KB) **First published:** 05/07/2019
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 12.04 KB) **First published:** 05/07/2019
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 42.65 KB) **First published:** 05/07/2019
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 42.79 KB) **First published:** 05/07/2019
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 43.97 KB) **First published:** 05/07/2019
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 11.45 KB) **First published:** 05/07/2019
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 12 KB) **First published:** 05/07/2019
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_is.pdf) (is) (PDF - 11.92 KB) **First published:** 05/07/2019
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/libtayo-epar-all-authorised-presentations_no.pdf) (no) (PDF - 11.76 KB) **First published:** 05/07/2019
+
+Available translations: (24)
 
 ## Product details
 
-Name of medicine Libtayo Active substance cemiplimab International non-proprietary name (INN) or common name cemiplimab Therapeutic area (MeSH) Carcinoma, Squamous Cell Anatomical therapeutic chemical (ATC) code L01XC33
+- **Name of medicine**
+    - Libtayo
+- **Active substance**
+    - cemiplimab
+- **International non-proprietary name (INN) or common name**
+    - cemiplimab
+- **Therapeutic area (MeSH)**
+    - Carcinoma, Squamous Cell
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XC33
 
 ### Pharmacotherapeutic group
 
@@ -1049,13 +308,19 @@ Cervical Cancer
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004844 Marketing authorisation holder
-
-Regeneron Ireland Designated Activity Company (DAC)
-
-One Warrington Place
-
-Opinion adopted 26/04/2019 Marketing authorisation issued 28/06/2019 Revision 22
+- **EMA product number**
+    - EMEA/H/C/004844
+- **Marketing authorisation holder**
+    - Regeneron Ireland Designated Activity Company (DAC) One Warrington Place  
+Dublin 2  
+D02 HH27  
+Ireland
+- **Opinion adopted**
+    - 26/04/2019
+- **Marketing authorisation issued**
+    - 28/06/2019
+- **Revision**
+    - 23
 
 ## Assessment history
 
@@ -1063,232 +328,199 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
-Libtayo : EPAR - Procedural steps taken and scientific information after authorisation
+##### Libtayo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (172.11 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/libtayo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 202.66 KB)
 
-**First published:** 10/12/2025
+**First published:** 10/12/2025 **Last updated:** 24/11/2026
 
-[View](/en/documents/procedural-steps-after/libtayo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+##### Libtayo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-Libtayo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+[English Opens in a new window](/en/documents/procedural-steps-after/libtayo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf) (en) (PDF - 283.42 KB)
 
-English (EN) (283.42 KB - PDF)
+**First published:** 30/10/2019 **Last updated:** 10/12/2025
 
-**First published:** 30/10/2019
-
-**Last updated:** 10/12/2025
-
-[View](/en/documents/procedural-steps-after/libtayo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
-
-Libtayo-VR-0000264999 : Assessment report - Variation
+##### Libtayo-VR-0000264999 : Assessment report - Variation
 
 Adopted
 
-Reference Number: EMADOC-1700519818-2492896
+**Reference number:**EMADOC-1700519818-2492896
 
-English (EN) (6.09 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/libtayo-vr-0000264999-assessment-report-variation_en.pdf) (en) (PDF - 6.09 MB)
 
 **First published:** 10/12/2025
 
-[View](/en/documents/variation-report/libtayo-vr-0000264999-assessment-report-variation_en.pdf)
+##### Libtayo-H-C-PSUSA-00010780-202409 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Libtayo-H-C-PSUSA-00010780-202409 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/206745/2025
 
-Reference Number: EMA/206745/2025
-
-English (EN) (131.46 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-202409-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 131.46 KB)
 
 **First published:** 22/10/2025
 
-[View](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-202409-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### CHMP post-authorisation summary of positive opinion for Libtayo (EMAVR0000264999)
 
-CHMP post-authorisation summary of positive opinion for Libtayo (EMAVR0000264999)
+**Reference number:**EMADOC-1700519818-2492915
 
-Reference Number: EMADOC-1700519818-2492915
-
-English (EN) (172.74 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-libtayo-emavr0000264999_en.pdf) (en) (PDF - 172.74 KB)
 
 **First published:** 17/10/2025
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-libtayo-emavr0000264999_en.pdf)
+##### Libtayo-H-C-PSUSA-00010780-202209: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Libtayo-H-C-PSUSA-00010780-202209: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/327048/2023
 
-Reference Number: EMA/327048/2023
-
-English (EN) (126.87 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-202209-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 126.87 KB)
 
 **First published:** 18/07/2023
 
-[View](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-202209-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
-
-Libtayo-H-C-004844-II-0028 : EPAR - Assessment report - Variation
+##### Libtayo-H-C-004844-II-0028 : EPAR - Assessment report - Variation
 
 Adopted
 
-Reference Number: EMA/CHMP/118736/2023
+**Reference number:**EMA/CHMP/118736/2023
 
-English (EN) (6.72 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/libtayo-h-c-004844-ii-0028-epar-assessment-report-variation_en.pdf) (en) (PDF - 6.72 MB)
 
 **First published:** 17/05/2023
 
-[View](/en/documents/variation-report/libtayo-h-c-004844-ii-0028-epar-assessment-report-variation_en.pdf)
-
-CHMP post-authorisation summary of positive opinion for Libtayo (II-28)
+##### CHMP post-authorisation summary of positive opinion for Libtayo (II-28)
 
 Adopted
 
-Reference Number: EMA/CHMP/608399/2022
+**Reference number:**EMA/CHMP/608399/2022
 
-English (EN) (206.13 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-libtayo-ii-28_en.pdf) (en) (PDF - 206.13 KB)
 
 **First published:** 24/02/2023
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-libtayo-ii-28_en.pdf)
-
-Libtayo-H-C-004844-II-0026 : EPAR - Assessment report - Variation
+##### Libtayo-H-C-004844-II-0026 : EPAR - Assessment report - Variation
 
 Adopted
 
-Reference Number: EMA/862705/2022
+**Reference number:**EMA/862705/2022
 
-English (EN) (6.33 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/libtayo-h-c-004844-ii-0026-epar-assessment-report-variation_en.pdf) (en) (PDF - 6.33 MB)
 
-**First published:** 08/12/2022
+**First published:** 08/12/2022 **Last updated:** 12/04/2023
 
-**Last updated:** 12/04/2023
-
-[View](/en/documents/variation-report/libtayo-h-c-004844-ii-0026-epar-assessment-report-variation_en.pdf)
-
-CHMP post-authorisation summary of positive opinion for Libtayo (II-26)
+##### CHMP post-authorisation summary of positive opinion for Libtayo (II-26)
 
 Adopted
 
-Reference Number: EMA/CHMP/820786/2022
+**Reference number:**EMA/CHMP/820786/2022
 
-English (EN) (170.06 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-libtayo-ii-26_en.pdf) (en) (PDF - 170.06 KB)
 
 **First published:** 14/10/2022
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-libtayo-ii-26_en.pdf)
-
-Libtayo-H-C-004844-R-0029 : EPAR - Assessment report - Renewal
+##### Libtayo-H-C-004844-R-0029 : EPAR - Assessment report - Renewal
 
 Adopted
 
-Reference Number: EMA/665912/2022
+**Reference number:**EMA/665912/2022
 
-English (EN) (5.53 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/libtayo-h-c-004844-r-0029-epar-assessment-report-renewal_en.pdf) (en) (PDF - 5.53 MB)
 
 **First published:** 22/09/2022
 
-[View](/en/documents/variation-report/libtayo-h-c-004844-r-0029-epar-assessment-report-renewal_en.pdf)
+##### Libtayo-H-C-PSUSA-00010780-202103 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Libtayo-H-C-PSUSA-00010780-202103 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/33062/2022
 
-Reference Number: EMA/33062/2022
-
-English (EN) (92.14 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-202103-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 92.14 KB)
 
 **First published:** 28/01/2022
 
-[View](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-202103-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+##### Libtayo-H-C-004844-II-0012 : EPAR - Assessment report - variation
 
-Libtayo-H-C-004844-II-0012 : EPAR - Assessment report - variation
+**Reference number:**EMA/319415/2021
 
-Reference Number: EMA/319415/2021
-
-English (EN) (9.13 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/libtayo-h-c-004844-ii-0012-epar-assessment-report-variation_en.pdf) (en) (PDF - 9.13 MB)
 
 **First published:** 02/07/2021
 
-[View](/en/documents/variation-report/libtayo-h-c-004844-ii-0012-epar-assessment-report-variation_en.pdf)
+##### Libtayo-H-C-004844-II-0011 : EPAR - Assessment report - variation
 
-Libtayo-H-C-004844-II-0011 : EPAR - Assessment report - variation
+**Reference number:**EMA/319413/2021
 
-Reference Number: EMA/319413/2021
-
-English (EN) (6.09 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/libtayo-h-c-004844-ii-0011-epar-assessment-report-variation_en.pdf) (en) (PDF - 6.09 MB)
 
 **First published:** 02/07/2021
 
-[View](/en/documents/variation-report/libtayo-h-c-004844-ii-0011-epar-assessment-report-variation_en.pdf)
+##### Libtayo-H-C-PSUSA-00010780-201909 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Libtayo-H-C-PSUSA-00010780-201909 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+**Reference number:**EMA/371795/2020
 
-Reference Number: EMA/371795/2020
-
-English (EN) (127.4 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-201909-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf) (en) (PDF - 127.4 KB)
 
 **First published:** 21/07/2020
 
-[View](/en/documents/scientific-conclusion/libtayo-h-c-psusa-00010780-201909-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+### Initial marketing authorisation documents
 
-## Initial marketing authorisation documents
-
-CHMP summary of positive opinion for Libtayo (II-11, II-12)
+##### CHMP summary of positive opinion for Libtayo (II-11, II-12)
 
 Adopted
 
-Reference Number: EMA/259161/2021
+**Reference number:**EMA/259161/2021
 
-English (EN) (161.79 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-libtayo-ii-11-ii-12_en.pdf) (en) (PDF - 161.79 KB)
 
 **First published:** 21/05/2021
 
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-libtayo-ii-11-ii-12_en.pdf)
-
-Libtayo : EPAR - Public assessment report
+##### Libtayo : EPAR - Public assessment report
 
 Adopted
 
-Reference Number: EMA/CHMP/368468/2019
+**Reference number:**EMA/CHMP/368468/2019
 
-English (EN) (17.27 MB - PDF)
+[English Opens in a new window](/en/documents/assessment-report/libtayo-epar-public-assessment-report_en.pdf) (en) (PDF - 17.27 MB)
 
 **First published:** 05/07/2019
 
-[View](/en/documents/assessment-report/libtayo-epar-public-assessment-report_en.pdf)
-
-CHMP summary of positive opinion for Libtayo
+##### CHMP summary of positive opinion for Libtayo
 
 Adopted
 
-Reference Number: EMA/CHMP/213223/2019
+**Reference number:**EMA/CHMP/213223/2019
 
-English (EN) (115.36 KB - PDF)
+[English Opens in a new window](/en/documents/smop-initial/chmp-summary-positive-opinion-libtayo_en.pdf) (en) (PDF - 115.36 KB)
 
 **First published:** 26/04/2019
 
-[View](/en/documents/smop-initial/chmp-summary-positive-opinion-libtayo_en.pdf)
+## News on Libtayo
 
-#### News on Libtayo
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025) 17/10/2025
+17/10/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023) 24/02/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022) 14/10/2022
+24/02/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021) 21/05/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019) 26/04/2019
+14/10/2022
 
-#### More information on Libtayo
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021)
+
+21/05/2021
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019)
+
+26/04/2019
+
+## More information on Libtayo
 
 - [EMEA-002007-PIP02-17-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002007-pip02-17-m03)
 - [Libtayo - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/libtayo)
+- [An observational study to assess the effectiveness and safety of cemiplimab in patients with advanced non-small cell lung cancer (NSCLC) in routine clinical practice settings in Europe (CEMI-LUNG) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001128)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 20/01/2026
+24/11/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:42:00
+document_datetime: 2026-11-24 16:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tamiflu.html
 document_name: tamiflu.html
 version: success
-processing_time: 0.1430874
-conversion_datetime: 2025-12-30 11:59:57.287117
+processing_time: 0.4152395
+conversion_datetime: 2026-11-27 15:31:20.859174
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.40.0
+  docling-jobkit: 3.10.0
+  docling: 2.154.0
+  docling-core: 2.108.0
+  docling-ibm-models: 4.0.5
+  docling-parse: 7.28.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.3-arm64-arm-64bit-Mach-O
 ---
 # Tamiflu
 
 [RSS](/en/individual-human-medicine.xml/66564)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-oseltamivir Medicine Human Authorised
+oseltamivir
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+MedicineHumanAuthorised
 
 Page contents
 
@@ -61,7 +61,7 @@ Expand section
 
 Collapse section
 
-## How is Tamiflu used?
+### How is Tamiflu used?
 
 Tamiflu is available as capsules (30 mg, 45 mg, and 75 mg) and as a powder that is made up into a liquid to be drunk (6 mg/ml and 12 mg/ml).
 
@@ -71,11 +71,11 @@ In the prevention of flu, Tamiflu must be started within two days of contact wit
 
 The medicine can only be obtained with a prescription. For more information about using Tamiflu, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Tamiflu work?
+### How does Tamiflu work?
 
 The active substance in Tamiflu, oseltamivir, acts on the flu virus, blocking some of the enzymes on its surface known as neuramidases. When the neuramidases are blocked, the virus cannot spread. Oseltamivir works on the neuramidases of both influenza A (the most common type) and influenza B viruses.
 
-## What benefits of Tamiflu have been shown in studies?
+### What benefits of Tamiflu have been shown in studies?
 
 **Treatment of flu**
 
@@ -87,623 +87,114 @@ Tamiflu reduced the incidence of flu in people who had come into contact with th
 
 In the study carried out during an epidemic, 1% of the people taking Tamiflu developed flu after contact, compared with 5% of those taking placebo. In families with one patient who had flu, 7% of the family members in the household developed flu when receiving Tamiflu, compared with 20% of those receiving no preventative treatment.
 
-## What are the risks associated with Tamiflu?
+### What are the risks associated with Tamiflu?
 
 The most common side effects with Tamiflu (seen in more than 1 patient in 10) in adults and adolescents are headache and nausea (feeling sick). In children the most common side effects (seen in more than 1 patient in 10) are vomiting, cough and nasal congestion (a blocked nose). For the full list of side effects and restrictions with Tamiflu, see the package leaflet.
 
-## Why is Tamiflu authorised in the EU?
+### Why is Tamiflu authorised in the EU?
 
 When used for treatment of flu, Tamiflu reduces the duration of illness in adults and children. It can also reduce the incidence of flu in patients who had come into contact with the disease or during a pandemic. Side effects are generally mild or moderate in severity.
 
 The European Medicines Agency decided that Tamiflu's benefits are greater than its risks and recommended that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tamiflu?
+### What measures are being taken to ensure the safe and effective use of Tamiflu?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tamiflu have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Tamiflu are continuously monitored. Side effects reported with Tamiflu are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tamiflu
+### Other information about Tamiflu
 
 Tamiflu received a marketing authorisation valid throughout the EU on 20 June 2002.
 
-Tamiflu : EPAR - Medicine overview
-
-Reference Number: EMA/506592/2012
-
-English (EN) (83.1 KB - PDF)
-
-**First published:** 01/12/2009
-
-**Last updated:** 07/02/2019
-
-[View](/en/documents/overview/tamiflu-epar-medicine-overview_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-791)
-
-български (BG) (110.61 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/bg/documents/overview/tamiflu-epar-medicine-overview_bg.pdf)
-
-español (ES) (83.03 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/es/documents/overview/tamiflu-epar-medicine-overview_es.pdf)
-
-čeština (CS) (108.08 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/cs/documents/overview/tamiflu-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (81.91 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/da/documents/overview/tamiflu-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (83.84 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/de/documents/overview/tamiflu-epar-medicine-overview_de.pdf)
-
-eesti keel (ET) (82.2 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/et/documents/overview/tamiflu-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (117.34 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/el/documents/overview/tamiflu-epar-medicine-overview_el.pdf)
-
-français (FR) (83.45 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/fr/documents/overview/tamiflu-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (103.9 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/hr/documents/overview/tamiflu-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (82.84 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/it/documents/overview/tamiflu-epar-medicine-overview_it.pdf)
-
-latviešu valoda (LV) (106.17 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/lv/documents/overview/tamiflu-epar-medicine-overview_lv.pdf)
-
-lietuvių kalba (LT) (106.01 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/lt/documents/overview/tamiflu-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (104.88 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/hu/documents/overview/tamiflu-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (109.12 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/mt/documents/overview/tamiflu-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (82.28 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/nl/documents/overview/tamiflu-epar-medicine-overview_nl.pdf)
-
-polski (PL) (107.34 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/pl/documents/overview/tamiflu-epar-medicine-overview_pl.pdf)
-
-português (PT) (83.16 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/pt/documents/overview/tamiflu-epar-medicine-overview_pt.pdf)
-
-română (RO) (105.94 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/ro/documents/overview/tamiflu-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (107.04 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/sk/documents/overview/tamiflu-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (100.99 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/sl/documents/overview/tamiflu-epar-medicine-overview_sl.pdf)
-
-Suomi (FI) (82.35 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/fi/documents/overview/tamiflu-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (82.53 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-07/02/2019
-
-[View](/sv/documents/overview/tamiflu-epar-medicine-overview_sv.pdf)
-
-Tamiflu : EPAR - Risk-management-plan summary
-
-English (EN) (93.12 KB - PDF)
-
-**First published:** 07/02/2019
-
-**Last updated:** 23/04/2020
-
-[View](/en/documents/rmp-summary/tamiflu-epar-risk-management-plan-summary_en.pdf)
+##### Tamiflu : EPAR - Medicine overview
+
+**Reference number:**EMA/506592/2012
+
+[English Opens in a new window](/en/documents/overview/tamiflu-epar-medicine-overview_en.pdf) (en) (PDF - 83.1 KB)
+
+**First published:** 01/12/2009 **Last updated:** 07/02/2019
+
+Available translations: (22)
+
+- [български Opens in a new window](/bg/documents/overview/tamiflu-epar-medicine-overview_bg.pdf) (bg) (PDF - 110.61 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [español Opens in a new window](/es/documents/overview/tamiflu-epar-medicine-overview_es.pdf) (es) (PDF - 83.03 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [čeština Opens in a new window](/cs/documents/overview/tamiflu-epar-medicine-overview_cs.pdf) (cs) (PDF - 108.08 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [dansk Opens in a new window](/da/documents/overview/tamiflu-epar-medicine-overview_da.pdf) (da) (PDF - 81.91 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [Deutsch Opens in a new window](/de/documents/overview/tamiflu-epar-medicine-overview_de.pdf) (de) (PDF - 83.84 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [eesti Opens in a new window](/et/documents/overview/tamiflu-epar-medicine-overview_et.pdf) (et) (PDF - 82.2 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [ελληνικά Opens in a new window](/el/documents/overview/tamiflu-epar-medicine-overview_el.pdf) (el) (PDF - 117.34 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [français Opens in a new window](/fr/documents/overview/tamiflu-epar-medicine-overview_fr.pdf) (fr) (PDF - 83.45 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [hrvatski Opens in a new window](/hr/documents/overview/tamiflu-epar-medicine-overview_hr.pdf) (hr) (PDF - 103.9 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [italiano Opens in a new window](/it/documents/overview/tamiflu-epar-medicine-overview_it.pdf) (it) (PDF - 82.84 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [latviešu Opens in a new window](/lv/documents/overview/tamiflu-epar-medicine-overview_lv.pdf) (lv) (PDF - 106.17 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [lietuvių Opens in a new window](/lt/documents/overview/tamiflu-epar-medicine-overview_lt.pdf) (lt) (PDF - 106.01 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [magyar Opens in a new window](/hu/documents/overview/tamiflu-epar-medicine-overview_hu.pdf) (hu) (PDF - 104.88 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [Malti Opens in a new window](/mt/documents/overview/tamiflu-epar-medicine-overview_mt.pdf) (mt) (PDF - 109.12 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [Nederlands Opens in a new window](/nl/documents/overview/tamiflu-epar-medicine-overview_nl.pdf) (nl) (PDF - 82.28 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [polski Opens in a new window](/pl/documents/overview/tamiflu-epar-medicine-overview_pl.pdf) (pl) (PDF - 107.34 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [português Opens in a new window](/pt/documents/overview/tamiflu-epar-medicine-overview_pt.pdf) (pt) (PDF - 83.16 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [română Opens in a new window](/ro/documents/overview/tamiflu-epar-medicine-overview_ro.pdf) (ro) (PDF - 105.94 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [slovenčina Opens in a new window](/sk/documents/overview/tamiflu-epar-medicine-overview_sk.pdf) (sk) (PDF - 107.04 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [slovenščina Opens in a new window](/sl/documents/overview/tamiflu-epar-medicine-overview_sl.pdf) (sl) (PDF - 100.99 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [suomi Opens in a new window](/fi/documents/overview/tamiflu-epar-medicine-overview_fi.pdf) (fi) (PDF - 82.35 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+- [svenska Opens in a new window](/sv/documents/overview/tamiflu-epar-medicine-overview_sv.pdf) (sv) (PDF - 82.53 KB) **First published:** 01/12/2009 **Last updated:** 07/02/2019
+
+Available translations: (22)
+
+##### Tamiflu : EPAR - Risk-management-plan summary
+
+[English Opens in a new window](/en/documents/rmp-summary/tamiflu-epar-risk-management-plan-summary_en.pdf) (en) (PDF - 93.12 KB)
+
+**First published:** 07/02/2019 **Last updated:** 23/04/2020
 
 ## Product information
 
-Tamiflu : EPAR - Product Information
-
-English (EN) (999.5 KB - PDF)
-
-**First published:** 01/12/2009
-
-**Last updated:** 15/04/2025
-
-[View](/en/documents/product-information/tamiflu-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-360)
-
-български (BG) (1.5 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/bg/documents/product-information/tamiflu-epar-product-information_bg.pdf)
-
-español (ES) (1.08 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/es/documents/product-information/tamiflu-epar-product-information_es.pdf)
-
-čeština (CS) (1.15 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/cs/documents/product-information/tamiflu-epar-product-information_cs.pdf)
-
-dansk (DA) (1.14 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/da/documents/product-information/tamiflu-epar-product-information_da.pdf)
-
-Deutsch (DE) (1.12 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/de/documents/product-information/tamiflu-epar-product-information_de.pdf)
-
-eesti keel (ET) (1.08 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/et/documents/product-information/tamiflu-epar-product-information_et.pdf)
-
-ελληνικά (EL) (1.33 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/el/documents/product-information/tamiflu-epar-product-information_el.pdf)
-
-français (FR) (1.14 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/fr/documents/product-information/tamiflu-epar-product-information_fr.pdf)
-
-hrvatski (HR) (1.22 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/hr/documents/product-information/tamiflu-epar-product-information_hr.pdf)
-
-íslenska (IS) (996.41 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/is/documents/product-information/tamiflu-epar-product-information_is.pdf)
-
-italiano (IT) (1.06 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/it/documents/product-information/tamiflu-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (1.21 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/lv/documents/product-information/tamiflu-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (1.15 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/lt/documents/product-information/tamiflu-epar-product-information_lt.pdf)
-
-magyar (HU) (1.22 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/hu/documents/product-information/tamiflu-epar-product-information_hu.pdf)
-
-Malti (MT) (1.24 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/mt/documents/product-information/tamiflu-epar-product-information_mt.pdf)
-
-Nederlands (NL) (1.12 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/nl/documents/product-information/tamiflu-epar-product-information_nl.pdf)
-
-norsk (NO) (1001.29 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/no/documents/product-information/tamiflu-epar-product-information_no.pdf)
-
-polski (PL) (1.24 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/pl/documents/product-information/tamiflu-epar-product-information_pl.pdf)
-
-português (PT) (1 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/pt/documents/product-information/tamiflu-epar-product-information_pt.pdf)
-
-română (RO) (1.15 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/ro/documents/product-information/tamiflu-epar-product-information_ro.pdf)
-
-slovenčina (SK) (1.1 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/sk/documents/product-information/tamiflu-epar-product-information_sk.pdf)
-
-slovenščina (SL) (1.1 MB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/sl/documents/product-information/tamiflu-epar-product-information_sl.pdf)
-
-Suomi (FI) (976.81 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/fi/documents/product-information/tamiflu-epar-product-information_fi.pdf)
-
-svenska (SV) (954.09 KB - PDF)
-
-**First published:**
-
-01/12/2009
-
-**Last updated:**
-
-15/04/2025
-
-[View](/sv/documents/product-information/tamiflu-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** N/0000247267 15/04/2025
+##### Tamiflu : EPAR - Product Information
+
+[English Opens in a new window](/en/documents/product-information/tamiflu-epar-product-information_en.pdf) (en) (PDF - 1013.1 KB)
+
+**First published:** 01/12/2009 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/product-information/tamiflu-epar-product-information_bg.pdf) (bg) (PDF - 1.37 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [español Opens in a new window](/es/documents/product-information/tamiflu-epar-product-information_es.pdf) (es) (PDF - 1.08 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [čeština Opens in a new window](/cs/documents/product-information/tamiflu-epar-product-information_cs.pdf) (cs) (PDF - 1.15 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [dansk Opens in a new window](/da/documents/product-information/tamiflu-epar-product-information_da.pdf) (da) (PDF - 1.05 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [Deutsch Opens in a new window](/de/documents/product-information/tamiflu-epar-product-information_de.pdf) (de) (PDF - 1.12 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [eesti Opens in a new window](/et/documents/product-information/tamiflu-epar-product-information_et.pdf) (et) (PDF - 1.14 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [ελληνικά Opens in a new window](/el/documents/product-information/tamiflu-epar-product-information_el.pdf) (el) (PDF - 1.33 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [français Opens in a new window](/fr/documents/product-information/tamiflu-epar-product-information_fr.pdf) (fr) (PDF - 1.15 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [hrvatski Opens in a new window](/hr/documents/product-information/tamiflu-epar-product-information_hr.pdf) (hr) (PDF - 2.58 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [italiano Opens in a new window](/it/documents/product-information/tamiflu-epar-product-information_it.pdf) (it) (PDF - 1019.38 KB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [latviešu Opens in a new window](/lv/documents/product-information/tamiflu-epar-product-information_lv.pdf) (lv) (PDF - 1.23 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [lietuvių Opens in a new window](/lt/documents/product-information/tamiflu-epar-product-information_lt.pdf) (lt) (PDF - 1.12 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [magyar Opens in a new window](/hu/documents/product-information/tamiflu-epar-product-information_hu.pdf) (hu) (PDF - 1.19 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [Malti Opens in a new window](/mt/documents/product-information/tamiflu-epar-product-information_mt.pdf) (mt) (PDF - 1.23 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [Nederlands Opens in a new window](/nl/documents/product-information/tamiflu-epar-product-information_nl.pdf) (nl) (PDF - 1.01 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [polski Opens in a new window](/pl/documents/product-information/tamiflu-epar-product-information_pl.pdf) (pl) (PDF - 1.23 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [português Opens in a new window](/pt/documents/product-information/tamiflu-epar-product-information_pt.pdf) (pt) (PDF - 1000.63 KB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [română Opens in a new window](/ro/documents/product-information/tamiflu-epar-product-information_ro.pdf) (ro) (PDF - 1.22 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [slovenčina Opens in a new window](/sk/documents/product-information/tamiflu-epar-product-information_sk.pdf) (sk) (PDF - 1.11 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [slovenščina Opens in a new window](/sl/documents/product-information/tamiflu-epar-product-information_sl.pdf) (sl) (PDF - 1.09 MB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [suomi Opens in a new window](/fi/documents/product-information/tamiflu-epar-product-information_fi.pdf) (fi) (PDF - 978.55 KB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [svenska Opens in a new window](/sv/documents/product-information/tamiflu-epar-product-information_sv.pdf) (sv) (PDF - 955.49 KB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [Íslenska Opens in a new window](/is/documents/product-information/tamiflu-epar-product-information_is.pdf) (is) (PDF - 995.06 KB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+- [norsk Opens in a new window](/no/documents/product-information/tamiflu-epar-product-information_no.pdf) (no) (PDF - 995.22 KB) **First published:** 01/12/2009 **Last updated:** 24/11/2026
+
+Available translations: (24)
+
+**Latest procedure affecting product information:**VR/0000386308
+
+24/11/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages**.  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -713,597 +204,87 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Tamiflu : EPAR - All Authorised presentations
-
-English (EN) (56.81 KB - PDF)
-
-**First published:** 18/12/2007
-
-**Last updated:** 20/11/2019
-
-[View](/en/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-218)
-
-български (BG) (85.42 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/bg/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (11.16 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/es/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (53.23 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/cs/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (47.6 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/da/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (49.33 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/de/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_de.pdf)
-
-eesti keel (ET) (57.75 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/et/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (62.72 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/el/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (45.22 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/fr/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (68.32 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/hr/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (47.53 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/is/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (46.71 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/it/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_it.pdf)
-
-latviešu valoda (LV) (60.71 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/lv/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių kalba (LT) (64.64 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/lt/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (35.92 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/hu/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (63.26 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/mt/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (47.24 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/nl/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (46.25 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/no/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (63.85 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/pl/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (45.54 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/pt/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (53.13 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/ro/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (61.65 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/sk/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (63.88 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/sl/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_sl.pdf)
-
-Suomi (FI) (9.69 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/fi/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (49.24 KB - PDF)
-
-**First published:**
-
-18/12/2007
-
-**Last updated:**
-
-20/11/2019
-
-[View](/sv/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_sv.pdf)
-
-Tamiflu : EPAR - Conditions imposed on member states for safe and effective use
-
-English (EN) (15.79 KB - PDF)
-
-**First published:** 14/06/2012
-
-**Last updated:** 14/06/2012
-
-[View](/en/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
-
-[Other languages (23)](#file-language-dropdown-364)
-
-български (BG) (95.39 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/bg/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_bg.pdf)
-
-español (ES) (13.64 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/es/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_es.pdf)
-
-čeština (CS) (95.93 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/cs/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_cs.pdf)
-
-dansk (DA) (15.78 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/da/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_da.pdf)
-
-Deutsch (DE) (13.77 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/de/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf)
-
-eesti keel (ET) (13.36 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/et/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_et.pdf)
-
-ελληνικά (EL) (90.28 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/el/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_el.pdf)
-
-français (FR) (14.11 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/fr/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_fr.pdf)
-
-íslenska (IS) (13.38 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/is/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
-
-italiano (IT) (14.13 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/it/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf)
-
-latviešu valoda (LV) (48.01 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/lv/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf)
-
-lietuvių kalba (LT) (47 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/lt/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_lt.pdf)
-
-magyar (HU) (57.37 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/hu/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_hu.pdf)
-
-Malti (MT) (49.47 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/mt/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_mt.pdf)
-
-Nederlands (NL) (13.63 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/nl/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf)
-
-norsk (NO) (13.47 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/no/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
-
-polski (PL) (48.56 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/pl/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_pl.pdf)
-
-português (PT) (14.61 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/pt/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_pt.pdf)
-
-română (RO) (46.1 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/ro/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_ro.pdf)
-
-slovenčina (SK) (45.21 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/sk/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_sk.pdf)
-
-slovenščina (SL) (42.62 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/sl/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf)
-
-Suomi (FI) (13.74 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/fi/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_fi.pdf)
-
-svenska (SV) (13.36 KB - PDF)
-
-**First published:**
-
-14/06/2012
-
-**Last updated:**
-
-14/06/2012
-
-[View](/sv/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf)
+##### Tamiflu : EPAR - All Authorised presentations
+
+[English Opens in a new window](/en/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_en.pdf) (en) (PDF - 56.81 KB)
+
+**First published:** 18/12/2007 **Last updated:** 20/11/2019
+
+Available translations: (24)
+
+- [български Opens in a new window](/bg/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_bg.pdf) (bg) (PDF - 85.42 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [español Opens in a new window](/es/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_es.pdf) (es) (PDF - 11.16 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [čeština Opens in a new window](/cs/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_cs.pdf) (cs) (PDF - 53.23 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [dansk Opens in a new window](/da/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_da.pdf) (da) (PDF - 47.6 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [Deutsch Opens in a new window](/de/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_de.pdf) (de) (PDF - 49.33 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [eesti Opens in a new window](/et/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_et.pdf) (et) (PDF - 57.75 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [ελληνικά Opens in a new window](/el/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_el.pdf) (el) (PDF - 62.72 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [français Opens in a new window](/fr/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_fr.pdf) (fr) (PDF - 45.22 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [hrvatski Opens in a new window](/hr/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_hr.pdf) (hr) (PDF - 68.32 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [italiano Opens in a new window](/it/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_it.pdf) (it) (PDF - 46.71 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [latviešu Opens in a new window](/lv/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_lv.pdf) (lv) (PDF - 60.71 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [lietuvių Opens in a new window](/lt/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_lt.pdf) (lt) (PDF - 64.64 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [magyar Opens in a new window](/hu/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_hu.pdf) (hu) (PDF - 35.92 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [Malti Opens in a new window](/mt/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_mt.pdf) (mt) (PDF - 63.26 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [Nederlands Opens in a new window](/nl/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_nl.pdf) (nl) (PDF - 47.24 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [polski Opens in a new window](/pl/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_pl.pdf) (pl) (PDF - 63.85 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [português Opens in a new window](/pt/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_pt.pdf) (pt) (PDF - 45.54 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [română Opens in a new window](/ro/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_ro.pdf) (ro) (PDF - 53.13 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [slovenčina Opens in a new window](/sk/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_sk.pdf) (sk) (PDF - 61.65 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [slovenščina Opens in a new window](/sl/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_sl.pdf) (sl) (PDF - 63.88 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [suomi Opens in a new window](/fi/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_fi.pdf) (fi) (PDF - 9.69 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [svenska Opens in a new window](/sv/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_sv.pdf) (sv) (PDF - 49.24 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [Íslenska Opens in a new window](/is/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_is.pdf) (is) (PDF - 47.53 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+- [norsk Opens in a new window](/no/documents/all-authorised-presentations/tamiflu-epar-all-authorised-presentations_no.pdf) (no) (PDF - 46.25 KB) **First published:** 18/12/2007 **Last updated:** 20/11/2019
+
+Available translations: (24)
+
+##### Tamiflu : EPAR - Conditions imposed on member states for safe and effective use
+
+[English Opens in a new window](/en/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-effective-use_en.pdf) (en) (PDF - 15.79 KB)
+
+**First published:** 14/06/2012 **Last updated:** 14/06/2012
+
+Available translations: (23)
+
+- [български Opens in a new window](/bg/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_bg.pdf) (bg) (PDF - 95.39 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [español Opens in a new window](/es/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_es.pdf) (es) (PDF - 13.64 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [čeština Opens in a new window](/cs/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_cs.pdf) (cs) (PDF - 95.93 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [dansk Opens in a new window](/da/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_da.pdf) (da) (PDF - 15.78 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [Deutsch Opens in a new window](/de/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf) (de) (PDF - 13.77 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [eesti Opens in a new window](/et/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_et.pdf) (et) (PDF - 13.36 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [ελληνικά Opens in a new window](/el/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_el.pdf) (el) (PDF - 90.28 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [français Opens in a new window](/fr/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_fr.pdf) (fr) (PDF - 14.11 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [italiano Opens in a new window](/it/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf) (it) (PDF - 14.13 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [latviešu Opens in a new window](/lv/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf) (lv) (PDF - 48.01 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [lietuvių Opens in a new window](/lt/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_lt.pdf) (lt) (PDF - 47 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [magyar Opens in a new window](/hu/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_hu.pdf) (hu) (PDF - 57.37 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [Malti Opens in a new window](/mt/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_mt.pdf) (mt) (PDF - 49.47 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [Nederlands Opens in a new window](/nl/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf) (nl) (PDF - 13.63 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [polski Opens in a new window](/pl/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_pl.pdf) (pl) (PDF - 48.56 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [português Opens in a new window](/pt/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_pt.pdf) (pt) (PDF - 14.61 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [română Opens in a new window](/ro/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_ro.pdf) (ro) (PDF - 46.1 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [slovenčina Opens in a new window](/sk/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_sk.pdf) (sk) (PDF - 45.21 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [slovenščina Opens in a new window](/sl/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf) (sl) (PDF - 42.62 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [suomi Opens in a new window](/fi/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_fi.pdf) (fi) (PDF - 13.74 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [svenska Opens in a new window](/sv/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf) (sv) (PDF - 13.36 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [Íslenska Opens in a new window](/is/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf) (is) (PDF - 13.38 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+- [norsk Opens in a new window](/no/documents/conditions-member-states/tamiflu-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf) (no) (PDF - 13.47 KB) **First published:** 14/06/2012 **Last updated:** 14/06/2012
+
+Available translations: (23)
 
 ## Product details
 
-Name of medicine Tamiflu Active substance oseltamivir International non-proprietary name (INN) or common name oseltamivir Therapeutic area (MeSH) Influenza, Human Anatomical therapeutic chemical (ATC) code J05AH02
+- **Name of medicine**
+    - Tamiflu
+- **Active substance**
+    - oseltamivir
+- **International non-proprietary name (INN) or common name**
+    - oseltamivir
+- **Therapeutic area (MeSH)**
+    - Influenza, Human
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AH02
 
 ### Pharmacotherapeutic group
 
@@ -1325,13 +306,18 @@ The use of antivirals for the treatment and prevention of influenza should be de
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000402 Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Opinion adopted 21/03/2002 Marketing authorisation issued 20/06/2002 Revision 43
+- **EMA product number**
+    - EMEA/H/C/000402
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  
+79639 Grenzach-Wyhlen  
+Germany
+- **Opinion adopted**
+    - 21/03/2002
+- **Marketing authorisation issued**
+    - 20/06/2002
+- **Revision**
+    - 44
 
 ## Assessment history
 
@@ -1339,284 +325,230 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
-Tamiflu : EPAR - Procedural steps taken and scientific information after authorisation
+##### Tamiflu : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.32 KB - PDF)
+[English Opens in a new window](/en/documents/procedural-steps-after/tamiflu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf) (en) (PDF - 157.75 KB)
 
-**First published:** 15/04/2025
+**First published:** 15/04/2025 **Last updated:** 24/11/2026
 
-[View](/en/documents/procedural-steps-after/tamiflu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+##### Tamiflu : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-Tamiflu : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+[English Opens in a new window](/en/documents/procedural-steps-after/tamiflu-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf) (en) (PDF - 399.05 KB)
 
-English (EN) (399.05 KB - PDF)
+**First published:** 01/12/2009 **Last updated:** 24/03/2023
 
-**First published:** 01/12/2009
-
-**Last updated:** 24/03/2023
-
-[View](/en/documents/procedural-steps-after/tamiflu-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
-
-Tamiflu-H-C-402-II-0142: EPAR - Assessment Report - Variation
+##### Tamiflu-H-C-402-II-0142: EPAR - Assessment Report - Variation
 
 Adopted
 
-Reference Number: EMA/114965/2020
+**Reference number:**EMA/114965/2020
 
-English (EN) (3.84 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-ii-0142-epar-assessment-report-variation_en.pdf) (en) (PDF - 3.84 MB)
 
 **First published:** 23/04/2020
 
-[View](/en/documents/variation-report/tamiflu-h-c-402-ii-0142-epar-assessment-report-variation_en.pdf)
-
-Tamiflu H-C-402-P46-106 : EPAR - Assessment Report
+##### Tamiflu H-C-402-P46-106 : EPAR - Assessment Report
 
 Adopted
 
-Reference Number: EMA/451755/2019
+**Reference number:**EMA/451755/2019
 
-English (EN) (561.66 KB - PDF)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-p46-106-epar-assessment-report_en.pdf) (en) (PDF - 561.66 KB)
 
 **First published:** 12/08/2019
 
-[View](/en/documents/variation-report/tamiflu-h-c-402-p46-106-epar-assessment-report_en.pdf)
-
-Tamiflu-H-C-402-P46-105 : EPAR - Assessment Report
+##### Tamiflu-H-C-402-P46-105 : EPAR - Assessment Report
 
 Adopted
 
-Reference Number: EMA/229024/2018
+**Reference number:**EMA/229024/2018
 
-English (EN) (940.53 KB - PDF)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-p46-105-epar-assessment-report_en.pdf) (en) (PDF - 940.53 KB)
 
-**First published:** 25/05/2018
+**First published:** 25/05/2018 **Last updated:** 25/05/2018
 
-**Last updated:** 25/05/2018
-
-[View](/en/documents/variation-report/tamiflu-h-c-402-p46-105-epar-assessment-report_en.pdf)
-
-Tamiflu-H-C-402-II-0110-G: EPAR - Assessment Report - Variation
+##### Tamiflu-H-C-402-II-0110-G: EPAR - Assessment Report - Variation
 
 Adopted
 
-Reference Number: EMA/CHMP/186699/2015
+**Reference number:**EMA/CHMP/186699/2015
 
-English (EN) (3.44 MB - PDF)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-ii-0110-g-epar-assessment-report-variation_en.pdf) (en) (PDF - 3.44 MB)
 
-**First published:** 31/07/2015
+**First published:** 31/07/2015 **Last updated:** 31/07/2015
 
-**Last updated:** 31/07/2015
-
-[View](/en/documents/variation-report/tamiflu-h-c-402-ii-0110-g-epar-assessment-report-variation_en.pdf)
-
-CHMP post-authorisation summary of positive opinion for Tamiflu
+##### CHMP post-authorisation summary of positive opinion for Tamiflu
 
 Adopted
 
-Reference Number: EMA/186701/2015
+**Reference number:**EMA/186701/2015
 
-English (EN) (72.8 KB - PDF)
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tamiflu_en.pdf) (en) (PDF - 72.8 KB)
 
-**First published:** 27/03/2015
+**First published:** 27/03/2015 **Last updated:** 27/03/2015
 
-**Last updated:** 27/03/2015
-
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tamiflu_en.pdf)
-
-Tamiflu-H-C-402-A20-93 : EPAR - Assessment Report - Article 20
+##### Tamiflu-H-C-402-A20-93 : EPAR - Assessment Report - Article 20
 
 Adopted
 
-Reference Number: EMA/568029/2012
+**Reference number:**EMA/568029/2012
 
-English (EN) (108.63 KB - PDF)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-a20-93-epar-assessment-report-article-20_en.pdf) (en) (PDF - 108.63 KB)
 
-**First published:** 21/11/2012
+**First published:** 21/11/2012 **Last updated:** 21/11/2012
 
-**Last updated:** 21/11/2012
-
-[View](/en/documents/variation-report/tamiflu-h-c-402-a20-93-epar-assessment-report-article-20_en.pdf)
-
-Tamiflu-H-C-402-R-89 : EPAR - Assessment Report - Renewal
+##### Tamiflu-H-C-402-R-89 : EPAR - Assessment Report - Renewal
 
 Adopted
 
-Reference Number: EMA/CHMP/104274/2012
+**Reference number:**EMA/CHMP/104274/2012
 
-English (EN) (533.86 KB - PDF)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-r-89-epar-assessment-report-renewal_en.pdf) (en) (PDF - 533.86 KB)
 
-**First published:** 04/10/2012
+**First published:** 04/10/2012 **Last updated:** 04/10/2012
 
-**Last updated:** 04/10/2012
-
-[View](/en/documents/variation-report/tamiflu-h-c-402-r-89-epar-assessment-report-renewal_en.pdf)
-
-Tamiflu H-C-402-II-70 : EPAR - Assessment Report - Variation
+##### Tamiflu H-C-402-II-70 : EPAR - Assessment Report - Variation
 
 Adopted
 
-English (EN) (83.77 KB - PDF)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-ii-70-epar-assessment-report-variation_en.pdf) (en) (PDF - 83.77 KB)
 
-**First published:** 01/12/2009
+**First published:** 01/12/2009 **Last updated:** 01/12/2009
 
-**Last updated:** 01/12/2009
+##### Tamiflu H-C-402-II-68 : EPAR - Assessment Report - Variation
 
-[View](/en/documents/variation-report/tamiflu-h-c-402-ii-70-epar-assessment-report-variation_en.pdf)
+[English Opens in a new window](/en/documents/variation-report/tamiflu-h-c-402-ii-68-epar-assessment-report-variation_en.pdf) (en) (PDF - 90.85 KB)
 
-Tamiflu H-C-402-II-68 : EPAR - Assessment Report - Variation
+**First published:** 21/09/2009 **Last updated:** 21/09/2009
 
-English (EN) (90.85 KB - PDF)
-
-**First published:** 21/09/2009
-
-**Last updated:** 21/09/2009
-
-[View](/en/documents/variation-report/tamiflu-h-c-402-ii-68-epar-assessment-report-variation_en.pdf)
-
-Tamiflu-H-C-402-X-44 : EPAR - Scientific Discussion - Extension
+##### Tamiflu-H-C-402-X-44 : EPAR - Scientific Discussion - Extension
 
 Adopted
 
-English (EN) (102.81 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-discussion-variation/tamiflu-h-c-402-x-44-epar-scientific-discussion-extension_en.pdf) (en) (PDF - 102.81 KB)
 
-**First published:** 10/11/2008
+**First published:** 10/11/2008 **Last updated:** 10/11/2008
 
-**Last updated:** 10/11/2008
-
-[View](/en/documents/scientific-discussion-variation/tamiflu-h-c-402-x-44-epar-scientific-discussion-extension_en.pdf)
-
-Tamiflu-H-C-402-X-45 : EPAR - Scientific Discussion - Extension
+##### Tamiflu-H-C-402-X-45 : EPAR - Scientific Discussion - Extension
 
 Adopted
 
-English (EN) (102.75 KB - PDF)
+[English Opens in a new window](/en/documents/scientific-discussion-variation/tamiflu-h-c-402-x-45-epar-scientific-discussion-extension_en.pdf) (en) (PDF - 102.75 KB)
 
-**First published:** 10/11/2008
+**First published:** 10/11/2008 **Last updated:** 10/11/2008
 
-**Last updated:** 10/11/2008
+##### CHMP post-authorisation summary of positive opinion for Tamiflu
 
-[View](/en/documents/scientific-discussion-variation/tamiflu-h-c-402-x-45-epar-scientific-discussion-extension_en.pdf)
+**Reference number:**EMEA/CHMP/418336/2005
 
-CHMP post-authorisation summary of positive opinion for Tamiflu
+[English Opens in a new window](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tamiflu_en.pdf-0) (en) (PDF - 38.97 KB)
 
-Reference Number: EMEA/CHMP/418336/2005
+**First published:** 14/12/2005 **Last updated:** 14/12/2005
 
-English (EN) (38.97 KB - PDF)
+### Initial marketing authorisation documents
 
-**First published:** 14/12/2005
+##### Tamiflu : EPAR - Scientific Discussion
 
-**Last updated:** 14/12/2005
+[English Opens in a new window](/en/documents/scientific-discussion/tamiflu-epar-scientific-discussion_en.pdf) (en) (PDF - 297.27 KB)
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tamiflu_en.pdf-0)
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
-## Initial marketing authorisation documents
+##### Tamiflu : EPAR - Procedural steps taken before authorisation
 
-Tamiflu : EPAR - Scientific Discussion
+[English Opens in a new window](/en/documents/procedural-steps/tamiflu-epar-procedural-steps-taken-authorisation_en.pdf) (en) (PDF - 85.81 KB)
 
-English (EN) (297.27 KB - PDF)
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
-**First published:** 21/10/2005
+## News on Tamiflu
 
-**Last updated:** 21/10/2005
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2015)
 
-[View](/en/documents/scientific-discussion/tamiflu-epar-scientific-discussion_en.pdf)
+27/03/2015
 
-Tamiflu : EPAR - Procedural steps taken before authorisation
+[European Medicines Agency finalises review of medicines concerned by Roche pharmacovigilance inspection](/en/news/european-medicines-agency-finalises-review-medicines-concerned-roche-pharmacovigilance-inspection)
 
-English (EN) (85.81 KB - PDF)
+19/11/2013
 
-**First published:** 21/10/2005
+[European Medicines Agency starts infringement procedure to investigate Roche's alleged non-compliance with pharmacovigilance obligations](/en/news/european-medicines-agency-starts-infringement-procedure-investigate-roches-alleged-non-compliance-pharmacovigilance-obligations)
 
-**Last updated:** 21/10/2005
+23/10/2012
 
-[View](/en/documents/procedural-steps/tamiflu-epar-procedural-steps-taken-authorisation_en.pdf)
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 July 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-july-2012)
 
-#### News on Tamiflu
+20/07/2012
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2015) 27/03/2015
+[European Medicines Agency gives first opinion on compassionate use](/en/news/european-medicines-agency-gives-first-opinion-compassionate-use)
 
-[European Medicines Agency finalises review of medicines concerned by Roche pharmacovigilance inspection](/en/news/european-medicines-agency-finalises-review-medicines-concerned-roche-pharmacovigilance-inspection) 19/11/2013
+22/01/2010
 
-[European Medicines Agency starts infringement procedure to investigate Roche's alleged non-compliance with pharmacovigilance obligations](/en/news/european-medicines-agency-starts-infringement-procedure-investigate-roches-alleged-non-compliance-pharmacovigilance-obligations) 23/10/2012
+[European Medicines Agency updates on pandemic influenza](/en/news/european-medicines-agency-updates-pandemic-influenza-0)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 July 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-july-2012) 20/07/2012
+22/01/2010
 
-[European Medicines Agency gives first opinion on compassionate use](/en/news/european-medicines-agency-gives-first-opinion-compassionate-use) 22/01/2010
+[European Medicines Agency recommendations on extension of shelf life for Tamiflu](/en/news/european-medicines-agency-recommendations-extension-shelf-life-tamiflu)
 
-[European Medicines Agency updates on pandemic influenza](/en/news/european-medicines-agency-updates-pandemic-influenza-0) 22/01/2010
+08/05/2009
 
-[European Medicines Agency recommendations on extension of shelf life for Tamiflu](/en/news/european-medicines-agency-recommendations-extension-shelf-life-tamiflu) 08/05/2009
+[European Medicines Agency gives guidance for use of antiviral medicines in case of a novel influenza A/H1N1 pandemic](/en/news/european-medicines-agency-gives-guidance-use-antiviral-medicines-case-novel-influenza-h1n1-pandemic)
 
-[European Medicines Agency gives guidance for use of antiviral medicines in case of a novel influenza A/H1N1 pandemic](/en/news/european-medicines-agency-gives-guidance-use-antiviral-medicines-case-novel-influenza-h1n1-pandemic) 08/05/2009
+08/05/2009
 
-[European Medicines Agency statement on safety of Tamiflu](/en/news/european-medicines-agency-statement-safety-tamiflu) 23/03/2007
+[European Medicines Agency statement on safety of Tamiflu](/en/news/european-medicines-agency-statement-safety-tamiflu)
 
-[European Medicines Agency update on the safety of Tamiflu](/en/news/european-medicines-agency-update-safety-tamiflu) 17/11/2005
+23/03/2007
 
-#### More information on Tamiflu
+[European Medicines Agency update on the safety of Tamiflu](/en/news/european-medicines-agency-update-safety-tamiflu)
 
-Questions and answers on the review of centrally authorised medicines with ingredients manufactured at Roche Carolina Inc., Florence, United States
+17/11/2005
 
-Reference Number: EMA/476366/2012
+## More information on Tamiflu
 
-English (EN) (81.91 KB - PDF)
+##### Questions and answers on the review of centrally authorised medicines with ingredients manufactured at Roche Carolina Inc., Florence, United States
 
-**First published:** 20/07/2012
+**Reference number:**EMA/476366/2012
 
-**Last updated:** 20/07/2012
+[English Opens in a new window](/en/documents/medicine-qa/questions-and-answers-review-centrally-authorised-medicines-ingredients-manufactured-roche-carolina-inc-florence-united-states_en.pdf) (en) (PDF - 81.91 KB)
 
-[View](/en/documents/medicine-qa/questions-and-answers-review-centrally-authorised-medicines-ingredients-manufactured-roche-carolina-inc-florence-united-states_en.pdf)
+**First published:** 20/07/2012 **Last updated:** 20/07/2012
 
-Follow-up recommendations from CHMP on novel influenza (H1N1) outbreak: Tamiflu (oseltamivir); Relenza (zanamivir)
+##### Follow-up recommendations from CHMP on novel influenza (H1N1) outbreak: Tamiflu (oseltamivir); Relenza (zanamivir)
 
-Reference Number: EMEA/CHMP/326095/2009
+**Reference number:**EMEA/CHMP/326095/2009
 
-English (EN) (50.94 KB - PDF)
+[English Opens in a new window](/en/documents/other/follow-recommendations-chmp-novel-influenza-h1n1-outbreak-tamiflu-oseltamivir-relenza-zanamivir_en.pdf) (en) (PDF - 50.94 KB)
 
-**First published:** 29/05/2009
+**First published:** 29/05/2009 **Last updated:** 29/05/2009
 
-**Last updated:** 29/05/2009
+##### Opinion of the CHMP pursuant to Article-5(3) of Regulation (EC) no 726/2004, on novel influenza (H1N1) outbreak, Tamiflu (oseltamivir), Relenza (zanamivir)
 
-[View](/en/documents/other/follow-recommendations-chmp-novel-influenza-h1n1-outbreak-tamiflu-oseltamivir-relenza-zanamivir_en.pdf)
+**Reference number:**EMEA/CHMP/278838/2009
 
-Opinion of the CHMP pursuant to Article-5(3) of Regulation (EC) no 726/2004, on novel influenza (H1N1) outbreak, Tamiflu (oseltamivir), Relenza (zanamivir)
+[English Opens in a new window](/en/documents/opinion-any-scientific-matter/opinion-chmp-pursuant-article-53-regulation-ec-no-726-2004-novel-influenza-h1n1-outbreak-tamiflu-oseltamivir-relenza-zanamivir_en.pdf) (en) (PDF - 33.25 KB)
 
-Reference Number: EMEA/CHMP/278838/2009
+**First published:** 08/05/2009 **Last updated:** 08/05/2009
 
-English (EN) (33.25 KB - PDF)
+##### CHMP assessment report on novel influenza (H1N1) outbreak, Tamiflu (oseltamivir), Relenza (zanamivir)
 
-**First published:** 08/05/2009
+**Reference number:**EMEA/CHMP/287662/2009
 
-**Last updated:** 08/05/2009
+[English Opens in a new window](/en/documents/opinion-any-scientific-matter/chmp-assessment-report-novel-influenza-h1n1-outbreak-tamiflu-oseltamivir-relenza-zanamivir_en.pdf) (en) (PDF - 271.65 KB)
 
-[View](/en/documents/opinion-any-scientific-matter/opinion-chmp-pursuant-article-53-regulation-ec-no-726-2004-novel-influenza-h1n1-outbreak-tamiflu-oseltamivir-relenza-zanamivir_en.pdf)
-
-CHMP assessment report on novel influenza (H1N1) outbreak, Tamiflu (oseltamivir), Relenza (zanamivir)
-
-Reference Number: EMEA/CHMP/287662/2009
-
-English (EN) (271.65 KB - PDF)
-
-**First published:** 07/05/2009
-
-**Last updated:** 07/05/2009
-
-[View](/en/documents/opinion-any-scientific-matter/chmp-assessment-report-novel-influenza-h1n1-outbreak-tamiflu-oseltamivir-relenza-zanamivir_en.pdf)
+**First published:** 07/05/2009 **Last updated:** 07/05/2009
 
 - [Article 5(3) opinion: Novel influenza (H1N1) outbreak: Tamiflu (oseltamivir) and Relenza (zanamivir)](/en/human-regulatory-overview/post-authorisation/referral-procedures-human-medicines/article-53-opinions-any-scientific-matter-human-medicines)
 
-#### More information on Tamiflu
+## More information on Tamiflu
 
 - [EMEA-000365-PIP01-08-M12 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000365-pip01-08-m12)
 
-#### Topics
+## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
-**This page was last updated on** 15/04/2025
+**This page was last updated on**
+
+24/11/2026
 
 ## Share this page
-
-[Back to top](#main-content)
